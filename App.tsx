@@ -1,20 +1,26 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { ActivityIndicator, View } from 'react-native';
+import { useFonts } from 'expo-font';
+import { Anton_400Regular } from '@expo-google-fonts/anton';
+import { ArchivoBlack_400Regular } from '@expo-google-fonts/archivo-black';
+import { JetBrainsMono_400Regular } from '@expo-google-fonts/jetbrains-mono';
+import AppNavigator from './src/navigation';
+import { colors } from './src/theme/tokens';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+  const [fontsLoaded] = useFonts({
+    Anton_400Regular,
+    ArchivoBlack_400Regular,
+    JetBrainsMono_400Regular,
+  });
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  if (!fontsLoaded) {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.paper }}>
+        <ActivityIndicator color={colors.red} />
+      </View>
+    );
+  }
+
+  return <AppNavigator />;
+}
