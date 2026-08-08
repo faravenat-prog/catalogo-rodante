@@ -1,13 +1,13 @@
 import { File, Paths } from 'expo-file-system';
-import { SEED_CARS } from '../data/seedCars';
-import { SEED_CATALOGS } from '../data/seedCatalogs';
+import { ALL_CARS } from '../data/allCars';
+import { ALL_CATALOGS } from '../data/allCatalogs';
 import { saveCar, saveCatalog } from './index';
 
-const flagFile = new File(Paths.document, '.seeded_v1');
+const flagFile = new File(Paths.document, '.seeded_v2');
 
 export function seedIfNeeded(): void {
   if (flagFile.exists) return;
-  for (const car of SEED_CARS) saveCar(car);
-  for (const catalog of SEED_CATALOGS) saveCatalog(catalog);
+  for (const car of ALL_CARS) saveCar(car);
+  for (const catalog of ALL_CATALOGS) saveCatalog(catalog);
   flagFile.create();
 }
