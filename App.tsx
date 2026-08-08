@@ -6,6 +6,7 @@ import { ArchivoBlack_400Regular } from '@expo-google-fonts/archivo-black';
 import { JetBrainsMono_400Regular } from '@expo-google-fonts/jetbrains-mono';
 import AppNavigator from './src/navigation';
 import { colors } from './src/theme/tokens';
+import { seedIfNeeded } from './src/storage/seed';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -13,6 +14,8 @@ export default function App() {
     ArchivoBlack_400Regular,
     JetBrainsMono_400Regular,
   });
+
+  if (fontsLoaded) seedIfNeeded();
 
   if (!fontsLoaded) {
     return (
