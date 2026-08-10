@@ -56,6 +56,14 @@ export const ALL_CATALOGS: Catalog[] = [
     auto_ids: ids(SWEDEN),
   },
 
+  // ── Por marca ─────────────────────────────────────────────────────────────
+  {
+    id: 'marca_toyota',
+    nombre: 'Toyota — Catálogo Completo',
+    pais_principal: 'Japón',
+    auto_ids: ids(JAPAN.filter(c => c.id.startsWith('toyota_'))),
+  },
+
   // ── Temáticos ─────────────────────────────────────────────────────────────
   {
     id: 'tematico_hot_hatches',
