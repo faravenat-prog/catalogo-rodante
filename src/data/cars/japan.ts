@@ -318,6 +318,325 @@ export const JAPAN = [
     'La Previa/Estima es la minivan más inusual jamás producida: motor 2TZ-FE de 2.4 litros montado horizontalmente bajo el piso, entre los ejes, en configuración mid-engine, con tracción trasera. Este diseño único permitió una carrocería oval aerodinámica (Cd 0.29) con piso completamente plano. Con opción de supercharger y 4WD, fue la referencia técnica de las minivans de los 90s.',
     { potencia: '138 CV', peso: '1.840 kg', traccion: 'FR', velocidad_max: '175 km/h' }),
 
+  // ── TOYOTA (Celica generaciones completas) ────────────────────────────────
+
+  car('toyota_celica_supra_a40_mki', 'Toyota Celica Supra A40 (MkI)', ['Japón'], 1978, 1981,
+    ['Coupé', '2.6', 'I6', 'Tracción trasera'],
+    'El Celica Supra A40 fue el primer Toyota con la denominación "Supra", nacido como variante del Celica A20 con motor de 6 cilindros 4M de 2.6 litros. Más grande, más lujoso y más potente que el Celica base, fue el primer Toyota en alcanzar los 195 km/h en pruebas de fábrica. Sentó las bases del gran turismo japonés que el A60 y el A70 llevarían a su máxima expresión.',
+    { potencia: '130 CV', peso: '1.290 kg', traccion: 'FR', velocidad_max: '195 km/h' }),
+
+  car('toyota_celica_a20', 'Toyota Celica RA28 (2a gen)', ['Japón'], 1977, 1981,
+    ['Coupé', '2.0', 'Liftback', 'Tracción trasera'],
+    'La segunda generación del Celica adoptó líneas más americanas con frontal de doble farol rectangular. El motor 18R-GE de 2.0 litros con doble árbol de levas entregaba 128 CV. La versión liftback de tres puertas fue la más vendida y la primera en exportarse masivamente a Estados Unidos. Esta generación fue la base del primer Celica Supra con motor de 6 cilindros.',
+    { potencia: '128 CV', peso: '1.000 kg', traccion: 'FR', velocidad_max: '185 km/h' }),
+
+  car('toyota_celica_a40', 'Toyota Celica TA40 (3a gen)', ['Japón'], 1981, 1985,
+    ['Coupé', '2.0', 'Liftback', 'Tracción trasera'],
+    'La tercera generación del Celica fue la más estadounidense en diseño, con líneas cuadradas influenciadas por el Mustang de la época. El motor 2T-GE twin-cam de 128 CV en la versión GT y el GT-S con inyección electrónica. Fue la última generación del Celica con tracción trasera y la que estableció definitivamente su identidad como el coupé deportivo personal de Toyota.',
+    { potencia: '128 CV', peso: '1.040 kg', traccion: 'FR', velocidad_max: '185 km/h' }),
+
+  car('toyota_celica_st205', 'Toyota Celica GT-Four ST205 (WRC)', ['Japón'], 1994, 1999,
+    ['Coupé', '2.0', 'Turbo', '4x4', 'Rally'],
+    'El Celica GT-Four ST205 fue el arma de Toyota en el WRC de mediados de los 90s. Con motor 3S-GTE de 2.0 litros biturbo secuencial y 255 CV, ganó el campeonato de constructores en 1994. Didier Auriol fue campeón de pilotos ese año al volante de este auto. La versión de calle con 250 CV y sistema Super-AYC era la respuesta directa al Mitsubishi Lancer Evo y al Subaru Impreza WRX.',
+    { potencia: '255 CV', peso: '1.410 kg', traccion: '4WD', velocidad_max: '235 km/h' }),
+
+  // ── TOYOTA (Corolla generaciones completas) ────────────────────────────────
+
+  car('toyota_corolla_levin_ae86', 'Toyota Corolla Levin AE86', ['Japón'], 1983, 1987,
+    ['Coupé', '1.6', 'DOHC', 'Tracción trasera'],
+    'El Corolla Levin AE86 es el hermano gemelo del Trueno: mismo chasis FR, mismo motor 4A-GE de 128 CV, pero con faros fijos tipo "shark nose" en lugar de los pop-up del Trueno. La diferencia es puramente estética aunque los puristas debaten cuál se ve mejor. Comparte la misma leyenda del AE86 y aparece junto al Trueno en Initial D como auto secundario de los rivales.',
+    { potencia: '128 CV', peso: '940 kg', traccion: 'FR', velocidad_max: '185 km/h' }),
+
+  car('toyota_corolla_e30', 'Toyota Corolla E30 (2a gen)', ['Japón'], 1970, 1974,
+    ['Sedán', '1.2', 'Tracción trasera'],
+    'La segunda generación del Corolla llegó con motor 3K de 1.2 litros más potente y carrocería renovada con más espacio interior. Fue el primer Corolla en ofrecer versión wagon (Corolla Van) y la primera generación exportada masivamente a Europa. Su fiabilidad y bajo costo de mantención lo convirtieron en el favorito de conductores novatos en todo el mundo.',
+    { potencia: '68 CV', peso: '750 kg', traccion: 'FR', velocidad_max: '145 km/h' }),
+
+  car('toyota_corolla_e50', 'Toyota Corolla E50 (3a gen)', ['Japón'], 1974, 1979,
+    ['Sedán', '1.2', '1.6', 'Tracción trasera'],
+    'La tercera generación del Corolla fue la que consolidó al modelo como el más vendido del mundo por primera vez. El motor 2K de 1.2 litros o el 2T-C de 1.6 litros daban opciones para todos los mercados. En Latinoamérica esta generación fue importada desde Brasil y vendida en versión sedán y coupé, sentando la base de la cultura del Corolla en la región.',
+    { potencia: '87 CV', peso: '820 kg', traccion: 'FR', velocidad_max: '155 km/h' }),
+
+  car('toyota_corolla_e80', 'Toyota Corolla E80 (5a gen)', ['Japón'], 1983, 1987,
+    ['Sedán', '1.3', '1.6', 'Tracción delantera'],
+    'El Corolla E80 marcó la transición masiva a la tracción delantera. El motor 3A-U de 1.3 litros era la versión base, mientras que el 4A-GE de 1.6 litros DOHC con 128 CV en la versión AE82 GT-S era el más deportivo de su clase. Es el antepasado directo del AE86 Trueno, compartiendo el mismo motor 4A-GE aunque en un chasis de tracción delantera.',
+    { potencia: '128 CV', peso: '900 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('toyota_corolla_e130', 'Toyota Corolla E130 / Altis', ['Japón'], 2006, 2013,
+    ['Sedán', '1.6', '1.8', 'Tracción delantera'],
+    'El Corolla E130 —llamado Altis en Asia— fue el más vendido en su periodo con motor 1ZR-FE de 1.6 litros VVT-i. Fue el primer Corolla con ESP de serie en todas las versiones y el primero producido simultáneamente en más de 10 países. En Chile dominó el mercado de sedanes medianos durante años, especialmente en flotas corporativas por su bajo costo por kilómetro.',
+    { potencia: '124 CV', peso: '1.195 kg', traccion: 'FF', velocidad_max: '190 km/h' }),
+
+  car('toyota_corolla_cross', 'Toyota Corolla Cross (XG10)', ['Japón'], 2020, 9999,
+    ['SUV', '1.8', 'Híbrido', 'TNGA'],
+    'El Corolla Cross es el SUV compacto híbrido más vendido de Toyota en Latinoamérica. Combina la plataforma TNGA del Corolla E210 con carrocería SUV elevada. El motor híbrido 1.8 litros con 122 CV sistema total y consumo de 5.3L/100km lo posiciona como alternativa eficiente al RAV4. En Chile fue récord de ventas en su segmento desde el primer mes de lanzamiento.',
+    { potencia: '122 CV', peso: '1.430 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('toyota_gr_corolla', 'Toyota GR Corolla (GZEA10)', ['Japón'], 2022, 9999,
+    ['Hatchback', '1.6', 'Turbo', '4x4'],
+    'El GR Corolla usa el mismo motor G16E-GTS de 1.6 litros turbo del GR Yaris, pero llevado a 304 CV. El sistema GR-FOUR con distribución 60:40 ajustable y diferencial de torsen trasero lo convierten en el hot hatch más potente de Toyota. La versión MORIZO Edition, sin asientos traseros y con Brembo de fábrica, pesa 20 kg menos y es la más buscada por coleccionistas.',
+    { potencia: '304 CV', peso: '1.470 kg', traccion: '4WD', velocidad_max: '240 km/h' }),
+
+  // ── TOYOTA (Camry generaciones) ────────────────────────────────────────────
+
+  car('toyota_camry_xv20', 'Toyota Camry XV20', ['Japón'], 1996, 2001,
+    ['Sedán', '2.2', 'Tracción delantera'],
+    'El Camry XV20 fue el primero con líneas redondeadas y fluidas que alejaron al modelo del look cuadrado de los 80s. El motor 5S-FE de 2.2 litros y 133 CV o el V6 1MZ-FE de 3.0 litros y 192 CV daban opciones para todos los bolsillos. En Estados Unidos fue elegido sedán del año tres años consecutivos, consolidando la reputación de confort y fiabilidad que el Camry mantiene hasta hoy.',
+    { potencia: '133 CV', peso: '1.360 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('toyota_camry_xv50', 'Toyota Camry XV50', ['Japón'], 2011, 2017,
+    ['Sedán', '2.5', 'Tracción delantera'],
+    'El Camry XV50 fue el más dinámico en diseño hasta esa fecha, con líneas más angulosas y deportivas. El motor 2AR-FE de 2.5 litros y 178 CV con CVT daba buena respuesta. La versión híbrida XLE con motor 2.5 híbrido y 200 CV sistema total era la opción más eficiente del segmento. Fue el primer Camry con control de crucero adaptativo de serie en todos los mercados.',
+    { potencia: '178 CV', peso: '1.460 kg', traccion: 'FF', velocidad_max: '190 km/h' }),
+
+  // ── TOYOTA (Crown historia completa) ──────────────────────────────────────
+
+  car('toyota_crown_s10', 'Toyota Crown S10 (1a gen)', ['Japón'], 1955, 1962,
+    ['Sedán', '1.5', 'Tracción trasera'],
+    'El Crown S10 fue el primer automóvil diseñado desde cero por Toyota y el primero concebido para exportación. Con motor R de 1.5 litros, era el sedán ejecutivo japonés por excelencia mientras el país reconstruía su industria. Toyota lo envió a Estados Unidos en 1957, siendo uno de los primeros autos japoneses en llegar. Los problemas de calidad en ese primer intento exportador fueron lecciones que forjaron la obsesión de Toyota por la fiabilidad.',
+    { potencia: '48 CV', peso: '1.140 kg', traccion: 'FR', velocidad_max: '130 km/h' }),
+
+  car('toyota_crown_s130', 'Toyota Crown S130 (8a gen)', ['Japón'], 1987, 1991,
+    ['Sedán', '2.0', '2.5', 'Tracción trasera'],
+    'El Crown S130 introdujo el motor 1G-GZE sobrealimentado de 2.0 litros y 170 CV, siendo el primer Toyota de producción con compresor volumétrico. También fue el primer Crown con ABS de serie y suspensión activa electrónica opcional. En Japón fue ampliamente usado como taxi de lujo. La versión Twin Cam 24V con motor 1JZ fue considerada excesivamente potente para un taxi.',
+    { potencia: '170 CV', peso: '1.530 kg', traccion: 'FR', velocidad_max: '185 km/h' }),
+
+  car('toyota_crown_s170', 'Toyota Crown S170 (10a gen)', ['Japón'], 1999, 2003,
+    ['Sedán', '2.5', '3.0', 'Tracción trasera'],
+    'El Crown S170 es uno de los más queridos de la historia del modelo, con diseño que equilibraba elegancia clásica y modernidad. La versión 3.0 con motor 2JZ-GE de 220 CV era suave y silenciosa. El sistema de suspensión hidráulica activa EMVHS mantenía el auto perfectamente nivelado en cualquier condición de carga. Es el Crown más popular entre los aficionados al estilo VIP japonés.',
+    { potencia: '220 CV', peso: '1.620 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
+
+  car('toyota_crown_crossover', 'Toyota Crown Crossover (S235)', ['Japón'], 2022, 9999,
+    ['Crossover', '2.5', 'Híbrido', 'TNGA'],
+    'El Crown de 16a generación rompió con 67 años de tradición al adoptar carrocería fastback tipo crossover sobre plataforma TNGA. El motor híbrido 2.5 litros con E-Four entrega 236 CV sistema total. El diseño de luces boomerang y la plataforma elevada lo diferencian radicalmente de sus predecesores. Marcó el fin del Crown sedán tradicional e inició una nueva era para el modelo más longevo de Toyota.',
+    { potencia: '236 CV', peso: '1.850 kg', traccion: '4WD', velocidad_max: '180 km/h' }),
+
+  // ── TOYOTA (JDM sedanes adicionales) ──────────────────────────────────────
+
+  car('toyota_mark2_jzx81', 'Toyota Mark II JZX81', ['Japón'], 1988, 1992,
+    ['Sedán', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Mark II JZX81 fue la generación que introdujo el legendario motor 1JZ-GTE biturbo de 2.5 litros y 280 CV. Con chasis más rígido y líneas cuadradas características de los 80s tardíos, fue el primer Mark II que los entusiastas del drift tomaron en serio. Su transmisión manual W58 es muy buscada para conversiones de competición y el motor 1JZ define toda una era del JDM.',
+    { potencia: '280 CV', peso: '1.460 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('toyota_mark2_jzx90', 'Toyota Mark II JZX90', ['Japón'], 1992, 1996,
+    ['Sedán', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Mark II JZX90 refinó la fórmula con líneas más redondeadas pero mantuvo el 1JZ-GTE de 280 CV. Fue el primer Mark II con ABS y airbags de serie. En la escena drift japonesa comparte base con el JZX100 pero tiene un carácter más crudo y directo. El modelo Tourer S con frenos Brembo y diferencial Torsen es el más buscado por coleccionistas de la familia JZX.',
+    { potencia: '280 CV', peso: '1.480 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('toyota_chaser_jzx90', 'Toyota Chaser JZX90', ['Japón'], 1992, 1996,
+    ['Sedán', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Chaser JZX90 es el hermano del Mark II JZX90 con carrocería más deportiva y spoiler de fábrica. Con el mismo motor 1JZ-GTE de 280 CV, su diseño más agresivo lo convirtió en favorito de la escena street racing japonesa de los 90s. La versión Avante Slash con suspensión rebajada y llantas de fábrica era la opción más deportiva disponible sin modificar.',
+    { potencia: '280 CV', peso: '1.490 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('toyota_cresta_jzx100', 'Toyota Cresta JZX100', ['Japón'], 1996, 2001,
+    ['Sedán', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Cresta JZX100 completa la trinidad JZX100 junto al Mark II y el Chaser. Era el más lujoso y conservador de los tres, con diseño formal orientado al cliente ejecutivo. Con el mismo 1JZ-GTE de 280 CV pero interior más orientado al confort, fue el menos popular en drift pero el más valorado como coleccionismo. Es el más escaso hoy en buen estado.',
+    { potencia: '280 CV', peso: '1.520 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('toyota_mark_x_grx120', 'Toyota Mark X GRX120', ['Japón'], 2004, 2009,
+    ['Sedán', '2.5', '3.0', 'V6', 'Tracción trasera'],
+    'El Mark X reemplazó al Mark II con motores V6: el 4GR-FSE de 2.5 litros y 215 CV, y el 3GR-FSE de 3.0 litros y 256 CV con inyección directa. Fue el último sedán de tracción trasera de Toyota para el mercado doméstico japonés. Su chasis fue la base del Lexus GS350, confirmando su posicionamiento premium y el cierre de una era de los sedanes JDM traseros.',
+    { potencia: '215 CV', peso: '1.550 kg', traccion: 'FR', velocidad_max: '210 km/h' }),
+
+  car('toyota_soarer_z20', 'Toyota Soarer Z20 (2a gen)', ['Japón'], 1986, 1991,
+    ['Coupé', '2.0', '3.0', 'Turbo', 'Tracción trasera'],
+    'El Soarer Z20 fue el primer Toyota con motor turbo en la gama ejecutiva. La versión 3.0GT con 7M-GTE de 230 CV era el auto más rápido de Japón a finales de los 80s. Su tablero digital completo con pantalla LCD fue una sensación en el Salón de Tokio de 1986. El diseño afilado y futurista con spoiler trasero integrado influenció toda la industria japonesa de los 80s.',
+    { potencia: '230 CV', peso: '1.590 kg', traccion: 'FR', velocidad_max: '240 km/h' }),
+
+  car('toyota_carina_at190', 'Toyota Carina E (AT190)', ['Japón'], 1992, 1997,
+    ['Sedán', '1.6', '2.0', 'Tracción delantera'],
+    'La Carina E fue el sedán familiar de Toyota para Europa, construida en Derby (Reino Unido) desde 1992. Con motor 4A-FE de 1.6 litros o el 3S-FE de 2.0 litros, ofrecía espacio familiar y manejo confiable. Fue uno de los primeros Toyota fabricados en Europa y ganó el premio "Más fiable del año" de What Car? durante tres años consecutivos.',
+    { potencia: '114 CV', peso: '1.140 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('toyota_corona_rt80', 'Toyota Corona RT80 (4a gen)', ['Japón'], 1969, 1973,
+    ['Sedán', '1.9', 'Tracción trasera'],
+    'La Corona RT80 fue el Toyota más exportado de los años 60s y 70s, compitiendo con el VW Beetle en el mercado americano. Con motor 8R de 1.9 litros y mecánica sencilla, era extraordinariamente fiable para la época. En varios países latinoamericanos fue el primer auto japonés que muchas familias compraron, inaugurando la confianza en la marca Toyota en la región.',
+    { potencia: '110 CV', peso: '1.020 kg', traccion: 'FR', velocidad_max: '165 km/h' }),
+
+  car('toyota_avalon_mcx10', 'Toyota Avalon MCX10 (1a gen)', ['Japón'], 1994, 1999,
+    ['Sedán', '3.0', 'V6', 'Tracción delantera'],
+    'El Avalon fue la respuesta de Toyota al sedán americano grande: tracción delantera con motor V6 1MZ-FE de 3.0 litros y 200 CV, interior amplísimo y equipamiento de lujo. Diseñado para competir con el Buick LeSabre y el Ford Taurus, fue el Toyota más grande disponible hasta la llegada del Sequoia. Su suavidad de marcha en carretera era el principal argumento de venta.',
+    { potencia: '200 CV', peso: '1.540 kg', traccion: 'FF', velocidad_max: '195 km/h' }),
+
+  // ── TOYOTA (Starlet generaciones) ─────────────────────────────────────────
+
+  car('toyota_starlet_kp61', 'Toyota Starlet KP61', ['Japón'], 1978, 1984,
+    ['Hatchback', '1.3', 'Tracción trasera'],
+    'El Starlet KP61 es el pequeño deportivo olvidado de Toyota: hatchback de 3 puertas con tracción trasera, motor 3K-H de 1.3 litros y apenas 730 kg. En versión SE-L con carburador doble era sorprendentemente ágil. La comunidad del tuning japonés lo convirtió en plataforma de gymkhana, montándole el motor 4A-GE del AE86. Una pequeña leyenda underground de la escena JDM.',
+    { potencia: '68 CV', peso: '730 kg', traccion: 'FR', velocidad_max: '155 km/h' }),
+
+  car('toyota_starlet_ep71', 'Toyota Starlet EP71 Turbo S', ['Japón'], 1984, 1989,
+    ['Hatchback', '1.3', 'Turbo', 'Tracción delantera'],
+    'El Starlet EP71 Turbo S fue la transición del KP61: adoptó tracción delantera pero mantuvo el espíritu de bomba compacta con motor 2E-TELU turbo de 1.3 litros y 110 CV en apenas 760 kg. Precursor directo del EP82 GT Turbo de 1989, su caja de 5 velocidades corta y la suspensión MacPherson le daban un manejo muy preciso para su precio.',
+    { potencia: '110 CV', peso: '760 kg', traccion: 'FF', velocidad_max: '190 km/h' }),
+
+  // ── TOYOTA (Prius e híbridos adicionales) ─────────────────────────────────
+
+  car('toyota_prius_zvw50', 'Toyota Prius ZVW50 (4a gen)', ['Japón'], 2015, 2022,
+    ['Hatchback', '1.8', 'Híbrido', 'TNGA'],
+    'El Prius de cuarta generación sobre plataforma TNGA fue el más eficiente de su era con 3.4L/100km. El diseño angular y provocador fue controvertido pero aseguró reconocimiento inmediato. El coeficiente aerodinámico de 0.24Cd era el más bajo en producción masiva del mundo. La versión Prime enchufable añadió 68 km de autonomía eléctrica pura.',
+    { potencia: '122 CV', peso: '1.365 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('toyota_prius_fxea50', 'Toyota Prius (5a gen)', ['Japón'], 2022, 9999,
+    ['Hatchback', '2.0', 'Híbrido', 'TNGA'],
+    'El Prius de quinta generación es el más hermoso de la historia del modelo, reconociendo que el diseño del ZVW50 fue demasiado radical. El motor híbrido 2.0 litros con 223 CV sistema total lo hace el Prius más rápido jamás fabricado. La versión PHEV con batería de 13.6 kWh ofrece 68 km eléctricos puros. Fue elegido Auto del Año 2023 en Japón.',
+    { potencia: '223 CV', peso: '1.420 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('toyota_aqua_nhp10', 'Toyota Aqua / Prius C (NHP10)', ['Japón'], 2011, 2021,
+    ['Hatchback', '1.5', 'Híbrido'],
+    'El Aqua (Prius C fuera de Japón) fue el híbrido más compacto y económico de Toyota. Con motor 1NZ-FXE de 1.5 litros y 74 CV sistema total, su consumo de 3.0L/100km (ciclo JC08) fue el más bajo de cualquier auto de producción en su lanzamiento. En Japón fue el auto más vendido durante tres años consecutivos entre 2012 y 2014, un hito sin precedentes.',
+    { potencia: '74 CV', peso: '1.075 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('toyota_mirai', 'Toyota Mirai (Fuel Cell)', ['Japón'], 2014, 9999,
+    ['Sedán', 'Hidrógeno', 'Fuel Cell'],
+    'El Mirai es el primer sedán de hidrógeno de producción en serie del mundo. La celda de combustible convierte hidrógeno en electricidad para impulsar un motor de 182 CV. Recarga en 5 minutos con autonomía de 650 km. La segunda generación (2020) adoptó plataforma GA-L con tracción trasera y diseño premium de Lexus. Toyota lo construyó como demostración de que el hidrógeno puede ser el futuro del transporte limpio.',
+    { potencia: '182 CV', peso: '1.900 kg', traccion: 'FR', velocidad_max: '175 km/h' }),
+
+  car('toyota_bz4x', 'Toyota bZ4X (ZYM20)', ['Japón'], 2022, 9999,
+    ['SUV', 'Eléctrico', '4x4'],
+    'El bZ4X es el primer BEV puro de Toyota en producción masiva, co-desarrollado con Subaru (Solterra). La versión AWD con dos motores entrega 218 CV y 500 km de autonomía WLTP. Carga rápida DC de 150 kW. El volante cuadrado y la pantalla de 12.3" son distintivos. Toyota eligió celdas de hierro-fosfato de litio (LFP) por su mayor durabilidad y seguridad térmica.',
+    { potencia: '218 CV', peso: '2.000 kg', traccion: '4WD', velocidad_max: '160 km/h' }),
+
+  // ── TOYOTA (Yaris generaciones) ────────────────────────────────────────────
+
+  car('toyota_yaris_xp130', 'Toyota Yaris XP130 (3a gen)', ['Japón'], 2011, 2019,
+    ['Hatchback', '1.0', '1.33', 'Tracción delantera'],
+    'El Yaris XP130 fue el primero fabricado en Francia (Valenciennes) para el mercado europeo. Con motor 1KR-FE de 1.0 litros y 69 CV o el Dual-VVT-i de 1.33 litros y 100 CV, ofrecía mayor variedad que su predecesor. La versión híbrida con motor 1.5 litros y 100 CV sistema total llegó en 2012, siendo el pequeño híbrido más accesible de Europa y ganando tres veces el premio a la fiabilidad en el segmento.',
+    { potencia: '100 CV', peso: '1.050 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('toyota_yaris_xp210', 'Toyota Yaris XP210 (4a gen)', ['Japón'], 2020, 9999,
+    ['Hatchback', '1.5', 'Híbrido', 'TNGA'],
+    'El Yaris XP210 sobre plataforma TNGA-B ganó el Coche del Año en Europa 2021, el segundo premio del año para Toyota. El motor híbrido 1.5 litros de tercera generación con 116 CV sistema total consume 3.8L/100km. Fue el primer Yaris disponible en versión GR Sport con suspensión rebajada. La plataforma TNGA-B comparte base con el GR Yaris de homologación WRC.',
+    { potencia: '116 CV', peso: '1.130 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  // ── TOYOTA (SUVs adicionales) ──────────────────────────────────────────────
+
+  car('toyota_chr_ngx10', 'Toyota C-HR (NGX10)', ['Japón'], 2016, 9999,
+    ['SUV', '1.8', 'Híbrido', 'TNGA'],
+    'El C-HR fue el primer SUV de Toyota sobre plataforma TNGA y el más atrevido en diseño de la historia de la marca. Las puertas traseras sin manija visible y el techo flotante con pilar C oculto lo hacen inmediatamente reconocible. El motor híbrido 1.8 litros con 122 CV consume 4.3L/100km. En Europa fue el SUV compacto híbrido más vendido durante dos años consecutivos.',
+    { potencia: '122 CV', peso: '1.465 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('toyota_highlander_xu50', 'Toyota Highlander / Kluger XU50', ['Japón'], 2013, 2019,
+    ['SUV', '3.5', 'V6', '4x4'],
+    'El Highlander XU50 fue el SUV de tres filas de Toyota para el mercado norteamericano y Australia (Kluger). Motor V6 2GR-FE de 3.5 litros y 270 CV con sistema AWD dinámico. Era el vehículo familiar de alta capacidad más equilibrado de Toyota. Vendió sobre 200.000 unidades anuales en Estados Unidos, siendo el tercer SUV más vendido de la marca después del RAV4 y el 4Runner.',
+    { potencia: '270 CV', peso: '2.045 kg', traccion: '4WD', velocidad_max: '190 km/h' }),
+
+  car('toyota_4runner_n180', 'Toyota 4Runner N180 (3a gen)', ['Japón'], 1995, 2002,
+    ['SUV', '3.4', 'V6', '4x4'],
+    'El 4Runner N180 transformó la pick-up Hilux Surf en un SUV de carrocería propia. Motor V6 5VZ-FE de 3.4 litros y 183 CV, con el panel trasero deslizante eléctrico como característica única. Tenía capacidades todoterreno serias con un nivel de confort que sorprendía. En Chile se importó en pequeñas cantidades como alternativa al Land Cruiser Prado de precio más alto.',
+    { potencia: '183 CV', peso: '1.780 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('toyota_4runner_n280', 'Toyota 4Runner N280 (5a gen)', ['Japón'], 2009, 9999,
+    ['SUV', '4.0', 'V6', '4x4'],
+    'El 4Runner N280 es uno de los últimos SUVs de chasis en escalera que no comprometió sus capacidades todoterreno por el refinamiento urbano. Motor 1GR-FE V6 de 4.0 litros y 270 CV, reducción de marcha de baja, bloqueo de diferencial trasero de serie. En 40 años sin cambiar su filosofía, el 4Runner sigue siendo el referente del off-road accesible para entusiastas.',
+    { potencia: '270 CV', peso: '2.015 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('toyota_prado_j120', 'Toyota Land Cruiser Prado J120', ['Japón'], 2002, 2009,
+    ['SUV', '2.7', '4.0', 'V6', '4x4'],
+    'El Prado J120 adoptó diseño más moderno y redondeado, alejándose del look cuadrado del J90. Motor V6 1GR-FE de 4.0 litros y 249 CV con opción diesel 1KD-FTV de 3.0 litros. Fue el primer Prado con control de descenso (DAC) y bloqueo central del diferencial electrónico de serie. En ventas globales fue el todoterreno más vendido de la categoría durante su ciclo de vida.',
+    { potencia: '249 CV', peso: '2.100 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('toyota_land_cruiser_fj55', 'Toyota Land Cruiser FJ55 (Station Wagon)', ['Japón'], 1967, 1980,
+    ['4x4', 'Station Wagon', 'Todo Terreno'],
+    'El FJ55 fue la primera versión familiar del Land Cruiser: una station wagon de carrocería completa sobre el chasis FJ40 con capacidad para 8 pasajeros. Con motor 2F de 6 cilindros en línea, fue el primer Land Cruiser destinado a familias y uso urbano. Muy popular en Australia, Oriente Medio y Latinoamérica como vehículo familiar pesado con capacidades todoterreno reales.',
+    { potencia: '125 CV', peso: '1.780 kg', traccion: '4WD', velocidad_max: '130 km/h' }),
+
+  car('toyota_land_cruiser_fj60', 'Toyota Land Cruiser FJ60', ['Japón'], 1980, 1987,
+    ['4x4', 'Station Wagon', 'Todo Terreno'],
+    'El FJ60 modernizó la station wagon Land Cruiser con líneas cuadradas y un interior significativamente más cómodo. El motor 2F de 4.2 litros o el diesel 3B de 3.4 litros daban opciones para todos los mercados. Fue el primer Land Cruiser con dirección asistida de serie y el que estableció definitivamente al modelo como SUV familiar capaz en cualquier terreno.',
+    { potencia: '135 CV', peso: '1.880 kg', traccion: '4WD', velocidad_max: '135 km/h' }),
+
+  car('toyota_venza_agv15', 'Toyota Venza (AGV15)', ['Japón'], 2020, 9999,
+    ['SUV', '2.5', 'Híbrido', '4x4', 'TNGA'],
+    'El Venza regresó en 2020 como SUV híbrido exclusivo sobre plataforma TNGA, sin versión de combustión. El sistema híbrido 2.5 litros con E-Four entrega 222 CV y consume 5.3L/100km. El parasol panorámico electrocromático que oscurece instantáneamente sin persianas fue una tecnología inédita en el segmento. Comparte plataforma y mecánica con el RAV4 Hybrid.',
+    { potencia: '222 CV', peso: '1.840 kg', traccion: '4WD', velocidad_max: '180 km/h' }),
+
+  car('toyota_rav4_gen3', 'Toyota RAV4 Gen3 (XA30)', ['Japón'], 2005, 2012,
+    ['SUV', '2.0', '2.5', '4x4'],
+    'El RAV4 de tercera generación creció notablemente para competir en el segmento compacto-mediano. Motor 2AZ-FE de 2.5 litros y 179 CV. Adoptó suspensión trasera independiente por primera vez en la historia del RAV4, mejorando radicalmente el confort en carretera. La versión Sport con llantas de 18" y carrocería ampliada fue especialmente popular en mercados jóvenes.',
+    { potencia: '179 CV', peso: '1.580 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('toyota_rav4_gen4', 'Toyota RAV4 Gen4 (XA40)', ['Japón'], 2012, 2018,
+    ['SUV', '2.0', '2.5', '4x4'],
+    'El RAV4 de cuarta generación volvió a líneas más angulosas y agresivas. Motor 2AR-FE de 2.5 litros y 178 CV con CVT. Por primera vez el RAV4 ofreció versión híbrida en algunos mercados. Su sistema AWD dinámico podía enviar hasta el 50% del torque al eje trasero en condiciones de baja tracción, mejorando significativamente la capacidad fuera de asfalto.',
+    { potencia: '178 CV', peso: '1.580 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('toyota_sequoia_xk60', 'Toyota Sequoia XK60 (3a gen)', ['Japón'], 2022, 9999,
+    ['SUV', '3.5', 'V6', 'Híbrido', '4x4'],
+    'El Sequoia de tercera generación eliminó el V8, reemplazándolo por el V6 biturbo híbrido i-FORCE MAX de 3.5 litros con 437 CV. Es el único SUV de gran tamaño con sistema híbrido de serie en todos los niveles de equipamiento. El chasis escalera con suspensión trasera de muelles helicoidales (sustituyendo la ballesta del modelo anterior) mejoró radicalmente el confort en carretera.',
+    { potencia: '437 CV', peso: '2.640 kg', traccion: '4WD', velocidad_max: '190 km/h' }),
+
+  // ── TOYOTA (pick-ups adicionales) ─────────────────────────────────────────
+
+  car('toyota_hilux_n60', 'Toyota Hilux N60 (4a gen)', ['Japón'], 1983, 1988,
+    ['Pick-up', '2.4', 'Diesel', '4x4'],
+    'El Hilux N60 fue la generación que cementó la leyenda de indestructibilidad. Con motor diesel 2L de 2.4 litros y 83 CV, fue protagonista de la prueba épica de Top Gear donde intentaron destruirlo sin lograrlo. En África subsahariana y Oriente Medio fue el vehículo de trabajo por excelencia durante décadas. Sus piezas de repuesto aún se fabrican y distribuyen globalmente.',
+    { potencia: '83 CV', peso: '1.150 kg', traccion: '4WD', velocidad_max: '130 km/h' }),
+
+  car('toyota_hilux_surf_n130', 'Toyota Hilux Surf / 4Runner N130', ['Japón'], 1989, 1995,
+    ['SUV', '2.4', '3.0', 'Diesel', '4x4'],
+    'El Hilux Surf N130 fue la versión SUV cerrada del Hilux con suspensión trasera independiente por primera vez. Motor diesel 2L-TE de 2.4 litros turbo o el gasolina 3VZ-E de 3.0 litros. Fue el primer todoterreno japonés con ABS disponible. Abrió definitivamente el camino de los SUVs basados en plataforma de pick-up con comodidades propias de un automóvil.',
+    { potencia: '130 CV', peso: '1.720 kg', traccion: '4WD', velocidad_max: '160 km/h' }),
+
+  car('toyota_tacoma_n100', 'Toyota Tacoma N100 (1a gen)', ['Japón'], 1995, 2004,
+    ['Pick-up', '2.4', '3.4', 'V6', '4x4'],
+    'El Tacoma reemplazó al Hilux en el mercado norteamericano con identidad propia. Motor 4-cil 2RZ-FE de 2.4 litros o el V6 5VZ-FE de 3.4 litros y 190 CV. Fue pionero en la categoría mid-size truck americana y ganó la lealtad de compradores jóvenes gracias a su imagen aventurera. Sigue siendo la pick-up mediana más vendida de Estados Unidos, con lista de espera en algunas versiones.',
+    { potencia: '190 CV', peso: '1.590 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('toyota_tundra_xk50', 'Toyota Tundra XK50 (2a gen)', ['Japón'], 2007, 2021,
+    ['Pick-up', '5.7', 'V8', '4x4'],
+    'El Tundra XK50 fue el intento serio de Toyota de conquistar las pick-ups full-size americanas. Motor V8 3UR-FE de 5.7 litros y 383 CV, capacidad de remolque de 4.5 toneladas y la primera transmisión de 6 velocidades en el segmento. Fabricado en San Antonio, Texas, su fiabilidad superó a cualquier rival doméstico según encuestas JD Power durante sus 14 años de producción.',
+    { potencia: '383 CV', peso: '2.270 kg', traccion: '4WD', velocidad_max: '180 km/h' }),
+
+  car('toyota_fortuner_an160', 'Toyota Fortuner AN160 (2a gen)', ['Japón'], 2015, 9999,
+    ['SUV', '2.8', 'Diesel', '4x4'],
+    'El Fortuner de segunda generación sobre plataforma IMV-2 mejoró radicalmente el confort con nueva suspensión delantera de doble horquilla y motor 1GD-FTV de 2.8 litros diesel con 204 CV. La versión TRD Sportivo con suspensión reforzada elevó el nivel visual. Sigue siendo el SUV 4x4 más vendido en Asia Pacífico, Oriente Medio y Latinoamérica.',
+    { potencia: '204 CV', peso: '1.985 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  // ── TOYOTA (vans y MPV adicionales) ───────────────────────────────────────
+
+  car('toyota_alphard_h30', 'Toyota Alphard H30 (3a gen)', ['Japón'], 2015, 2023,
+    ['MPV', '3.5', 'V6', '4x4'],
+    'El Alphard H30 es la limusina VIP japonesa por excelencia: motor V6 2GR-FKS de 3.5 litros y 301 CV, suspensión activa que neutraliza el balanceo en curvas, y asientos Executive de segunda fila con reposapiés eléctrico. Es el vehículo oficial de muchos primeros ministros y ejecutivos en Asia. La versión Executive Lounge tiene solo 2 asientos en segunda fila, reclinables a 48°.',
+    { potencia: '301 CV', peso: '2.100 kg', traccion: '4WD', velocidad_max: '200 km/h' }),
+
+  car('toyota_vellfire_h20', 'Toyota Vellfire H20 (2a gen)', ['Japón'], 2008, 2014,
+    ['MPV', '2.4', '3.5', 'V6'],
+    'El Vellfire es el hermano del Alphard pero con diseño más agresivo y exterior llamativo. Comparte plataforma y mecánica pero apunta a un público más joven y extrovertido. La versión híbrida con motor 2.4 litros y 277 CV sistema total en 2011 fue la primera minivan híbrida de Toyota. En China es el status symbol preferido de empresarios y artistas.',
+    { potencia: '277 CV', peso: '2.050 kg', traccion: 'FF', velocidad_max: '190 km/h' }),
+
+  car('toyota_sienna_xl30', 'Toyota Sienna XL30 (3a gen)', ['Japón'], 2010, 2020,
+    ['MPV', '3.5', 'V6', '4x4'],
+    'La Sienna XL30 fue la única minivan con AWD disponible en el mercado americano durante su generación. Motor V6 2GR-FE de 3.5 litros y 266 CV con tracción a las cuatro ruedas. Puertas deslizantes eléctricas de ambos lados y techo panorámico de 120cm. En Estados Unidos compite directamente con la Chrysler Pacifica y la Honda Odyssey por el título de mejor minivan familiar.',
+    { potencia: '266 CV', peso: '2.030 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('toyota_wish_ze10', 'Toyota Wish ZE10', ['Japón'], 2003, 2009,
+    ['MPV', '1.8', '2.0', 'Tracción delantera'],
+    'El Wish fue el MPV compacto de Toyota para el mercado asiático, con diseño tipo coupé y puertas laterales deslizantes. Motor 1ZZ-FE de 1.8 litros o 1AZ-FSE de 2.0 litros para 7 pasajeros en un paquete sorprendentemente compacto. En Japón, Taiwán, Singapur y el Sudeste Asiático fue el MPV familiar más popular de su precio durante años.',
+    { potencia: '125 CV', peso: '1.500 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('toyota_ipsum_sxm10', 'Toyota Ipsum / Picnic (SXM10)', ['Japón'], 1995, 2001,
+    ['MPV', '2.0', 'Tracción delantera'],
+    'El Ipsum fue el primer MPV compacto de Toyota, anticipando la tendencia de las minivans en formato reducido. Motor 3S-FE de 2.0 litros y 135 CV con capacidad para 7 pasajeros en un cuerpo que cabía en estacionamientos normales. En Europa se llamó Picnic y fue uno de los primeros MPVs compactos disponibles. Su plataforma fue compartida con el RAV4 de primera generación.',
+    { potencia: '135 CV', peso: '1.560 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('toyota_hiace_h100', 'Toyota HiAce H100 (3a gen)', ['Japón'], 1977, 1982,
+    ['Furgoneta', '2.0', 'Comercial'],
+    'El HiAce H100 fue la generación que estableció al modelo como estándar global de la furgoneta comercial. Motor 18R de 2.0 litros y carrocería de carga máxima. En Chile fue importado como furgoneta de reparto, ambulancia y base para microbuses rurales. Su sencillez mecánica permitía mantenimiento en cualquier taller del país, un factor decisivo para su adopción masiva.',
+    { potencia: '100 CV', peso: '1.420 kg', traccion: 'FR', velocidad_max: '140 km/h' }),
+
+  // ── TOYOTA (especiales y únicos) ──────────────────────────────────────────
+
+  car('toyota_sera', 'Toyota Sera (EXY10)', ['Japón'], 1990, 1995,
+    ['Coupé', '1.5', 'Puertas mariposa'],
+    'El Sera es el Toyota más inusual jamás producido en serie: un coupé compacto con puertas de mariposa de cristal completo que suben girando hacia afuera, abriendo toda la cabina. Motor 5E-FHE de 1.5 litros y 110 CV. No era extraordinariamente rápido, pero la experiencia de entrar y salir por esas puertas era única en el mundo. Se vendió solo en Japón y hoy es objeto de culto entre coleccionistas.',
+    { potencia: '110 CV', peso: '990 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('toyota_paseo_el54', 'Toyota Paseo / Cynos (EL54)', ['Japón'], 1991, 1999,
+    ['Coupé', '1.5', 'Tracción delantera'],
+    'El Paseo (Cynos en Japón) fue el intento de Toyota de ofrecer un coupé deportivo compacto y asequible. Motor 5E-FHE de 1.5 litros y 100 CV en un cuerpo de 940 kg ligero y divertido. El diseño aerodinámico con líneas deportivas lo diferenciaba completamente del Corolla que compartía mecánica. La versión Roadster de 1996 con targa removible fue la más especial y escasa.',
+    { potencia: '100 CV', peso: '940 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
   // ── NISSAN ────────────────────────────────────────────────────────────────
 
   car('nissan_skyline_r32', 'Nissan Skyline GT-R R32', ['Japón'], 1989, 1994,
