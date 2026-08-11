@@ -709,6 +709,266 @@ export const JAPAN = [
     'El Bluebird 510 fue el auto que convenció al mercado norteamericano de que los autos japoneses podían ser ingeniería seria. Con suspensión independiente en las cuatro ruedas —algo inusual en su clase y precio— y un motor confiable, ganó múltiples premios de automovilismo amateur en EE.UU. Peter Brock lo llevó a la victoria en las Trans-Am.',
     { potencia: '96 CV', peso: '870 kg', traccion: 'FR', velocidad_max: '165 km/h' }),
 
+  // ── NISSAN (Skyline historia completa) ────────────────────────────────────
+
+  car('nissan_skyline_kpgc10', 'Nissan Skyline GT-R KPGC10 "Hakosuka"', ['Japón'], 1969, 1972,
+    ['Sedán', '2.0', 'DOHC', 'Tracción trasera', 'JDM'],
+    'El Hakosuka ("caja-cuervo" por su forma angular) fue el primer Skyline GT-R de la historia y uno de los autos de carreras más exitosos de Japón. Con motor S20 DOHC de 2.0 litros y 160 CV, ganó 52 carreras consecutivas en la serie Japan Grand Prix entre 1969 y 1972. Solo 1.945 unidades producidas. Hoy alcanza precios de subasta superiores a un millón de dólares.',
+    { potencia: '160 CV', peso: '1.020 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
+
+  car('nissan_skyline_kpgc110', 'Nissan Skyline GT-R KPGC110 "Kenmeri"', ['Japón'], 1973, 1973,
+    ['Coupé', '2.0', 'DOHC', 'Tracción trasera', 'JDM'],
+    'El Kenmeri GT-R fue el más raro y exclusivo de la historia del Skyline: solo 197 unidades producidas antes de que la crisis del petróleo de 1973 obligara a Nissan a cancelar el modelo. El nombre viene de la campaña publicitaria "Ken y Mary". Con el mismo motor S20 del Hakosuka, es el GT-R más escaso y cotizado del mundo, con ejemplares superando los 2 millones de dólares.',
+    { potencia: '160 CV', peso: '1.100 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
+
+  car('nissan_skyline_r30', 'Nissan Skyline DR30 RS-Turbo', ['Japón'], 1981, 1985,
+    ['Sedán', '2.0', 'Turbo', 'DOHC', 'Tracción trasera'],
+    'El Skyline DR30 con motor FJ20ET turbo de 2.0 litros y 205 CV fue apodado "Iron Mask" por su parrilla frontal de apariencia metálica. Fue el primer Skyline con turbo y uno de los sedanes más rápidos de Japón en su momento. La versión RS-X Turbo con intercooler entregaba 220 CV y fue la base del resurgimiento del GT-R en el R31 que vendría después.',
+    { potencia: '205 CV', peso: '1.175 kg', traccion: 'FR', velocidad_max: '220 km/h' }),
+
+  car('nissan_skyline_r31', 'Nissan Skyline GTS-R R31', ['Japón'], 1985, 1989,
+    ['Sedán', '2.0', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Skyline R31 fue la generación de transición entre los GT-R clásicos y el legendario R32. La versión GTS-R con motor RB20DET turbo de 210 CV fue la base de homologación para el Campeonato Australiano de Turismo. Aunque superado por el R32, el R31 estableció la plataforma RB y el diferencial HICAS de dirección trasera que definirían los Skyline de los 90s.',
+    { potencia: '210 CV', peso: '1.320 kg', traccion: 'FR', velocidad_max: '230 km/h' }),
+
+  car('nissan_skyline_v35', 'Nissan Skyline V35 (Infiniti G35)', ['Japón'], 2001, 2006,
+    ['Sedán', 'Coupé', '3.5', 'V6', 'Tracción trasera'],
+    'El Skyline V35 fue el más controvertido de la historia: abandonó el mítico RB inline-6 turbo por un V6 VQ35DE naturalmente aspirado de 280 CV. Muchos puristas lo rechazaron por no tener GT-R en la gama, pero su manejo estaba a la altura de los mejores sedanes europeos. Fuera de Japón se llamó Infiniti G35 y fue la base del resurgimiento de Infiniti como marca premium en EE.UU.',
+    { potencia: '280 CV', peso: '1.580 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_gtr_r35', 'Nissan GT-R R35', ['Japón'], 2007, 9999,
+    ['Coupé', '3.8', 'V6', 'Twin-Turbo', '4x4'],
+    'El GT-R R35 llegó con el objetivo de destruir todo lo que existía en su precio. Motor VR38DETT biturbo de 3.8 litros con 480 CV, sistema AWD ATTESA E-TS con diferencial electrónico trasero y caja de doble embrague de 6 velocidades montada en el eje trasero para equilibrar el peso. En 2008 completó Nürburgring en 7:29, destrozando el récord de autos de producción. El apodo "Godzilla" se ganó solo.',
+    { potencia: '480 CV', peso: '1.740 kg', traccion: '4WD', velocidad_max: '315 km/h' }),
+
+  // ── NISSAN (Silvia adicional) ──────────────────────────────────────────────
+
+  car('nissan_silvia_s12', 'Nissan Silvia S12 (Gazelle)', ['Japón'], 1983, 1988,
+    ['Coupé', '1.8', '2.0', 'Turbo', 'Tracción trasera'],
+    'El Silvia S12 fue la generación más grande y pesada de la familia, con líneas más suaves y opciones de motor CA18ET turbo de 1.8 litros o el CA20E de 2.0 litros. Fue el primer Silvia con opción de turbo de serie y el primero con ABS opcional. En EE.UU. se llamó 200SX y fue muy popular como coupé personal accesible. La versión Turbo con 175 CV era genuinamente rápida para su época.',
+    { potencia: '175 CV', peso: '1.200 kg', traccion: 'FR', velocidad_max: '210 km/h' }),
+
+  // ── NISSAN (Fairlady Z historia completa) ─────────────────────────────────
+
+  car('nissan_fairlady_z_z31', 'Nissan Fairlady Z Z31 (300ZX)', ['Japón'], 1983, 1989,
+    ['Coupé', '3.0', 'V6', 'Turbo', 'Tracción trasera'],
+    'El Z31 300ZX fue el primer Fairlady Z con motor V6, adoptando el VG30ET turbo de 3.0 litros y 230 CV. Fue también el primer Z con suspensión trasera independiente de cinco eslabones y el primero con opción de dirección 4WS (cuatro ruedas directrices). Su diseño angular de los 80s con pop-up headlights fue divisivo, pero el rendimiento era innegablemente serio.',
+    { potencia: '230 CV', peso: '1.350 kg', traccion: 'FR', velocidad_max: '235 km/h' }),
+
+  car('nissan_fairlady_z_z32', 'Nissan Fairlady Z Z32 (300ZX Twin Turbo)', ['Japón'], 1989, 2000,
+    ['Coupé', '3.0', 'V6', 'Twin-Turbo', 'Tracción trasera'],
+    'El Z32 300ZX Twin Turbo es considerado el Fairlady Z más completo técnicamente. Motor VG30DETT biturbo de 3.0 litros y 300 CV, suspensión multiejes en las cuatro ruedas y dirección HICAS de cuatro ruedas. Car and Driver lo eligió en su lista de los diez mejores autos durante cinco años consecutivos. Fue el primer auto japonés en igualar prestaciones de Ferrari en pruebas estandarizadas.',
+    { potencia: '300 CV', peso: '1.500 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_fairlady_z_z33', 'Nissan Fairlady Z Z33 (350Z)', ['Japón'], 2002, 2009,
+    ['Coupé', '3.5', 'V6', 'Tracción trasera'],
+    'El Z33 350Z representó el retorno del Fairlady Z puro y ligero después del exceso técnico del Z32. Motor VQ35DE de 3.5 litros y 287 CV en un cuerpo de 1.400 kg con distribución 53:47. Diseñado bajo Carlos Ghosn como señal del renacimiento de Nissan, su éxito de ventas fue inmediato y masivo. En Gran Turismo y Need for Speed se convirtió en ícono de la generación PlayStation.',
+    { potencia: '287 CV', peso: '1.400 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_fairlady_z_z34', 'Nissan Fairlady Z Z34 (370Z)', ['Japón'], 2008, 2020,
+    ['Coupé', '3.7', 'V6', 'Tracción trasera'],
+    'El Z34 370Z evolucionó el Z33 con el VQ37VHR de 3.7 litros y 331 CV y un SyncroRev Match que automáticamente realiza el heel-and-toe en cambios descendentes. La caja de 7 velocidades con doble embrague fue una opción única en la clase. Su larga producción de 12 años demostró que la fórmula era tan correcta que no requería revolución.',
+    { potencia: '331 CV', peso: '1.470 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_z_rz34', 'Nissan Z (RZ34)', ['Japón'], 2022, 9999,
+    ['Coupé', '3.0', 'V6', 'Twin-Turbo', 'Tracción trasera'],
+    'El Nissan Z RZ34 volvió al turbo después de 22 años: motor VR30DDTT biturbo de 3.0 litros y 405 CV heredado del Infiniti Q60 Red Sport. La caja manual de 6 velocidades con SynchroRev Match mejorado fue la opción favorita de los entusiastas. El diseño retro que homenajea al S30 original con el arco de la ventana trasera y las luces redondas fue universalmente alabado.',
+    { potencia: '405 CV', peso: '1.595 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  // ── NISSAN (sedanes y ejecutivos) ─────────────────────────────────────────
+
+  car('nissan_cefiro_a31', 'Nissan Cefiro A31', ['Japón'], 1988, 1994,
+    ['Sedán', '2.0', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Cefiro A31 es el sedán JDM más subestimado: motor RB20DET turbo de 2.0 litros y 205 CV en un chasis de tracción trasera, prácticamente idéntico mecánicamente al R32 GT-R en sus partes estructurales. En New Zealand fue importado masivamente y se convirtió en el auto de drift más popular por su bajo precio y enorme potencial. Fuera de Japón se conoció como Infiniti M30.',
+    { potencia: '205 CV', peso: '1.350 kg', traccion: 'FR', velocidad_max: '225 km/h' }),
+
+  car('nissan_laurel_c34', 'Nissan Laurel C34', ['Japón'], 1993, 1997,
+    ['Sedán', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Laurel C34 es el gemelo olvidado del Skyline R33: mismo chasis, misma plataforma, pero con diseño de sedán ejecutivo. La versión Medalist Club S con motor RB25DET turbo de 2.5 litros y 250 CV era enormemente rápida para un auto de apariencia conservadora. Es muy querido en la escena drift por compartir muchas piezas con el R33 a precio de sedán familiar.',
+    { potencia: '250 CV', peso: '1.480 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_stagea_wc34', 'Nissan Stagea WC34', ['Japón'], 1996, 2001,
+    ['Wagon', '2.5', 'Turbo', 'Tracción trasera', 'JDM'],
+    'El Stagea WC34 es la station wagon de los drift kings: motor RB25DET turbo de 2.5 litros y 260 CV en la versión Autech que usaba el frontal completo del Skyline R33 GT-R. Compartía el chasis, el motor y las suspensiones del R33 en carrocería familiar. El absurdo de un station wagon capaz de ir a 250 km/h lo convirtió en leyenda del JDM.',
+    { potencia: '260 CV', peso: '1.590 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_stagea_m35', 'Nissan Stagea M35', ['Japón'], 2001, 2007,
+    ['Wagon', '2.5', '3.5', 'V6', '4x4'],
+    'El Stagea M35 abandonó el RB turbo por el V6 VQ25DET de 2.5 litros con 280 CV o el VQ35DE de 3.5 litros. Perdió algo del carácter crudo del WC34 pero ganó en refinamiento y fue el primero con AWD de serie en su versión más equipada. Su carrocería wagon con gran espacio de carga y las prestaciones de un deportivo lo hacen el wagon familiar definitivo del JDM.',
+    { potencia: '280 CV', peso: '1.640 kg', traccion: '4WD', velocidad_max: '250 km/h' }),
+
+  car('nissan_cedric_y31', 'Nissan Cedric Y31', ['Japón'], 1987, 1991,
+    ['Sedán', '2.0', '3.0', 'V6', 'Tracción trasera'],
+    'El Cedric Y31 fue el taxi oficial de Japón durante una generación entera. Con motor VG30E V6 de 3.0 litros y 160 CV, era el sedán ejecutivo grande más confiable del mercado. Producido con tanto éxito que la versión de taxi siguió fabricándose hasta 2017. En la escena VIP japonesa es el punto de entrada clásico: largo, trasero, y con infinitas posibilidades de lowride.',
+    { potencia: '160 CV', peso: '1.520 kg', traccion: 'FR', velocidad_max: '185 km/h' }),
+
+  car('nissan_maxima_a32', 'Nissan Maxima A32', ['Japón'], 1994, 2000,
+    ['Sedán', '3.0', 'V6', 'Tracción delantera'],
+    'El Maxima A32 fue apodado "4-door sports car" por Nissan por su motor VQ30DE de 3.0 litros y 190 CV en tracción delantera. La suspensión multiejes delantera y trasera daba un manejo preciso y firme. En EE.UU. fue un bestseller en el segmento de sedanes medianos premium y fue uno de los primeros en ofrecer control de tracción de serie en su clase.',
+    { potencia: '190 CV', peso: '1.450 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  car('nissan_teana_j31', 'Nissan Teana J31', ['Japón'], 2003, 2008,
+    ['Sedán', '2.3', '3.5', 'V6', 'Tracción delantera'],
+    'El Teana J31 fue el sedán ejecutivo de Toyota para Asia y Oriente Medio, compitiendo con el Camry XV30. Con motor VQ23DE de 2.3 litros o el VQ35DE de 3.5 litros y 231 CV, su interior enfocado en el lujo y el espacio trasero generoso lo hacían ideal como vehículo oficial. En China se fabricó como Nissan Tiida y fue uno de los mejores vendedores de la marca en Asia.',
+    { potencia: '231 CV', peso: '1.540 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  car('nissan_bluebird_u13', 'Nissan Bluebird U13', ['Japón'], 1991, 1995,
+    ['Sedán', '1.8', '2.0', '4x4'],
+    'El Bluebird U13 fue la última generación del nombre Bluebird y la primera en ofrecer tracción integral ATTESA de serie en la versión SSS. Con motor SR20DE de 2.0 litros y 150 CV, heredó genes del Pulsar GTI-R. La versión ARX con 4WD y suspensión sport era la berlina familiar más capaz de Japón en su momento. En Europa se vendió como Nissan Bluebird y tuvo buena acogida.',
+    { potencia: '150 CV', peso: '1.290 kg', traccion: '4WD', velocidad_max: '205 km/h' }),
+
+  car('nissan_sentra_b15', 'Nissan Sentra B15', ['Japón'], 2000, 2006,
+    ['Sedán', '1.8', 'Tracción delantera'],
+    'El Sentra B15 fue el sedán subcompacto más vendido de Nissan en Latinoamérica durante los 2000s. Con motor QG18DE de 1.8 litros y 126 CV, ofrecía más potencia y refinamiento que el B14 que reemplazó. En México fue el auto más vendido durante dos años consecutivos. La versión SE-R Spec V con motor SR20VE de 175 CV fue la joya deportiva del catálogo.',
+    { potencia: '126 CV', peso: '1.110 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('nissan_tiida_c11', 'Nissan Tiida C11', ['Japón'], 2004, 2012,
+    ['Sedán', 'Hatchback', '1.6', '1.8', 'Tracción delantera'],
+    'El Tiida C11 fue diseñado específicamente para mercados emergentes con énfasis en espacio interior y precio accesible. Con motor HR16DE de 1.6 litros o MR18DE de 1.8 litros, su cabina era excepcionalmente espaciosa para el tamaño exterior gracias a la batalla extra larga. En Chile fue muy popular en flotas de taxis y como auto familiar de primera compra.',
+    { potencia: '110 CV', peso: '1.150 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('nissan_altima_l32', 'Nissan Altima L32', ['Japón'], 2006, 2012,
+    ['Sedán', '2.5', '3.5', 'V6', 'Tracción delantera'],
+    'El Altima L32 fue el sedán mediano de Nissan para EE.UU., con motor QR25DE de 2.5 litros y 175 CV o el VQ35DE V6 de 3.5 litros y 270 CV. La versión 3.5 SE con caja de 6 velocidades manual era inusualmente deportiva para un sedán familiar. Fue el primer Altima con CVT Xtronic, que luego se convertiría en estándar en todos los Nissan.',
+    { potencia: '175 CV', peso: '1.450 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  // ── NISSAN (compactos y economy) ──────────────────────────────────────────
+
+  car('nissan_march_k11', 'Nissan March / Micra K11', ['Japón'], 1992, 2002,
+    ['Hatchback', '1.0', '1.3', 'Tracción delantera'],
+    'El March K11 ganó el premio Coche del Año en Japón 1992 y fue la base del resurgimiento de Nissan en el segmento subcompacto. Con motor CG10DE de 1.0 litros y carrocería de huevo redondeada, era alegre y económico. La versión SR Turbo con motor turbo de 120 CV fue una pequeña bomba que sorprendía a deportivos mucho más caros. El K11 se fabricó en Japón, México y Tailandia.',
+    { potencia: '55 CV', peso: '720 kg', traccion: 'FF', velocidad_max: '150 km/h' }),
+
+  car('nissan_micra_k13', 'Nissan Micra K13', ['Japón'], 2010, 2016,
+    ['Hatchback', '1.2', 'Tracción delantera'],
+    'El Micra K13 fue diseñado en colaboración con Renault sobre la plataforma V del Alliance y fabricado en Chennai, India. Con motor HR12DE de 1.2 litros y 79 CV, era extremadamente eficiente (4.7L/100km ciclo europeo). La versión DIG-S con compresor volumétrico entregaba 98 CV con consumo récord de 3.9L/100km. En Europa fue el utilitario de referencia en precio y espacio.',
+    { potencia: '79 CV', peso: '970 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('nissan_note_e11', 'Nissan Note E11', ['Japón'], 2004, 2012,
+    ['Hatchback', '1.4', '1.6', 'Tracción delantera'],
+    'El Note E11 fue el monovolumen subcompacto de Nissan con el máximo espacio interior de su segmento. Con motor HR14DE de 1.4 litros y asientos modulares que permitían configurar el interior en múltiples disposiciones, fue el coche familiar urbano definitivo de Nissan. En Japón fue uno de los autos más vendidos de su categoría durante su producción.',
+    { potencia: '88 CV', peso: '1.050 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('nissan_note_epower', 'Nissan Note e-Power E12', ['Japón'], 2016, 9999,
+    ['Hatchback', '1.2', 'e-Power', 'Híbrido'],
+    'El Note e-Power fue la respuesta única de Nissan al dilema híbrido: un motor de gasolina 1.2 litros que actúa exclusivamente como generador para la batería, mientras un motor eléctrico de 109 CV impulsa las ruedas. En Japón fue el auto más vendido de 2020 gracias a la sensación 100% eléctrica de conducción sin el peso de una batería grande. Una solución original al problema de la electrificación.',
+    { potencia: '109 CV', peso: '1.220 kg', traccion: 'FF', velocidad_max: '150 km/h' }),
+
+  car('nissan_cube_z12', 'Nissan Cube Z12', ['Japón'], 2008, 2019,
+    ['Monovolumen', '1.6', 'Tracción delantera'],
+    'El Cube Z12 es el auto más cuadrado y asimétrico jamás producido en serie: la ventana trasera es asimétrica, sin pilar derecho en un lado. Con motor HR16DE de 1.6 litros y carrocería de caja maximizada, su filosofía de "sala de estar móvil" lo convirtió en fenómeno de moda en Japón y brevemente en EE.UU. El interior con tapicería de lavadora era deliberadamente excéntrico.',
+    { potencia: '110 CV', peso: '1.215 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('nissan_juke_f15', 'Nissan Juke F15', ['Japón'], 2010, 2019,
+    ['SUV', '1.6', 'Turbo', 'Tracción delantera'],
+    'El Juke F15 inventó el segmento del crossover subcompacto con motor turbo, con diseño de ciencia ficción y motor MR16DDT turbo de 1.6 litros y 190 CV en la versión Nismo. Su aspecto de moto acuática terrestre fue polarizador pero efectivo: a pesar de las críticas al diseño, se convirtió en uno de los crossovers más vendidos de Europa entre 2012 y 2017.',
+    { potencia: '190 CV', peso: '1.370 kg', traccion: 'FF', velocidad_max: '215 km/h' }),
+
+  // ── NISSAN (SUVs y 4x4) ───────────────────────────────────────────────────
+
+  car('nissan_patrol_y61', 'Nissan Patrol Y61 (GU)', ['Japón'], 1997, 2013,
+    ['4x4', 'SUV', '3.0', '4.8', 'Diesel', 'Todo Terreno'],
+    'El Patrol Y61 fue el rey del todoterreno japonés en los mercados de Oriente Medio, Australia y África: chasis escalera, eje rígido en ambos extremos, motor diesel TD42 de 4.2 litros o el ZD30DDTi de 3.0 litros turbo, y una capacidad de vadeo de 700mm. En Australia es objeto de culto como el 4x4 definitivo para el Outback. Más capaz en extremo que el Land Cruiser pero menos lujoso.',
+    { potencia: '160 CV', peso: '2.200 kg', traccion: '4WD', velocidad_max: '170 km/h' }),
+
+  car('nissan_patrol_y62', 'Nissan Patrol Y62 (Armada)', ['Japón'], 2010, 9999,
+    ['SUV', '5.6', 'V8', '4x4'],
+    'El Patrol Y62 adoptó el motor V8 VK56VD de 5.6 litros y 405 CV con caja de 7 velocidades, abandonando el diesel para los mercados de lujo. Con sistema de suspensión de aire adaptativa, pantalla de 13" y sistema de cámara de 360°, compitió directamente con el Range Rover y el Mercedes GLS. En Oriente Medio es el vehículo de status por excelencia, equipado con todo disponible.',
+    { potencia: '405 CV', peso: '2.720 kg', traccion: '4WD', velocidad_max: '210 km/h' }),
+
+  car('nissan_terrano_r20', 'Nissan Terrano R20 (Pathfinder)', ['Japón'], 1993, 2002,
+    ['SUV', '2.4', '3.3', 'V6', '4x4'],
+    'El Terrano R20 fue el SUV familiar de Nissan para el mercado global, llamado Pathfinder en América. Con motor VG33E V6 de 3.3 litros y 170 CV en versión de cinco puertas, tenía espacio para 7 pasajeros. Su chasis en escalera daba capacidades todoterreno reales mientras el interior cómodo lo hacía aceptable para uso diario. Fue muy popular en Chile en los 90s como alternativa al Land Cruiser.',
+    { potencia: '170 CV', peso: '1.720 kg', traccion: '4WD', velocidad_max: '170 km/h' }),
+
+  car('nissan_xtrail_t30', 'Nissan X-Trail T30', ['Japón'], 2000, 2007,
+    ['SUV', '2.0', '2.5', '4x4'],
+    'El X-Trail T30 fue el SUV compacto más versátil de Nissan: carrocería monocasco, motor QR25DE de 2.5 litros y 165 CV, y un sistema 4x4 con modo 2WD/Auto/4WD fácil de usar. Las alfombrillas de goma lavables y el portón trasero con respaldo reclinable hacían del maletero un espacio de picnic o campamento. Fue un bestseller en Europa, Asia y Latinoamérica.',
+    { potencia: '165 CV', peso: '1.530 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('nissan_xtrail_t32', 'Nissan X-Trail T32', ['Japón'], 2013, 9999,
+    ['SUV', '2.0', '2.5', '4x4'],
+    'El X-Trail T32 creció en tamaño para ofrecer una tercera fila de asientos opcional, siendo el único SUV compacto con 7 plazas en su segmento. Motor MR20DD de 2.0 litros con inyección directa o el QR25DE de 2.5 litros con ProPilot (conducción autónoma Nivel 2) en versiones tardías. En Japón incorporó el sistema e-Power en 2021, siendo un hito en la electrificación de SUVs.',
+    { potencia: '144 CV', peso: '1.620 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('nissan_murano_z50', 'Nissan Murano Z50', ['Japón'], 2002, 2007,
+    ['SUV', '3.5', 'V6', '4x4'],
+    'El Murano Z50 fue el crossover de lujo de Nissan, con un diseño cupé atrevido que anticipó la moda de los SUV-coupé en años. Motor VQ35DE de 3.5 litros y 245 CV con la primera CVT Xtronic de Nissan en un SUV. El techo de cristal panorámico y el interior de cuero de calidad premium lo posicionaban entre el RAV4 y el Range Rover Sport. Fue la primera "joya de diseño" de Carlos Ghosn en Nissan.',
+    { potencia: '245 CV', peso: '1.900 kg', traccion: '4WD', velocidad_max: '200 km/h' }),
+
+  car('nissan_pathfinder_r50', 'Nissan Pathfinder R50', ['Japón'], 1995, 2004,
+    ['SUV', '3.3', 'V6', '4x4'],
+    'El Pathfinder R50 fue el SUV grande de Nissan para el mercado americano y australiano, con capacidad para 7 pasajeros y motor VG33E de 3.3 litros. Compartía plataforma con la pick-up Frontier de segunda generación pero con carrocería de 5 puertas cerrada. Fue el primer Pathfinder con transmisión automática de 4 velocidades y el primero en ofrecer asientos de tercera fila de serie.',
+    { potencia: '170 CV', peso: '1.940 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  // ── NISSAN (pick-ups) ─────────────────────────────────────────────────────
+
+  car('nissan_navara_d21', 'Nissan Navara D21 Hardbody', ['Japón'], 1985, 1997,
+    ['Pick-up', '2.4', '3.0', 'V6', '4x4'],
+    'El Navara D21 "Hardbody" fue la pick-up de Nissan que compitió directamente con el Toyota Hilux en los mercados latinoamericanos durante los 80s y 90s. El apodo "Hardbody" venía de su estructura de carrocería de acero de alta resistencia. Con motor KA24E de 2.4 litros o el V6 VG30E de 3.0 litros, fue el favorito en faenas agrícolas y mineras por su durabilidad.',
+    { potencia: '140 CV', peso: '1.350 kg', traccion: '4WD', velocidad_max: '160 km/h' }),
+
+  car('nissan_navara_d40', 'Nissan Navara D40', ['Japón'], 2004, 2015,
+    ['Pick-up', '2.5', '4.0', 'V6', 'Diesel', '4x4'],
+    'El Navara D40 elevó el estándar de las pick-ups con su suspensión trasera independiente de cinco eslabones, única en la categoría. El motor diesel YD25DDTi de 2.5 litros y 174 CV con intercooler o el V6 VQ40DE de 4.0 litros y 261 CV le daban opciones para todo uso. Ganó el premio "Mejor pick-up" de múltiples publicaciones europeas. En Chile fue muy apreciada por su confort superior.',
+    { potencia: '174 CV', peso: '1.900 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('nissan_navara_d23', 'Nissan Navara D23 NP300', ['Japón'], 2014, 9999,
+    ['Pick-up', '2.3', 'Diesel', '4x4'],
+    'El Navara D23 NP300 recibió el motor diesel YS23DDT de 2.3 litros biturbo con 190 CV y una resistente suspensión trasera de ballesta multilámina (abandonando la independiente del D40 por ser más robusta para carga pesada). El chasis de acero de ultra alta resistencia era 20% más rígido que el D40. Fue elegido Pickup del Año por múltiples medios europeos en 2015 y 2016.',
+    { potencia: '190 CV', peso: '1.900 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  // ── NISSAN (eléctricos) ────────────────────────────────────────────────────
+
+  car('nissan_leaf_ze0', 'Nissan Leaf ZE0 (1a gen)', ['Japón'], 2010, 2017,
+    ['Hatchback', 'Eléctrico', 'Tracción delantera'],
+    'El Leaf ZE0 fue el primer auto eléctrico de producción masiva del mundo, lanzado simultáneamente en Japón y EE.UU. en diciembre de 2010. Motor eléctrico de 80 kW (109 CV) con batería de 24 kWh y autonomía de 175 km NEDC. Sin tubo de escape, sin motor de combustión. Vendió 100.000 unidades en 2 años, demostrando que el mercado masivo de EVs era posible.',
+    { potencia: '109 CV', peso: '1.521 kg', traccion: 'FF', velocidad_max: '145 km/h' }),
+
+  car('nissan_leaf_ze1', 'Nissan Leaf ZE1 (2a gen)', ['Japón'], 2017, 9999,
+    ['Hatchback', 'Eléctrico', 'Tracción delantera'],
+    'El Leaf ZE1 llegó con batería de 40 kWh (autonomía 270 km WLTP) o la versión Plus con 62 kWh y 385 km. El sistema e-Pedal permite conducción con un solo pedal que acelera y frena. ProPilot con conducción autónoma Nivel 2 fue una primicia en el segmento. La versión Nismo con 218 CV fue la primera Leaf deportiva. Superó el millón de unidades vendidas en 2020.',
+    { potencia: '150 CV', peso: '1.560 kg', traccion: 'FF', velocidad_max: '150 km/h' }),
+
+  car('nissan_ariya', 'Nissan Ariya (FJ37)', ['Japón'], 2021, 9999,
+    ['SUV', 'Eléctrico', '4x4'],
+    'El Ariya es el SUV eléctrico de Nissan sobre la nueva plataforma CMF-EV compartida con Renault Mégane E-Tech. Motor dual para 4WD e-4ORCE con 306 CV y hasta 610 km de autonomía WLTP en la versión 87 kWh. El interior completamente plano sin consola central elevada y el panel LED continuo de pantallas son los elementos más destacados de su diseño interior revolucionario.',
+    { potencia: '306 CV', peso: '2.062 kg', traccion: '4WD', velocidad_max: '200 km/h' }),
+
+  // ── NISSAN (MPV y vans) ────────────────────────────────────────────────────
+
+  car('nissan_elgrand_e50', 'Nissan Elgrand E50', ['Japón'], 1997, 2002,
+    ['MPV', '3.3', 'V6', '4x4'],
+    'El Elgrand E50 fue el competidor directo del Toyota Alphard antes de que el Alphard existiera. Con motor VG33E V6 de 3.3 litros y carrocería de furgoneta de lujo, los asientos executive traseros con mesa y mini pantalla LCD eran pioneros. El sistema 4WD ALL MODE disponible lo hacía útil en nieve. En Japón fue el MPV de lujo preferido por ejecutivos antes de que el Alphard lo destronara.',
+    { potencia: '170 CV', peso: '1.960 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('nissan_serena_c25', 'Nissan Serena C25', ['Japón'], 2005, 2010,
+    ['MPV', '2.0', '4x4'],
+    'El Serena C25 fue la minivan familiar de precio accesible de Nissan, con puertas deslizantes eléctricas en ambos lados y 8 plazas. Motor MR20DE de 2.0 litros y 136 CV con tracción delantera o 4WD. El sistema "S-Hybrid" de recuperación de energía en frenado llegó en versiones tardías, siendo el primer híbrido ligero de Nissan. En Japón fue la minivan familiar más vendida durante su ciclo.',
+    { potencia: '136 CV', peso: '1.760 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  // ── NISSAN (especiales y únicos) ──────────────────────────────────────────
+
+  car('nissan_figaro', 'Nissan Figaro', ['Japón'], 1991, 1991,
+    ['Cabriolet', '1.0', 'Turbo', 'Retro'],
+    'El Figaro fue producido en un solo año, 1991, en solo 20.000 unidades sortadas por lotería entre 500.000 solicitantes. Motor CG10DET turbo de 1.0 litros y 76 CV en un cuerpo retro inspirado en los años 60s con capota de tela plegable manual. Cuatro colores pastel exclusivos, interior de cuero color marfil. Hoy está en el top de los autos japoneses más deseados por coleccionistas europeos.',
+    { potencia: '76 CV', peso: '760 kg', traccion: 'FF', velocidad_max: '155 km/h' }),
+
+  car('nissan_pao', 'Nissan Pao', ['Japón'], 1989, 1991,
+    ['Hatchback', '1.0', 'Retro'],
+    'El Pao fue parte de la serie "Pike Cars" de Nissan junto al Be-1, Figaro y S-Cargo. Diseñado por Naoki Saito como un auto de aspecto vintage 50s-60s con detalles de tela y materiales naturales en el interior. Motor MA10S de 1.0 litros y 52 CV. Solo 51.657 unidades producidas, todas vendidas con anticipación antes de la producción. Hoy es importado masivamente por coleccionistas europeos.',
+    { potencia: '52 CV', peso: '720 kg', traccion: 'FF', velocidad_max: '140 km/h' }),
+
+  car('nissan_scargo', 'Nissan S-Cargo', ['Japón'], 1989, 1992,
+    ['Furgoneta', '1.5', 'Retro'],
+    'El S-Cargo (el nombre es un juego de palabras entre "S-car go" y "escargot", caracol en francés) fue la furgoneta de reparto más adorable jamás producida. Diseñada por Shiro Nakamura con forma de caracol, ventana trasera redonda y portón de acceso lateral, fue usada en Japón por flotas de repartidores de periódicos y pastelerías. Motor Z16 de 1.5 litros. Solo 12.000 unidades en 3 años de producción.',
+    { potencia: '76 CV', peso: '930 kg', traccion: 'FF', velocidad_max: '130 km/h' }),
+
+  car('nissan_rasheen', 'Nissan Rasheen', ['Japón'], 1994, 2000,
+    ['Crossover', '1.5', '2.0', 'Tracción delantera'],
+    'El Rasheen fue el crossover avant-garde de Nissan: carrocería cuadrada con líneas de diseño industrial, inspirada en un Jeep minimalista pero con mecánica de urban hatchback. Con motor SR20DE de 2.0 litros y 135 CV o el GA15DE de 1.5 litros, no tenía las capacidades todoterreno que su aspecto prometía, pero era enormemente original y divertido. Hoy es muy buscado por diseñadores y creativos.',
+    { potencia: '135 CV', peso: '1.270 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
   // ── HONDA ─────────────────────────────────────────────────────────────────
 
   car('honda_civic_ef', 'Honda Civic SiR EF (3a gen)', ['Japón'], 1987, 1991,
