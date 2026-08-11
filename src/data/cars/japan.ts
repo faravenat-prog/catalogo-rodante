@@ -1516,6 +1516,280 @@ export const JAPAN = [
     'El City MA fue diseñado bajo el concepto "Tall Boy": máxima altura, mínima longitud, para maximizar el espacio interior. Con motor EM de 1.2 litros y 67 CV, su carrocería de cajón era radical para 1981. Incluía como accesorio el "Motocompo" —un scooter plegable que cabía en el maletero— el objeto más carismático del mundo del automóvil de los 80s. La versión Turbo con 100 CV fue la primera turbo de Honda.',
     { potencia: '67 CV', peso: '620 kg', traccion: 'FF', velocidad_max: '150 km/h' }),
 
+  // ── HONDA (orígenes: primeros autos Honda) ────────────────────────────────
+
+  car('honda_t360', 'Honda T360', ['Japón'], 1963, 1967,
+    ['Kei Truck', '0.36', 'DOHC', 'Tracción trasera'],
+    'El T360 fue el primer automóvil de producción Honda, presentado en el Tokyo Motor Show de octubre de 1962. Motor de 354cc 4 cilindros DOHC con 4 válvulas por cilindro —sofisticación de moto de carreras en un camión kei—, que rendía 30 CV a 8.500 RPM. Soichiro Honda insistió en usar tecnología de motos en el primer coche de la empresa. El T360 ganó varias carreras kei en Japón y convenció al mundo de que Honda era un fabricante serio.',
+    { potencia: '30 CV', peso: '480 kg', traccion: 'FR', velocidad_max: '100 km/h' }),
+
+  car('honda_s500', 'Honda S500', ['Japón'], 1963, 1964,
+    ['Roadster', '0.49', 'DOHC', 'Tracción trasera'],
+    'El S500 fue el primer automóvil de pasajeros de Honda, presentado junto al T360. Motor de 492cc DOHC con 44 CV a 9.500 RPM —las RPM más altas de cualquier auto de producción de la época— transmitía a las ruedas traseras mediante cadenas individuales en lugar de diferencial convencional, herencia directa de las motos. Demostró desde el día uno que Honda podía construir deportivos al nivel de los mejores europeos.',
+    { potencia: '44 CV', peso: '590 kg', traccion: 'FR', velocidad_max: '130 km/h' }),
+
+  car('honda_n600', 'Honda N600', ['Japón'], 1969, 1972,
+    ['Hatchback', '0.6', '2 cilindros', 'Tracción delantera'],
+    'El N600 fue el primer Honda vendido en EE.UU. y el pionero de la conquista americana de la marca. Motor de 600cc 2 cilindros y 45 CV enfriado por aire, caja de 4 velocidades. Pesaba solo 490 kg y alcanzaba 120 km/h. Los compradores americanos quedaron asombrados por la ausencia total de averías. Abrió el camino al Civic y a la dominación japonesa del mercado de autos compactos americano en los años 80.',
+    { potencia: '45 CV', peso: '490 kg', traccion: 'FF', velocidad_max: '120 km/h' }),
+
+  // ── HONDA (Civic gens faltantes) ──────────────────────────────────────────
+
+  car('honda_civic_2gen', 'Honda Civic (2a gen, SB/SC)', ['Japón'], 1979, 1983,
+    ['Hatchback', 'Sedán', '1.3', '1.5', 'CVCC', 'Tracción delantera'],
+    'El Civic de segunda generación creció en tamaño y refinamiento con carrocería de 3 o 5 puertas y por primera vez una versión sedán de 4 puertas. Motor CVCC de 1.3 o 1.5 litros. Fue el primer Civic en llegar a más de 50 países simultáneamente y el primero en ganar el primer puesto en ventas fuera de Japón (Australia, 1980). La versión sedán de 4 puertas estableció la fórmula que el Civic Sedán mantiene hasta hoy.',
+    { potencia: '72 CV', peso: '790 kg', traccion: 'FF', velocidad_max: '155 km/h' }),
+
+  car('honda_civic_9gen', 'Honda Civic (9a gen, FB/FG)', ['Japón'], 2011, 2015,
+    ['Sedán', 'Hatchback', '1.5', '2.4', 'Tracción delantera'],
+    'El Civic FB de 9a generación fue la más autocriticada de la historia del modelo: Consumer Reports lo retiró de su lista de recomendados por primera vez en décadas. Honda tomó la decisión sin precedentes de lanzar una actualización a medio ciclo en 2013 para corregir la suspensión trasera rígida y el tablero de diseño excesivamente complejo. La versión Si con motor K24Z7 de 2.4 litros y 201 CV salvó el honor deportivo de la generación.',
+    { potencia: '141 CV', peso: '1.285 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  // ── HONDA (NSX-R y CR-Z) ──────────────────────────────────────────────────
+
+  car('honda_nsx_r', 'Honda NSX-R (NA2)', ['Japón'], 2002, 2005,
+    ['Superdeportivo', '3.2', 'V6', 'VTEC', 'Tracción trasera'],
+    'El NSX-R fue la versión de circuito del NSX: capó de carbono, panel trasero de carbono, cristales más delgados, asientos Recaro de carbono fijo sin ajuste eléctrico, sin aire acondicionado, sin audio, sin alfombras. El resultado: 80 kg menos que el NSX estándar, con 290 CV del motor C32B ampliado. Grabó 7:56 en Nürburgring en 2002, el más rápido de su clase. Sigue siendo el Honda tracción trasera más afilado en circuito jamás vendido al público.',
+    { potencia: '290 CV', peso: '1.270 kg', traccion: 'MR', velocidad_max: '270 km/h' }),
+
+  car('honda_crz', 'Honda CR-Z ZF1', ['Japón'], 2010, 2016,
+    ['Coupé', '1.5', 'Híbrido', 'IMA', 'Tracción delantera'],
+    'El CR-Z ZF1 fue el único coupé deportivo híbrido de producción del mundo: motor K16Z3 de 1.5 litros asistido por IMA eléctrico para un total de 122 CV. Con caja de 6 velocidades manual como única opción al lanzamiento, el CR-Z demostró que un híbrido podía ser divertido de conducir. Tres modos Sport/Normal/Econ cambiaban radicalmente el carácter del motor. Considerado el sucesor espiritual del CRX y predecesor del S660.',
+    { potencia: '122 CV', peso: '1.192 kg', traccion: 'FF', velocidad_max: '195 km/h' }),
+
+  // ── HONDA (Accord historia completa) ──────────────────────────────────────
+
+  car('honda_accord_2gen', 'Honda Accord (2a gen, AC/AD)', ['Japón'], 1981, 1985,
+    ['Hatchback', 'Sedán', '1.6', '1.8', 'Tracción delantera'],
+    'El Accord de segunda generación fue el primero con inyección electrónica PGM-FI —uno de los primeros en el segmento—. Motor de 1.6 o 1.8 litros. Ganó el premio Motor Trend Car of the Year 1982. La fabricación en Ohio comenzó con este modelo en 1982, primera vez que un fabricante japonés producía autos en suelo americano, inaugurando una nueva era industrial.',
+    { potencia: '95 CV', peso: '970 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('honda_accord_3gen', 'Honda Accord (3a gen, CA)', ['Japón'], 1985, 1989,
+    ['Sedán', 'Hatchback', '2.0', 'Tracción delantera'],
+    'El Accord CA fue el primero con suspensión delantera de doble horquilla y el primero en ofrecer ABS como opción en Japón. Motor A20A de 2.0 litros. En EE.UU. fue el auto japonés más vendido en 1987, superando al Camry por primera vez. La versión sedán de 4 puertas se consolidó como la configuración dominante, acelerando el abandono del hatchback en favor del sedán formal.',
+    { potencia: '100 CV', peso: '1.090 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  car('honda_accord_5gen', 'Honda Accord (5a gen, CD)', ['Japón'], 1993, 1997,
+    ['Sedán', 'Wagon', 'Coupé', '2.2', 'VTEC', 'Tracción delantera'],
+    'El Accord CD incorporó VTEC por primera vez en la familia: motor F22B VTEC de 2.2 litros y 150 CV. Primera vez con versión Wagon (CE1), muy popular en Europa y Japón. Motor Trend Car of the Year 1994. La calidad de construcción fue calificada como la mejor de cualquier auto americano o japonés del segmento por Consumer Reports.',
+    { potencia: '150 CV', peso: '1.280 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  car('honda_accord_6gen', 'Honda Accord (6a gen, CF/CH)', ['Japón'], 1997, 2002,
+    ['Sedán', 'Wagon', '2.0', '2.3', 'VTEC', 'Tracción delantera'],
+    'El Accord CF fue el primero en incluir navegación GPS de serie en JDM. La versión Euro R (CF4) con motor H22A VTEC de 220 CV, diferencial LSD y frenos Brembo fue el Accord deportivo definitivo. La versión Wagon SiR fue una rareza brillante: familiar de carga con motor VTEC y suspensión endurecida. En EE.UU. como CH fue el sedán más vendido del segmento en 1998 y 1999.',
+    { potencia: '150 CV', peso: '1.310 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  car('honda_accord_8gen', 'Honda Accord (8a gen, CP)', ['Japón'], 2007, 2012,
+    ['Sedán', 'Coupé', '2.4', 'K24', 'Tracción delantera'],
+    'El Accord CP fue el más grande de la historia hasta ese momento: 4.88m en el sedán americano. Motor K24Z3 de 2.4 litros y 190 CV. Fue el sedán más vendido de Honda en EE.UU. durante 4 años consecutivos. El primero con sistema LaneWatch —cámara en el espejo lateral derecho activada al girar—, una característica que Honda patentó antes de que las cámaras de ángulo muerto fueran estándar.',
+    { potencia: '190 CV', peso: '1.450 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  // ── HONDA (Prelude historia completa) ─────────────────────────────────────
+
+  car('honda_prelude_1gen', 'Honda Prelude (1a gen, SN)', ['Japón'], 1978, 1982,
+    ['Coupé', '1.6', 'CVCC', 'Tracción delantera'],
+    'El Prelude original fue el primer coupé 2+2 de Honda: carrocería elegante con faros traseros en barra continua y motor CVCC de 1.6 litros. Primer Honda en ofrecer transmisión automática Hondamatic de dos etapas. En Japón fue bien recibido como alternativa al Celica de Toyota, más económico y fiable. Estableció la identidad de coupé premium que el Prelude mantendría durante cuatro décadas.',
+    { potencia: '80 CV', peso: '890 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('honda_prelude_2gen', 'Honda Prelude (2a gen, AB)', ['Japón'], 1982, 1987,
+    ['Coupé', '1.8', '2.0', 'DOHC', 'Tracción delantera'],
+    'El Prelude AB fue el primero del mundo en ofrecer dirección en las cuatro ruedas (4WS) como opción en 1987. El sistema mecánico giraba las ruedas traseras en la misma dirección que las delanteras a alta velocidad para mayor estabilidad, y en sentido contrario a baja velocidad para menor radio de giro. Motor DOHC de 2.0 litros y 150 CV. El diseño de perfil cuña fue muy moderno para los 80s.',
+    { potencia: '150 CV', peso: '1.100 kg', traccion: 'FF', velocidad_max: '200 km/h' }),
+
+  car('honda_prelude_4gen', 'Honda Prelude (4a gen, BB1)', ['Japón'], 1991, 1996,
+    ['Coupé', '2.2', 'VTEC', 'Tracción delantera'],
+    'El Prelude BB fue el más popular entre entusiastas tuner: motor H22A VTEC de 2.2 litros y 200 CV —el mismo que llevaría el Accord Euro R posterior—. Diseño redondeado muy exitoso. En EE.UU. fue ícono de la cultura tuner de los 90 junto al Integra GS-R. La versión BB4 con ATTS (Active Torque Transfer System) fue una prelación del BB6 con el torque vectoring que vendría después.',
+    { potencia: '200 CV', peso: '1.230 kg', traccion: 'FF', velocidad_max: '225 km/h' }),
+
+  // ── HONDA (Legend historia completa) ──────────────────────────────────────
+
+  car('honda_legend_1gen', 'Honda Legend (1a gen, KA3)', ['Japón'], 1985, 1990,
+    ['Sedán', 'Coupé', '2.0', '2.7', 'V6', 'Tracción delantera'],
+    'El Legend KA3 fue el primer Honda con motor V6 en la historia de la marca: C27A de 2.7 litros y 165 CV. Desarrollado conjuntamente con Rover (se vendió en UK como Rover 800). En EE.UU. inauguró la marca Acura en 1986 como Acura Legend, primer luxury brand japonés en ese mercado. La calidad de fabricación desafió directamente a Mercedes y BMW en rigidez y silencio de rodadura.',
+    { potencia: '165 CV', peso: '1.400 kg', traccion: 'FF', velocidad_max: '210 km/h' }),
+
+  car('honda_legend_3gen', 'Honda Legend (3a gen, KA9)', ['Japón'], 1996, 2004,
+    ['Sedán', '3.5', 'V6', 'VTEC', 'Tracción delantera'],
+    'El Legend KA9 fue el mejor conductor de la familia: motor C35A V6 VTEC de 3.5 litros y 280 CV —el máximo legal en Japón—, suspensión de doble horquilla en los cuatro ejes. En EE.UU. se vendió como Acura RL. El refinamiento mecánico fue comparado favorablemente con el BMW 740i. En 1999 recibió el primer sistema de frenado de emergencia con radar de Honda, pionero de toda la industria japonesa.',
+    { potencia: '280 CV', peso: '1.710 kg', traccion: 'FF', velocidad_max: '250 km/h' }),
+
+  // ── HONDA (City sedan Asia) ────────────────────────────────────────────────
+
+  car('honda_city_gd', 'Honda City GD (3a gen)', ['Japón'], 2002, 2008,
+    ['Sedán', '1.4', '1.5', 'Tracción delantera'],
+    'El City GD fue el sedán compacto de Honda para mercados en desarrollo y Asia. Con diseño "one-motion" de techo fluido y motor L14A/L15A de 1.4–1.5 litros, fue el sedán compacto más vendido simultáneamente en India, Tailandia, Malaysia y México. En algunos mercados se llamó Honda Jazz Sedan. Su accesibilidad y fiabilidad lo convirtieron en referencia del segmento en toda Asia durante una década.',
+    { potencia: '100 CV', peso: '1.020 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_city_gn', 'Honda City GN e:HEV (6a gen)', ['Japón'], 2020, 9999,
+    ['Sedán', '1.5', 'Híbrido', 'e:HEV', 'Tracción delantera'],
+    'El City GN fue el primero de la familia con sistema híbrido e:HEV de Honda: motor 1.5 litros que actúa principalmente como generador, con motor eléctrico de 98 CV como impulsor principal y consumo de 4.7L/100km. En Tailandia fue el auto más vendido del año 2021 y 2022, superando a todos los rivales. Es el sedán compacto híbrido más accesible de Honda y el más popular de la marca en el sudeste asiático.',
+    { potencia: '98 CV', peso: '1.155 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  // ── HONDA (CR-V 4a gen) ────────────────────────────────────────────────────
+
+  car('honda_crv_rm', 'Honda CR-V RM (4a gen)', ['Japón'], 2011, 2016,
+    ['SUV', '1.6', '2.0', '2.4', '4x4'],
+    'El CR-V RM fue el primero con motor diésel (1.6 i-DTEC de 120 CV para Europa) y el más eficiente hasta su fecha. El sistema 4WD Real Time AWD fue actualizado para responder en 20 milisegundos a pérdida de tracción. Primero con Wide View Camera trasera de ángulo ultra-amplio. En Chile fue el SUV más vendido de la categoría en 2014 y 2015.',
+    { potencia: '155 CV', peso: '1.579 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  // ── HONDA (SUVs adicionales) ───────────────────────────────────────────────
+
+  car('honda_pilot_3gen', 'Honda Pilot YF5 (3a gen)', ['Japón'], 2015, 2022,
+    ['SUV', '3.5', 'V6', '4x4'],
+    'El Pilot YF5 fue el primero con caja de 9 velocidades y Apple CarPlay/Android Auto de serie. Motor V6 3.5 litros de 280 CV con sistema VCM de desactivación de cilindros. La versión Elite con 8 plazas y pantallas de entretenimiento traseras individuales fue la opción familiar definitiva de Honda. El SUV de 3 filas más vendido en EE.UU. en 2019.',
+    { potencia: '280 CV', peso: '2.010 kg', traccion: '4WD', velocidad_max: '195 km/h' }),
+
+  car('honda_passport_2018', 'Honda Passport (2a gen, 2018)', ['Japón'], 2018, 9999,
+    ['SUV', '3.5', 'V6', '4x4'],
+    'El Passport de segunda generación llenó el vacío entre el CR-V y el Pilot: sin tercera fila pero mayor espacio de carga y más capacidad todoterreno. Motor V6 3.5 litros de 280 CV con AWD inteligente. El sistema i-VTM4 (en versión Sport) distribuía hasta el 70% del torque al eje trasero. Ideal para actividades outdoor sin la longitud de un SUV de 7 plazas.',
+    { potencia: '280 CV', peso: '1.870 kg', traccion: '4WD', velocidad_max: '190 km/h' }),
+
+  // ── HONDA (kei adicionales) ────────────────────────────────────────────────
+
+  car('honda_acty', 'Honda Acty (HA/HH)', ['Japón'], 1977, 2021,
+    ['Kei Truck', 'Kei Van', '0.66', 'Tracción trasera'],
+    'El Acty fue el kei truck de trabajo de Honda durante 44 años: indestructible, motor trasero de 660cc, tracción trasera o 4WD, disponible como camioneta de plataforma o furgoneta. En Japón está en cada explotación agrícola y en cada calle estrecha de montaña. También fue exportado a EE.UU. como vehículo agrícola. La producción terminó en 2021 por regulaciones de emisiones.',
+    { potencia: '38 CV', peso: '650 kg', traccion: 'FR', velocidad_max: '120 km/h' }),
+
+  car('honda_vamos', 'Honda Vamos HM1', ['Japón'], 1999, 2018,
+    ['Kei Van', '0.66', 'Tracción trasera'],
+    'El Vamos fue el kei van retro-surf de Honda: carrocería cuadrada de inspiración 4x4 de los 70s, motor trasero de 660cc. La versión Hobio añadía puerta deslizante y techo más alto. Fue uno de los autos más carismáticos del mercado kei japonés, apreciado por surfistas y nómadas urbanos. Fue el antepasado estético del N-Van moderno.',
+    { potencia: '48 CV', peso: '790 kg', traccion: 'FR', velocidad_max: '130 km/h' }),
+
+  car('honda_zest', 'Honda Zest (JE1)', ['Japón'], 2006, 2012,
+    ['Kei Car', 'Tall Wagon', '0.66', 'Tracción delantera'],
+    'El Zest fue el kei tall wagon de Honda con 1.620mm de altura interior. Motor E07Z de 660cc y hasta 64 CV en versión Spark Turbo. El diseño con grandes faros redondos fue muy bien recibido entre compradoras jóvenes en Japón. Tercer kei más vendido de Honda en su época.',
+    { potencia: '58 CV', peso: '800 kg', traccion: 'FF', velocidad_max: '140 km/h' }),
+
+  car('honda_nwgn', 'Honda N-WGN (JH1)', ['Japón'], 2013, 9999,
+    ['Kei Car', 'Wagon', '0.66', 'Tracción delantera'],
+    'El N-WGN fue el kei wagon de altura media de Honda. Con motor S07A de 660cc obtuvo 5 estrellas en el JNCAP 2013. La versión Custom con faros oscuros y llantas de 15" fue la más personalizada. Es el kei más tranquilo y ahorrativo de Honda para uso cotidiano en ciudad.',
+    { potencia: '58 CV', peso: '810 kg', traccion: 'FF', velocidad_max: '140 km/h' }),
+
+  car('honda_nvan', 'Honda N-Van (JJ1)', ['Japón'], 2018, 9999,
+    ['Kei Van', '0.66', 'Tracción delantera'],
+    'El N-Van fue la furgoneta kei de Honda para trabajo ligero: sin pilar B en el lado del pasajero, permite cargar objetos de hasta 2.75 metros de largo. Primer kei van con Honda Sensing (frenado autónomo) de serie. La versión e: eléctrica llegó en 2023 con 210 km de autonomía —la primera furgoneta kei eléctrica de producción en la historia.',
+    { potencia: '58 CV', peso: '870 kg', traccion: 'FF', velocidad_max: '130 km/h' }),
+
+  // ── HONDA (JDM clásicos adicionales) ──────────────────────────────────────
+
+  car('honda_quint', 'Honda Quint / Rover Quintet', ['Japón'], 1980, 1985,
+    ['Hatchback', '1.6', 'Tracción delantera'],
+    'El Quint fue el eslabón entre el Civic y el Accord: hatchback 5 puertas deportivo con motor de 1.6 litros. En Europa se vendió como Rover Quintet gracias al acuerdo BL-Honda. Fue el predecesor directo del Integra en 1985, que adoptó su plataforma y filosofía deportiva.',
+    { potencia: '80 CV', peso: '870 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('honda_ballade', 'Honda Ballade (1a gen)', ['Japón'], 1980, 1986,
+    ['Sedán', '1.3', '1.5', 'CVCC', 'Tracción delantera'],
+    'El Ballade fue el primer sedán de 4 puertas formal de Honda, basado en la plataforma Civic 3a gen. En Sudáfrica fue tan exitoso que se produjo localmente hasta 1995 y el nombre fue revivido en 2011 para el mercado africano. Fue el punto de partida de la línea Civic Sedán que hoy es el modelo más vendido de la gama Honda.',
+    { potencia: '75 CV', peso: '880 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('honda_logo', 'Honda Logo (GA3)', ['Japón'], 1996, 2001,
+    ['Hatchback', '1.3', 'Tracción delantera'],
+    'El Logo fue el subcompacto de Honda para llenar el hueco entre los kei y el Civic: motor D13B de 1.3 litros y 65 CV en carrocería de 3 o 5 puertas. Fue la base sobre la que Honda desarrolló la primera generación del Fit/Jazz.',
+    { potencia: '65 CV', peso: '790 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('honda_concerto', 'Honda Concerto / Rover 200 (MA)', ['Japón'], 1988, 1994,
+    ['Sedán', 'Hatchback', '1.5', '1.6', 'Tracción delantera'],
+    'El Concerto fue el resultado de la alianza Honda-Rover: desarrollado conjuntamente y vendido en Europa como Rover 213/216. Con motor D15B/D16A, su diseño europeo fue el más sofisticado de Honda de la época. La plataforma compartida con el Rover 200 le daba una calidad de acabados superior al Civic del mismo período. En Japón breve pero popular en UK.',
+    { potencia: '122 CV', peso: '1.030 kg', traccion: 'FF', velocidad_max: '195 km/h' }),
+
+  car('honda_domani', 'Honda Domani (MA4/MB3)', ['Japón'], 1992, 2000,
+    ['Sedán', '1.5', '1.6', 'Tracción delantera'],
+    'El Domani fue el sedán compacto de Honda entre el Civic y el Accord, con motor D15B/D16A y diseño europeo conservador. Muy exitoso en Japón como alternativa práctica al Civic deportivo. La segunda generación MB3 de 1997 adoptó el motor B16A VTEC en versión SiR con 165 CV.',
+    { potencia: '120 CV', peso: '1.060 kg', traccion: 'FF', velocidad_max: '195 km/h' }),
+
+  car('honda_avancier_ta', 'Honda Avancier TA1 (JDM)', ['Japón'], 1999, 2003,
+    ['SUV Wagon', '2.3', '3.0', 'V6', '4x4'],
+    'El Avancier japonés fue el SUV-wagon de lujo exclusivo de Honda para Japón: motor F23A de 2.3 litros o J30A V6 de 3.0 litros y 210 CV, 4WD, suspensión independiente en las cuatro ruedas y navegación GPS. Rival del Toyota Harrier y Nissan Bassara. Raro y muy buscado hoy en el mercado JDM.',
+    { potencia: '210 CV', peso: '1.680 kg', traccion: '4WD', velocidad_max: '190 km/h' }),
+
+  car('honda_crossroad_jdm', 'Honda Crossroad JDM (1a gen)', ['Japón'], 1993, 1998,
+    ['SUV', '3.9', 'V8', '4x4'],
+    'El Honda Crossroad de primera generación fue técnicamente un Land Rover Discovery con insignias Honda, vendido exclusivamente en Japón gracias al acuerdo de colaboración Honda-Rover. Motor V8 de 3.9 litros y 180 CV, transmisión Land Rover de 4 velocidades con baja. La única rareza histórica: el único Honda con motor V8 de producción.',
+    { potencia: '180 CV', peso: '2.120 kg', traccion: '4WD', velocidad_max: '165 km/h' }),
+
+  car('honda_smx', 'Honda S-MX (RH1)', ['Japón'], 1996, 2002,
+    ['Mini MPV', '2.0', 'Tracción delantera'],
+    'El S-MX fue el mini MPV estilo RV de Honda: carrocería baja de 1.58m con piso completamente plano gracias a la ausencia de túnel de transmisión. Los asientos se bajaban como cama plana completa, atrayendo a una generación de jóvenes japoneses para acampar los fines de semana. Motor F20B de 2.0 litros y 150 CV.',
+    { potencia: '150 CV', peso: '1.400 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('honda_lagreat', 'Honda LaGreat (RL1)', ['Japón'], 1999, 2004,
+    ['Minivan', '3.5', 'V6', '4x4'],
+    'El LaGreat fue la minivan de lujo de Honda para Japón: plataforma Odyssey con motor V6 J35A de 3.5 litros y 240 CV, AWD de serie, cuero, DVD trasero y trizona. Alternativa al Nissan Elgrand y Toyota Estima de lujo. Vendido solo en Japón en números muy limitados.',
+    { potencia: '240 CV', peso: '2.040 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('honda_elysion', 'Honda Elysion RR1', ['Japón'], 2004, 9999,
+    ['Minivan', '2.4', '3.0', 'V6', 'Tracción delantera'],
+    'El Elysion fue el MPV premium de Honda para Japón y China: carrocería "low-floor" con tres filas cómodas, motor K24A de 2.4 litros o J30A V6 de 3.0 litros y 210 CV. En China se convirtió en el MPV premium Honda más vendido, compitiendo directamente con el Toyota Alphard en ese segmento.',
+    { potencia: '210 CV', peso: '1.880 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('honda_frv', 'Honda FR-V / Edix (BE1)', ['Japón'], 2004, 2009,
+    ['MPV', '1.7', '2.0', 'Tracción delantera'],
+    'El FR-V / Edix fue el MPV más inusual de Honda: seis plazas en carrocería del tamaño de un Civic gracias a la disposición 3+3 —tres asientos delanteros y tres traseros, todos con acceso individual y cinturones—. Ningún otro fabricante ofreció algo igual. Motor D17A de 1.7 litros o K20A de 2.0 litros.',
+    { potencia: '140 CV', peso: '1.280 kg', traccion: 'FF', velocidad_max: '195 km/h' }),
+
+  car('honda_orthia', 'Honda Orthia (EL2)', ['Japón'], 1996, 2002,
+    ['Wagon', '1.8', 'Tracción delantera'],
+    'El Orthia fue el station wagon de Honda basado en la plataforma del Domani: carrocería wagon familiar con motor B18B de 1.8 litros y 130 CV. La versión S con VTEC ofrecía 145 CV. Descontinuado cuando Honda apostó completamente por los crossovers SUV.',
+    { potencia: '130 CV', peso: '1.220 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('honda_airwave', 'Honda Airwave (GJ1)', ['Japón'], 2005, 2010,
+    ['Wagon', '1.5', 'Tracción delantera'],
+    'El Airwave fue el wagon basado en el Fit: carrocería alargada con gran techo panorámico "sky roof" sobre toda la extensión del techo. Motor L15A de 1.5 litros y 110 CV. La versión 4WD fue muy popular en zonas con nieve. Sucedido por el Honda Shuttle en 2011.',
+    { potencia: '110 CV', peso: '1.160 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_shuttle', 'Honda Shuttle GP7', ['Japón'], 2015, 2022,
+    ['Wagon', '1.5', 'Híbrido', 'e:HEV', 'Tracción delantera'],
+    'El Shuttle fue el station wagon híbrido Honda basado en el Fit: 340 litros más de maletero en la misma huella exterior. Sistema híbrido i-DCD de 136 CV y consumo de 3.6L/100km —el wagon más eficiente de Japón. Versión 4WD eléctrica con motor eléctrico trasero independiente, única en el segmento wagon.',
+    { potencia: '136 CV', peso: '1.350 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_jade', 'Honda Jade FR5', ['Japón'], 2015, 2020,
+    ['MPV', '1.5', 'Turbo', 'Híbrido', 'Tracción delantera'],
+    'El Jade FR5 fue el compact MPV de 6 plazas con la carrocería más baja del segmento (1.530mm). Motor L15B turbo de 1.5 litros o híbrido i-DCD de 170 CV. Diseño tipo coupé-wagon con línea de techo inclinada lo diferenciaba radicalmente del Stepwgn. La tercera fila se plegaba al suelo para maletero completamente plano.',
+    { potencia: '170 CV', peso: '1.480 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('honda_grace', 'Honda Grace GM4', ['Japón'], 2014, 2020,
+    ['Sedán', '1.5', 'Híbrido', 'Tracción delantera'],
+    'El Grace fue el sedán compacto híbrido de Honda para Japón, basado en el Fit con carrocería de 3 volúmenes. Motor L15B con sistema IMA de 110 CV y consumo de 4.6L/100km. La versión AWD con motor eléctrico trasero independiente fue la primera en ese segmento de precio.',
+    { potencia: '110 CV', peso: '1.140 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_crosstour', 'Honda Accord Crosstour', ['Japón'], 2009, 2015,
+    ['SUV Wagon', '2.4', '3.5', 'V6', '4x4'],
+    'El Crosstour fue el intento de Honda de crear un crossover basado en el Accord: carrocería fastback elevada con gran puerta trasera motorizada. Motor K24Z3 de 2.4 litros o J35Z2 V6 de 3.5 litros y 271 CV. En China fue muy exitoso pero en EE.UU. fue rechazado por su diseño polarizador. Descontinuado en 2015 sin sucesor.',
+    { potencia: '192 CV', peso: '1.660 kg', traccion: '4WD', velocidad_max: '200 km/h' }),
+
+  // ── HONDA (mercados globales) ──────────────────────────────────────────────
+
+  car('honda_brio', 'Honda Brio (DD1)', ['Japón'], 2011, 9999,
+    ['Hatchback', '1.2', 'Tracción delantera'],
+    'El Brio fue el entry-level de Honda para mercados en desarrollo: Indonesia, India, Filipinas y Tailandia. Motor L12B de 1.2 litros y 88 CV en carrocería de 3 o 5 puertas. Diseñado para calles estrechas y tráfico caótico de ciudades asiáticas. En Indonesia fue el Honda más vendido durante años y la base del MPV Mobilio.',
+    { potencia: '88 CV', peso: '850 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('honda_mobilio', 'Honda Mobilio (GB3)', ['Japón'], 2001, 9999,
+    ['MPV', '1.5', '7 plazas', 'Tracción delantera'],
+    'El Mobilio fue el MPV de 7 plazas de Honda para el sudeste asiático, basado en el Fit con carrocería de 3 filas alargada. Motor L15A de 1.5 litros. En Indonesia fue el MPV más popular durante años por precio bajo y fiabilidad Honda. La segunda generación de 2014 basada en el Brio vendió más de 500.000 unidades en Indonesia, Tailandia y Filipinas.',
+    { potencia: '100 CV', peso: '1.110 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('honda_brv', 'Honda BR-V (GP5)', ['Japón'], 2015, 9999,
+    ['SUV', '1.5', '7 plazas', 'Tracción delantera'],
+    'El BR-V fue el crossover SUV de 7 plazas de Honda para el sudeste asiático: elevación del Mobilio con estilo SUV y motor L15Z de 1.5 litros y 120 CV. En Indonesia, Filipinas y Malaysia fue el crossover 7 plazas más vendido de Honda por precio accesible y fiabilidad.',
+    { potencia: '120 CV', peso: '1.220 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_wrv', 'Honda WR-V (GX)', ['Japón'], 2023, 9999,
+    ['SUV', '1.5', 'Tracción delantera'],
+    'El WR-V de 2023 fue completamente rediseñado para Japón y mercados globales: subcompacto B-SUV con motor L15Z de 1.5 litros y 118 CV, Honda Sensing de serie y pantalla de 9". En Singapur y Japón reemplazó al HR-V GH como SUV de entrada de la marca.',
+    { potencia: '118 CV', peso: '1.150 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('honda_clarity', 'Honda Clarity FCEV/PHEV', ['Japón'], 2016, 2021,
+    ['Sedán', 'FCEV', 'PHEV', 'Eléctrico'],
+    'El Clarity fue el proyecto de tecnología alternativa más ambicioso de Honda: disponible en tres versiones —pila de combustible hidrógeno con 366 km de autonomía, enchufable PHEV con 77 km eléctricos, o puramente eléctrico con 211 km—. La versión FCEV se arrendaba solo en California. Demostró que la tecnología alternativa no requería diseños extravagantes.',
+    { potencia: '174 CV', peso: '1.875 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('honda_prologue', 'Honda Prologue EV', ['Japón'], 2024, 9999,
+    ['SUV', 'Eléctrico', 'Plataforma GM Ultium'],
+    'El Prologue fue el primer EV de Honda en EE.UU. y surgió de la alianza con General Motors: construido sobre la plataforma Ultium de GM con motor eléctrico de 288 CV, batería de 85 kWh y 475 km de autonomía. Representa el puente de Honda hacia sus propios EVs (plataforma 0) previstos desde 2026.',
+    { potencia: '288 CV', peso: '2.049 kg', traccion: '4WD', velocidad_max: '180 km/h' }),
+
   // ── MAZDA ─────────────────────────────────────────────────────────────────
 
   car('mazda_rx7_sa', 'Mazda RX-7 SA22C', ['Japón'], 1978, 1985,
