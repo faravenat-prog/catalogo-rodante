@@ -699,16 +699,6 @@ export const JAPAN = [
     'El Patrol Y60 fue el competidor directo del Land Cruiser FJ80 en el segmento de 4x4 de trabajo duro. Con carrocería sobre bastidor de escalera, opciones de diesel o gasolina y sistema 4WD part-time, era tan durable y capaz como su rival japonés. Muy popular en Medio Oriente, África y Latinoamérica por su resistencia en condiciones extremas.',
     { potencia: '105 CV', peso: '1.950 kg', traccion: '4WD', velocidad_max: '145 km/h' }),
 
-  car('datsun_fairlady_z_s30', 'Datsun 240Z (Fairlady Z S30)', ['Japón'], 1969, 1978,
-    ['Deportivo', 'Coupé', '2.4', 'Tracción trasera'],
-    'El 240Z fue el primer deportivo japonés que convenció al mundo de que Japón podía fabricar autos de lujo. Con motor 6 cilindros en línea de 2.4 litros, diseño que evocaba el E-Type Jaguar y un precio 40% menor que los europeos comparables, fue un fenómeno de ventas especialmente en EE.UU. Padre de una saga que continúa hasta hoy.',
-    { potencia: '151 CV', peso: '1.045 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
-
-  car('datsun_bluebird_510', 'Datsun Bluebird 510', ['Japón'], 1967, 1973,
-    ['Sedán', '1.6', 'Tracción trasera'],
-    'El Bluebird 510 fue el auto que convenció al mercado norteamericano de que los autos japoneses podían ser ingeniería seria. Con suspensión independiente en las cuatro ruedas —algo inusual en su clase y precio— y un motor confiable, ganó múltiples premios de automovilismo amateur en EE.UU. Peter Brock lo llevó a la victoria en las Trans-Am.',
-    { potencia: '96 CV', peso: '870 kg', traccion: 'FR', velocidad_max: '165 km/h' }),
-
   // ── NISSAN (Skyline historia completa) ────────────────────────────────────
 
   car('nissan_skyline_kpgc10', 'Nissan Skyline GT-R KPGC10 "Hakosuka"', ['Japón'], 1969, 1972,
@@ -947,6 +937,181 @@ export const JAPAN = [
     'El Serena C25 fue la minivan familiar de precio accesible de Nissan, con puertas deslizantes eléctricas en ambos lados y 8 plazas. Motor MR20DE de 2.0 litros y 136 CV con tracción delantera o 4WD. El sistema "S-Hybrid" de recuperación de energía en frenado llegó en versiones tardías, siendo el primer híbrido ligero de Nissan. En Japón fue la minivan familiar más vendida durante su ciclo.',
     { potencia: '136 CV', peso: '1.760 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
 
+  // ── NISSAN (Skyline sedanes clásicos) ─────────────────────────────────────
+
+  car('nissan_skyline_c10', 'Nissan Skyline C10 (base)', ['Japón'], 1968, 1972,
+    ['Sedán', '1.8', 'Tracción trasera'],
+    'El Skyline C10 base fue el sedán familiar que llevó el nombre Skyline a las masas. Con motor L18 de 1.8 litros y carrocería de cuatro puertas, era el auto de familia rápido y fiable de Nissan. La versión GT-R que se derivó de él hizo la fama, pero el C10 sedán fue el que vendió en masa y sentó las bases del Skyline como la berlina aspiracional japonesa por excelencia.',
+    { potencia: '105 CV', peso: '1.010 kg', traccion: 'FR', velocidad_max: '165 km/h' }),
+
+  car('nissan_skyline_c110', 'Nissan Skyline C110 "Kenmeri" (base)', ['Japón'], 1972, 1977,
+    ['Sedán', '2.0', 'Tracción trasera'],
+    'El Skyline C110 "Kenmeri" (por la campaña "Ken and Mary") fue el primer Skyline construido como auto moderno completo, con mayor espacio interior, mejor acabado y opciones de motor más amplias. El L20 de 2.0 litros era la base, con la versión 2000GT-X con DOHC de 145 CV en la cúspide. Solo 197 unidades del GT-R se construyeron, lo que convirtió al C110 base en el Skyline más fabricado de la historia.',
+    { potencia: '115 CV', peso: '1.060 kg', traccion: 'FR', velocidad_max: '170 km/h' }),
+
+  car('nissan_skyline_c210', 'Nissan Skyline C210 "Japan"', ['Japón'], 1977, 1981,
+    ['Sedán', '2.0', 'Tracción trasera'],
+    'El Skyline C210 apodado "Japan" fue el más austero de la era Skyline clásica, llegando durante la crisis del petróleo cuando Nissan debía equilibrar economía y rendimiento. Con motor L20B de 2.0 litros y 125 CV, mantuvo la tracción trasera que definía al Skyline. La versión GT-EX con motor FJ20 DOHC fue la más deportiva de la gama y precursora del R30 Turbo.',
+    { potencia: '125 CV', peso: '1.100 kg', traccion: 'FR', velocidad_max: '170 km/h' }),
+
+  // ── NISSAN (sedanes clásicos JDM) ─────────────────────────────────────────
+
+  car('nissan_silvia_s110', 'Nissan Silvia S110 (3a gen)', ['Japón'], 1979, 1983,
+    ['Coupé', '1.8', '2.0', 'Tracción trasera'],
+    'El Silvia S110 fue el primero en usar el nombre "Silvia" después del S10 original, con diseño cuadrado propio de la época y opciones de motor CA18ET turbo de 135 CV. En EE.UU. se vendió como 200SX y fue el primer Silvia exitoso en mercados de exportación. Su carrocería hatchback o notchback y la tracción trasera sentaron las bases del S12 y los legendarios S13-S15.',
+    { potencia: '135 CV', peso: '1.050 kg', traccion: 'FR', velocidad_max: '190 km/h' }),
+
+  car('nissan_gloria_y32', 'Nissan Gloria Y32', ['Japón'], 1991, 1995,
+    ['Sedán', '2.0', '3.0', 'V6', 'Tracción trasera'],
+    'El Gloria Y32 fue el sedán ejecutivo de lujo de Nissan, rival directo del Toyota Crown. Con motor VG30E V6 de 3.0 litros y 180 CV, o el VG30DET turbo de 255 CV en la versión Gran Turismo, era uno de los sedanes de tracción trasera más rápidos de Japón. La versión Autech Stage con kit de carrocería y suspensión sport fue especialmente popular en la escena VIP.',
+    { potencia: '255 CV', peso: '1.680 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_cima_f50', 'Nissan Cima F50 (Infiniti Q45)', ['Japón'], 2001, 2010,
+    ['Sedán', '4.5', 'V8', 'Tracción trasera'],
+    'El Cima F50 fue la berlina de lujo máxima de Nissan, con motor VK45DE V8 de 4.5 litros y 340 CV. Compitiendo con el Lexus LS430 y el BMW Serie 7, ofrecía suspensión hidráulica activa, asientos con masaje y pantalla de navegación de 8". Fuera de Japón se llamó Infiniti Q45. Sus dimensiones y nivel de equipamiento lo posicionaban cerca del segmento Maybach.',
+    { potencia: '340 CV', peso: '1.840 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_fuga_y51', 'Nissan Fuga Y51 (Infiniti M)', ['Japón'], 2009, 9999,
+    ['Sedán', '2.5', '3.7', 'V6', 'Híbrido', 'Tracción trasera'],
+    'El Fuga Y51 fue el sedán ejecutivo mediano de Nissan con motor VQ37VHR V6 de 3.7 litros y 333 CV o la versión híbrida con 364 CV sistema total. Su chasis trasero con diferencial electrónico y dirección activa trasera daban un manejo extraordinariamente dinámico. Fuera de Japón se llamó Infiniti M37/M56 y compitió directamente con el BMW Serie 5 y el Mercedes Clase E.',
+    { potencia: '333 CV', peso: '1.720 kg', traccion: 'FR', velocidad_max: '250 km/h' }),
+
+  car('nissan_primera_p10', 'Nissan Primera P10 (1a gen)', ['Japón'], 1990, 1995,
+    ['Sedán', 'Hatchback', '1.6', '2.0', 'Tracción delantera'],
+    'El Primera P10 fue la respuesta de Nissan al Golf y al Cavalier con un enfoque en el manejo deportivo por encima del confort. Su suspensión multilink trasera era inusual en el segmento y daba un manejo más preciso que cualquier rival. Con motor SR20DE de 2.0 litros y 150 CV en la versión 2.0e, ganó el premio al Mejor Auto del Año del Reino Unido en 1991.',
+    { potencia: '150 CV', peso: '1.170 kg', traccion: 'FF', velocidad_max: '205 km/h' }),
+
+  car('nissan_almera_n15', 'Nissan Almera N15', ['Japón'], 1995, 2000,
+    ['Sedán', 'Hatchback', '1.4', '1.6', 'Tracción delantera'],
+    'El Almera N15 reemplazó al Sunny como el compacto europeo de Nissan. Con motor GA16DE de 1.6 litros y 99 CV, ofrecía equipamiento generoso a precio accesible. Fue fabricado en España (Barcelona) para el mercado europeo y fue el primer Nissan en ofrecer airbag doble de serie. La versión GTi con SR20DE de 150 CV fue una hot hatch discreta pero genuinamente rápida.',
+    { potencia: '99 CV', peso: '1.080 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('nissan_almera_n16', 'Nissan Almera N16', ['Japón'], 2000, 2006,
+    ['Sedán', 'Hatchback', '1.5', '1.8', 'Tracción delantera'],
+    'El Almera N16 fue el segundo y último Almera, con líneas más redondeadas y motor QG15DE de 1.5 litros como base. Fue el Nissan compacto más vendido en Europa en su época, con el Premio al Mejor Auto en varios países. La versión Tino (MPV) ofrecía espacio de minivan en dimensiones de compacto. Fue reemplazado por el Tiida y el Note en distintos mercados.',
+    { potencia: '98 CV', peso: '1.130 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('nissan_almera_tino', 'Nissan Almera Tino V10', ['Japón'], 2000, 2006,
+    ['MPV', '1.8', '2.2', 'Diesel', 'Tracción delantera'],
+    'El Almera Tino fue el MPV compacto de Nissan basado en la plataforma del Almera N16 pero con carrocería alta tipo monovolumen. Con motor QR20DE de 2.0 litros o el diesel YD22DDTi de 2.2 litros, ofrecía espacio para 5 pasajeros con el perfil de un compacto. La fila trasera deslizante y la configuración 2+3 de asientos eran característica única del modelo.',
+    { potencia: '136 CV', peso: '1.420 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('nissan_sunny_b12', 'Nissan Sunny B12', ['Japón'], 1986, 1991,
+    ['Sedán', '1.3', '1.5', 'Tracción delantera'],
+    'El Sunny B12 fue la versión japonesa del compacto familiar de Nissan, conocido como Pulsar en otros mercados. Con motor GA13S de 1.3 litros o E15ET turbo de 1.5 litros, era el sedán familiar más asequible de Nissan. En Latinoamérica fue importado en pequeñas cantidades y dejó huella por su sencillez mecánica y durabilidad. Padre del Sentra B13 que vendría después.',
+    { potencia: '82 CV', peso: '870 kg', traccion: 'FF', velocidad_max: '160 km/h' }),
+
+  car('nissan_sylphy_b17', 'Nissan Sylphy B17', ['Japón'], 2012, 9999,
+    ['Sedán', '1.6', '1.8', 'Tracción delantera'],
+    'El Sylphy B17 es el sedán familiar mediano de Nissan para Asia y Oriente Medio, con dimensiones generosas y enfoque en el confort del pasajero trasero. Motor HR16DE de 1.6 litros o el MRA8DE de 1.8 litros. En China es uno de los sedanes más vendidos de Nissan con más de 300.000 unidades anuales. La versión e-Power (2021) con motor eléctrico de 136 CV fue un hito en el mercado chino.',
+    { potencia: '122 CV', peso: '1.310 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  car('nissan_versa_n17', 'Nissan Versa N17 (Note)', ['Japón'], 2011, 9999,
+    ['Sedán', 'Hatchback', '1.6', 'Tracción delantera'],
+    'El Versa N17 fue el subcompacto más económico de Nissan para el mercado americano, con motor HR16DE de 1.6 litros y 109 CV. Su punto fuerte era el precio base más bajo del segmento en EE.UU. y el mayor espacio interior de su clase. En México fue uno de los autos más vendidos durante años consecutivos. La versión Hatchback se llamó Versa Note y la berlina simplemente Versa.',
+    { potencia: '109 CV', peso: '1.110 kg', traccion: 'FF', velocidad_max: '170 km/h' }),
+
+  car('nissan_sentra_b17', 'Nissan Sentra B17 (7a gen)', ['Japón'], 2012, 9999,
+    ['Sedán', '1.8', 'Tracción delantera'],
+    'El Sentra B17 fue el sedán compacto más refinado de Nissan hasta esa fecha, con líneas de coupé, motor MRA8DE de 1.8 litros y 132 CV con CVT Xtronic de serie. Su coeficiente aerodinámico de 0.29Cd era el más bajo de la categoría. En Chile, México y Colombia fue el sedán compacto japonés más vendido en varios años. La versión SR con techo de vidrio y llantas de 17" fue la más popular.',
+    { potencia: '132 CV', peso: '1.270 kg', traccion: 'FF', velocidad_max: '185 km/h' }),
+
+  // ── NISSAN (SUVs y crossovers adicionales) ────────────────────────────────
+
+  car('nissan_qashqai_j10', 'Nissan Qashqai J10 (1a gen)', ['Japón'], 2007, 2013,
+    ['SUV', '1.6', '2.0', 'Tracción delantera'],
+    'El Qashqai J10 inventó el segmento del crossover compacto urbano tal como lo conocemos hoy. Con motor MR20DE de 2.0 litros y 141 CV, carrocería alta pero sin capacidades todoterreno reales, fue el primer SUV pensado exclusivamente para la ciudad. En Europa fue el crossover más vendido en 2008 y 2009. Diseñado en el centro de diseño europeo de Nissan en Londres.',
+    { potencia: '141 CV', peso: '1.395 kg', traccion: 'FF', velocidad_max: '190 km/h' }),
+
+  car('nissan_qashqai_j11', 'Nissan Qashqai J11 (2a gen)', ['Japón'], 2013, 9999,
+    ['SUV', '1.2', '1.6', 'Turbo', 'Tracción delantera'],
+    'El Qashqai J11 creció en refinamiento con motores turbo más eficientes: DIG-T 1.2 litros de 115 CV o el 1.6 de 163 CV. La versión e-Power (2021) con motor eléctrico de 190 CV fue el primer Qashqai sin caja de cambios convencional. El sistema ProPilot de conducción autónoma Nivel 2 llegó en 2017 como pionero en el segmento. Es el crossover más vendido de Europa en múltiples años.',
+    { potencia: '163 CV', peso: '1.415 kg', traccion: 'FF', velocidad_max: '200 km/h' }),
+
+  car('nissan_kicks_p15', 'Nissan Kicks P15', ['Japón'], 2016, 9999,
+    ['SUV', '1.6', 'Tracción delantera'],
+    'El Kicks P15 fue el crossover subcompacto de Nissan para mercados emergentes, diseñado en Brasil para el mundo. Con motor HR16DE de 1.6 litros y 114 CV, su precio accesible y diseño dinámico lo hicieron éxito inmediato en Latinoamérica. En Chile fue el SUV subcompacto más vendido durante su primer año. La versión e-Power con motor eléctrico de 136 CV transformó su propuesta en los mercados asiáticos.',
+    { potencia: '114 CV', peso: '1.202 kg', traccion: 'FF', velocidad_max: '175 km/h' }),
+
+  car('nissan_dualis_j10', 'Nissan Dualis / Qashqai+2 (J10)', ['Japón'], 2007, 2013,
+    ['SUV', '2.0', '4x4'],
+    'El Dualis fue la versión AWD y de mayor tamaño del Qashqai J10, vendido como Dualis en Japón y Australia, y como Qashqai+2 en Europa (con tercera fila de asientos). Motor MR20DE de 2.0 litros y sistema AWD automático. La variante de 7 plazas con tercera fila fue única en el segmento y muy popular en familias australianas. Fue la base del futuro Rogue para el mercado americano.',
+    { potencia: '141 CV', peso: '1.500 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('nissan_rogue_t32', 'Nissan Rogue / X-Trail T32', ['Japón'], 2013, 9999,
+    ['SUV', '2.0', '2.5', '4x4'],
+    'El Rogue T32 (X-Trail en el resto del mundo) fue el SUV mediano de Nissan sobre plataforma CMF-CD. Con motor QR25DE de 2.5 litros y 170 CV y sistema AWD inteligente de embrague electrónico, fue el SUV más vendido de Nissan en EE.UU. La versión de 7 plazas con tercera fila fue inédita en el segmento. El sistema ProPilot de conducción autónoma se añadió en 2018.',
+    { potencia: '170 CV', peso: '1.640 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
+  car('nissan_magnite_b0', 'Nissan Magnite (B0)', ['Japón'], 2020, 9999,
+    ['SUV', '1.0', 'Turbo', 'Tracción delantera'],
+    'El Magnite fue el SUV subcompacto de Nissan diseñado específicamente para mercados emergentes como India, Indonesia y Latinoamérica. Con motor HRA0DDT turbo de 1.0 litros y 100 CV, en India fue el más económico del segmento con precio inferior a los 7.000 dólares. Su diseño atrevido con parrilla flotante y llantas de 16" lo hacen visualmente más grande de lo que es.',
+    { potencia: '100 CV', peso: '980 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('nissan_xterra_n50', 'Nissan Xterra N50 (2a gen)', ['Japón'], 2005, 2015,
+    ['SUV', '4.0', 'V6', '4x4'],
+    'El Xterra N50 fue el último SUV de chasis escalera de Nissan para el mercado americano, con motor VQ40DE V6 de 4.0 litros y 261 CV. Su barra de techo de serie, protectores de carrocería y bloqueo de diferencial trasero lo hacían el SUV off-road más capaz de Nissan. La versión Pro-4X con suspensión BILSTEIN de serie fue la más apreciada por los enthusiasts del todoterreno.',
+    { potencia: '261 CV', peso: '1.984 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('nissan_armada_a60', 'Nissan Armada / Patrol A60 (2a gen)', ['Japón'], 2016, 9999,
+    ['SUV', '5.6', 'V8', '4x4'],
+    'El Armada A60 fue el SUV full-size de Nissan para el mercado americano, compartiendo plataforma con el Patrol Y62. Motor VK56VD V8 de 5.6 litros y 390 CV con caja de 7 velocidades. Con capacidad para 8 pasajeros y remolque de hasta 3.9 toneladas, compite con el Chevrolet Tahoe y el Ford Expedition. Su sistema de suspensión hidráulica activa es transferido directamente del Patrol Y62.',
+    { potencia: '390 CV', peso: '2.760 kg', traccion: '4WD', velocidad_max: '195 km/h' }),
+
+  car('nissan_terra_p61b', 'Nissan Terra P61B', ['Japón'], 2018, 9999,
+    ['SUV', '2.5', 'Diesel', '4x4'],
+    'El Terra fue el SUV de 7 plazas de Nissan para Asia Pacífico basado en la plataforma del Navara D23. Con motor YS25DDTi diesel de 2.5 litros y 190 CV y chasis escalera, es el SUV más capaz de la gama Nissan para uso mixto urbano-todoterreno. Muy popular en Filipinas, Tailandia y Chile como alternativa al Toyota Fortuner con mayor espacio interior de tercera fila.',
+    { potencia: '190 CV', peso: '2.050 kg', traccion: '4WD', velocidad_max: '170 km/h' }),
+
+  car('nissan_pathfinder_r51', 'Nissan Pathfinder R51 (3a gen)', ['Japón'], 2004, 2012,
+    ['SUV', '2.5', '4.0', 'V6', 'Diesel', '4x4'],
+    'El Pathfinder R51 fue la generación de transición entre SUV de trabajo y crossover familiar. Motor VQ40DE V6 de 4.0 litros y 266 CV o el diesel YD25DDTi de 2.5 litros turbo con 174 CV. Con siete plazas y techo solar panorámico, fue el Pathfinder más vendido de la historia. En Chile fue un bestseller en el segmento de SUV medianos durante toda su producción.',
+    { potencia: '266 CV', peso: '2.050 kg', traccion: '4WD', velocidad_max: '180 km/h' }),
+
+  car('nissan_murano_z51', 'Nissan Murano Z51 (2a gen)', ['Japón'], 2008, 2014,
+    ['SUV', '3.5', 'V6', '4x4'],
+    'El Murano Z51 mantuvo el diseño cupé atrevido de su predecesor pero con mayor refinamiento. Motor VQ35DE de 3.5 litros y 265 CV con CVT Xtronic. El techo panorámico de apertura completa y el interior de cuero Graphite Black eran los elementos de lujo más destacados. La versión CrossCabriolet de 2011 con capota de tela plegable fue el único SUV convertible de producción en serie del mundo.',
+    { potencia: '265 CV', peso: '1.990 kg', traccion: '4WD', velocidad_max: '200 km/h' }),
+
+  car('nissan_skyline_crossover', 'Nissan Skyline Crossover (J50)', ['Japón'], 2007, 2014,
+    ['SUV', '3.7', 'V6', '4x4'],
+    'El Skyline Crossover fue la versión SUV del Skyline V36, vendido fuera de Japón como Infiniti EX35/EX37. Con motor VQ37VHR de 3.7 litros y 333 CV y sistema AWD inteligente, era el crossover de lujo más dinámico del mercado japonés. Su plataforma y suspensión trasera multilink eran directamente heredadas del Skyline sedán, garantizando un manejo excepcional para la categoría.',
+    { potencia: '333 CV', peso: '1.810 kg', traccion: '4WD', velocidad_max: '250 km/h' }),
+
+  // ── NISSAN (pick-ups y comerciales adicionales) ───────────────────────────
+
+  car('nissan_titan_a60', 'Nissan Titan A60 (1a gen)', ['Japón'], 2003, 2015,
+    ['Pick-up', '5.6', 'V8', '4x4'],
+    'El Titan A60 fue el primer intento de Nissan de entrar al mercado de pick-ups full-size americano. Motor VK56DE V8 de 5.6 litros y 317 CV, fabricado en Canton, Mississippi. Su garantía de 5 años/100.000 millas fue la más generosa del segmento en su lanzamiento. A pesar de un buen producto, nunca logró superar el 5% de participación en el mercado dominado por Ford, GM y Ram.',
+    { potencia: '317 CV', peso: '2.270 kg', traccion: '4WD', velocidad_max: '175 km/h' }),
+
+  car('nissan_nv200_m20', 'Nissan NV200 / e-NV200', ['Japón'], 2009, 9999,
+    ['Furgoneta', '1.6', 'Comercial'],
+    'El NV200 fue la furgoneta compacta de Nissan, adoptada como taxi oficial de Nueva York (en versión eléctrica e-NV200 con motor de 109 CV y 200 km de autonomía) y de múltiples ciudades europeas. Con motor HR16DE de 1.6 litros y carga máxima de 765 kg, combinaba agilidad urbana con practicidad comercial. La versión eléctrica fue pionera en la electrificación de flotas de taxis.',
+    { potencia: '110 CV', peso: '1.700 kg', traccion: 'FF', velocidad_max: '145 km/h' }),
+
+  car('nissan_urvan_e26', 'Nissan Urvan / NV350 E26', ['Japón'], 2012, 9999,
+    ['Furgoneta', '2.5', 'Diesel', 'Comercial'],
+    'El Urvan E26 (NV350 en Japón) es la furgoneta grande de Nissan, rival del Toyota HiAce H200. Con motor YD25DDTi diesel de 2.5 litros turbo y 129 CV, carrocería de techo alto opcional y carga de hasta 1.000 kg, domina el mercado de transporte de pasajeros en Asia. En Chile es ampliamente usada como ambulancia, transporte escolar y furgoneta de carga.',
+    { potencia: '129 CV', peso: '2.010 kg', traccion: 'FR', velocidad_max: '150 km/h' }),
+
+  // ── NISSAN (eléctricos y especiales adicionales) ──────────────────────────
+
+  car('nissan_sakura', 'Nissan Sakura (B6AW)', ['Japón'], 2022, 9999,
+    ['Kei', 'Eléctrico', 'Tracción delantera'],
+    'El Sakura es el kei car eléctrico co-desarrollado con Mitsubishi (eK Cross EV). Batería de 20 kWh con 180 km de autonomía WLTCm, motor de 47 CV. En Japón fue el vehículo eléctrico más vendido de 2022 y 2023, superando al Nissan Leaf. Su tamaño kei lo hace perfecto para ciudades japonesas. Fue el detonante del boom de los mini EVs en Japón.',
+    { potencia: '47 CV', peso: '1.080 kg', traccion: 'FF', velocidad_max: '130 km/h' }),
+
+  car('nissan_livina_c11', 'Nissan Livina C11', ['Japón'], 2006, 9999,
+    ['MPV', '1.6', '1.8', 'Tracción delantera'],
+    'El Livina fue el MPV compacto de 7 plazas de Nissan para Asia Pacífico y Latinoamérica, con motor HR16DE de 1.6 litros y configuración de asientos 2-3-2. Su precio accesible y practicidad lo hicieron favorito para familias grandes con presupuesto limitado. En Brasil fue ensamblado localmente y fue uno de los 10 autos más vendidos del país durante varios años.',
+    { potencia: '109 CV', peso: '1.345 kg', traccion: 'FF', velocidad_max: '165 km/h' }),
+
+  car('nissan_prairie_m11', 'Nissan Prairie M11', ['Japón'], 1988, 1998,
+    ['MPV', '2.0', '4x4'],
+    'El Prairie M11 fue la segunda generación de la Prairie, el primer MPV de Nissan y uno de los primeros del mundo en ofrecer puertas deslizantes traseras en ambos lados. Con motor SR20DE de 2.0 litros y 150 CV y opción de 4WD, era el único MPV con capacidades de conducción deportiva. Fue un precursor del X-Trail en concepto de MPV-crossover todoterreno.',
+    { potencia: '150 CV', peso: '1.420 kg', traccion: '4WD', velocidad_max: '185 km/h' }),
+
   // ── NISSAN (especiales y únicos) ──────────────────────────────────────────
 
   car('nissan_figaro', 'Nissan Figaro', ['Japón'], 1991, 1991,
@@ -968,6 +1133,48 @@ export const JAPAN = [
     ['Crossover', '1.5', '2.0', 'Tracción delantera'],
     'El Rasheen fue el crossover avant-garde de Nissan: carrocería cuadrada con líneas de diseño industrial, inspirada en un Jeep minimalista pero con mecánica de urban hatchback. Con motor SR20DE de 2.0 litros y 135 CV o el GA15DE de 1.5 litros, no tenía las capacidades todoterreno que su aspecto prometía, pero era enormemente original y divertido. Hoy es muy buscado por diseñadores y creativos.',
     { potencia: '135 CV', peso: '1.270 kg', traccion: 'FF', velocidad_max: '180 km/h' }),
+
+  // ── DATSUN ────────────────────────────────────────────────────────────────
+
+  car('datsun_fairlady_sp311', 'Datsun Fairlady SP311', ['Japón'], 1965, 1970,
+    ['Roadster', '1.6', 'Tracción trasera'],
+    'El Fairlady SP311 fue el deportivo roadster de Datsun antes del legendario 240Z. Con motor R16 de 1.6 litros y 96 CV en un cuerpo abierto de apenas 800 kg, era un roadster puro al estilo inglés. Participó en la carrera Pikes Peak y fue el auto que convenció a Nissan de que podían construir un deportivo serio. Padre directo del S30 que cambiaría el mundo.',
+    { potencia: '96 CV', peso: '800 kg', traccion: 'FR', velocidad_max: '175 km/h' }),
+
+  car('datsun_sunny_b10', 'Datsun Sunny B10 (1a gen)', ['Japón'], 1966, 1970,
+    ['Sedán', '1.0', 'Tracción trasera'],
+    'El Sunny B10 fue el primer auto de Datsun diseñado como competidor directo del VW Beetle en el mercado global. Con motor A10 de 1.0 litros y 56 CV en apenas 610 kg, era extraordinariamente eficiente y fiable. Fue la base del exitosísimo Sunny B110 y el inicio de la línea que eventualmente derivaría en el Sentra. En Japón fue el primer auto asequible de clase media.',
+    { potencia: '56 CV', peso: '610 kg', traccion: 'FR', velocidad_max: '130 km/h' }),
+
+  car('datsun_1200_b110', 'Datsun 1200 (B110)', ['Japón'], 1970, 1973,
+    ['Sedán', 'Coupé', '1.2', 'Tracción delantera'],
+    'El Datsun 1200 B110 fue revolucionario: primer auto japonés de tracción delantera en producción masiva. Con motor A12 de 1.2 litros transversal y 69 CV, la versión Coupé de 2 puertas era sorprendentemente deportiva. Ganó su clase en la carrera Baja 1000 de 1973. El motor A12 es considerado uno de los más modificables de la historia de Nissan y sigue en uso en competición amateur.',
+    { potencia: '69 CV', peso: '700 kg', traccion: 'FF', velocidad_max: '145 km/h' }),
+
+  car('datsun_120y_b210', 'Datsun 120Y / Honey Bee (B210)', ['Japón'], 1973, 1978,
+    ['Sedán', 'Hatchback', '1.2', '1.4', 'Tracción delantera'],
+    'El 120Y (B210) fue el Datsun más vendido de los años 70s en Europa y Latinoamérica. Con motor A12 de 1.2 litros y la famosa economía de combustible de 4.5L/100km que Datsun publicitaba, fue elegido por miles de familias como primer auto japonés. La versión Honey Bee Coupé con diseño de 2 puertas y ventana trasera inclinada fue la más querida por jóvenes.',
+    { potencia: '65 CV', peso: '760 kg', traccion: 'FF', velocidad_max: '148 km/h' }),
+
+  car('datsun_fairlady_z_s30', 'Datsun 240Z / Fairlady Z S30', ['Japón'], 1969, 1978,
+    ['Deportivo', 'Coupé', '2.4', 'Tracción trasera'],
+    'El 240Z fue el primer deportivo japonés que convenció al mundo de que Japón podía construir autos de lujo. Con motor L24 de 6 cilindros en línea y 2.4 litros, diseño que evocaba el E-Type Jaguar y un precio 40% menor que los europeos comparables, fue un fenómeno de ventas especialmente en EE.UU. Vendió 156.000 unidades solo en su primer año. Padre de toda la saga Fairlady Z que continúa hasta hoy.',
+    { potencia: '151 CV', peso: '1.045 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
+
+  car('datsun_260z', 'Datsun 260Z / 280Z (S30 tardío)', ['Japón'], 1974, 1978,
+    ['Deportivo', 'Coupé', '2.6', 'Tracción trasera'],
+    'El 260Z y 280Z fueron las evoluciones del 240Z original con motores más grandes para cumplir normas de emisiones americanas que reducían la potencia. El 280Z con motor L28E de 2.8 litros e inyección electrónica recuperó la performance perdida con 170 CV. La versión 2+2 con batalla alargada para cuatro plazas anticipó la evolución del Z hacia un GT más completo.',
+    { potencia: '170 CV', peso: '1.120 kg', traccion: 'FR', velocidad_max: '200 km/h' }),
+
+  car('datsun_bluebird_510', 'Datsun Bluebird 510', ['Japón'], 1967, 1973,
+    ['Sedán', '1.6', 'Tracción trasera'],
+    'El Bluebird 510 fue el auto que convenció al mercado norteamericano de que los autos japoneses podían ser ingeniería seria. Con suspensión independiente en las cuatro ruedas —inusual en su clase y precio— y un motor confiable, ganó múltiples premios de automovilismo amateur en EE.UU. Peter Brock lo llevó a la victoria en carreras Trans-Am. Directamente comparable a los BMW de la época en deportividad.',
+    { potencia: '96 CV', peso: '870 kg', traccion: 'FR', velocidad_max: '165 km/h' }),
+
+  car('datsun_go_f15', 'Datsun GO (F15)', ['Japón'], 2012, 9999,
+    ['Hatchback', '1.2', 'Tracción delantera'],
+    'El Datsun GO marcó el regreso de la marca Datsun después de 30 años, resucitada por Nissan para mercados emergentes como India, Indonesia y Sudáfrica. Con motor HR12DE de 1.2 litros y 67 CV, carece de airbags en versiones base para mantener el precio mínimo. En India fue controversial por su puntuación de 0 estrellas en NCAP, generando debate global sobre seguridad en mercados en desarrollo.',
+    { potencia: '67 CV', peso: '730 kg', traccion: 'FF', velocidad_max: '140 km/h' }),
 
   // ── HONDA ─────────────────────────────────────────────────────────────────
 
