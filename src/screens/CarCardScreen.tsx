@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
-import { View, Text, Image, ScrollView, TouchableOpacity, StyleSheet, Dimensions, FlatList, ActivityIndicator } from 'react-native';
+import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Dimensions, FlatList, ActivityIndicator } from 'react-native';
+import { Image } from 'expo-image';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../navigation';
@@ -54,7 +55,13 @@ export default function CarCardScreen({ navigation, route }: Props) {
           showsHorizontalScrollIndicator={false}
           onMomentumScrollEnd={e => setPhotoIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
           renderItem={({ item }) => (
-            <Image source={{ uri: item }} style={styles.photo} resizeMode="cover" />
+            <Image
+              source={item}
+              style={styles.photo}
+              contentFit="cover"
+              transition={300}
+              placeholder={{ blurhash: 'L6PZfSi_.AyE_3t7t7R**0o#DgR4' }}
+            />
           )}
         />
         {/* Dots */}
