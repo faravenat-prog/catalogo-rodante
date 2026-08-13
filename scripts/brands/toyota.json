@@ -1,0 +1,3912 @@
+[
+  {
+    "id": "toyota_bz3",
+    "nombre": "Toyota bZ3",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_bz7",
+    "nombre": "Toyota bZ7",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_camry",
+    "nombre": "Toyota Camry",
+    "anio_desde": 1982,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_century_sedan",
+    "nombre": "Toyota Century Sedan",
+    "anio_desde": 1967,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_corolla",
+    "nombre": "Toyota Corolla",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_levin_l",
+    "nombre": "Toyota Levin L",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_crown",
+    "nombre": "Toyota Crown",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_s235_crossover",
+    "nombre": "Toyota S235 (crossover)",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_mirai",
+    "nombre": "Toyota Mirai",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_prius",
+    "nombre": "Toyota Prius",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_vios_yaris",
+    "nombre": "Toyota Vios / Yaris",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "toyota_aqua",
+    "nombre": "Toyota Aqua",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_corolla_2",
+    "nombre": "Toyota Corolla",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_gr_corolla",
+    "nombre": "Toyota GR Corolla",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_glanza_starlet",
+    "nombre": "Toyota Glanza/ Starlet",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_vitz",
+    "nombre": "Toyota Vitz",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_yaris_xp150",
+    "nombre": "Toyota Yaris (XP150)",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_yaris_xp210",
+    "nombre": "Toyota Yaris (XP210)",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_gr_yaris",
+    "nombre": "Toyota GR Yaris",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "toyota_bz3x",
+    "nombre": "Toyota bZ3X",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_bz4xbz",
+    "nombre": "Toyota bZ4X/bZ",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_bz4x_touringbz_woodland",
+    "nombre": "Toyota bZ4X Touring/bZ Woodland",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_bz5",
+    "nombre": "Toyota bZ5",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_c_hrc_hr",
+    "nombre": "Toyota C-HR+/C-HR",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_c_hr",
+    "nombre": "Toyota C-HR",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_century_suv",
+    "nombre": "Toyota Century SUV",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_corolla_cross",
+    "nombre": "Toyota Corolla Cross",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_frontlander",
+    "nombre": "Toyota Frontlander",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_crown_estatesignia",
+    "nombre": "Toyota Crown Estate/Signia",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_crown_sport",
+    "nombre": "Toyota Crown Sport",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_grand_highlander",
+    "nombre": "Toyota Grand Highlander",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_harrier",
+    "nombre": "Toyota Harrier",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_highlander_kluger_crown_kluger",
+    "nombre": "Toyota Highlander/ Kluger/ Crown Kluger",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_highlander_bev",
+    "nombre": "Toyota Highlander BEV",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_raize",
+    "nombre": "Toyota Raize",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_rav4",
+    "nombre": "Toyota RAV4",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_wildlander",
+    "nombre": "Toyota Wildlander",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_rush",
+    "nombre": "Toyota Rush",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_urban_cruiser_urban_cruiser_ebella",
+    "nombre": "Toyota Urban Cruiser / Urban Cruiser Ebella",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_urban_cruiser_urban_cruiser_hyryder",
+    "nombre": "Toyota Urban Cruiser / Urban Cruiser Hyryder",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_urban_cruiser_taisor_starlet_cross",
+    "nombre": "Toyota Urban Cruiser Taisor / Starlet Cross",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_yaris_cross",
+    "nombre": "Toyota Yaris Cross",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_ac200",
+    "nombre": "Toyota AC200",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "toyota_fortuner_sw4",
+    "nombre": "Toyota Fortuner/ SW4",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_land_cruiser_70",
+    "nombre": "Toyota Land Cruiser 70",
+    "anio_desde": 1951,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_land_cruiser_300",
+    "nombre": "Toyota Land Cruiser 300",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_land_cruiser_prado250",
+    "nombre": "Toyota Land Cruiser Prado/250",
+    "anio_desde": 1984,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_land_cruiser_fj",
+    "nombre": "Toyota Land Cruiser FJ",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_sequoia",
+    "nombre": "Toyota Sequoia",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "toyota_vellfire_crown_vellfire",
+    "nombre": "Toyota Vellfire/ Crown Vellfire",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_avanza",
+    "nombre": "Toyota Avanza",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_veloz",
+    "nombre": "Toyota Veloz",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_calya",
+    "nombre": "Toyota Calya",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_hiace_commuter_grandia_premio",
+    "nombre": "Toyota HiAce Commuter/ Grandia/ Premio",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_innova",
+    "nombre": "Toyota Innova",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_ag10",
+    "nombre": "Toyota AG10",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_noah",
+    "nombre": "Toyota Noah",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "toyota_proace_verso",
+    "nombre": "Toyota ProAce Verso",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_proace_city_verso",
+    "nombre": "Toyota ProAce City Verso",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_roomy",
+    "nombre": "Toyota Roomy",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_rumion",
+    "nombre": "Toyota Rumion",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_siennagranvia",
+    "nombre": "Toyota Sienna/Granvia",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_sienta",
+    "nombre": "Toyota Sienta",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voxy"
+    ]
+  },
+  {
+    "id": "toyota_gr_gt",
+    "nombre": "Toyota GR GT",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "toyota_copen_gr_sport",
+    "nombre": "Toyota Copen GR Sport",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "toyota_pixis_epoch",
+    "nombre": "Toyota Pixis Epoch",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "toyota_h300",
+    "nombre": "Toyota H300",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_proace",
+    "nombre": "Toyota ProAce",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_proace_city",
+    "nombre": "Toyota ProAce City",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_proace_max",
+    "nombre": "Toyota ProAce Max",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_probox",
+    "nombre": "Toyota Probox",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_townace_liteace",
+    "nombre": "Toyota TownAce / LiteAce",
+    "anio_desde": 1976,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "toyota_hilux_champstoutranggatamaraw",
+    "nombre": "Toyota Hilux Champ/Stout/Rangga/Tamaraw",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "toyota_land_cruiser_j70",
+    "nombre": "Toyota Land Cruiser (J70)",
+    "anio_desde": 1951,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "toyota_tacoma",
+    "nombre": "Toyota Tacoma",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "toyota_tundra",
+    "nombre": "Toyota Tundra",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "toyota_townace_liteace_2",
+    "nombre": "Toyota TownAce / LiteAce",
+    "anio_desde": 1976,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "toyota_pixis_van",
+    "nombre": "Toyota Pixis Van",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei truck"
+    ]
+  },
+  {
+    "id": "toyota_sora",
+    "nombre": "Toyota Sora",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Bus"
+    ]
+  },
+  {
+    "id": "toyota_1000",
+    "nombre": "Toyota 1000",
+    "anio_desde": 1969,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_2000gt",
+    "nombre": "Toyota 2000GT",
+    "anio_desde": 1967,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aaab",
+    "nombre": "Toyota AA/AB",
+    "anio_desde": 1936,
+    "anio_hasta": 1943,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ac",
+    "nombre": "Toyota AC",
+    "anio_desde": 1943,
+    "anio_hasta": 1948,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ae",
+    "nombre": "Toyota AE",
+    "anio_desde": 1941,
+    "anio_hasta": 1943,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_allex",
+    "nombre": "Toyota Allex",
+    "anio_desde": 2001,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_allion_e210",
+    "nombre": "Toyota Allion (E210)",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_altezza",
+    "nombre": "Toyota Altezza",
+    "anio_desde": 1998,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_altezza_gita",
+    "nombre": "Toyota Altezza Gita",
+    "anio_desde": 1998,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aristo",
+    "nombre": "Toyota Aristo",
+    "anio_desde": 1991,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aurion",
+    "nombre": "Toyota Aurion",
+    "anio_desde": 2006,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_auris",
+    "nombre": "Toyota Auris",
+    "anio_desde": 2006,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_avensis",
+    "nombre": "Toyota Avensis",
+    "anio_desde": 1997,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aygo",
+    "nombre": "Toyota Aygo",
+    "anio_desde": 2005,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ba",
+    "nombre": "Toyota BA",
+    "anio_desde": 1940,
+    "anio_hasta": 1943,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bandeirante",
+    "nombre": "Toyota Bandeirante",
+    "anio_desde": 1962,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bb",
+    "nombre": "Toyota bB",
+    "anio_desde": 2000,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_belta_2005",
+    "nombre": "Toyota Belta (2005)",
+    "anio_desde": 2005,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_belta_2021",
+    "nombre": "Toyota Belta (2021)",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_blade",
+    "nombre": "Toyota Blade",
+    "anio_desde": 2006,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_blizzard",
+    "nombre": "Toyota Blizzard",
+    "anio_desde": 1980,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_brevis",
+    "nombre": "Toyota Brevis",
+    "anio_desde": 2001,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_briska",
+    "nombre": "Toyota Briska",
+    "anio_desde": 1967,
+    "anio_hasta": 1968,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cpod",
+    "nombre": "Toyota C+pod",
+    "anio_desde": 2021,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_caldina",
+    "nombre": "Toyota Caldina",
+    "anio_desde": 1992,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cami",
+    "nombre": "Toyota Cami",
+    "anio_desde": 1997,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camry_coupe",
+    "nombre": "Toyota Camry Coupe",
+    "anio_desde": 1991,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camry_solara",
+    "nombre": "Toyota Camry Solara",
+    "anio_desde": 1999,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina",
+    "nombre": "Toyota Carina",
+    "anio_desde": 1970,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina_e",
+    "nombre": "Toyota Carina E",
+    "anio_desde": 1992,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina_ed",
+    "nombre": "Toyota Carina ED",
+    "anio_desde": 1985,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina_ff",
+    "nombre": "Toyota Carina FF",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina_surf",
+    "nombre": "Toyota Carina Surf",
+    "anio_desde": 1982,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_carina_ii",
+    "nombre": "Toyota Carina II",
+    "anio_desde": 1984,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cavalier",
+    "nombre": "Toyota Cavalier",
+    "anio_desde": 1994,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica",
+    "nombre": "Toyota Celica",
+    "anio_desde": 1970,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica_camry",
+    "nombre": "Toyota Celica Camry",
+    "anio_desde": 1980,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica_supra",
+    "nombre": "Toyota Celica Supra",
+    "anio_desde": 1978,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celsior",
+    "nombre": "Toyota Celsior",
+    "anio_desde": 1989,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_chaser",
+    "nombre": "Toyota Chaser",
+    "anio_desde": 1977,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_classic",
+    "nombre": "Toyota Classic",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_comfort",
+    "nombre": "Toyota Comfort",
+    "anio_desde": 1995,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_axio",
+    "nombre": "Toyota Corolla Axio",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_ceres",
+    "nombre": "Toyota Corolla Ceres",
+    "anio_desde": 1992,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_fielder",
+    "nombre": "Toyota Corolla Fielder",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_ii",
+    "nombre": "Toyota Corolla II",
+    "anio_desde": 1982,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_levin",
+    "nombre": "Toyota Corolla Levin",
+    "anio_desde": 1972,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_rumion",
+    "nombre": "Toyota Corolla Rumion",
+    "anio_desde": 2007,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_spacio",
+    "nombre": "Toyota Corolla Spacio",
+    "anio_desde": 1997,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_sr5",
+    "nombre": "Toyota Corolla SR5",
+    "anio_desde": 1983,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_verso",
+    "nombre": "Toyota Corolla Verso",
+    "anio_desde": 2001,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corona",
+    "nombre": "Toyota Corona",
+    "anio_desde": 1957,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corona_exiv",
+    "nombre": "Toyota Corona EXiV",
+    "anio_desde": 1989,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corsa",
+    "nombre": "Toyota Corsa",
+    "anio_desde": 1978,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cressida",
+    "nombre": "Toyota Cressida",
+    "anio_desde": 1973,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cresta",
+    "nombre": "Toyota Cresta",
+    "anio_desde": 1980,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_crown_majesta",
+    "nombre": "Toyota Crown Majesta",
+    "anio_desde": 1991,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_curren",
+    "nombre": "Toyota Curren",
+    "anio_desde": 1994,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_da",
+    "nombre": "Toyota DA",
+    "anio_desde": 1936,
+    "anio_hasta": 1940,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_deliboy",
+    "nombre": "Toyota Deliboy",
+    "anio_desde": 1989,
+    "anio_hasta": 1995,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_duet",
+    "nombre": "Toyota Duet",
+    "anio_desde": 1997,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_echoplatz",
+    "nombre": "Toyota Echo/Platz",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_esquire",
+    "nombre": "Toyota Esquire",
+    "anio_desde": 2014,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_estimaprevia",
+    "nombre": "Toyota Estima/Previa",
+    "anio_desde": 1990,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_etios",
+    "nombre": "Toyota Etios",
+    "anio_desde": 2010,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fa",
+    "nombre": "Toyota FA",
+    "anio_desde": 1954,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fj40",
+    "nombre": "Toyota FJ40",
+    "anio_desde": 1960,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fj_cruiser",
+    "nombre": "Toyota FJ Cruiser",
+    "anio_desde": 2006,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gaia",
+    "nombre": "Toyota Gaia",
+    "anio_desde": 1998,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_supra",
+    "nombre": "Toyota GR Supra",
+    "anio_desde": 1978,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_grand_hiacegranvia",
+    "nombre": "Toyota Grand HiAce/Granvia",
+    "anio_desde": 1999,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hilux_surf",
+    "nombre": "Toyota Hilux Surf",
+    "anio_desde": 1983,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ipsumpicnicsportvan",
+    "nombre": "Toyota Ipsum/Picnic/SportVan",
+    "anio_desde": 1995,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_iq",
+    "nombre": "Toyota iQ",
+    "anio_desde": 2008,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_isis",
+    "nombre": "Toyota Isis",
+    "anio_desde": 2004,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ist",
+    "nombre": "Toyota ist",
+    "anio_desde": 2002,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kijang",
+    "nombre": "Toyota Kijang",
+    "anio_desde": 1977,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_lexcen",
+    "nombre": "Toyota Lexcen",
+    "anio_desde": 1989,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_light_stout",
+    "nombre": "Toyota Light Stout",
+    "anio_desde": 1960,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_macho",
+    "nombre": "Toyota Macho",
+    "anio_desde": 1960,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mark_ii",
+    "nombre": "Toyota Mark II",
+    "anio_desde": 1968,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mark_ii_blit",
+    "nombre": "Toyota Mark II Blit",
+    "anio_desde": 2002,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mark_ii_qualis",
+    "nombre": "Toyota Mark II Qualis",
+    "anio_desde": 1997,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mark_x",
+    "nombre": "Toyota Mark X",
+    "anio_desde": 2004,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mark_x_zio",
+    "nombre": "Toyota Mark X ZiO",
+    "anio_desde": 2007,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_massy_dyna",
+    "nombre": "Toyota Massy Dyna",
+    "anio_desde": 1969,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_master",
+    "nombre": "Toyota Master",
+    "anio_desde": 1955,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_masterace",
+    "nombre": "Toyota MasterAce",
+    "anio_desde": 1982,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_masterline",
+    "nombre": "Toyota Masterline",
+    "anio_desde": 1955,
+    "anio_hasta": 1967,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_matrix",
+    "nombre": "Toyota Matrix",
+    "anio_desde": 2002,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mega_cruiser",
+    "nombre": "Toyota Mega Cruiser",
+    "anio_desde": 1996,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_miniace",
+    "nombre": "Toyota MiniAce",
+    "anio_desde": 1967,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr2",
+    "nombre": "Toyota MR2",
+    "anio_desde": 1984,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr_s",
+    "nombre": "Toyota MR-S",
+    "anio_desde": 1999,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_nadia",
+    "nombre": "Toyota Nadia",
+    "anio_desde": 1998,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_opa",
+    "nombre": "Toyota Opa",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_origin",
+    "nombre": "Toyota Origin",
+    "anio_desde": 2000,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_paseo_cynos",
+    "nombre": "Toyota Paseo /Cynos",
+    "anio_desde": 1991,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_passo",
+    "nombre": "Toyota Passo",
+    "anio_desde": 2004,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pixis_joy",
+    "nombre": "Toyota Pixis Joy",
+    "anio_desde": 2016,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pixis_space",
+    "nombre": "Toyota Pixis Space",
+    "anio_desde": 2011,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pixis_mega",
+    "nombre": "Toyota Pixis Mega",
+    "anio_desde": 2015,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_porte_spade",
+    "nombre": "Toyota Porte / Spade",
+    "anio_desde": 2004,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_premio_allion",
+    "nombre": "Toyota Premio / Allion",
+    "anio_desde": 2001,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_c",
+    "nombre": "Toyota Prius C",
+    "anio_desde": 2011,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_v",
+    "nombre": "Toyota Prius v/+/α",
+    "anio_desde": 2011,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_progres",
+    "nombre": "Toyota Progres",
+    "anio_desde": 1998,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pronard",
+    "nombre": "Toyota Pronard",
+    "anio_desde": 2002,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_publica",
+    "nombre": "Toyota Publica",
+    "anio_desde": 1961,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_quickdelivery",
+    "nombre": "Toyota QuickDelivery",
+    "anio_desde": 1982,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ractis",
+    "nombre": "Toyota Ractis",
+    "anio_desde": 2005,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_raum",
+    "nombre": "Toyota Raum",
+    "anio_desde": 1997,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_regius",
+    "nombre": "Toyota Regius",
+    "anio_desde": 1997,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rh",
+    "nombre": "Toyota RH",
+    "anio_desde": 1953,
+    "anio_hasta": 1955,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sa",
+    "nombre": "Toyota SA",
+    "anio_desde": 1947,
+    "anio_hasta": 1952,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sai",
+    "nombre": "Toyota Sai",
+    "anio_desde": 2009,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sb",
+    "nombre": "Toyota SB",
+    "anio_desde": 1947,
+    "anio_hasta": 1952,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_scepter",
+    "nombre": "Toyota Scepter",
+    "anio_desde": 1991,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sd",
+    "nombre": "Toyota SD",
+    "anio_desde": 1949,
+    "anio_hasta": 1951,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sera",
+    "nombre": "Toyota Sera",
+    "anio_desde": 1990,
+    "anio_hasta": 1995,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sf",
+    "nombre": "Toyota SF",
+    "anio_desde": 1951,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sg",
+    "nombre": "Toyota SG",
+    "anio_desde": 1952,
+    "anio_hasta": 1954,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_soarer",
+    "nombre": "Toyota Soarer",
+    "anio_desde": 1981,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_soluna",
+    "nombre": "Toyota Soluna",
+    "anio_desde": 1996,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sparky",
+    "nombre": "Toyota Sparky",
+    "anio_desde": 2000,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports_800",
+    "nombre": "Toyota Sports 800",
+    "anio_desde": 1965,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sprinter",
+    "nombre": "Toyota Sprinter",
+    "anio_desde": 1968,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sprinter_carib",
+    "nombre": "Toyota Sprinter Carib",
+    "anio_desde": 1984,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sprinter_cielo",
+    "nombre": "Toyota Sprinter Cielo",
+    "anio_desde": 1987,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sprinter_marino",
+    "nombre": "Toyota Sprinter Marino",
+    "anio_desde": 1991,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sprinter_trueno",
+    "nombre": "Toyota Sprinter Trueno",
+    "anio_desde": 1972,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_starlet",
+    "nombre": "Toyota Starlet",
+    "anio_desde": 1973,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_stout",
+    "nombre": "Toyota Stout",
+    "anio_desde": 1954,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_su_ki",
+    "nombre": "Toyota Su-Ki",
+    "anio_desde": 1943,
+    "anio_hasta": 1944,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_succeed",
+    "nombre": "Toyota Succeed",
+    "anio_desde": 2002,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sunchaser",
+    "nombre": "Toyota SunChaser",
+    "anio_desde": 1979,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_t100",
+    "nombre": "Toyota T100",
+    "anio_desde": 1993,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tank",
+    "nombre": "Toyota Tank",
+    "anio_desde": 2016,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tarago",
+    "nombre": "Toyota Tarago",
+    "anio_desde": 1983,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tercel",
+    "nombre": "Toyota Tercel",
+    "anio_desde": 1978,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tiara",
+    "nombre": "Toyota Tiara",
+    "anio_desde": 1960,
+    "anio_hasta": 1964,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_toyoace",
+    "nombre": "Toyota ToyoAce",
+    "anio_desde": 1954,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_type_73",
+    "nombre": "Toyota Type 73",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_urban_cruiser_2020",
+    "nombre": "Toyota Urban Cruiser (2020)",
+    "anio_desde": 2020,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_van_model_fspace_cruiser_tarago",
+    "nombre": "Toyota Van /Model F/Space Cruiser/ Tarago",
+    "anio_desde": 1983,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_venza",
+    "nombre": "Toyota Venza",
+    "anio_desde": 2008,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_verossa",
+    "nombre": "Toyota Verossa",
+    "anio_desde": 2001,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_verso",
+    "nombre": "Toyota Verso",
+    "anio_desde": 2009,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_verso_s",
+    "nombre": "Toyota Verso-S",
+    "anio_desde": 2010,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_vienta",
+    "nombre": "Toyota Vienta",
+    "anio_desde": 1995,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_vista",
+    "nombre": "Toyota Vista",
+    "anio_desde": 1982,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_vitz_2",
+    "nombre": "Toyota Vitz",
+    "anio_desde": 1999,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_voltz",
+    "nombre": "Toyota Voltz",
+    "anio_desde": 2002,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_windom",
+    "nombre": "Toyota Windom",
+    "anio_desde": 1989,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_will_vi",
+    "nombre": "Toyota WiLL Vi",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_will_vs",
+    "nombre": "Toyota WiLL VS",
+    "anio_desde": 2001,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_will_cypha",
+    "nombre": "Toyota WiLL Cypha",
+    "anio_desde": 2002,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_wish",
+    "nombre": "Toyota Wish",
+    "anio_desde": 2003,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yaris_djdl",
+    "nombre": "Toyota Yaris (DJ/DL)",
+    "anio_desde": 2016,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yaris_verso_funcargo",
+    "nombre": "Toyota Yaris Verso / FunCargo",
+    "anio_desde": 2000,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_zelas",
+    "nombre": "Toyota Zelas",
+    "anio_desde": 2010,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_1x",
+    "nombre": "Toyota 1/X",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_28",
+    "nombre": "Toyota-28",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_4500gt",
+    "nombre": "Toyota 4500GT",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_86_shooting_brake",
+    "nombre": "Toyota 86 Shooting Brake",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_86_tomica_concept",
+    "nombre": "Toyota 86 Tomica Concept",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_a_bat",
+    "nombre": "Toyota A-BAT",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_a1",
+    "nombre": "Toyota A1",
+    "anio_desde": 1935,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_airport_limousine_1961",
+    "nombre": "Toyota Airport Limousine (1961)",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_airport_limousine_1977",
+    "nombre": "Toyota Airport Limousine (1977)",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_alessandro_volta",
+    "nombre": "Toyota Alessandro Volta",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_apm",
+    "nombre": "Toyota APM",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_asv",
+    "nombre": "Toyota ASV",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_asv_2",
+    "nombre": "Toyota ASV-2",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_asv_3",
+    "nombre": "Toyota ASV-3",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aurion_sports_concept",
+    "nombre": "Toyota Aurion Sports Concept",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_avalon_concept",
+    "nombre": "Toyota Avalon (concept)",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_axv",
+    "nombre": "Toyota AXV",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_axv_ii",
+    "nombre": "Toyota AXV-II",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_axv_iii",
+    "nombre": "Toyota AXV-III",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_axv_iv",
+    "nombre": "Toyota AXV-IV",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_axv_v",
+    "nombre": "Toyota AXV-V",
+    "anio_desde": 1993,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_aygo_crazy",
+    "nombre": "Toyota Aygo Crazy",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz7_2",
+    "nombre": "Toyota bZ7",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_compact_suv",
+    "nombre": "Toyota bZ Compact SUV",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_flexspace",
+    "nombre": "Toyota bZ FlexSpace",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_large_suv",
+    "nombre": "Toyota bZ Large SUV",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_sdn",
+    "nombre": "Toyota bZ SDN",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_satisfied_space",
+    "nombre": "Toyota bZ Satisfied Space",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_bz_sport_crossover",
+    "nombre": "Toyota bZ Sport Crossover",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cal_1",
+    "nombre": "Toyota CAL-1",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte",
+    "nombre": "Toyota Camatte",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte57s",
+    "nombre": "Toyota Camatte57s",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte57s_sport",
+    "nombre": "Toyota Camatte57s Sport",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte57s_sport_led",
+    "nombre": "Toyota Camatte57s Sport LED",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_daichi",
+    "nombre": "Toyota Camatte Daichi",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_hajime",
+    "nombre": "Toyota Camatte Hajime",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_petta",
+    "nombre": "Toyota Camatte Petta",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_setsuna",
+    "nombre": "Toyota Camatte Setsuna",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_sora",
+    "nombre": "Toyota Camatte Sora",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camatte_takumi",
+    "nombre": "Toyota Camatte Takumi",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camp_mate",
+    "nombre": "Toyota Camp Mate",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camry_cng_hybrid",
+    "nombre": "Toyota Camry CNG Hybrid",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_camry_ts_01",
+    "nombre": "Toyota Camry TS-01",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ccx",
+    "nombre": "Toyota ccX",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica_cruising_deck",
+    "nombre": "Toyota Celica Cruising Deck",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica_ultimate_concept",
+    "nombre": "Toyota Celica Ultimate Concept",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_celica_xyr",
+    "nombre": "Toyota Celica XYR",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_century_gt45",
+    "nombre": "Toyota Century GT45",
+    "anio_desde": 1971,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_century_coupe",
+    "nombre": "Toyota Century Coupe",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_c_hr_concept",
+    "nombre": "Toyota C-HR concept",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_c_hr_prologue",
+    "nombre": "Toyota C-HR prologue",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_commuter",
+    "nombre": "Toyota Commuter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_coms_x",
+    "nombre": "Toyota Coms-X",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_compact_cruiser_ev",
+    "nombre": "Toyota Compact Cruiser EV",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_concept_i",
+    "nombre": "Toyota Concept-i",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_concept_i_ride",
+    "nombre": "Toyota Concept-i Ride",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_concept_i_walk",
+    "nombre": "Toyota Concept-i Walk",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corona_1500s_convertible",
+    "nombre": "Toyota Corona 1500S Convertible",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corona_1900s_sporty_sedan",
+    "nombre": "Toyota Corona 1900S Sporty Sedan",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corona_sports_coupe",
+    "nombre": "Toyota Corona Sports Coupe",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_furia",
+    "nombre": "Toyota Corolla Furia",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_corolla_3",
+    "nombre": "Toyota Corolla",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_crossover_ev",
+    "nombre": "Toyota Crossover EV",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_crown_convertible",
+    "nombre": "Toyota Crown Convertible",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_crown_majesta_ev",
+    "nombre": "Toyota Crown Majesta EV",
+    "anio_desde": 1993,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cq_1",
+    "nombre": "Toyota CQ-1",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_css",
+    "nombre": "Toyota CS&S",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cx_80",
+    "nombre": "Toyota CX-80",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_cpod_2",
+    "nombre": "Toyota C+pod",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_d_4d_180_clean_power_concept_car",
+    "nombre": "Toyota D-4D 180 Clean Power Concept Car",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_dear_qin",
+    "nombre": "Toyota Dear Qin",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_diji",
+    "nombre": "Toyota diji",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_dmt",
+    "nombre": "Toyota DMT",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_dream_car",
+    "nombre": "Toyota Dream Car",
+    "anio_desde": 1964,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_dream_car_model",
+    "nombre": "Toyota Dream Car Model",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_dv_1",
+    "nombre": "Toyota DV-1",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_e_palette",
+    "nombre": "Toyota e-Palette",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_e_racer",
+    "nombre": "Toyota E-Racer",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ea",
+    "nombre": "Toyota EA",
+    "anio_desde": 1938,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_eb",
+    "nombre": "Toyota EB",
+    "anio_desde": 1938,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_electronics_car",
+    "nombre": "Toyota Electronics Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_endo",
+    "nombre": "Toyota Endo",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_epu",
+    "nombre": "Toyota EPU",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_es_3",
+    "nombre": "Toyota ES 3",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_esv_2",
+    "nombre": "Toyota ESV-2",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_esv",
+    "nombre": "Toyota ESV",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ev2",
+    "nombre": "Toyota EV2",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ev_30",
+    "nombre": "Toyota EV-30",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ev_prototype",
+    "nombre": "Toyota EV Prototype",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ex_i",
+    "nombre": "Toyota EX-I",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ex_ii",
+    "nombre": "Toyota EX-II",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ex_iii",
+    "nombre": "Toyota EX-III",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ex_7",
+    "nombre": "Toyota EX-7",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ex_11",
+    "nombre": "Toyota EX-11",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_experimental_aluminum_car",
+    "nombre": "Toyota Experimental Aluminum Car",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_extreme_sienna",
+    "nombre": "Toyota Extreme Sienna",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_f101",
+    "nombre": "Toyota F101",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_f110",
+    "nombre": "Toyota F110",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_f120",
+    "nombre": "Toyota F120",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_f3r",
+    "nombre": "Toyota F3R",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_family_wagon",
+    "nombre": "Toyota Family Wagon",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fcev",
+    "nombre": "Toyota FCEV",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hilux_fcev_concept",
+    "nombre": "Toyota Hilux FCEV concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv",
+    "nombre": "Toyota FCHV",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv_1",
+    "nombre": "Toyota FCHV-1",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv_2",
+    "nombre": "Toyota FCHV-2",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv_3",
+    "nombre": "Toyota FCHV-3",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv_4",
+    "nombre": "Toyota FCHV-4",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fchv_adv",
+    "nombre": "Toyota FCHV-adv",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fcv",
+    "nombre": "Toyota FCV",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fcv_r",
+    "nombre": "Toyota FCV-R",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fcv_plus",
+    "nombre": "Toyota FCV Plus",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fcx_80",
+    "nombre": "Toyota FCX-80",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fine_comfort_ride",
+    "nombre": "Toyota Fine-Comfort Ride",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fine_n",
+    "nombre": "Toyota Fine-N",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fine_s",
+    "nombre": "Toyota Fine-S",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fine_t",
+    "nombre": "Toyota Fine-T",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fine_x",
+    "nombre": "Toyota Fine-X",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_flv",
+    "nombre": "Toyota FLV",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fsc",
+    "nombre": "Toyota FSC",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_1",
+    "nombre": "Toyota FT-1",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_1_graphite_concept",
+    "nombre": "Toyota FT-1 Graphite Concept",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_1_vision_gran_turismo",
+    "nombre": "Toyota FT-1 Vision Gran Turismo",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_3e",
+    "nombre": "Toyota FT-3e",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_4x",
+    "nombre": "Toyota FT-4X",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_86",
+    "nombre": "Toyota FT-86",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_86_g_sports",
+    "nombre": "Toyota FT-86 G Sports",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_86_ii",
+    "nombre": "Toyota FT-86 II",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_ac",
+    "nombre": "Toyota FT-AC",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_bh",
+    "nombre": "Toyota FT-Bh",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_ch",
+    "nombre": "Toyota FT-CH",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_ev",
+    "nombre": "Toyota FT-EV",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_se",
+    "nombre": "Toyota FT-Se",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_ev_ii",
+    "nombre": "Toyota FT-EV II",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_ev_iii",
+    "nombre": "Toyota FT-EV III",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_hs",
+    "nombre": "Toyota FT-HS",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_mv",
+    "nombre": "Toyota FT-MV",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ft_sx",
+    "nombre": "Toyota FT-SX",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ftx",
+    "nombre": "Toyota FTX",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fun",
+    "nombre": "Toyota Fun",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fun_runner",
+    "nombre": "Toyota Fun Runner",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fun_runner_ii",
+    "nombre": "Toyota Fun Runner II",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_funcargo",
+    "nombre": "Toyota FunCargo",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_funcoupe",
+    "nombre": "Toyota Funcoupe",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_funtime",
+    "nombre": "Toyota Funtime",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fun_vii",
+    "nombre": "Toyota Fun-vii",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_furia",
+    "nombre": "Toyota Furia",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fx_1",
+    "nombre": "Toyota FX-1",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fxs",
+    "nombre": "Toyota FXS",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fxv",
+    "nombre": "Toyota FXV",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fxv_ii",
+    "nombre": "Toyota FXV-II",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fv",
+    "nombre": "Toyota FV",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_fv2",
+    "nombre": "Toyota FV2",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_global_hiace_bev_concept",
+    "nombre": "Toyota Global Hiace Bev Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_gt3",
+    "nombre": "Toyota GR GT3",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_hv",
+    "nombre": "Toyota GR HV",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_super_sport_concept",
+    "nombre": "Toyota GR Super Sport Concept",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_supra_gt4_concept",
+    "nombre": "Toyota GR Supra GT4 Concept",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gr_supra_racing_concept",
+    "nombre": "Toyota GR Supra Racing Concept",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_grmn_sports_hybrid_concept",
+    "nombre": "Toyota GRMN Sports Hybrid Concept",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_grmn_sports_hybrid_concept_ii",
+    "nombre": "Toyota GRMN Sports Hybrid Concept II",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_gtv",
+    "nombre": "Toyota GTV",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hc_cv",
+    "nombre": "Toyota HC-CV",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hi_ct",
+    "nombre": "Toyota Hi-CT",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hilux_bruiser",
+    "nombre": "Toyota Hilux Bruiser",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hilux_rm_4d",
+    "nombre": "Toyota Hilux RM-4D",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hilux_rv_3",
+    "nombre": "Toyota HiLux RV-3",
+    "anio_desde": 1980,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hv_m4",
+    "nombre": "Toyota HV-M4",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hybrid_electric_bus",
+    "nombre": "Toyota Hybrid Electric Bus",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_hybrid_x",
+    "nombre": "Toyota Hybrid X",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_foot",
+    "nombre": "Toyota i-foot",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_imv_origin",
+    "nombre": "Toyota IMV Origin",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_insect",
+    "nombre": "Toyota Insect",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_imv_0",
+    "nombre": "Toyota IMV 0",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_real",
+    "nombre": "Toyota i-REAL",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_road",
+    "nombre": "Toyota i-Road",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_swing",
+    "nombre": "Toyota i-swing",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_tril",
+    "nombre": "Toyota i-TRIL",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_i_unit",
+    "nombre": "Toyota i-unit",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_iimo",
+    "nombre": "Toyota iiMo",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_scion_iq_concept_toyota_iq_sport",
+    "nombre": "Toyota Scion iQ Concept / Toyota iQ Sport",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_jpn_taxi_concept",
+    "nombre": "Toyota JPN Taxi Concept",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_juu",
+    "nombre": "Toyota JUU",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kikai_concept",
+    "nombre": "Toyota KIKAI Concept",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kayoibako",
+    "nombre": "Toyota Kayoibako",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kago_bo",
+    "nombre": "Toyota Kago-Bo",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kids_mobi",
+    "nombre": "Toyota Kids Mobi",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_kijang_innova_ev_concept",
+    "nombre": "Toyota Kijang Innova EV Concept",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_land_cruiser_fj45_concept",
+    "nombre": "Toyota Land Cruiser FJ45 Concept",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_land_cruiser_se",
+    "nombre": "Toyota Land Cruiser Se",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_land_hopper",
+    "nombre": "Toyota Land Hopper",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_land_speed_cruiser",
+    "nombre": "Toyota Land Speed Cruiser",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_lc_500",
+    "nombre": "Toyota LC 500",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_lq_concept",
+    "nombre": "Toyota LQ Concept",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_marinetta",
+    "nombre": "Toyota Marinetta",
+    "anio_desde": 1971,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_marinetta_10",
+    "nombre": "Toyota Marinetta 10",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_marine_cruiser",
+    "nombre": "Toyota Marine Cruiser",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_matrix_sport",
+    "nombre": "Toyota Matrix Sport",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mewe",
+    "nombre": "Toyota ME.WE",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mh20",
+    "nombre": "Toyota MH20",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mob",
+    "nombre": "Toyota MOB",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_moguls",
+    "nombre": "Toyota Moguls",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_motor_triathlon_race_car",
+    "nombre": "Toyota Motor Triathlon Race Car",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mp_1",
+    "nombre": "Toyota MP-1",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mp20",
+    "nombre": "Toyota MP20",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr2_concept",
+    "nombre": "Toyota MR2 Concept",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr2_group_b_prototype",
+    "nombre": "Toyota MR2 Group B Prototype",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr2_street_affair",
+    "nombre": "Toyota MR2 Street Affair",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mrj",
+    "nombre": "Toyota MRJ",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_mr_s_2",
+    "nombre": "Toyota MR-S",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_moving_e",
+    "nombre": "Toyota Moving-E",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_nc250",
+    "nombre": "Toyota NC250",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ncsv",
+    "nombre": "Toyota NCSV",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_neo_steer",
+    "nombre": "Toyota NEO Steer",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_new",
+    "nombre": "Toyota NEW",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_next_generation_tamaraw_concept",
+    "nombre": "Toyota Next Generation Tamaraw Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_nlsv",
+    "nombre": "Toyota NLSV",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_noah_mu_concept",
+    "nombre": "Toyota Noah MU Concept",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ns4",
+    "nombre": "Toyota NS4",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_open_deck",
+    "nombre": "Toyota Open Deck",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_palette",
+    "nombre": "Toyota Palette",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pickup_ev",
+    "nombre": "Toyota Pickup EV",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pieace",
+    "nombre": "Toyota PieAce",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pm",
+    "nombre": "Toyota PM",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_pod",
+    "nombre": "Toyota Pod",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_2",
+    "nombre": "Toyota Prius",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_c_concept",
+    "nombre": "Toyota Prius c Concept",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_custom_plus_concept",
+    "nombre": "Toyota Prius Custom Plus Concept",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_g",
+    "nombre": "Toyota Prius G",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_plug_in_hybrid",
+    "nombre": "Toyota Prius Plug-in Hybrid",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_phv",
+    "nombre": "Toyota Prius PHV",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_prius_3",
+    "nombre": "Toyota Prius+",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_project_go",
+    "nombre": "Toyota Project Go",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_project_portal",
+    "nombre": "Toyota Project Portal",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_project_portal_20",
+    "nombre": "Toyota Project Portal 2.0",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_publica_sports",
+    "nombre": "Toyota Publica Sports",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rangga_concept",
+    "nombre": "Toyota Rangga Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rav_four",
+    "nombre": "Toyota RAV-Four",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rav4_adventure",
+    "nombre": "Toyota RAV4 Adventure",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rav4_premium",
+    "nombre": "Toyota RAV4 Premium",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_retro_cruiser",
+    "nombre": "Toyota Retro Cruiser",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rhombus",
+    "nombre": "Toyota Rhombus",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rin",
+    "nombre": "Toyota RiN",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rsc",
+    "nombre": "Toyota RSC",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rugged_youth_utility",
+    "nombre": "Toyota Rugged Youth Utility",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rv_1",
+    "nombre": "Toyota RV-1",
+    "anio_desde": 1971,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rv_2",
+    "nombre": "Toyota RV-2",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_rv_5",
+    "nombre": "Toyota RV-5",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_s_fr",
+    "nombre": "Toyota S-FR",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_s_fr_racing_concept",
+    "nombre": "Toyota S-FR Racing Concept",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_setsuna",
+    "nombre": "Toyota Setsuna",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_soarer_aero_cabin",
+    "nombre": "Toyota Soarer Aero Cabin",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_solara_concept",
+    "nombre": "Toyota Solara Concept",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sonic_emotion_c_hr_concept",
+    "nombre": "Toyota Sonic Emotion C-HR Concept",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_space_mobility",
+    "nombre": "Toyota Space mobility",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sportivo_coupe",
+    "nombre": "Toyota Sportivo Coupe",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports",
+    "nombre": "Toyota Sports",
+    "anio_desde": 1957,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports_800_gas_turbine_hybrid",
+    "nombre": "Toyota Sports 800 Gas Turbine Hybrid",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports_x",
+    "nombre": "Toyota Sports X",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports_ev",
+    "nombre": "Toyota Sports EV",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sports_ev_twin",
+    "nombre": "Toyota Sports EV Twin",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sc",
+    "nombre": "Toyota SC",
+    "anio_desde": 1948,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_su_hv1",
+    "nombre": "Toyota SU-HV1",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_super_awd",
+    "nombre": "Toyota Super AWD",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_supra_4x4",
+    "nombre": "Toyota Supra 4x4",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_supra_lexus",
+    "nombre": "Toyota Supra Lexus",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sv_1",
+    "nombre": "Toyota SV-1",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sv_2",
+    "nombre": "Toyota SV-2",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_sv_3",
+    "nombre": "Toyota SV-3",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tac3",
+    "nombre": "Toyota TAC3",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tacoma_back_to_the_future_concept",
+    "nombre": "Toyota Tacoma Back To The Future Concept",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tacoma_x_runner_2023_concept",
+    "nombre": "Toyota Tacoma X-Runner 2023 Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_te_spyder_800",
+    "nombre": "Toyota TE-Spyder 800",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tes_era_ev",
+    "nombre": "Toyota TES-ERA EV",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_town_spider_system",
+    "nombre": "Toyota Town Spider System",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_tj_cruiser",
+    "nombre": "Toyota Tj Cruiser",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_townace_van_ev",
+    "nombre": "Toyota TownAce Van EV",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_t_sports",
+    "nombre": "Toyota T Sports",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_u2",
+    "nombre": "Toyota U2",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_urban_cruiser_concept",
+    "nombre": "Toyota Urban Cruiser Concept",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_urban_suv_concept",
+    "nombre": "Toyota Urban SUV Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_uuv",
+    "nombre": "Toyota UUV",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_uuv_2",
+    "nombre": "Toyota UUV",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_vellfire_spacious_lounge_concept",
+    "nombre": "Toyota Vellfire Spacious Lounge Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_vm180",
+    "nombre": "Toyota VM180",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_winglet",
+    "nombre": "Toyota Winglet",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_toyopet_x",
+    "nombre": "Toyota Toyopet X",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ubox",
+    "nombre": "Toyota uBox",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_ultra_compact_bev_concept_model_for_business",
+    "nombre": "Toyota Ultra-compact BEV Concept Model for business",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_x_runner",
+    "nombre": "Toyota X-Runner",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_xtreme_corolla",
+    "nombre": "Toyota XTREME Corolla",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_x_van_gear_concept",
+    "nombre": "Toyota X-Van Gear Concept",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yaris_adventure",
+    "nombre": "Toyota Yaris Adventure",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yaris_cabrio_concept",
+    "nombre": "Toyota Yaris Cabrio Concept",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yaris_legian",
+    "nombre": "Toyota Yaris Legian",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "toyota_yundong_shuangqing",
+    "nombre": "Toyota YunDong ShuangQing",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

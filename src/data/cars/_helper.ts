@@ -10,3 +10,12 @@ export function car(
 ): Car {
   return { id, nombre, pais, anio_desde, anio_hasta, segmentos, introduccion, specs, fotos: empty, fuente_fotos: '', fecha_agregado: DATE };
 }
+
+export function carP(
+  id: string, nombre: string, pais: string[],
+  anio_desde: number, anio_hasta: number,
+  segmentos: string[], introduccion: string, specs: CarSpecs,
+  fotos: CarPhotos
+): Car {
+  return { id, nombre, pais, anio_desde, anio_hasta, segmentos, introduccion, specs, fotos, fuente_fotos: 'Wikimedia Commons', fecha_agregado: DATE };
+}

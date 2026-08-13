@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "chevrolet_series_c_classic_six",
+    "nombre": "Chevrolet Series C Classic Six",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_light_six",
+    "nombre": "Chevrolet Light Six",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_h",
+    "nombre": "Chevrolet Series H",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_490",
+    "nombre": "Chevrolet Series 490",
+    "anio_desde": 1915,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_f",
+    "nombre": "Chevrolet Series F",
+    "anio_desde": 1917,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_d",
+    "nombre": "Chevrolet Series D",
+    "anio_desde": 1917,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_fa",
+    "nombre": "Chevrolet Series FA",
+    "anio_desde": 1917,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_fb",
+    "nombre": "Chevrolet Series FB",
+    "anio_desde": 1919,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_superior",
+    "nombre": "Chevrolet Superior",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_m_copper_cooled",
+    "nombre": "Chevrolet Series M Copper-Cooled",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_aa_capitol",
+    "nombre": "Chevrolet Series AA Capitol",
+    "anio_desde": 1927,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_ab_national",
+    "nombre": "Chevrolet Series AB National",
+    "anio_desde": 1928,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_ac_international",
+    "nombre": "Chevrolet Series AC International",
+    "anio_desde": 1929,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_ad_universal",
+    "nombre": "Chevrolet Series AD Universal",
+    "anio_desde": 1930,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_ae_independence",
+    "nombre": "Chevrolet Series AE Independence",
+    "anio_desde": 1931,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_series_ba_confederate",
+    "nombre": "Chevrolet Series BA Confederate",
+    "anio_desde": 1932,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_ca_eaglemaster",
+    "nombre": "Chevrolet CA Eagle/Master",
+    "anio_desde": 1933,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_standard_six",
+    "nombre": "Chevrolet Standard Six",
+    "anio_desde": 1933,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_master",
+    "nombre": "Chevrolet Master",
+    "anio_desde": 1933,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_ak",
+    "nombre": "Chevrolet AK",
+    "anio_desde": 1941,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_deluxe",
+    "nombre": "Chevrolet Deluxe",
+    "anio_desde": 1941,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_fleetmaster",
+    "nombre": "Chevrolet Fleetmaster",
+    "anio_desde": 1946,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_stylemaster",
+    "nombre": "Chevrolet Stylemaster",
+    "anio_desde": 1946,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_advance_design",
+    "nombre": "Chevrolet Advance Design",
+    "anio_desde": 1947,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_bel_air",
+    "nombre": "Chevrolet Bel Air",
+    "anio_desde": 1950,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_townsman",
+    "nombre": "Chevrolet Townsman",
+    "anio_desde": 1953,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_nomad",
+    "nombre": "Chevrolet Nomad",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_task_force",
+    "nombre": "Chevrolet Task Force",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_biscayne",
+    "nombre": "Chevrolet Biscayne",
+    "anio_desde": 1958,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_brookwood",
+    "nombre": "Chevrolet Brookwood",
+    "anio_desde": 1958,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_impala",
+    "nombre": "Chevrolet Impala",
+    "anio_desde": 1958,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_el_camino",
+    "nombre": "Chevrolet El Camino",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_kingswood",
+    "nombre": "Chevrolet Kingswood",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_ck",
+    "nombre": "Chevrolet C/K",
+    "anio_desde": 1960,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_corvair",
+    "nombre": "Chevrolet Corvair",
+    "anio_desde": 1960,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_corvair_95",
+    "nombre": "Chevrolet Corvair 95",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_chevy_ii_nova",
+    "nombre": "Chevrolet Chevy II / Nova",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_chevelle",
+    "nombre": "Chevrolet Chevelle",
+    "anio_desde": 1964,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_chevy_van",
+    "nombre": "Chevrolet Chevy Van",
+    "anio_desde": 1964,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_caprice",
+    "nombre": "Chevrolet Caprice",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_camaro",
+    "nombre": "Chevrolet Camaro",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_k5_blazer",
+    "nombre": "Chevrolet K5 Blazer",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_kingswood_estate",
+    "nombre": "Chevrolet Kingswood Estate",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_monte_carlo",
+    "nombre": "Chevrolet Monte Carlo",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_vega",
+    "nombre": "Chevrolet Vega",
+    "anio_desde": 1971,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_luv",
+    "nombre": "Chevrolet LUV",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_chevelle_laguna",
+    "nombre": "Chevrolet Chevelle Laguna",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_chevette",
+    "nombre": "Chevrolet Chevette",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_monza",
+    "nombre": "Chevrolet Monza",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_malibu",
+    "nombre": "Chevrolet Malibu",
+    "anio_desde": 1978,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_citation",
+    "nombre": "Chevrolet Citation",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_kodiak",
+    "nombre": "Chevrolet Kodiak",
+    "anio_desde": 1980,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_celebrity",
+    "nombre": "Chevrolet Celebrity",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_cavalier",
+    "nombre": "Chevrolet Cavalier",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_s_10",
+    "nombre": "Chevrolet S-10",
+    "anio_desde": 1982,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_astro",
+    "nombre": "Chevrolet Astro",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_corsica",
+    "nombre": "Chevrolet Corsica",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_beretta",
+    "nombre": "Chevrolet Beretta",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_gmt400",
+    "nombre": "Chevrolet GMT400",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_lumina_apv",
+    "nombre": "Chevrolet Lumina APV",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_tracker",
+    "nombre": "Chevrolet Tracker",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_lumina",
+    "nombre": "Chevrolet Lumina",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_venture",
+    "nombre": "Chevrolet Venture",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_avalanche",
+    "nombre": "Chevrolet Avalanche",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_ssr",
+    "nombre": "Chevrolet SSR",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_uplander",
+    "nombre": "Chevrolet Uplander",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_hhr",
+    "nombre": "Chevrolet HHR",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_cobalt",
+    "nombre": "Chevrolet Cobalt",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_cruze",
+    "nombre": "Chevrolet Cruze",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_volt",
+    "nombre": "Chevrolet Volt",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_bolt_euv",
+    "nombre": "Chevrolet Bolt EUV",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_brightdrop",
+    "nombre": "Chevrolet BrightDrop",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "chevrolet_el_torro",
+    "nombre": "Chevrolet El Torro",
+    "anio_desde": 1968,
+    "anio_hasta": 1984,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_350_caprice_de_ville",
+    "nombre": "Chevrolet 350 / Caprice / de Ville",
+    "anio_desde": 1971,
+    "anio_hasta": 1984,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_chevair",
+    "nombre": "Chevrolet Chevair",
+    "anio_desde": 1975,
+    "anio_hasta": 1981,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_rekord",
+    "nombre": "Chevrolet Rekord",
+    "anio_desde": 1978,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_senator",
+    "nombre": "Chevrolet Senator",
+    "anio_desde": 1978,
+    "anio_hasta": 1982,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_monza_2",
+    "nombre": "Chevrolet Monza",
+    "anio_desde": 1981,
+    "anio_hasta": 1988,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_trooper",
+    "nombre": "Chevrolet Trooper",
+    "anio_desde": 1981,
+    "anio_hasta": 1991,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_samurai",
+    "nombre": "Chevrolet Samurai",
+    "anio_desde": 1981,
+    "anio_hasta": 2022,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_aska",
+    "nombre": "Chevrolet Aska",
+    "anio_desde": 1984,
+    "anio_hasta": 1989,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_kadett_ipanema",
+    "nombre": "Chevrolet Kadett / Ipanema",
+    "anio_desde": 1984,
+    "anio_hasta": 1995,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_gemini_spectrum",
+    "nombre": "Chevrolet Gemini / Spectrum",
+    "anio_desde": 1985,
+    "anio_hasta": 1990,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_sprint",
+    "nombre": "Chevrolet Sprint",
+    "anio_desde": 1985,
+    "anio_hasta": 2001,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_omega_lumina",
+    "nombre": "Chevrolet Omega / Lumina",
+    "anio_desde": 1986,
+    "anio_hasta": 2004,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_tracker_2",
+    "nombre": "Chevrolet Tracker",
+    "anio_desde": 1988,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_omega",
+    "nombre": "Chevrolet Omega",
+    "anio_desde": 1992,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_combo",
+    "nombre": "Chevrolet Combo",
+    "anio_desde": 1993,
+    "anio_hasta": 2012,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_corsa_classic",
+    "nombre": "Chevrolet Corsa / Classic",
+    "anio_desde": 1993,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_vectra",
+    "nombre": "Chevrolet Vectra",
+    "anio_desde": 1993,
+    "anio_hasta": 2005,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_astra",
+    "nombre": "Chevrolet Astra",
+    "anio_desde": 1994,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_tigra",
+    "nombre": "Chevrolet Tigra",
+    "anio_desde": 1994,
+    "anio_hasta": 2000,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_nexia",
+    "nombre": "Chevrolet Nexia",
+    "anio_desde": 1996,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_metro",
+    "nombre": "Chevrolet Metro",
+    "anio_desde": 1998,
+    "anio_hasta": 2001,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_prizm",
+    "nombre": "Chevrolet Prizm",
+    "anio_desde": 1998,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_alto",
+    "nombre": "Chevrolet Alto",
+    "anio_desde": 1999,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_alero",
+    "nombre": "Chevrolet Alero",
+    "anio_desde": 1999,
+    "anio_hasta": 2001,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_wagon_r_mw",
+    "nombre": "Chevrolet Wagon R+ / MW",
+    "anio_desde": 1999,
+    "anio_hasta": 2010,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_nabira",
+    "nombre": "Chevrolet Nabira",
+    "anio_desde": 2000,
+    "anio_hasta": 2014,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_epica_evanda",
+    "nombre": "Chevrolet Epica / Evanda",
+    "anio_desde": 2000,
+    "anio_hasta": 2006,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_vivant",
+    "nombre": "Chevrolet Vivant",
+    "anio_desde": 2000,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_cruze_2",
+    "nombre": "Chevrolet Cruze",
+    "anio_desde": 2001,
+    "anio_hasta": 2008,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_tavera",
+    "nombre": "Chevrolet Tavera",
+    "anio_desde": 2001,
+    "anio_hasta": 2017,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_aveo_sonic_kalos_lova",
+    "nombre": "Chevrolet Aveo / Sonic Kalos / Lova",
+    "anio_desde": 2002,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_estate_lacetti_nubira_optra",
+    "nombre": "Chevrolet Estate / Lacetti / Nubira / Optra",
+    "anio_desde": 2002,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_forester",
+    "nombre": "Chevrolet Forester",
+    "anio_desde": 2002,
+    "anio_hasta": 2008,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_d_max",
+    "nombre": "Chevrolet D-Max",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_nexia_2",
+    "nombre": "Chevrolet Nexia",
+    "anio_desde": 2003,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_niva",
+    "nombre": "Chevrolet Niva",
+    "anio_desde": 2003,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_lacetti",
+    "nombre": "Chevrolet Lacetti",
+    "anio_desde": 2003,
+    "anio_hasta": 2024,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_lanos",
+    "nombre": "Chevrolet Lanos",
+    "anio_desde": 2005,
+    "anio_hasta": 2008,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_epica_tosca",
+    "nombre": "Chevrolet Epica / Tosca",
+    "anio_desde": 2006,
+    "anio_hasta": 2015,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_captiva_sport",
+    "nombre": "Chevrolet Captiva Sport",
+    "anio_desde": 2006,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_agile",
+    "nombre": "Chevrolet Agile",
+    "anio_desde": 2009,
+    "anio_hasta": 2015,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_damas_labo",
+    "nombre": "Chevrolet Damas / Labo",
+    "anio_desde": 2008,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_orlando",
+    "nombre": "Chevrolet Orlando",
+    "anio_desde": 2010,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_spark",
+    "nombre": "Chevrolet Spark",
+    "anio_desde": 2010,
+    "anio_hasta": 2021,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_city_express",
+    "nombre": "Chevrolet City Express",
+    "anio_desde": 2014,
+    "anio_hasta": 2018,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_enjoy",
+    "nombre": "Chevrolet Enjoy",
+    "anio_desde": 2013,
+    "anio_hasta": 2017,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_ss",
+    "nombre": "Chevrolet SS",
+    "anio_desde": 2013,
+    "anio_hasta": 2017,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_optra",
+    "nombre": "Chevrolet Optra",
+    "anio_desde": 2014,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_lova_rv",
+    "nombre": "Chevrolet Lova RV",
+    "anio_desde": 2016,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_joy",
+    "nombre": "Chevrolet Joy",
+    "anio_desde": 2019,
+    "anio_hasta": 2024,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_joy_plus",
+    "nombre": "Chevrolet Joy Plus",
+    "anio_desde": 2019,
+    "anio_hasta": 2024,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "chevrolet_bison",
+    "nombre": "Chevrolet Bison",
+    "anio_desde": 1977,
+    "anio_hasta": 1987,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "chevrolet_bruin",
+    "nombre": "Chevrolet Bruin",
+    "anio_desde": 1978,
+    "anio_hasta": 1989,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "chevrolet_trafic",
+    "nombre": "Chevrolet Trafic",
+    "anio_desde": 1980,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "chevrolet_cmv_damas",
+    "nombre": "Chevrolet CMV / Damas",
+    "anio_desde": 1985,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "chevrolet_ce_series",
+    "nombre": "Chevrolet C/E-series",
+    "anio_desde": 1994,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "chevrolet_b_series",
+    "nombre": "Chevrolet B Series",
+    "anio_desde": 1966,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Buses"
+    ]
+  }
+]

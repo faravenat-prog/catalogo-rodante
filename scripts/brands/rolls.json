@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "rolls_main_page",
+    "nombre": "Rolls Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_contents",
+    "nombre": "Rolls Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_current_events",
+    "nombre": "Rolls Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_random_article",
+    "nombre": "Rolls Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_about_wikipedia",
+    "nombre": "Rolls About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_contact_us",
+    "nombre": "Rolls Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_help",
+    "nombre": "Rolls Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_learn_to_edit",
+    "nombre": "Rolls Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_community_portal",
+    "nombre": "Rolls Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_recent_changes",
+    "nombre": "Rolls Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_upload_file",
+    "nombre": "Rolls Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_special_pages",
+    "nombre": "Rolls Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_donate",
+    "nombre": "Rolls Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_create_account",
+    "nombre": "Rolls Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_log_in",
+    "nombre": "Rolls Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_11_incorporation",
+    "nombre": "Rolls 1.1 Incorporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_12_rolls_royce_4050",
+    "nombre": "Rolls 1.2 Rolls-Royce 40/50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_13_rolls_royce_eagle_aero_engine",
+    "nombre": "Rolls 1.3 Rolls-Royce Eagle aero-engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_14_springfield_usa",
+    "nombre": "Rolls 1.4 Springfield USA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_15_rolls_royce_twenty",
+    "nombre": "Rolls 1.5 Rolls-Royce Twenty",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_16_death_of_claude_johnson",
+    "nombre": "Rolls 1.6 Death of Claude Johnson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_17_rolls_royce_phantom",
+    "nombre": "Rolls 1.7 Rolls-Royce Phantom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_18_bentley_and_rolls_royce",
+    "nombre": "Rolls 1.8 Bentley and Rolls-Royce",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_19_crewe",
+    "nombre": "Rolls 1.9 Crewe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_110_second_world_war",
+    "nombre": "Rolls 1.10 Second World War",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_2_postwar_diversification_toggle_postwar_diversification_subsection_21_motor_bodies_22_diesel_engines_shrewsbury",
+    "nombre": "Rolls 2 Postwar diversification Toggle Postwar diversification subsection 2.1 Motor bodies 2.2 Diesel engines Shrewsbury",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_21_motor_bodies",
+    "nombre": "Rolls 2.1 Motor bodies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_22_diesel_engines_shrewsbury",
+    "nombre": "Rolls 2.2 Diesel engines Shrewsbury",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_3_aero_engines",
+    "nombre": "Rolls 3 Aero-engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_41_new_board",
+    "nombre": "Rolls 4.1 New board",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_42_lockheed_and_rolls_royce_take_off",
+    "nombre": "Rolls 4.2 Lockheed and Rolls-Royce take-off",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_51_car_division",
+    "nombre": "Rolls 5.1 Car Division",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_52_diesel_division",
+    "nombre": "Rolls 5.2 Diesel Division",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_53_flotation_of_rolls_royce_motors_holdings",
+    "nombre": "Rolls 5.3 Flotation of Rolls-Royce Motors Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_54_merger_with_vickers",
+    "nombre": "Rolls 5.4 Merger with Vickers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_55_perkins_engines",
+    "nombre": "Rolls 5.5 Perkins Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_6_1977_rolls_royce_drops_from_its_name",
+    "nombre": "Rolls 6 1977 Rolls-Royce drops  from its name",
+    "anio_desde": 1971,
+    "anio_hasta": 1971,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_7_1987_privatisation_toggle_1987_privatisation_subsection_71_competition_72_divisions_and_products",
+    "nombre": "Rolls 7 1987 privatisation Toggle 1987 privatisation subsection 7.1 Competition 7.2 Divisions and products",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_71_competition",
+    "nombre": "Rolls 7.1 Competition",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_72_divisions_and_products",
+    "nombre": "Rolls 7.2 Divisions and products",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_8_products_toggle_products_subsection_81_cars_82_aircraft",
+    "nombre": "Rolls 8 Products Toggle Products subsection 8.1 Cars 8.2 Aircraft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_81_cars",
+    "nombre": "Rolls 8.1 Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_82_aircraft",
+    "nombre": "Rolls 8.2 Aircraft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_9_references",
+    "nombre": "Rolls 9 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_10_footnotes",
+    "nombre": "Rolls 10 Footnotes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_11_bibliography",
+    "nombre": "Rolls 11 Bibliography",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_12_external_links",
+    "nombre": "Rolls 12 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls",
+    "nombre": "Rolls العربية",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_azrbaycanca",
+    "nombre": "Rolls Azərbaycanca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_cestina",
+    "nombre": "Rolls Čeština",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_esperanto",
+    "nombre": "Rolls Esperanto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_espanol",
+    "nombre": "Rolls Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_eesti",
+    "nombre": "Rolls Eesti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_francais",
+    "nombre": "Rolls Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_gaeilge",
+    "nombre": "Rolls Gaeilge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_galego",
+    "nombre": "Rolls Galego",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bahasa_indonesia",
+    "nombre": "Rolls Bahasa Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_italiano",
+    "nombre": "Rolls Italiano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_qaraqalpaqsha",
+    "nombre": "Rolls Qaraqalpaqsha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bahasa_melayu",
+    "nombre": "Rolls Bahasa Melayu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_nederlands",
+    "nombre": "Rolls Nederlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_norsk_bokmal",
+    "nombre": "Rolls Norsk bokmål",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_piemonteis",
+    "nombre": "Rolls Piemontèis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_portugues",
+    "nombre": "Rolls Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_romana",
+    "nombre": "Rolls Română",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_scots",
+    "nombre": "Rolls Scots",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_svenska",
+    "nombre": "Rolls Svenska",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_turkce",
+    "nombre": "Rolls Türkçe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_ozbekcha",
+    "nombre": "Rolls Oʻzbekcha / ўзбекча",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_article",
+    "nombre": "Rolls Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_talk",
+    "nombre": "Rolls Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_read",
+    "nombre": "Rolls Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_edit",
+    "nombre": "Rolls Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_view_history",
+    "nombre": "Rolls View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_what_links_here",
+    "nombre": "Rolls What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_related_changes",
+    "nombre": "Rolls Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_permanent_link",
+    "nombre": "Rolls Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_page_information",
+    "nombre": "Rolls Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_cite_this_page",
+    "nombre": "Rolls Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_get_shortened_url",
+    "nombre": "Rolls Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_switch_to_legacy_parser",
+    "nombre": "Rolls Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_download_as_pdf",
+    "nombre": "Rolls Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_printable_version",
+    "nombre": "Rolls Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_wikimedia_commons",
+    "nombre": "Rolls Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_wikidata_item",
+    "nombre": "Rolls Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_limited",
+    "nombre": "Rolls 'Rolls-Royce Limited'",
+    "anio_desde": 1906,
+    "anio_hasta": 1906,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_plc",
+    "nombre": "Rolls 'Rolls-Royce plc'",
+    "anio_desde": 1986,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1906_private_limited_company",
+    "nombre": "Rolls 1906: private limited company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1907_public_limited_company",
+    "nombre": "Rolls 1907: public limited company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1971_state_owned_company",
+    "nombre": "Rolls 1971: state-owned company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_as_rolls_royce_limited",
+    "nombre": "Rolls as 'Rolls-Royce  Limited'",
+    "anio_desde": 1971,
+    "anio_hasta": 1971,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_manchester_united_kingdom",
+    "nombre": "Rolls Manchester , United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_charles_rolls",
+    "nombre": "Rolls Charles Rolls",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_henry_royce",
+    "nombre": "Rolls Henry Royce",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1971_voluntary_receivership",
+    "nombre": "Rolls 1971: voluntary receivership",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_state_owned_company_until",
+    "nombre": "Rolls State-owned company until:",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_motors_sold_to_vickers",
+    "nombre": "Rolls Motors sold to Vickers",
+    "anio_desde": 1980,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_aerospace_sold_to_the_public_as_rolls_royce_plc",
+    "nombre": "Rolls Aerospace sold to the public as Rolls-Royce plc",
+    "anio_desde": 1987,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_automotive_rolls_royce_motors",
+    "nombre": "Rolls Automotive: Rolls-Royce Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_aerospace_rolls_royce_holdings",
+    "nombre": "Rolls Aerospace: Rolls-Royce Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_claude_johnson",
+    "nombre": "Rolls Claude Johnson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_ernest_hives",
+    "nombre": "Rolls Ernest Hives",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_adrian_lombard",
+    "nombre": "Rolls Adrian Lombard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_automobiles",
+    "nombre": "Rolls Automobiles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_civil_and_military_aero_engines",
+    "nombre": "Rolls Civil and military aero-engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_marine_propulsion_systems",
+    "nombre": "Rolls Marine propulsion systems",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_power_generation_equipment",
+    "nombre": "Rolls Power generation equipment",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_significant_subsidiaries",
+    "nombre": "Rolls Significant subsidiaries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1931_bentley_motors",
+    "nombre": "Rolls 1931: Bentley Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1939_park_ward",
+    "nombre": "Rolls 1939: Park Ward",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1959_h_j_mulliner_co",
+    "nombre": "Rolls 1959: H. J. Mulliner & Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1961_mulliner_park_ward",
+    "nombre": "Rolls 1961: Mulliner Park Ward",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1966_bristol_aircraft_holdings",
+    "nombre": "Rolls 1966: Bristol Aircraft Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bristol_aeroplane_company",
+    "nombre": "Rolls – Bristol Aeroplane Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bristol_siddeley_engines",
+    "nombre": "Rolls – Bristol Siddeley Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1973_rolls_royce_motors",
+    "nombre": "Rolls 1973: Rolls-Royce Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_a_10_hp_two_cylinder_model_selling_at_395_about_30000_in_2021",
+    "nombre": "Rolls a 10 hp  , two-cylinder model selling at £395, about £ 30,000 in 2021,",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_a_15_hp_three_cylinder_model_selling_at_500_about_40000_in_2021",
+    "nombre": "Rolls a 15 hp  three-cylinder model selling at £500, about £ 40,000 in 2021,",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_a_20_hp_four_cylinder_model_selling_at_650about_60000_in_2021",
+    "nombre": "Rolls a 20 hp  four-cylinder model selling at £650,about £ 60,000 in 2021,",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_a_30_hp_six_cylinder_model_selling_at_890_about_80000_in_2021",
+    "nombre": "Rolls a 30 hp  six-cylinder model selling at £890, about £ 80,000 in 2021,",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_d_range_v_engines_with_outputs_from_400_to_750_bhp_for_generating_sets_marine_and_railway_applications",
+    "nombre": "Rolls D range: V engines with outputs from 400 to 750 bhp for generating sets, marine and railway applications.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_motor_cars",
+    "nombre": "Rolls Motor cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_diesel_engines",
+    "nombre": "Rolls Diesel engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_aero_turbine_engine_components_and_aircraft_piston_engines_mainly_for_rolls_royce_1971",
+    "nombre": "Rolls Aero turbine engine components and aircraft piston engines mainly for Rolls-Royce 1971",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_other_engines_and_products",
+    "nombre": "Rolls Other engines and products:",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_major_engines_in_1987",
+    "nombre": "Rolls major engines in 1987:",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_engines_out_of_production_but_generating_a_significant_demand_for_spares",
+    "nombre": "Rolls engines out of production but generating a significant demand for spares",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_helicopter_engines",
+    "nombre": "Rolls helicopter engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_missile_engines",
+    "nombre": "Rolls missile engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190406_10_hp",
+    "nombre": "Rolls 1904–06 10 hp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190505_15_hp",
+    "nombre": "Rolls 1905–05 15 hp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190508_20_hp",
+    "nombre": "Rolls 1905–08 20 hp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190506_30_hp",
+    "nombre": "Rolls 1905–06 30 hp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190506_v_8",
+    "nombre": "Rolls 1905–06 V-8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_190625_4050_silver_ghost",
+    "nombre": "Rolls 1906–25 40/50 Silver Ghost",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_192229_twenty",
+    "nombre": "Rolls 1922–29 Twenty",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_192529_4050_phantom",
+    "nombre": "Rolls 1925–29 40/50 Phantom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_192935_phantom_ii",
+    "nombre": "Rolls 1929–35 Phantom II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_193639_phantom_iii",
+    "nombre": "Rolls 1936–39 Phantom III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_193839_wraith",
+    "nombre": "Rolls 1938–39 Wraith",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_194659_silver_wraith",
+    "nombre": "Rolls 1946–59 Silver Wraith",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_194955_silver_dawn",
+    "nombre": "Rolls 1949–55 Silver Dawn",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_195056_phantom_iv",
+    "nombre": "Rolls 1950–56 Phantom IV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_195565_silver_cloud",
+    "nombre": "Rolls 1955–65 Silver Cloud",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_195968_phantom_v",
+    "nombre": "Rolls 1959–68 Phantom V",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_196580_silver_shadow_monocoque",
+    "nombre": "Rolls 1965–80 Silver Shadow monocoque",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_196892_phantom_vi",
+    "nombre": "Rolls 1968–92 Phantom VI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_19712002_rolls_royce_corniche",
+    "nombre": "Rolls 1971–2002 Rolls-Royce Corniche",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_198089_camargue",
+    "nombre": "Rolls 1980–89 Camargue",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_198090_silver_spirit_silver_spur",
+    "nombre": "Rolls 1980–90 Silver Spirit / Silver Spur",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_19892000_silver_spur_ii_silver_spirit_ii",
+    "nombre": "Rolls 1989–2000 Silver Spur II / Silver Spirit II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_19982002_silver_seraph",
+    "nombre": "Rolls 1998–2002 Silver Seraph",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_20032016_phantom_vii",
+    "nombre": "Rolls 2003–2016 Phantom VII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_20032017_rolls_royce_phantom_drophead_coupe",
+    "nombre": "Rolls 2003–2017 Rolls-Royce Phantom Drophead Coupé",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_20042020_ghost",
+    "nombre": "Rolls 2004–2020 Ghost",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_20102022_wraith",
+    "nombre": "Rolls 2010–2022 Wraith",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_20122023_dawn",
+    "nombre": "Rolls 2012–2023 Dawn",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_2015present_rolls_royce_cullinan",
+    "nombre": "Rolls 2015–present Rolls-Royce Cullinan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_2017present_phantom_viii",
+    "nombre": "Rolls 2017–present Phantom VIII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_2020present_ghost",
+    "nombre": "Rolls 2020–present Ghost",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_2023present_spectre",
+    "nombre": "Rolls 2023–present Spectre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_with_first_factory_bodies_using_panels_pressed_by_pressed_steel_company_cowley",
+    "nombre": "Rolls ↑ with first factory bodies using panels pressed by Pressed Steel Company , Cowley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_factory_bodies_using_panels_pressed_by_pressed_steel_co",
+    "nombre": "Rolls ↑ factory bodies using panels pressed by Pressed Steel Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_integral_body_chassis_wholly_built_by_rolls_royce",
+    "nombre": "Rolls ↑ integral body chassis wholly built by Rolls-Royce.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_designed_by_pininfarina_luxury_coupe_source_rolls_royce_archives",
+    "nombre": "Rolls ↑ designed by Pininfarina, luxury coupé; source: Rolls-Royce archives",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_shared_platform_updated_several_times",
+    "nombre": "Rolls ↑ shared platform, updated several times",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_facelifted_models_with_minor_changes",
+    "nombre": "Rolls ↑ facelifted models with minor changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_last_rolls_royce_model_under_bmw_before_acquisition",
+    "nombre": "Rolls ↑ last Rolls-Royce model under BMW before acquisition",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_new_bmw_built_phantom_generation",
+    "nombre": "Rolls ↑ new BMW-built Phantom generation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_convertible_version_of_phantom_vii",
+    "nombre": "Rolls ↑ convertible version of Phantom VII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_luxury_grand_tourer_coupe_version_of_ghost_platform",
+    "nombre": "Rolls ↑ luxury grand tourer; coupé version of Ghost platform",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_convertible_version_of_wraith_luxury_2_door",
+    "nombre": "Rolls ↑ convertible version of Wraith; luxury 2-door",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_first_suv_by_rolls_royce_luxury_off_roader",
+    "nombre": "Rolls ↑ first SUV by Rolls-Royce; luxury off-roader",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_latest_generation_phantom_luxury_sedan",
+    "nombre": "Rolls ↑ latest generation Phantom luxury sedan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_smaller_luxury_sedan_based_on_phantom_chassis",
+    "nombre": "Rolls ↑ smaller luxury sedan based on Phantom chassis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_193337_bentley_3_l",
+    "nombre": "Rolls 1933–37 Bentley 3½ L",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_193639_bentley_4_l",
+    "nombre": "Rolls 1936–39 Bentley 4¼ L",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_193941_bentley_mark_v",
+    "nombre": "Rolls 1939–41 Bentley Mark V",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_silver_dawn_1953",
+    "nombre": "Rolls Silver Dawn 1953",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_silver_cloud_1956",
+    "nombre": "Rolls Silver Cloud 1956",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_silver_shadow_1972",
+    "nombre": "Rolls Silver Shadow 1972",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_phantom_iv_limousine_by_hooper_1953",
+    "nombre": "Rolls Phantom IV limousine by Hooper 1953",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_phantom_v_sedanca_de_ville_by_james_young_1961",
+    "nombre": "Rolls Phantom V sedanca de ville by James Young 1961",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_phantom_vi_limousine",
+    "nombre": "Rolls Phantom VI limousine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce_thrust_measuring_rig",
+    "nombre": "Rolls-Royce Thrust Measuring Rig",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce_mustang_mkx",
+    "nombre": "Rolls-Royce Mustang Mk.X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rowbotham_william_arthur_silver_ghosts_and_silver_dawn_london_constable",
+    "nombre": "Rolls Rowbotham, William Arthur . Silver Ghosts and Silver Dawn . London: Constable.",
+    "anio_desde": 1970,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_our_history_archived_from_the_original_on_19_july_2020_retrieved_19_april_2023",
+    "nombre": "Rolls ↑ \"Rolls-Royce, Our History\" . Archived from the original on 19 July 2020 . Retrieved 19 April 2023 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1_2_3_4_reese_pp_47_54",
+    "nombre": "Rolls 1 2 3 4 Reese, pp. 47-54",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1_2_reese_p_85",
+    "nombre": "Rolls 1 2 Reese, p. 85",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1_2_3_4_reese_p_72",
+    "nombre": "Rolls 1 2 3 4 Reese, p. 72",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_reese_p_91",
+    "nombre": "Rolls ↑ Reese, p. 91",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_graces_guide_to_british_industrial_history_13_march_2023_retrieved_10_may_2025",
+    "nombre": "Rolls ↑ \"Rolls-Royce\" . Grace's Guide To British Industrial History . 13 March 2023 . Retrieved 10 May 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pugh_the_magic_of_a_mame_the_first_forty_years_pp_44_48",
+    "nombre": "Rolls ↑ Pugh, The Magic of a Mame – The First Forty Years , pp. 44-48",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_the_earlier_models_having_been_based_on_a_decauville_owned_by_royce",
+    "nombre": "Rolls ↑ The earlier models having been based on a Decauville owned by Royce.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_oldham_wilton_the_hyphen_in_rolls_royce_a_biography_of_claude_johnson_foulis_isbn_0_85429_017_6",
+    "nombre": "Rolls ↑ Oldham, Wilton . The hyphen in Rolls-Royce: A biography of Claude Johnson . Foulis. ISBN 0-85429-017-6 .",
+    "anio_desde": 1967,
+    "anio_hasta": 1967,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_silver_ghost_association_archived_7_february_2019_at_the_wayback_machine_accessed_6_february_2019",
+    "nombre": "Rolls ↑ Silver Ghost Association Archived 7 February 2019 at the Wayback Machine accessed 6 February 2019",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pugh_the_magic_of_a_mame_the_first_forty_years_pp_48_55",
+    "nombre": "Rolls ↑ Pugh, The Magic of a Mame – The First Forty Years , pp. 48-55",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_location_of_springfield_rolls_royce_factory_archived_from_the_original_on_26_april_2016_retrieved_8_june_2016",
+    "nombre": "Rolls ↑ \"Location of Springfield Rolls-Royce factory\" . Archived from the original on 26 April 2016 . Retrieved 8 June 2016 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_ltd_the_canberra_times_canberra_australia_8_april_1929_retrieved_10_may_2025",
+    "nombre": "Rolls ↑ \"ROLLS ROYCE LTD\" . The Canberra Times . Canberra, Australia. 8 April 1929 . Retrieved 10 May 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_the_stock_exchange_year_book_1937_publishers_thomas_skinner_co_london_p_1760",
+    "nombre": "Rolls ↑ The Stock Exchange Year-Book 1937, Publishers Thomas Skinner & Co., London, p. 1760",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rowbotham_1970_p_87",
+    "nombre": "Rolls ↑ Rowbotham 1970 , p. 87.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rowbotham_1970_pp_197201",
+    "nombre": "Rolls ↑ Rowbotham 1970 , pp. 197–201.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rowbotham_1970_p_35",
+    "nombre": "Rolls ↑ Rowbotham 1970 , p. 35.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_historic_pub_is_up_for_sale_lancashire_evening_post_1_february_2020",
+    "nombre": "Rolls ↑ \"Historic Pub is up for sale\". Lancashire Evening Post . 1 February 2020.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1_2_3_4_5_6_rolls_royce_prospectus_the_daily_telegraph_thursday_30_april_1987_issue_41009_pp_1932",
+    "nombre": "Rolls 1 2 3 4 5 6 Rolls-Royce Prospectus. The Daily Telegraph , Thursday, 30 April 1987, Issue 41009, pp. 19–32",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_for_the_unsentimental_the_daily_telegraph_thursday_30_april_1987_issue_41009_p_15",
+    "nombre": "Rolls ↑ Rolls-Royce for the unsentimental. The Daily Telegraph , Thursday, 30 April 1987, Issue 41009, p. 15",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_broken_rules_that_led_to_the_downfall_of_rolls_royce_the_times_friday_5_feb_1971_pg_15_issue_58091",
+    "nombre": "Rolls ↑ Broken Rules That Led to the Downfall of Rolls-Royce. The Times Friday, 5 Feb 1971; pg. 15; Issue 58091",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_collapse_state_takeover_move_the_times_friday_5_feb_1971_pg_1_issue_58091",
+    "nombre": "Rolls ↑ Rolls-Royce collapse: state takeover move. The Times , Friday, 5 Feb 1971; pg. 1; Issue 58091",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_takeover_becomes_law_new_york_times_18_february_1971_retrieved_20_june_2026",
+    "nombre": "Rolls ↑ \"Rolls Take‐Over Becomes Law\" . New York Times . 18 February 1971 . Retrieved 20 June 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1_2_rolls_royce_a_juicy_liquidation_the_times_thursday_22_dec_1977_p_15_issue_60193",
+    "nombre": "Rolls 1 2 \"Rolls-Royce: a juicy liquidation\". The Times , Thursday, 22 Dec 1977; p. 15; Issue 60193",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_ti_chairman_pleads_for_full_rolls_royce_assets_price_the_times_friday_14_apr_1972_p_15_issue_58452",
+    "nombre": "Rolls ↑ \"TI chairman pleads for full Rolls-Royce assets price\". The Times , Friday, 14 Apr 1972; p. 15; Issue 58452",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_neb_challenges_rolls_valuation_the_times_friday_30_jul_1976_p_17_issue_59769",
+    "nombre": "Rolls ↑ \"NEB challenges Rolls valuation\". The Times , Friday, 30 Jul 1976; p. 17; Issue 59769",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_independent_inquiry_for_any_dispute_on_r_r_assets_the_times_saturday_20_mar_1971_p_7_issue_58126",
+    "nombre": "Rolls ↑ \"Independent inquiry for any dispute on R-R assets\". The Times , Saturday, 20 Mar 1971; p. 7; Issue 58126",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_lockheed_warning_on_bankruptcy_the_times_wednesday_19_may_1971_p_21_issue_58176",
+    "nombre": "Rolls ↑ \"Lockheed warning on bankruptcy\". The Times , Wednesday, 19 May 1971; p. 21; Issue 58176",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_tristar_engines_surprisingly_quiet_the_times_wednesday_2_jun_1971_pg_15_issue_58188",
+    "nombre": "Rolls ↑ TriStar engines surprisingly quiet. The Times , Wednesday, 2 Jun 1971; pg. 15; Issue 58188",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_licence_for_tristar_the_quietest_jetliner_the_times_monday_17_apr_1972_p_19_issue_58454",
+    "nombre": "Rolls ↑ \"Licence for TriStar, the 'quietest jetliner ' \" . The Times , Monday, 17 Apr 1972; p. 19; Issue 58454.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_no_signs_of_r_r_motors_sell_out_by_institutions_the_times_thursday_2_aug_1973_pg_17_issue_58850",
+    "nombre": "Rolls ↑ No signs of R-R Motors sell-out by institutions. The Times , Thursday, 2 Aug 1973; pg. 17; Issue 58850",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_vickers_the_times_friday_26_sep_1980_pg_26_issue_60734",
+    "nombre": "Rolls ↑ Vickers. The Times , Friday, 26 Sep 1980; pg. 26; Issue 60734",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_drops_1971_from_title_the_times_tuesday_7_dec_1976_pg_19_issue_59880",
+    "nombre": "Rolls ↑ Rolls-Royce drops 1971 from title. The Times , Tuesday, 7 Dec 1976; pg. 19; Issue 59880",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_the_times_friday_17_mar_1978_pg_23_issue_60259",
+    "nombre": "Rolls ↑ Rolls Royce. The Times Friday, 17 Mar 1978; pg. 23; Issue 60259",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_general_appointments_the_times_thursday_11_september_1986_issue_62560_p_15",
+    "nombre": "Rolls ↑ General Appointments, The Times , Thursday, 11 September 1986, Issue 62560, p. 15.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_r_r_surges_to_62p_premium_the_times_thursday_21_may_1987_pg_25_issue_62774",
+    "nombre": "Rolls ↑ R-R surges to 62p premium. The Times , Thursday, 21 May 1987; pg. 25; Issue 62774",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_shares_will_fly_the_times_wednesday_29_april_1987_p_25_issue_62755",
+    "nombre": "Rolls ↑ \"Rolls-Royce shares will fly\". The Times , Wednesday, 29 April 1987; p. 25; Issue 62755",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rolls_royce_the_times_wednesday_6_oct_1965_pg_8_issue_56445",
+    "nombre": "Rolls ↑ Rolls Royce. The Times , Wednesday, 6 Oct 1965; pg. 8; Issue 56445",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_ritual_stolly_swimming_the_best_bit_of_kit_we_ever_had_archived_5_february_2017_at_the_wayback_machine",
+    "nombre": "Rolls ↑ Ritual Stolly swimming, \"the best bit of kit we ever had\" Archived 5 February 2017 at the Wayback Machine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_harvey_bailey_alec_hives_turbulent_barons_rolls_royce_heritage_trust_n_20",
+    "nombre": "Rolls Harvey-Bailey, Alec . Hives' Turbulent Barons . Rolls-Royce Heritage Trust . Nº 20.",
+    "anio_desde": 1992,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_lloyd_ian_rolls_royce_the_growth_of_a_firm_london_palgrave_macmillan_isbn_978_1_349_03913_5",
+    "nombre": "Rolls Lloyd, Ian . Rolls-Royce: The Growth of a Firm . London: Palgrave Macmillan. ISBN 978-1-349-03913-5 .",
+    "anio_desde": 1978,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rowland_john_the_rolls_royce_men_the_story_of_cs_rolls_and_henry_royce_new_york_roy_publishers",
+    "nombre": "Rolls Rowland, John . The Rolls-Royce Men: The Story of C.S. Rolls and Henry Royce . New York: Roy Publishers.",
+    "anio_desde": 1969,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_lessons_for_tomorrow_from_the_old_rolls_royce_a_1973_flight_article_by_francis_rodwell_banks",
+    "nombre": "Rolls \"Lessons for Tomorrow from the Old Rolls-Royce\" a 1973 Flight article by Francis Rodwell Banks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_buzzard",
+    "nombre": "Rolls Buzzard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_condor",
+    "nombre": "Rolls Condor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_crecy",
+    "nombre": "Rolls Crecy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_eagle",
+    "nombre": "Rolls Eagle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_eagle_xvi",
+    "nombre": "Rolls Eagle XVI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_exe",
+    "nombre": "Rolls Exe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_falcon",
+    "nombre": "Rolls Falcon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_goshawk",
+    "nombre": "Rolls Goshawk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_griffon",
+    "nombre": "Rolls Griffon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_hawk",
+    "nombre": "Rolls Hawk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_kestrel",
+    "nombre": "Rolls Kestrel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_merlin",
+    "nombre": "Rolls Merlin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pennine",
+    "nombre": "Rolls Pennine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_peregrine",
+    "nombre": "Rolls Peregrine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_r",
+    "nombre": "Rolls \"R\"",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_vulture",
+    "nombre": "Rolls Vulture",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pv12",
+    "nombre": "Rolls PV12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_type_h",
+    "nombre": "Rolls Type H",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_type_g",
+    "nombre": "Rolls Type G",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_type_f",
+    "nombre": "Rolls Type F",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_type_r",
+    "nombre": "Rolls Type R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_larch",
+    "nombre": "Rolls Larch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce_rz2",
+    "nombre": "Rolls-Royce RZ.2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_avon",
+    "nombre": "Rolls Avon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_derwent",
+    "nombre": "Rolls Derwent",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_nene",
+    "nombre": "Rolls Nene",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_olympus",
+    "nombre": "Rolls Olympus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_olympus_593",
+    "nombre": "Rolls Olympus 593",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb106",
+    "nombre": "Rolls RB.106",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb108",
+    "nombre": "Rolls RB.108",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb145",
+    "nombre": "Rolls RB.145",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb162",
+    "nombre": "Rolls RB.162",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb176",
+    "nombre": "Rolls RB176",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_soar",
+    "nombre": "Rolls Soar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_tay",
+    "nombre": "Rolls Tay",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_thames",
+    "nombre": "Rolls Thames",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_viper",
+    "nombre": "Rolls Viper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_welland",
+    "nombre": "Rolls Welland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_adour",
+    "nombre": "Rolls Adour",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_conway",
+    "nombre": "Rolls Conway",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_m45h",
+    "nombre": "Rolls M45H",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_medway",
+    "nombre": "Rolls Medway",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pegasus",
+    "nombre": "Rolls Pegasus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb153",
+    "nombre": "Rolls RB153",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb168_62",
+    "nombre": "Rolls RB168-62",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb175",
+    "nombre": "Rolls RB.175",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb178",
+    "nombre": "Rolls RB178",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb193",
+    "nombre": "Rolls RB.193",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb199",
+    "nombre": "Rolls RB199",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb202",
+    "nombre": "Rolls RB202",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb211",
+    "nombre": "Rolls RB211",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb220",
+    "nombre": "Rolls RB220",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb235",
+    "nombre": "Rolls RB235",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_spey",
+    "nombre": "Rolls Spey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_trent",
+    "nombre": "Rolls Trent",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_clyde",
+    "nombre": "Rolls Clyde",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_dart",
+    "nombre": "Rolls Dart",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_gem",
+    "nombre": "Rolls Gem",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_gnome",
+    "nombre": "Rolls Gnome",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_nimbus",
+    "nombre": "Rolls Nimbus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_tweed",
+    "nombre": "Rolls Tweed",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_tyne",
+    "nombre": "Rolls Tyne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb23",
+    "nombre": "Rolls RB23",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb37",
+    "nombre": "Rolls RB37",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb39",
+    "nombre": "Rolls RB39",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb41",
+    "nombre": "Rolls RB41",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb44",
+    "nombre": "Rolls RB44",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb50",
+    "nombre": "Rolls RB50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb53",
+    "nombre": "Rolls RB53",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb80",
+    "nombre": "Rolls RB80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb82",
+    "nombre": "Rolls RB82",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb93",
+    "nombre": "Rolls RB93",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb109",
+    "nombre": "Rolls RB109",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb140",
+    "nombre": "Rolls RB140",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb141",
+    "nombre": "Rolls RB141",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb142",
+    "nombre": "Rolls RB142",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb146",
+    "nombre": "Rolls RB146",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb163",
+    "nombre": "Rolls RB163",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb168",
+    "nombre": "Rolls RB168",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb172",
+    "nombre": "Rolls RB172",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb174",
+    "nombre": "Rolls RB174",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb177",
+    "nombre": "Rolls RB177",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb181",
+    "nombre": "Rolls RB181",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb183",
+    "nombre": "Rolls RB183",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb207",
+    "nombre": "Rolls RB207",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb203",
+    "nombre": "Rolls RB203",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb410",
+    "nombre": "Rolls RB410",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rb508",
+    "nombre": "Rolls RB508",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce_meteor",
+    "nombre": "Rolls-Royce Meteor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce_meteorite",
+    "nombre": "Rolls-Royce Meteorite",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_marine_olympus",
+    "nombre": "Rolls Marine Olympus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_marine_spey",
+    "nombre": "Rolls Marine Spey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_alan_arnold_griffith",
+    "nombre": "Rolls Alan Arnold Griffith",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rw_harvey_bailey",
+    "nombre": "Rolls R.W. Harvey-Bailey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_stanley_hooker",
+    "nombre": "Rolls Stanley Hooker",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_gordon_lewis",
+    "nombre": "Rolls Gordon Lewis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_cyril_lovesey",
+    "nombre": "Rolls Cyril Lovesey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_harry_ricardo",
+    "nombre": "Rolls Harry Ricardo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_arthur_rowledge",
+    "nombre": "Rolls Arthur Rowledge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_arthur_rubbra",
+    "nombre": "Rolls Arthur Rubbra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_spirito_mario_viale",
+    "nombre": "Rolls Spirito Mario Viale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_associated_portland_cement",
+    "nombre": "Rolls Associated Portland Cement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_austin_motor",
+    "nombre": "Rolls Austin Motor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bass",
+    "nombre": "Rolls Bass",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bolsover_colliery",
+    "nombre": "Rolls Bolsover Colliery",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_callenders_cables_construction",
+    "nombre": "Rolls Callenders Cables & Construction",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_coats",
+    "nombre": "Rolls Coats",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_courtaulds",
+    "nombre": "Rolls Courtaulds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_distillers",
+    "nombre": "Rolls Distillers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_dorman_long",
+    "nombre": "Rolls Dorman Long",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_dunlop_rubber",
+    "nombre": "Rolls Dunlop Rubber",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_electrical_musical_industries",
+    "nombre": "Rolls Electrical & Musical Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_fine_spinners_and_doublers",
+    "nombre": "Rolls Fine Spinners and Doublers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_general_electric_company",
+    "nombre": "Rolls General Electric Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_guest_keen_nettlefolds",
+    "nombre": "Rolls Guest Keen & Nettlefolds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_harrods",
+    "nombre": "Rolls Harrods",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_hawker_siddeley",
+    "nombre": "Rolls Hawker Siddeley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_imperial_chemical_industries",
+    "nombre": "Rolls Imperial Chemical Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_imperial_tobacco",
+    "nombre": "Rolls Imperial Tobacco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_international_tea_co_stores",
+    "nombre": "Rolls International Tea Co. Stores",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_london_brick",
+    "nombre": "Rolls London Brick",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_murex",
+    "nombre": "Rolls Murex",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_patons_baldwins",
+    "nombre": "Rolls Patons & Baldwins",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_pinchin_johnson_associates",
+    "nombre": "Rolls Pinchin Johnson & Associates",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_royce",
+    "nombre": "Rolls-Royce",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_tate_lyle",
+    "nombre": "Rolls Tate & Lyle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_turner_newall",
+    "nombre": "Rolls Turner & Newall",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_united_steel_companies",
+    "nombre": "Rolls United Steel Companies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_vickers_armstrongs",
+    "nombre": "Rolls Vickers-Armstrongs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_watney_combe_reid",
+    "nombre": "Rolls Watney Combe & Reid",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_fw_woolworth_co",
+    "nombre": "Rolls FW Woolworth & Co",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_isni",
+    "nombre": "Rolls ISNI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_viaf",
+    "nombre": "Rolls VIAF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_united_states",
+    "nombre": "Rolls United States",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_france",
+    "nombre": "Rolls France",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_bnf_data",
+    "nombre": "Rolls BnF data",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_czech_republic_2_3_4",
+    "nombre": "Rolls Czech Republic 2 3 4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_israel",
+    "nombre": "Rolls Israel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_yale_lux",
+    "nombre": "Rolls Yale LUX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_rocket_engine_manufacturers_of_the_united_kingdom",
+    "nombre": "Rolls Rocket engine manufacturers of the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_defunct_aircraft_engine_manufacturers_of_the_united_kingdom",
+    "nombre": "Rolls Defunct aircraft engine manufacturers of the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_defunct_motor_vehicle_manufacturers_of_the_united_kingdom",
+    "nombre": "Rolls Defunct motor vehicle manufacturers of the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_companies_formerly_listed_on_the_london_stock_exchange",
+    "nombre": "Rolls Companies formerly listed on the London Stock Exchange",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_1906_establishments_in_england",
+    "nombre": "Rolls 1906 establishments in England",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_vehicle_manufacturing_companies_established_in_1906",
+    "nombre": "Rolls Vehicle manufacturing companies established in 1906",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_british_brands",
+    "nombre": "Rolls British brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_british_companies_established_in_1906",
+    "nombre": "Rolls British companies established in 1906",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_motor_vehicle_engine_manufacturers",
+    "nombre": "Rolls Motor vehicle engine manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_articles_with_short_description",
+    "nombre": "Rolls Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_short_description_is_different_from_wikidata",
+    "nombre": "Rolls Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_use_british_english_from_july_2011",
+    "nombre": "Rolls Use British English from July 2011",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_all_wikipedia_articles_written_in_british_english",
+    "nombre": "Rolls All Wikipedia articles written in British English",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_use_dmy_dates_from_september_2020",
+    "nombre": "Rolls Use dmy dates from September 2020",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_webarchive_template_wayback_links",
+    "nombre": "Rolls Webarchive template wayback links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_all_articles_with_unsourced_statements",
+    "nombre": "Rolls All articles with unsourced statements",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_articles_with_unsourced_statements_from_may_2020",
+    "nombre": "Rolls Articles with unsourced statements from May 2020",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_articles_with_unsourced_statements_from_february_2019",
+    "nombre": "Rolls Articles with unsourced statements from February 2019",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_articles_needing_additional_references_from_april_2018",
+    "nombre": "Rolls Articles needing additional references from April 2018",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_all_articles_needing_additional_references",
+    "nombre": "Rolls All articles needing additional references",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_this_page_was_last_edited_on_1_august_2026_at_1257",
+    "nombre": "Rolls This page was last edited on 1 August 2026, at 12:57  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_page_was_rendered_with_parsoid",
+    "nombre": "Rolls Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_privacy_policy",
+    "nombre": "Rolls Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_disclaimers",
+    "nombre": "Rolls Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_contact_wikipedia",
+    "nombre": "Rolls Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_legal_safety_contacts",
+    "nombre": "Rolls Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_code_of_conduct",
+    "nombre": "Rolls Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_developers",
+    "nombre": "Rolls Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_statistics",
+    "nombre": "Rolls Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_cookie_statement",
+    "nombre": "Rolls Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "rolls_mobile_view",
+    "nombre": "Rolls Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

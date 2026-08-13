@@ -1,0 +1,30 @@
+[
+  {
+    "id": "alfa_plant",
+    "nombre": "Alfa Plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "alfa_cassino",
+    "nombre": "Alfa Cassino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "alfa_pomigliano",
+    "nombre": "Alfa Pomigliano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "alfa_tychy",
+    "nombre": "Alfa Tychy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

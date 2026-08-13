@@ -1,0 +1,508 @@
+[
+  {
+    "id": "mitsubishi_asx",
+    "nombre": "Mitsubishi ASX",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_asx_vr_e",
+    "nombre": "Mitsubishi ASX VR-e",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_destinator",
+    "nombre": "Mitsubishi Destinator",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_eclipse_cross",
+    "nombre": "Mitsubishi Eclipse Cross",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_eclipse_cross_ev",
+    "nombre": "Mitsubishi Eclipse Cross EV",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_eclipse_sportback",
+    "nombre": "Mitsubishi Eclipse Sportback",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_grandis",
+    "nombre": "Mitsubishi Grandis",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_outlander",
+    "nombre": "Mitsubishi Outlander",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_xforce_outlander_sport",
+    "nombre": "Mitsubishi Xforce / Outlander Sport",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_pajero_montero",
+    "nombre": "Mitsubishi Pajero / Montero",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "mitsubishi_delica_d5",
+    "nombre": "Mitsubishi Delica D:5",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "mitsubishi_delica_taiwan",
+    "nombre": "Mitsubishi Delica (Taiwan)",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "mitsubishi_xpander",
+    "nombre": "Mitsubishi Xpander",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "mitsubishi_xpander_cross",
+    "nombre": "Mitsubishi Xpander Cross",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "mitsubishi_ek_space",
+    "nombre": "Mitsubishi eK Space",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "mitsubishi_ek_wagon",
+    "nombre": "Mitsubishi eK Wagon",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "mitsubishi_ek_x_ev",
+    "nombre": "Mitsubishi eK X EV",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "mitsubishi_town_box",
+    "nombre": "Mitsubishi Town Box",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "mitsubishi_minicab_van",
+    "nombre": "Mitsubishi Minicab Van",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "mitsubishi_versa_van",
+    "nombre": "Mitsubishi Versa Van",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "mitsubishi_delica",
+    "nombre": "Mitsubishi Delica",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cab-chassis truck"
+    ]
+  },
+  {
+    "id": "mitsubishi_l300_colt_l300",
+    "nombre": "Mitsubishi L300 / Colt L300",
+    "anio_desde": 1979,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cab-chassis truck"
+    ]
+  },
+  {
+    "id": "mitsubishi_3000gt",
+    "nombre": "Mitsubishi 3000GT",
+    "anio_desde": 1991,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_airtrek",
+    "nombre": "Mitsubishi Airtrek",
+    "anio_desde": 2021,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_carisma",
+    "nombre": "Mitsubishi Carisma",
+    "anio_desde": 1995,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_chariot",
+    "nombre": "Mitsubishi Chariot",
+    "anio_desde": 1983,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_colt",
+    "nombre": "Mitsubishi Colt",
+    "anio_desde": 1978,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_colt_1000110012001500",
+    "nombre": "Mitsubishi Colt 1000/1100/1200/1500",
+    "anio_desde": 1962,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_cordia",
+    "nombre": "Mitsubishi Cordia",
+    "anio_desde": 1982,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_debonair",
+    "nombre": "Mitsubishi Debonair",
+    "anio_desde": 1964,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_delica_d3delica_van",
+    "nombre": "Mitsubishi Delica D:3/Delica Van",
+    "anio_desde": 2011,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_diamante",
+    "nombre": "Mitsubishi Diamante",
+    "anio_desde": 1990,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_dignity_proudia",
+    "nombre": "Mitsubishi Dignity / Proudia",
+    "anio_desde": 1999,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_dion",
+    "nombre": "Mitsubishi Dion",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_eclipse",
+    "nombre": "Mitsubishi Eclipse",
+    "anio_desde": 1989,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_endeavor",
+    "nombre": "Mitsubishi Endeavor",
+    "anio_desde": 2003,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_express",
+    "nombre": "Mitsubishi Express",
+    "anio_desde": 1986,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_freeca",
+    "nombre": "Mitsubishi Freeca",
+    "anio_desde": 1997,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_fto",
+    "nombre": "Mitsubishi FTO",
+    "anio_desde": 1993,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_galant",
+    "nombre": "Mitsubishi Galant",
+    "anio_desde": 1969,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_galant_fto",
+    "nombre": "Mitsubishi Galant FTO",
+    "anio_desde": 1971,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_galant_gto",
+    "nombre": "Mitsubishi Galant GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_galant_lambda",
+    "nombre": "Mitsubishi Galant Lambda",
+    "anio_desde": 1976,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_grandis_minivan",
+    "nombre": "Mitsubishi Grandis (minivan)",
+    "anio_desde": 2003,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_grand_lancer",
+    "nombre": "Mitsubishi Grand Lancer",
+    "anio_desde": 2017,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_i_miev",
+    "nombre": "Mitsubishi i-MiEV",
+    "anio_desde": 2009,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_lancer",
+    "nombre": "Mitsubishi Lancer",
+    "anio_desde": 1973,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_lancer_evolution",
+    "nombre": "Mitsubishi Lancer Evolution",
+    "anio_desde": 1992,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_magna",
+    "nombre": "Mitsubishi Magna",
+    "anio_desde": 1985,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_maven",
+    "nombre": "Mitsubishi Maven",
+    "anio_desde": 2005,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_minica",
+    "nombre": "Mitsubishi Minica",
+    "anio_desde": 1962,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_mirage_dingo",
+    "nombre": "Mitsubishi Mirage Dingo",
+    "anio_desde": 1998,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_model_a",
+    "nombre": "Mitsubishi Model A",
+    "anio_desde": 1917,
+    "anio_hasta": 1921,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_pajero_io",
+    "nombre": "Mitsubishi Pajero iO",
+    "anio_desde": 1998,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_pajero_junior",
+    "nombre": "Mitsubishi Pajero Junior",
+    "anio_desde": 1995,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_pajero_mini",
+    "nombre": "Mitsubishi Pajero Mini",
+    "anio_desde": 1994,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_pistachio",
+    "nombre": "Mitsubishi Pistachio",
+    "anio_desde": 1999,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_raider",
+    "nombre": "Mitsubishi Raider",
+    "anio_desde": 2005,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_rvr",
+    "nombre": "Mitsubishi RVR",
+    "anio_desde": 1991,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_sapporo",
+    "nombre": "Mitsubishi Sapporo",
+    "anio_desde": 1978,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_savrin",
+    "nombre": "Mitsubishi Savrin",
+    "anio_desde": 2001,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_sigma",
+    "nombre": "Mitsubishi Sigma",
+    "anio_desde": 1976,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_space_star",
+    "nombre": "Mitsubishi Space Star",
+    "anio_desde": 1998,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_starion",
+    "nombre": "Mitsubishi Starion",
+    "anio_desde": 1982,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_toppo",
+    "nombre": "Mitsubishi Toppo",
+    "anio_desde": 1990,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "mitsubishi_tredia",
+    "nombre": "Mitsubishi Tredia",
+    "anio_desde": 1982,
+    "anio_hasta": 1990,
+    "segmentos": []
+  }
+]

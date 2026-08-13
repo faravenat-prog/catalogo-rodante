@@ -1,0 +1,4419 @@
+[
+  {
+    "id": "datsun_main_page",
+    "nombre": "Datsun Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_contents",
+    "nombre": "Datsun Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_current_events",
+    "nombre": "Datsun Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_random_article",
+    "nombre": "Datsun Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_about_wikipedia",
+    "nombre": "Datsun About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_contact_us",
+    "nombre": "Datsun Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_help",
+    "nombre": "Datsun Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_learn_to_edit",
+    "nombre": "Datsun Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_community_portal",
+    "nombre": "Datsun Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_recent_changes",
+    "nombre": "Datsun Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_upload_file",
+    "nombre": "Datsun Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_special_pages",
+    "nombre": "Datsun Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_donate",
+    "nombre": "Datsun Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_create_account",
+    "nombre": "Datsun Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_log_in",
+    "nombre": "Datsun Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_11_origin_of_datsun",
+    "nombre": "Datsun 1.1 Origin of Datsun",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_12_datsun_in_the_american_market",
+    "nombre": "Datsun 1.2 Datsun in the American market",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_13_datsun_in_europe",
+    "nombre": "Datsun 1.3 Datsun in Europe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_14_rebranding",
+    "nombre": "Datsun 1.4 Rebranding",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_15_datsun_truck",
+    "nombre": "Datsun 1.5 Datsun truck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_2_relaunch",
+    "nombre": "Datsun 2 Relaunch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_3_leadership",
+    "nombre": "Datsun 3 Leadership",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_4_models",
+    "nombre": "Datsun 4 Models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_5_see_also",
+    "nombre": "Datsun 5 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_6_references",
+    "nombre": "Datsun 6 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_7_bibliography",
+    "nombre": "Datsun 7 Bibliography",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_8_external_links",
+    "nombre": "Datsun 8 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_afrikaans",
+    "nombre": "Datsun Afrikaans",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun",
+    "nombre": "Datsun العربية",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_catala",
+    "nombre": "Datsun Català",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cestina",
+    "nombre": "Datsun Čeština",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_deutsch",
+    "nombre": "Datsun Deutsch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_espanol",
+    "nombre": "Datsun Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_francais",
+    "nombre": "Datsun Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hausa",
+    "nombre": "Datsun Hausa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_magyar",
+    "nombre": "Datsun Magyar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bahasa_indonesia",
+    "nombre": "Datsun Bahasa Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_italiano",
+    "nombre": "Datsun Italiano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jawa",
+    "nombre": "Datsun Jawa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bahasa_melayu",
+    "nombre": "Datsun Bahasa Melayu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nederlands",
+    "nombre": "Datsun Nederlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_norsk_bokmal",
+    "nombre": "Datsun Norsk bokmål",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_polski",
+    "nombre": "Datsun Polski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_portugues",
+    "nombre": "Datsun Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_slovencina",
+    "nombre": "Datsun Slovenčina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_svenska",
+    "nombre": "Datsun Svenska",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_turkce",
+    "nombre": "Datsun Türkçe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_article",
+    "nombre": "Datsun Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_talk",
+    "nombre": "Datsun Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_read",
+    "nombre": "Datsun Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_edit",
+    "nombre": "Datsun Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_view_history",
+    "nombre": "Datsun View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_what_links_here",
+    "nombre": "Datsun What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_related_changes",
+    "nombre": "Datsun Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_permanent_link",
+    "nombre": "Datsun Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_page_information",
+    "nombre": "Datsun Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cite_this_page",
+    "nombre": "Datsun Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_get_shortened_url",
+    "nombre": "Datsun Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_switch_to_legacy_parser",
+    "nombre": "Datsun Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_download_as_pdf",
+    "nombre": "Datsun Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_printable_version",
+    "nombre": "Datsun Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_wikimedia_commons",
+    "nombre": "Datsun Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_wikidata_item",
+    "nombre": "Datsun Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_original_1931_95_years_ago",
+    "nombre": "Datsun Original: 1931 ; 95 years ago",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_relaunch_2013_13_years_ago",
+    "nombre": "Datsun Relaunch: 2013 ; 13 years ago",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_original_1986_40_years_ago",
+    "nombre": "Datsun Original: 1986 ; 40 years ago",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_relaunch_2022_4_years_ago",
+    "nombre": "Datsun Relaunch: 2022 ; 4 years ago",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_worldwide",
+    "nombre": "Datsun Worldwide",
+    "anio_desde": 1931,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_india",
+    "nombre": "Datsun India",
+    "anio_desde": 2014,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_indonesia",
+    "nombre": "Datsun Indonesia",
+    "anio_desde": 2014,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_russia",
+    "nombre": "Datsun Russia",
+    "anio_desde": 2014,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_south_africa",
+    "nombre": "Datsun South Africa",
+    "anio_desde": 2014,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yoshisuke_aikawa",
+    "nombre": "Datsun Yoshisuke Aikawa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_katsuji_kawamata",
+    "nombre": "Datsun Katsuji Kawamata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yutaka_katayama",
+    "nombre": "Datsun Yutaka Katayama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jose_roman_ceo_of_new_datsun_brand",
+    "nombre": "Datsun José Román, CEO of new Datsun brand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kenjiro_d_en",
+    "nombre": "Datsun Kenjiro D en",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rokuro_a_oyama",
+    "nombre": "Datsun Rokuro A oyama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_meitaro_t_akeuchi_takeuchi_meitaro",
+    "nombre": "Datsun Meitaro T akeuchi Takeuchi Meitarō",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jose_roman",
+    "nombre": "Datsun Jose Roman",
+    "anio_desde": 2013,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_go",
+    "nombre": "Datsun Go",
+    "anio_desde": 2013,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_on_do",
+    "nombre": "Datsun on-Do",
+    "anio_desde": 2014,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mi_do",
+    "nombre": "Datsun mi-Do",
+    "anio_desde": 2015,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_redi_go",
+    "nombre": "Datsun redi-Go",
+    "anio_desde": 2016,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cross",
+    "nombre": "Datsun Cross",
+    "anio_desde": 2018,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cars_portal",
+    "nombre": "Datsun Cars portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sports",
+    "nombre": "Datsun Sports",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_laurence_hartnett",
+    "nombre": "Datsun Laurence Hartnett",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan",
+    "nombre": "Datsun Nissan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_car_carrier",
+    "nombre": "Datsun Nissan Motor Car Carrier",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sports_car_international_top_sports_cars",
+    "nombre": "Datsun Sports Car International Top Sports Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_wells_john_c_longman_pronunciation_dictionary_harlow_pearson_education_isbn_978_1_4058_8118_0",
+    "nombre": "Datsun ↑ Wells, John C. . Longman Pronunciation Dictionary . Harlow: Pearson Education. ISBN 978-1-4058-8118-0 .",
+    "anio_desde": 2008,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1_2_nissan_brings_back_datsun_budget_brand_bbc_news_20_march_2012",
+    "nombre": "Datsun 1 2 Nissan brings back Datsun budget brand , BBC News, 20 March 2012",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1_2_3_datsun_model_11_phaeton_jsae_archived_from_the_original_on_3_march_2016_retrieved_16_june_2015",
+    "nombre": "Datsun 1 2 3 \"Datsun Model 11 Phaeton\" . JSAE. Archived from the original on 3 March 2016 . Retrieved 16 June 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_heritage_middle_east_nissan_archived_from_the_original_on_11_december_2008",
+    "nombre": "Datsun ↑ \"Nissan Heritage\" . Middle East: Nissan. Archived from the original on 11 December 2008.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1_2_3_4_5_6_7_daniels_1974_p_495",
+    "nombre": "Datsun 1 2 3 4 5 6 7 Daniels 1974 , p. 495.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_halberstam_david_the_reckoning_harpercollins_isbn_978_0_380_72147_4",
+    "nombre": "Datsun ↑ Halberstam, David . The Reckoning . HarperCollins. ISBN 978-0-380-72147-4 .",
+    "anio_desde": 1994,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yutaka_katayama_a_man_who_realized_a_dream_in_america_1998_z_car_club_association_pg_71",
+    "nombre": "Datsun ↑ \"Yutaka Katayama; A Man Who Realized a Dream in America\", 1998 Z Car Club Association, pg 71.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1_2_3_4_5_6_7_8_9_daniels_1974_p_496",
+    "nombre": "Datsun 1 2 3 4 5 6 7 8 9 Daniels 1974 , p. 496.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_daniels_1974_pp_496497",
+    "nombre": "Datsun ↑ Daniels 1974 , pp. 496–497.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1_2_daniels_1974_p_497",
+    "nombre": "Datsun 1 2 Daniels 1974 , p. 497.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yutaka_katayama_a_man_who_realized_a_dream_in_america_1998_z_car_club_association_pg_36",
+    "nombre": "Datsun ↑ \"Yutaka Katayama; A Man Who Realized a Dream in America\", 1998 Z Car Club Association, pg 36.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_history_lesson_the_datsun_name_top_gear_uk_16_july_2013_retrieved_12_may_2017",
+    "nombre": "Datsun ↑ \"History lesson: the Datsun name\" . Top Gear . UK. 16 July 2013 . Retrieved 12 May 2017 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_adams_keith_unsung_heroes_datsun_120y_aronline",
+    "nombre": "Datsun ↑ Adams, Keith . \"Unsung Heroes: Datsun 120Y \" . AROnline .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_adams_keith_blog_1983_the_year_the_supermini_grew_up_aronline",
+    "nombre": "Datsun ↑ Adams, Keith . \"Blog: 1983 — the year the supermini grew up\" . AROnline .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_classic_car_reviews_honest_john_retrieved_12_may_2017",
+    "nombre": "Datsun ↑ \"Nissan | Classic Car Reviews\" . Honest John . Retrieved 12 May 2017 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_business_week_7_april_1973_interview_with_katsuji_kawamata_president_of_nissan_motor_company_ltd",
+    "nombre": "Datsun ↑ Business Week , 7 April 1973, interview with Katsuji Kawamata, president of Nissan Motor Company Ltd.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_business_week_7_april_1973_pg_69",
+    "nombre": "Datsun ↑ Business Week, 7 April 1973, pg. 69.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_whats_in_a_name_archived_2006_05_08_at_the_wayback_machine_zcca",
+    "nombre": "Datsun ↑ What's in a name? Archived 2006-05-08 at the Wayback Machine – ZCCA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aaker_pg_56",
+    "nombre": "Datsun ↑ Aaker, pg 56.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_truck_historynissancojp_retrieved_12_october_2010",
+    "nombre": "Datsun ↑ \"日産：ダットサン トラック TRUCK\" . History.nissan.co.jp . Retrieved 12 October 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_on_the_go_with_datsun_the_hindu_15_july_2013",
+    "nombre": "Datsun ↑ \"Nissan on the GO with Datsun\" . The Hindu . 15 July 2013.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mishra_ashish_k_nissans_indian_gamble_with_datsun_forbes",
+    "nombre": "Datsun ↑ Mishra, Ashish K. . \"Nissan's Indian Gamble with Datsun\" . Forbes .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_parker_alexander_nissan_to_launch_datsun_brand_in_south_africa_business_day",
+    "nombre": "Datsun ↑ Parker, Alexander . \"Nissan to launch Datsun brand in South Africa\" . Business Day  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_revives_datsun_brand_with_go_hatchback_automotive_news_15_july_2013_retrieved_18_july_2013",
+    "nombre": "Datsun ↑ \"Nissan revives Datsun brand with Go hatchback\" . Automotive News . 15 July 2013 . Retrieved 18 July 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_datsun_go_datsuns_second_model_is_an_mpv_paultanorg_17_september_2013_retrieved_17_september_2013",
+    "nombre": "Datsun ↑ \"Datsun GO+: Datsun's second model is an MPV\" . Paultan.org. 17 September 2013 . Retrieved 17 September 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_auto_expo_2014_datsun_redi_go_concept_shown_autocar_india_5_february_2014_retrieved_8_november_2014",
+    "nombre": "Datsun ↑ \"Auto Expo 2014: Datsun redi-GO concept shown\" . Autocar India . 5 February 2014 . Retrieved 8 November 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_datsun_ready_for_russia_datsun_4_april_2014_retrieved_16_june_2015",
+    "nombre": "Datsun ↑ \"Datsun ready for Russia\" . Datsun. 4 April 2014 . Retrieved 16 June 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_datsun_will_stop_production_in_indonesia_in_2020_kompascom_25_november_2019_retrieved_17_february_2020",
+    "nombre": "Datsun ↑ \"Datsun will stop production in Indonesia in 2020\" . KOMPAS.com . 25 November 2019 . Retrieved 17 February 2020 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_1940s_our_company_nissan_retrieved_21_june_2026",
+    "nombre": "Datsun ↑ \"1940s | Our Company\" . Nissan . Retrieved 21 June 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_official_website",
+    "nombre": "Datsun Official website",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_official_site_in_russia",
+    "nombre": "Datsun Official site in Russia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_official_site_in_indonesia",
+    "nombre": "Datsun Official site in Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_infiniti",
+    "nombre": "Datsun Infiniti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_venucia_1",
+    "nombre": "Datsun Venucia 1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_prince",
+    "nombre": "Datsun Prince",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kurogane",
+    "nombre": "Datsun Kurogane",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aichi",
+    "nombre": "Datsun Aichi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_shatai",
+    "nombre": "Datsun Shatai",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ohta_jidosha",
+    "nombre": "Datsun Ohta Jidosha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_diesel",
+    "nombre": "Datsun Nissan Diesel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_ireland",
+    "nombre": "Datsun Nissan Ireland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_korea",
+    "nombre": "Datsun Nissan Korea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_manufacturing_rus",
+    "nombre": "Datsun Nissan Manufacturing Rus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_australia",
+    "nombre": "Datsun Nissan Motor Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_iberica",
+    "nombre": "Datsun Nissan Motor Ibérica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_india",
+    "nombre": "Datsun Nissan Motor India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_indonesia",
+    "nombre": "Datsun Nissan Motor Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motor_manufacturing_uk",
+    "nombre": "Datsun Nissan Motor Manufacturing UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motorsports_customizing_autech_nismo",
+    "nombre": "Datsun Nissan Motorsports & Customizing Autech Nismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_autech",
+    "nombre": "Datsun Autech",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nismo",
+    "nombre": "Datsun Nismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_new_zealand",
+    "nombre": "Datsun Nissan New Zealand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_north_america",
+    "nombre": "Datsun Nissan North America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_philippines",
+    "nombre": "Datsun Nissan Philippines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_south_africa",
+    "nombre": "Datsun Nissan South Africa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_alfa_romeo_nissan_autoveicoli_spa",
+    "nombre": "Datsun Alfa Romeo Nissan Autoveicoli S.p.A.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_compas",
+    "nombre": "Datsun COMPAS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dongfeng_nissan",
+    "nombre": "Datsun Dongfeng Nissan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_egt_new_energy_automotive",
+    "nombre": "Datsun eGT New Energy Automotive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ghandhara_nissan",
+    "nombre": "Datsun Ghandhara Nissan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nmkv",
+    "nombre": "Datsun NMKV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_renault_nissan_automotive_india",
+    "nombre": "Datsun Renault Nissan Automotive India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_renaultnissanmitsubishi_alliance",
+    "nombre": "Datsun Renault–Nissan–Mitsubishi Alliance",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rn_bank",
+    "nombre": "Datsun RN Bank",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_zhengzhou_nissan",
+    "nombre": "Datsun Zhengzhou-Nissan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jatco",
+    "nombre": "Datsun Jatco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsubishi_motors",
+    "nombre": "Datsun Mitsubishi Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_renault",
+    "nombre": "Datsun Renault",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_almerav_drive_versa_sunny",
+    "nombre": "Datsun Almera/V-Drive / Versa / Sunny",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_altima_teana",
+    "nombre": "Datsun Altima / Teana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_micra_march",
+    "nombre": "Datsun Micra / March",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_n6",
+    "nombre": "Datsun N6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_n7_primera",
+    "nombre": "Datsun N7 / Primera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_note",
+    "nombre": "Datsun Note",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sentra_sylphy",
+    "nombre": "Datsun Sentra / Sylphy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_skyline",
+    "nombre": "Datsun Skyline",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ariya",
+    "nombre": "Datsun Ariya",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_juke",
+    "nombre": "Datsun Juke",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kait",
+    "nombre": "Datsun Kait",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kicks",
+    "nombre": "Datsun Kicks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_leaf",
+    "nombre": "Datsun Leaf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_magnite",
+    "nombre": "Datsun Magnite",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_murano",
+    "nombre": "Datsun Murano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nx8",
+    "nombre": "Datsun NX8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pathfinder",
+    "nombre": "Datsun Pathfinder",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_patrol_armada",
+    "nombre": "Datsun Patrol / Armada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_qashqai",
+    "nombre": "Datsun Qashqai",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tekton",
+    "nombre": "Datsun Tekton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_terrax_terra",
+    "nombre": "Datsun Terra/X-Terra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_x_trail_rogue",
+    "nombre": "Datsun X-Trail / Rogue",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ad",
+    "nombre": "Datsun AD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_caravanurvan",
+    "nombre": "Datsun Caravan/Urvan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_elgrand",
+    "nombre": "Datsun Elgrand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gravite",
+    "nombre": "Datsun Gravite",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_interstar",
+    "nombre": "Datsun Interstar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_livina",
+    "nombre": "Datsun Livina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv200",
+    "nombre": "Datsun NV200",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_primastar",
+    "nombre": "Datsun Primastar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_serena",
+    "nombre": "Datsun Serena",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_townstar",
+    "nombre": "Datsun Townstar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dayz",
+    "nombre": "Datsun Dayz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nt100_clipper",
+    "nombre": "Datsun NT100 Clipper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv100_clipper",
+    "nombre": "Datsun NV100 Clipper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_roox",
+    "nombre": "Datsun Roox",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sakura",
+    "nombre": "Datsun Sakura",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_frontier",
+    "nombre": "Datsun Frontier",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_navara_profrontier_pro",
+    "nombre": "Datsun Navara Pro/Frontier Pro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_navarafrontiernp300",
+    "nombre": "Datsun Navara/Frontier/NP300",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_atlas",
+    "nombre": "Datsun Atlas",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_100nx",
+    "nombre": "Datsun 100NX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_180sx",
+    "nombre": "Datsun 180SX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_200sx",
+    "nombre": "Datsun 200SX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_240sx",
+    "nombre": "Datsun 240SX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_240z",
+    "nombre": "Datsun 240Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_280zx",
+    "nombre": "Datsun 280ZX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_300zx",
+    "nombre": "Datsun 300ZX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_350z",
+    "nombre": "Datsun 350Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_370z",
+    "nombre": "Datsun 370Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_almera_tino",
+    "nombre": "Datsun Almera Tino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_altra",
+    "nombre": "Datsun Altra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aprio",
+    "nombre": "Datsun Aprio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_atleon",
+    "nombre": "Datsun Atleon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_auster",
+    "nombre": "Datsun Auster",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_avenir",
+    "nombre": "Datsun Avenir",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bassara",
+    "nombre": "Datsun Bassara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_be_1",
+    "nombre": "Datsun Be-1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bluebird",
+    "nombre": "Datsun Bluebird",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_caball",
+    "nombre": "Datsun Caball",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cablight",
+    "nombre": "Datsun Cablight",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cedric",
+    "nombre": "Datsun Cedric",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cefiro",
+    "nombre": "Datsun Cefiro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cherry",
+    "nombre": "Datsun Cherry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cima",
+    "nombre": "Datsun Cima",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_civilian",
+    "nombre": "Datsun Civilian",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_crew",
+    "nombre": "Datsun Crew",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cube",
+    "nombre": "Datsun Cube",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dc_3",
+    "nombre": "Datsun DC-3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dualis",
+    "nombre": "Datsun Dualis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_echo",
+    "nombre": "Datsun Echo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_expert",
+    "nombre": "Datsun Expert",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_evalia",
+    "nombre": "Datsun Evalia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fairlady",
+    "nombre": "Datsun Fairlady",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_figaro",
+    "nombre": "Datsun Figaro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fuga",
+    "nombre": "Datsun Fuga",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gazelle",
+    "nombre": "Datsun Gazelle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gloria",
+    "nombre": "Datsun Gloria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gogo",
+    "nombre": "Datsun Go–Go+",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_grand_livina_livina_geniss",
+    "nombre": "Datsun Grand Livina / Livina Geniss",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gt_r",
+    "nombre": "Datsun GT-R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hardbody_truck",
+    "nombre": "Datsun Hardbody truck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_homy",
+    "nombre": "Datsun Homy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hypermini",
+    "nombre": "Datsun Hypermini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_junior",
+    "nombre": "Datsun Junior",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kix",
+    "nombre": "Datsun Kix",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kubistar",
+    "nombre": "Datsun Kubistar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_lafesta",
+    "nombre": "Datsun Lafesta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_lannia",
+    "nombre": "Datsun Lannia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_largo",
+    "nombre": "Datsun Largo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_latio",
+    "nombre": "Datsun Latio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_laurel",
+    "nombre": "Datsun Laurel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_leopard",
+    "nombre": "Datsun Leopard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_liberty",
+    "nombre": "Datsun Liberty",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_maxima",
+    "nombre": "Datsun Maxima",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mistral",
+    "nombre": "Datsun Mistral",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_moco",
+    "nombre": "Datsun Moco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_multi",
+    "nombre": "Datsun Multi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_murano_crosscabriolet",
+    "nombre": "Datsun Murano CrossCabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_np200",
+    "nombre": "Datsun NP200",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nt400_cabstar",
+    "nombre": "Datsun NT400 Cabstar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nt500",
+    "nombre": "Datsun NT500",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv1500",
+    "nombre": "Datsun NV1500",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv250",
+    "nombre": "Datsun NV250",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv2500_hd",
+    "nombre": "Datsun NV2500 HD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv300",
+    "nombre": "Datsun NV300",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv350",
+    "nombre": "Datsun NV350",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv3500_hd",
+    "nombre": "Datsun NV3500 HD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv400",
+    "nombre": "Datsun NV400",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nx",
+    "nombre": "Datsun NX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_paladin",
+    "nombre": "Datsun Paladin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pao",
+    "nombre": "Datsun Pao",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_patrol",
+    "nombre": "Datsun Patrol",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_patrol_pickup",
+    "nombre": "Datsun Patrol Pickup",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pino",
+    "nombre": "Datsun Pino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pintara",
+    "nombre": "Datsun Pintara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pixo",
+    "nombre": "Datsun Pixo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_platina",
+    "nombre": "Datsun Platina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_prairie",
+    "nombre": "Datsun Prairie",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_presage",
+    "nombre": "Datsun Presage",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_presea",
+    "nombre": "Datsun Presea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_prince_royal",
+    "nombre": "Datsun Prince Royal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_president",
+    "nombre": "Datsun President",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pulsar_exa_gti_r",
+    "nombre": "Datsun Pulsar EXA GTI-R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_exa",
+    "nombre": "Datsun EXA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gti_r",
+    "nombre": "Datsun GTI-R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_quest",
+    "nombre": "Datsun Quest",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_r390_gt1",
+    "nombre": "Datsun R390 GT1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rnessa",
+    "nombre": "Datsun R'nessa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rasheen",
+    "nombre": "Datsun Rasheen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_roadster_road_star",
+    "nombre": "Datsun Roadster-Road Star",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rogue_sport",
+    "nombre": "Datsun Rogue Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_s_cargo",
+    "nombre": "Datsun S-Cargo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_saurus",
+    "nombre": "Datsun Saurus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_saurus_jr",
+    "nombre": "Datsun Saurus Jr",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_silvia",
+    "nombre": "Datsun Silvia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_skyline_crossover",
+    "nombre": "Datsun Skyline Crossover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_skyline_gt_r",
+    "nombre": "Datsun Skyline GT-R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_stagea",
+    "nombre": "Datsun Stagea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_stanza",
+    "nombre": "Datsun Stanza",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_teana",
+    "nombre": "Datsun Teana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_terrano",
+    "nombre": "Datsun Terrano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_terrano_ii",
+    "nombre": "Datsun Terrano II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tiida",
+    "nombre": "Datsun Tiida",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_titan",
+    "nombre": "Datsun Titan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_trade",
+    "nombre": "Datsun Trade",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_truck",
+    "nombre": "Datsun Truck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vanette",
+    "nombre": "Datsun Vanette",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_versa_note",
+    "nombre": "Datsun Versa Note",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_violet",
+    "nombre": "Datsun Violet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_wingroad",
+    "nombre": "Datsun Wingroad",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_xterra",
+    "nombre": "Datsun Xterra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_126x",
+    "nombre": "Datsun 126X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_216x",
+    "nombre": "Datsun 216X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_240z_concept",
+    "nombre": "Datsun 240Z Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_270x",
+    "nombre": "Datsun 270X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_300_bambu",
+    "nombre": "Datsun 300 Bambu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_300_seta",
+    "nombre": "Datsun 300 Seta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_300xm",
+    "nombre": "Datsun 300XM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_315_a",
+    "nombre": "Datsun 315-a",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aa_x",
+    "nombre": "Datsun AA-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_actic",
+    "nombre": "Datsun Actic",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ad_1",
+    "nombre": "Datsun AD-1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ad_2",
+    "nombre": "Datsun AD-2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_al_x",
+    "nombre": "Datsun AL-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_alpha_t",
+    "nombre": "Datsun Alpha T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_amenio",
+    "nombre": "Datsun Amenio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ap_x",
+    "nombre": "Datsun AP-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aq_x",
+    "nombre": "Datsun AQ-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_arc_x",
+    "nombre": "Datsun ARC-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_axy",
+    "nombre": "Datsun AXY",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_azeal",
+    "nombre": "Datsun AZEAL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bevel",
+    "nombre": "Datsun Bevel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bladeglider",
+    "nombre": "Datsun BladeGlider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_boga",
+    "nombre": "Datsun Boga",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_c_note",
+    "nombre": "Datsun C-Note",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_chapeau",
+    "nombre": "Datsun Chapeau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_chappo",
+    "nombre": "Datsun Chappo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cocoon",
+    "nombre": "Datsun Cocoon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_compact_sport",
+    "nombre": "Datsun Compact Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_concept_2020_vision_gran_turismo",
+    "nombre": "Datsun CONCEPT 2020 Vision Gran Turismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cq_x",
+    "nombre": "Datsun CQ-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_crossbow",
+    "nombre": "Datsun Crossbow",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cue_x",
+    "nombre": "Datsun CUE-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cypact",
+    "nombre": "Datsun Cypact",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_denki_cube",
+    "nombre": "Datsun Denki Cube",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_go_cross",
+    "nombre": "Datsun GO-Cross",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_go_live",
+    "nombre": "Datsun GO Live",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_duad",
+    "nombre": "Datsun Duad",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dunehawk",
+    "nombre": "Datsun Dunehawk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_effis",
+    "nombre": "Datsun Effis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ellure",
+    "nombre": "Datsun Ellure",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_esflow",
+    "nombre": "Datsun Esflow",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_esv",
+    "nombre": "Datsun ESV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ev_guide_ii",
+    "nombre": "Datsun EV Guide II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ev_truck",
+    "nombre": "Datsun EV Truck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_extrem",
+    "nombre": "Datsun Extrem",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fev",
+    "nombre": "Datsun FEV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fev_ii",
+    "nombre": "Datsun FEV-II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_foria",
+    "nombre": "Datsun Foria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_forum",
+    "nombre": "Datsun Forum",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_friend_me",
+    "nombre": "Datsun Friend-ME",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fusion",
+    "nombre": "Datsun Fusion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gobi",
+    "nombre": "Datsun Gobi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gr_1",
+    "nombre": "Datsun GR-1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gr_2",
+    "nombre": "Datsun GR-2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gripz",
+    "nombre": "Datsun Gripz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gt_r50",
+    "nombre": "Datsun GT-R50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hi_cross",
+    "nombre": "Datsun Hi-Cross",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ideo",
+    "nombre": "Datsun ideo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ids",
+    "nombre": "Datsun IDS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_idx",
+    "nombre": "Datsun IDx",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_imk",
+    "nombre": "Datsun IMk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_imx",
+    "nombre": "Datsun IMx",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_imq",
+    "nombre": "Datsun IMq",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ims",
+    "nombre": "Datsun IMs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_intima",
+    "nombre": "Datsun Intima",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_invitation",
+    "nombre": "Datsun Invitation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jikoo",
+    "nombre": "Datsun Jikoo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_judo",
+    "nombre": "Datsun Judo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jura",
+    "nombre": "Datsun Jura",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kino",
+    "nombre": "Datsun Kino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kyxx",
+    "nombre": "Datsun KYXX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_land_glider",
+    "nombre": "Datsun Land Glider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_luc_2",
+    "nombre": "Datsun LUC-2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mid4",
+    "nombre": "Datsun MID4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mixim",
+    "nombre": "Datsun Mixim",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mme",
+    "nombre": "Datsun mm.e",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nails",
+    "nombre": "Datsun Nails",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ncs",
+    "nombre": "Datsun NCS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_neo_x",
+    "nombre": "Datsun NEO-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_new_mobility_concept",
+    "nombre": "Datsun New Mobility Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nrv_ii",
+    "nombre": "Datsun NRV-II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nuvu",
+    "nombre": "Datsun Nuvu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nv2500",
+    "nombre": "Datsun NV2500",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nx_018",
+    "nombre": "Datsun NX-018",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nx_21",
+    "nombre": "Datsun NX-21",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pivo",
+    "nombre": "Datsun Pivo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pivo_2",
+    "nombre": "Datsun Pivo 2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pivo_3",
+    "nombre": "Datsun Pivo 3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_qazana",
+    "nombre": "Datsun Qazana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_resonance",
+    "nombre": "Datsun Resonance",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_round_box",
+    "nombre": "Datsun Round Box",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_serenity",
+    "nombre": "Datsun Serenity",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sport_concept",
+    "nombre": "Datsun Sport Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sport_sedan",
+    "nombre": "Datsun Sport Sedan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_stylish_vi",
+    "nombre": "Datsun Stylish VI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sut",
+    "nombre": "Datsun SUT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sway",
+    "nombre": "Datsun Sway",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_terra",
+    "nombre": "Datsun TeRRA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_terranaut",
+    "nombre": "Datsun Terranaut",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tone",
+    "nombre": "Datsun Tone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_townpod",
+    "nombre": "Datsun Townpod",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_trailrunner",
+    "nombre": "Datsun Trailrunner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tri_x",
+    "nombre": "Datsun TRI-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_urge",
+    "nombre": "Datsun URGE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_uv_x",
+    "nombre": "Datsun UV-X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vmotion_20",
+    "nombre": "Datsun Vmotion 2.0",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_xmotion",
+    "nombre": "Datsun Xmotion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_xix",
+    "nombre": "Datsun XIX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_xvl",
+    "nombre": "Datsun XVL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yanya",
+    "nombre": "Datsun Yanya",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_z_concept",
+    "nombre": "Datsun Z Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_zaroot",
+    "nombre": "Datsun Zaroot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hr",
+    "nombre": "Datsun HR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ud",
+    "nombre": "Datsun UD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bd",
+    "nombre": "Datsun BD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ca",
+    "nombre": "Datsun CA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cd",
+    "nombre": "Datsun CD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cg",
+    "nombre": "Datsun CG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cr",
+    "nombre": "Datsun CR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fd",
+    "nombre": "Datsun FD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_fj",
+    "nombre": "Datsun FJ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ga",
+    "nombre": "Datsun GA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gb",
+    "nombre": "Datsun GB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ka",
+    "nombre": "Datsun KA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kr",
+    "nombre": "Datsun KR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ld",
+    "nombre": "Datsun LD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ma",
+    "nombre": "Datsun MA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mr",
+    "nombre": "Datsun MR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_na",
+    "nombre": "Datsun NA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nr",
+    "nombre": "Datsun NR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_pr",
+    "nombre": "Datsun PR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_qd",
+    "nombre": "Datsun QD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_qg",
+    "nombre": "Datsun QG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_qr",
+    "nombre": "Datsun QR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sd",
+    "nombre": "Datsun SD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sr",
+    "nombre": "Datsun SR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_td",
+    "nombre": "Datsun TD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yd",
+    "nombre": "Datsun YD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_zd",
+    "nombre": "Datsun ZD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rb",
+    "nombre": "Datsun RB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rd",
+    "nombre": "Datsun RD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_s20",
+    "nombre": "Datsun S20",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tb",
+    "nombre": "Datsun TB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_engine_museum",
+    "nombre": "Datsun Nissan Engine Museum",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_proving_grounds",
+    "nombre": "Datsun Nissan Proving Grounds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_stadium",
+    "nombre": "Datsun Nissan Stadium",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_attesa",
+    "nombre": "Datsun ATTESA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_carwings",
+    "nombre": "Datsun CarWings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dci",
+    "nombre": "Datsun dCi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hicas",
+    "nombre": "Datsun HICAS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_naps",
+    "nombre": "Datsun NAPS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_motors_v_nissan_computer",
+    "nombre": "Datsun Nissan Motors v. Nissan Computer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vvel",
+    "nombre": "Datsun VVEL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vvl",
+    "nombre": "Datsun VVL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yokohama_f_marinos",
+    "nombre": "Datsun Yokohama F. Marinos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_automotive_industry",
+    "nombre": "Datsun Automotive industry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_economy_of_japan",
+    "nombre": "Datsun Economy of Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_transport_in_japan",
+    "nombre": "Datsun Transport in Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aspark",
+    "nombre": "Datsun Aspark",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_asl",
+    "nombre": "Datsun ASL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_duesen_bayern",
+    "nombre": "Datsun Duesen Bayern",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_glm",
+    "nombre": "Datsun GLM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_honda_acura_marusho",
+    "nombre": "Datsun Honda Acura Marusho",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_acura",
+    "nombre": "Datsun Acura",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_marusho",
+    "nombre": "Datsun Marusho",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_isuzu_ud_trucks",
+    "nombre": "Datsun Isuzu UD Trucks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ud_trucks",
+    "nombre": "Datsun UD Trucks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jiotto",
+    "nombre": "Datsun Jiotto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kawasaki_kawasaki_motors",
+    "nombre": "Datsun Kawasaki Kawasaki Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kawasaki_motors",
+    "nombre": "Datsun Kawasaki Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mazda_amati_autozam_efini_eunos_m2_xedos",
+    "nombre": "Datsun Mazda Amati Autozam Ẽfini Eunos M2 Xedos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_amati",
+    "nombre": "Datsun Amati",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_autozam",
+    "nombre": "Datsun Autozam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_efini",
+    "nombre": "Datsun Ẽfini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_eunos",
+    "nombre": "Datsun Eunos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_m2",
+    "nombre": "Datsun M2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_xedos",
+    "nombre": "Datsun Xedos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsubishi_mitsubishi_heavy_industries_mitsubishi_motors_mitsubishi_fuso",
+    "nombre": "Datsun Mitsubishi Mitsubishi Heavy Industries Mitsubishi Motors  Mitsubishi Fuso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsubishi_heavy_industries",
+    "nombre": "Datsun Mitsubishi Heavy Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsubishi_fuso",
+    "nombre": "Datsun Mitsubishi Fuso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsuoka",
+    "nombre": "Datsun Mitsuoka",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissan_cony_datsun_infiniti_kurogane_ohta_otomo_prince_shatai_tama",
+    "nombre": "Datsun Nissan Cony Datsun Infiniti Kurogane Ohta Otomo Prince Shatai Tama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cony",
+    "nombre": "Datsun Cony",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ohta",
+    "nombre": "Datsun Ohta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_otomo",
+    "nombre": "Datsun Otomo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tama",
+    "nombre": "Datsun Tama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sony_honda_mobility",
+    "nombre": "Datsun Sony Honda Mobility",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_subaru_corporation_blitzen_subaru",
+    "nombre": "Datsun Subaru Corporation Blitzen Subaru",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_blitzen",
+    "nombre": "Datsun Blitzen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_subaru",
+    "nombre": "Datsun Subaru",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_suzuki_hope",
+    "nombre": "Datsun Suzuki Hope",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hope",
+    "nombre": "Datsun Hope",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_takeoka",
+    "nombre": "Datsun Takeoka",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyota_century_daihatsu_scion_lexus_hino_will",
+    "nombre": "Datsun Toyota Century Daihatsu Scion Lexus Hino WiLL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_century",
+    "nombre": "Datsun Century",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_daihatsu",
+    "nombre": "Datsun Daihatsu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_scion",
+    "nombre": "Datsun Scion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_lexus",
+    "nombre": "Datsun Lexus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hino",
+    "nombre": "Datsun Hino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_will",
+    "nombre": "Datsun WiLL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yamaha",
+    "nombre": "Datsun Yamaha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ford",
+    "nombre": "Datsun Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_general_motors",
+    "nombre": "Datsun General Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_stellantis",
+    "nombre": "Datsun Stellantis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyota_factories",
+    "nombre": "Datsun Toyota Factories",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_zama",
+    "nombre": "Datsun Zama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_aisin",
+    "nombre": "Datsun Aisin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_akebono_brake",
+    "nombre": "Datsun Akebono Brake",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_blue_nexus",
+    "nombre": "Datsun BluE Nexus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_bridgestone",
+    "nombre": "Datsun Bridgestone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_clarion",
+    "nombre": "Datsun Clarion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_denso_denso_ten",
+    "nombre": "Datsun Denso Denso Ten",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_denso_ten",
+    "nombre": "Datsun Denso Ten",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_gs_yuasa",
+    "nombre": "Datsun GS Yuasa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hitachi_astemo_keihin_nissin_showa",
+    "nombre": "Datsun Hitachi Astemo Keihin Nissin Showa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_keihin",
+    "nombre": "Datsun Keihin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nissin",
+    "nombre": "Datsun Nissin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_showa",
+    "nombre": "Datsun Showa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_hks",
+    "nombre": "Datsun HKS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ihi_corporation",
+    "nombre": "Datsun IHI Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jecs",
+    "nombre": "Datsun JECS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jtekt",
+    "nombre": "Datsun JTEKT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kawasaki",
+    "nombre": "Datsun Kawasaki",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kayaba_industry",
+    "nombre": "Datsun Kayaba Industry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mabuchi_motor",
+    "nombre": "Datsun Mabuchi Motor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_marelli_holdings",
+    "nombre": "Datsun Marelli Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mikuni",
+    "nombre": "Datsun Mikuni",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mitsuba_corporation",
+    "nombre": "Datsun Mitsuba Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nachi_fujikoshi",
+    "nombre": "Datsun Nachi-Fujikoshi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nhk_spring",
+    "nombre": "Datsun NHK Spring",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nidec",
+    "nombre": "Datsun Nidec",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nisshinbo",
+    "nombre": "Datsun Nisshinbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_niterra",
+    "nombre": "Datsun Niterra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_nsk",
+    "nombre": "Datsun NSK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ntn",
+    "nombre": "Datsun NTN",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_piaa",
+    "nombre": "Datsun PIAA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_shindengen_electric_manufacturing",
+    "nombre": "Datsun Shindengen Electric Manufacturing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_stanley_electric",
+    "nombre": "Datsun Stanley Electric",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sumitomo_riko",
+    "nombre": "Datsun Sumitomo Riko",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sumitomo_rubber_industries",
+    "nombre": "Datsun Sumitomo Rubber Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_takata_corporation",
+    "nombre": "Datsun Takata Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_thk",
+    "nombre": "Datsun THK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tokico",
+    "nombre": "Datsun Tokico",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_topre",
+    "nombre": "Datsun Topre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_topy_industries",
+    "nombre": "Datsun Topy Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyo_tires",
+    "nombre": "Datsun Toyo Tires",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyota_boshoku",
+    "nombre": "Datsun Toyota Boshoku",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tsubakimoto_chain",
+    "nombre": "Datsun Tsubakimoto Chain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yanmar",
+    "nombre": "Datsun Yanmar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yazaki_corporation",
+    "nombre": "Datsun Yazaki Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yokohama_rubber_company",
+    "nombre": "Datsun Yokohama Rubber Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_zexel",
+    "nombre": "Datsun Zexel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_blitz",
+    "nombre": "Datsun Blitz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_dome",
+    "nombre": "Datsun Dome",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_enkei",
+    "nombre": "Datsun Enkei",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_greddy",
+    "nombre": "Datsun GReddy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_honda_racing",
+    "nombre": "Datsun Honda Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_impul",
+    "nombre": "Datsun Impul",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_jun_auto",
+    "nombre": "Datsun JUN Auto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kojima",
+    "nombre": "Datsun Kojima",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mazdaspeed",
+    "nombre": "Datsun Mazdaspeed",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mines",
+    "nombre": "Datsun Mine's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mugen_motorsports",
+    "nombre": "Datsun Mugen Motorsports",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ralliart",
+    "nombre": "Datsun Ralliart",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rauh_welt_begriff",
+    "nombre": "Datsun Rauh-Welt Begriff",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_rays_wheels",
+    "nombre": "Datsun Rays Wheels",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_re_amemiya",
+    "nombre": "Datsun RE Amemiya",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_sard",
+    "nombre": "Datsun SARD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_spoon_sports",
+    "nombre": "Datsun Spoon Sports",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_ssr_wheels",
+    "nombre": "Datsun SSR Wheels",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_subaru_tecnica_international",
+    "nombre": "Datsun Subaru Tecnica International",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tein",
+    "nombre": "Datsun Tein",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toda_racing",
+    "nombre": "Datsun Toda Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tommykaira",
+    "nombre": "Datsun Tommykaira",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_top_secret",
+    "nombre": "Datsun Top Secret",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toms",
+    "nombre": "Datsun TOM'S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyota_gazoo_racing",
+    "nombre": "Datsun Toyota Gazoo Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_toyota_racing_development",
+    "nombre": "Datsun Toyota Racing Development",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_veilside",
+    "nombre": "Datsun Veilside",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_wedssport",
+    "nombre": "Datsun WedsSport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_work_wheels",
+    "nombre": "Datsun Work Wheels",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_autobacs_seven",
+    "nombre": "Datsun Autobacs Seven",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_yanase_imported_cars",
+    "nombre": "Datsun Yanase Imported Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_japan_automobile_manufacturers_association",
+    "nombre": "Datsun Japan Automobile Manufacturers Association",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tokyo_motor_show",
+    "nombre": "Datsun Tokyo Motor Show",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_tokyo_auto_salon",
+    "nombre": "Datsun Tokyo Auto Salon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_used_vehicle_exporting",
+    "nombre": "Datsun Used vehicle exporting",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_national_highway",
+    "nombre": "Datsun National Highway",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_expressways",
+    "nombre": "Datsun Expressways",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_kei_car_kei_truck",
+    "nombre": "Datsun Kei car / Kei truck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_note_defunct_companies_and_marques_above_are_shown_in_italics",
+    "nombre": "Datsun Note : Defunct companies and marques above are shown in italics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_category",
+    "nombre": "Datsun Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_commons",
+    "nombre": "Datsun Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_only_sold_in_india",
+    "nombre": "Datsun Only sold in India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_only_sold_in_russia",
+    "nombre": "Datsun Only sold in Russia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_only_sold_in_indonesia",
+    "nombre": "Datsun Only sold in Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vehicles",
+    "nombre": "Datsun vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_car_manufacturers_of_japan",
+    "nombre": "Datsun Car manufacturers of Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_japanese_companies_established_in_1931",
+    "nombre": "Datsun Japanese companies established in 1931",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_vehicle_manufacturing_companies_established_in_1931",
+    "nombre": "Datsun Vehicle manufacturing companies established in 1931",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_products_introduced_in_2013",
+    "nombre": "Datsun Products introduced in 2013",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_japanese_brands",
+    "nombre": "Datsun Japanese brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_car_brands",
+    "nombre": "Datsun Car brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_articles_with_short_description",
+    "nombre": "Datsun Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_short_description_is_different_from_wikidata",
+    "nombre": "Datsun Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_use_dmy_dates_from_april_2022",
+    "nombre": "Datsun Use dmy dates from April 2022",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_articles_containing_japanese_language_text",
+    "nombre": "Datsun Articles containing Japanese-language text",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_webarchive_template_wayback_links",
+    "nombre": "Datsun Webarchive template wayback links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_commons_category_link_is_on_wikidata",
+    "nombre": "Datsun Commons category link is on Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_this_page_was_last_edited_on_13_july_2026_at_1253",
+    "nombre": "Datsun This page was last edited on 13 July 2026, at 12:53  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_page_was_rendered_with_parsoid",
+    "nombre": "Datsun Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_privacy_policy",
+    "nombre": "Datsun Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_disclaimers",
+    "nombre": "Datsun Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_contact_wikipedia",
+    "nombre": "Datsun Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_legal_safety_contacts",
+    "nombre": "Datsun Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_code_of_conduct",
+    "nombre": "Datsun Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_developers",
+    "nombre": "Datsun Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_statistics",
+    "nombre": "Datsun Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_cookie_statement",
+    "nombre": "Datsun Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "datsun_mobile_view",
+    "nombre": "Datsun Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "maserati_a6_1500",
+    "nombre": "Maserati A6 1500",
+    "anio_desde": 1946,
+    "anio_hasta": 1950,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_a6g_2000",
+    "nombre": "Maserati A6G 2000",
+    "anio_desde": 1950,
+    "anio_hasta": 1951,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_a6g54",
+    "nombre": "Maserati A6G54",
+    "anio_desde": 1954,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_a6g54_56",
+    "nombre": "Maserati A6G54 ('56)",
+    "anio_desde": 1956,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_150_gt",
+    "nombre": "Maserati 150 GT",
+    "anio_desde": 1957,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3500_gt_touring",
+    "nombre": "Maserati 3500 GT Touring",
+    "anio_desde": 1957,
+    "anio_hasta": 1962,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3500_gt_spyder_vignale",
+    "nombre": "Maserati 3500 GT Spyder Vignale",
+    "anio_desde": 1959,
+    "anio_hasta": 1962,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_5000_gt",
+    "nombre": "Maserati 5000 GT",
+    "anio_desde": 1959,
+    "anio_hasta": 1961,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_5000_gt_61",
+    "nombre": "Maserati 5000 GT ('61)",
+    "anio_desde": 1961,
+    "anio_hasta": 1964,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3500_gti",
+    "nombre": "Maserati 3500 GTI",
+    "anio_desde": 1962,
+    "anio_hasta": 1964,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3500_gti_spyder",
+    "nombre": "Maserati 3500 GTI Spyder",
+    "anio_desde": 1962,
+    "anio_hasta": 1964,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mistral_3500",
+    "nombre": "Maserati Mistral 3500",
+    "anio_desde": 1963,
+    "anio_hasta": 1965,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte",
+    "nombre": "Maserati Quattroporte",
+    "anio_desde": 1963,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3500_gti_spyder_frua",
+    "nombre": "Maserati 3500 GTI Spyder Frua",
+    "anio_desde": 1964,
+    "anio_hasta": 1965,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mistral_3700",
+    "nombre": "Maserati Mistral 3700",
+    "anio_desde": 1965,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mistral_3700_spyder",
+    "nombre": "Maserati Mistral 3700 Spyder",
+    "anio_desde": 1965,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mistral_4000",
+    "nombre": "Maserati Mistral 4000",
+    "anio_desde": 1965,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mistral_4000_spyder",
+    "nombre": "Maserati Mistral 4000 Spyder",
+    "anio_desde": 1965,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_sebring_3700",
+    "nombre": "Maserati Sebring 3700",
+    "anio_desde": 1965,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_sebring_4000",
+    "nombre": "Maserati Sebring 4000",
+    "anio_desde": 1965,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mexico_4200",
+    "nombre": "Maserati Mexico 4200",
+    "anio_desde": 1966,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_66",
+    "nombre": "Maserati Quattroporte ('66)",
+    "anio_desde": 1966,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli",
+    "nombre": "Maserati Ghibli",
+    "anio_desde": 1967,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_spyder",
+    "nombre": "Maserati Ghibli Spyder",
+    "anio_desde": 1969,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mexico_4700",
+    "nombre": "Maserati Mexico 4700",
+    "anio_desde": 1969,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_ss",
+    "nombre": "Maserati Ghibli SS",
+    "anio_desde": 1970,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_ss_spyder",
+    "nombre": "Maserati Ghibli SS Spyder",
+    "anio_desde": 1970,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_indy_europa_4200",
+    "nombre": "Maserati Indy Europa 4200",
+    "anio_desde": 1970,
+    "anio_hasta": 1971,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_indy_europa_4700",
+    "nombre": "Maserati Indy Europa 4700",
+    "anio_desde": 1971,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_khamsin_4700",
+    "nombre": "Maserati Khamsin 4700",
+    "anio_desde": 1972,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_khamsin_4900",
+    "nombre": "Maserati Khamsin 4900",
+    "anio_desde": 1972,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_bora_47",
+    "nombre": "Maserati Bora 4.7",
+    "anio_desde": 1973,
+    "anio_hasta": 1974,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_indy_4900",
+    "nombre": "Maserati Indy 4900",
+    "anio_desde": 1973,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_merak",
+    "nombre": "Maserati Merak",
+    "anio_desde": 1973,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_bora_49_us",
+    "nombre": "Maserati Bora 4.9 (US)",
+    "anio_desde": 1974,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_ii",
+    "nombre": "Maserati Quattroporte II",
+    "anio_desde": 1974,
+    "anio_hasta": 1974,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_bora_49",
+    "nombre": "Maserati Bora 4.9",
+    "anio_desde": 1975,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_merak_ss",
+    "nombre": "Maserati Merak SS",
+    "anio_desde": 1975,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_ii_75",
+    "nombre": "Maserati Quattroporte II ('75)",
+    "anio_desde": 1975,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_4porte_quattroporte_iii",
+    "nombre": "Maserati 4porte (Quattroporte III)",
+    "anio_desde": 1976,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_kyalami_4200",
+    "nombre": "Maserati Kyalami 4200",
+    "anio_desde": 1976,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_merak_2000_gt",
+    "nombre": "Maserati Merak 2000 GT",
+    "anio_desde": 1976,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_kyalami_4900",
+    "nombre": "Maserati Kyalami 4900",
+    "anio_desde": 1978,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_khamsin_79",
+    "nombre": "Maserati Khamsin ('79)",
+    "anio_desde": 1979,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_merak_ss_79",
+    "nombre": "Maserati Merak SS ('79)",
+    "anio_desde": 1979,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_iii_81",
+    "nombre": "Maserati Quattroporte III ('81)",
+    "anio_desde": 1981,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo",
+    "nombre": "Maserati Biturbo",
+    "anio_desde": 1981,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_e",
+    "nombre": "Maserati Biturbo E",
+    "anio_desde": 1983,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_s",
+    "nombre": "Maserati Biturbo S",
+    "anio_desde": 1983,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_s_25",
+    "nombre": "Maserati Biturbo S (2.5)",
+    "anio_desde": 1984,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_zagato",
+    "nombre": "Maserati Spyder (Zagato)",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_25",
+    "nombre": "Maserati Spyder (2.5)",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_ii",
+    "nombre": "Maserati Biturbo (II)",
+    "anio_desde": 1985,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_e_ii_25",
+    "nombre": "Maserati Biturbo E (II 2.5)",
+    "anio_desde": 1985,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_s_ii",
+    "nombre": "Maserati Biturbo S (II)",
+    "anio_desde": 1985,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_228_228i",
+    "nombre": "Maserati 228 (228i)",
+    "anio_desde": 1986,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_228_228i_kat",
+    "nombre": "Maserati 228 (228i) Kat",
+    "anio_desde": 1986,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_420i",
+    "nombre": "Maserati 420i",
+    "anio_desde": 1986,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_420_s",
+    "nombre": "Maserati 420 S",
+    "anio_desde": 1986,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_i",
+    "nombre": "Maserati Biturbo i",
+    "anio_desde": 1986,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_royale_iii",
+    "nombre": "Maserati Quattroporte Royale (III)",
+    "anio_desde": 1986,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i",
+    "nombre": "Maserati Spyder i",
+    "anio_desde": 1986,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_425i",
+    "nombre": "Maserati 425i",
+    "anio_desde": 1987,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_si",
+    "nombre": "Maserati Biturbo Si",
+    "anio_desde": 1987,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_biturbo_si_25",
+    "nombre": "Maserati Biturbo Si (2.5)",
+    "anio_desde": 1987,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i_87",
+    "nombre": "Maserati Spyder i ('87)",
+    "anio_desde": 1987,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_224v",
+    "nombre": "Maserati 2.24V",
+    "anio_desde": 1988,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_222_4v",
+    "nombre": "Maserati 222 4v",
+    "anio_desde": 1988,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_222_e",
+    "nombre": "Maserati 222 E",
+    "anio_desde": 1988,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_karif",
+    "nombre": "Maserati Karif",
+    "anio_desde": 1988,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_karif_kat",
+    "nombre": "Maserati Karif (kat)",
+    "anio_desde": 1988,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_karif_kat_ii",
+    "nombre": "Maserati Karif (kat II)",
+    "anio_desde": 1988,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i_25",
+    "nombre": "Maserati Spyder i (2.5)",
+    "anio_desde": 1988,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i_28",
+    "nombre": "Maserati Spyder i (2.8)",
+    "anio_desde": 1989,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i_28_kat",
+    "nombre": "Maserati Spyder i (2.8, kat)",
+    "anio_desde": 1989,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_i_90",
+    "nombre": "Maserati Spyder i ('90)",
+    "anio_desde": 1989,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_222_se",
+    "nombre": "Maserati 222 SE",
+    "anio_desde": 1990,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_222_se_kat",
+    "nombre": "Maserati 222 SE (kat)",
+    "anio_desde": 1990,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_418v",
+    "nombre": "Maserati 4.18v",
+    "anio_desde": 1990,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_424v",
+    "nombre": "Maserati 4.24v",
+    "anio_desde": 1990,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_shamal",
+    "nombre": "Maserati Shamal",
+    "anio_desde": 1990,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_224v_ii",
+    "nombre": "Maserati 2.24v II",
+    "anio_desde": 1991,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_224v_ii_kat",
+    "nombre": "Maserati 2.24v II (kat)",
+    "anio_desde": 1991,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_222_sr",
+    "nombre": "Maserati 222 SR",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_424v_ii_kat",
+    "nombre": "Maserati 4.24v II (kat)",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_430_4v",
+    "nombre": "Maserati 430 4v",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_racing",
+    "nombre": "Maserati Racing",
+    "anio_desde": 1991,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_iii",
+    "nombre": "Maserati Spyder III",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_iii_28_kat",
+    "nombre": "Maserati Spyder III (2.8, kat)",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder_iii_kat",
+    "nombre": "Maserati Spyder III (kat)",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_barchetta_stradale",
+    "nombre": "Maserati Barchetta Stradale",
+    "anio_desde": 1992,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_ii_20",
+    "nombre": "Maserati Ghibli II (2.0)",
+    "anio_desde": 1992,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_ii_28",
+    "nombre": "Maserati Ghibli II (2.8)",
+    "anio_desde": 1993,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_20",
+    "nombre": "Maserati Quattroporte (2.0)",
+    "anio_desde": 1994,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_28",
+    "nombre": "Maserati Quattroporte (2.8)",
+    "anio_desde": 1994,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_cup",
+    "nombre": "Maserati Ghibli Cup",
+    "anio_desde": 1995,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_ottocilindri",
+    "nombre": "Maserati Quattroporte Ottocilindri",
+    "anio_desde": 1996,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_primatist",
+    "nombre": "Maserati Ghibli Primatist",
+    "anio_desde": 1996,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3200_gt",
+    "nombre": "Maserati 3200 GT",
+    "anio_desde": 1998,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_v6_evoluzione",
+    "nombre": "Maserati Quattroporte V6 Evoluzione",
+    "anio_desde": 1998,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_v8_evoluzione",
+    "nombre": "Maserati Quattroporte V8 Evoluzione",
+    "anio_desde": 1998,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_3200_gta",
+    "nombre": "Maserati 3200 GTA",
+    "anio_desde": 1999,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_coupe",
+    "nombre": "Maserati Coupé",
+    "anio_desde": 2002,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spyder",
+    "nombre": "Maserati Spyder",
+    "anio_desde": 2001,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_gransport",
+    "nombre": "Maserati GranSport",
+    "anio_desde": 2004,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_gransport_spyder",
+    "nombre": "Maserati GranSport Spyder",
+    "anio_desde": 2005,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_v",
+    "nombre": "Maserati Quattroporte V",
+    "anio_desde": 2003,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_v_s",
+    "nombre": "Maserati Quattroporte V S",
+    "anio_desde": 2008,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mc12",
+    "nombre": "Maserati MC12",
+    "anio_desde": 2004,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_granturismo",
+    "nombre": "Maserati GranTurismo",
+    "anio_desde": 2007,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_granturismo_s",
+    "nombre": "Maserati GranTurismo S",
+    "anio_desde": 2008,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_grancabrio",
+    "nombre": "Maserati GranCabrio",
+    "anio_desde": 2010,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_iii",
+    "nombre": "Maserati Ghibli III",
+    "anio_desde": 2013,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_iii_s",
+    "nombre": "Maserati Ghibli III S",
+    "anio_desde": 2013,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_ghibli_iii_diesel",
+    "nombre": "Maserati Ghibli III Diesel",
+    "anio_desde": 2013,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_vi_s",
+    "nombre": "Maserati Quattroporte VI S",
+    "anio_desde": 2013,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_vi_gts",
+    "nombre": "Maserati Quattroporte VI GTS",
+    "anio_desde": 2013,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_quattroporte_vi_diesel",
+    "nombre": "Maserati Quattroporte VI Diesel",
+    "anio_desde": 2013,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_levante",
+    "nombre": "Maserati Levante",
+    "anio_desde": 2016,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mc20",
+    "nombre": "Maserati MC20",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_levante_hybrid",
+    "nombre": "Maserati Levante Hybrid",
+    "anio_desde": 2022,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_grecale",
+    "nombre": "Maserati Grecale",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_grecale_trofeo",
+    "nombre": "Maserati Grecale Trofeo",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_mc20_cielo",
+    "nombre": "Maserati MC20 Cielo",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_granturismo_ii",
+    "nombre": "Maserati GranTurismo II",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_grancabrio_ii",
+    "nombre": "Maserati GranCabrio II",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_tipo_26",
+    "nombre": "Maserati Tipo 26",
+    "anio_desde": 1926,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_26b",
+    "nombre": "Maserati Tipo 26B",
+    "anio_desde": 1927,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_26r",
+    "nombre": "Maserati Tipo 26R",
+    "anio_desde": 1928,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_26c",
+    "nombre": "Maserati Tipo 26C",
+    "anio_desde": 1929,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_v4_sedici_cilindri",
+    "nombre": "Maserati Tipo V4 \"Sedici Cilindri\"",
+    "anio_desde": 1929,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_26m",
+    "nombre": "Maserati Tipo 26M",
+    "anio_desde": 1930,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_8c_2800",
+    "nombre": "Maserati 8C 2800",
+    "anio_desde": 1931,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_tipo_v5",
+    "nombre": "Maserati Tipo V5",
+    "anio_desde": 1932,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_8c_3000",
+    "nombre": "Maserati 8C 3000",
+    "anio_desde": 1932,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_8cm",
+    "nombre": "Maserati 8CM",
+    "anio_desde": 1933,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_6cm",
+    "nombre": "Maserati 6CM",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voiturette"
+    ]
+  },
+  {
+    "id": "maserati_8ctf",
+    "nombre": "Maserati 8CTF",
+    "anio_desde": 1938,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand Prix"
+    ]
+  },
+  {
+    "id": "maserati_4cl",
+    "nombre": "Maserati 4CL",
+    "anio_desde": 1939,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Voiturette"
+    ]
+  },
+  {
+    "id": "maserati_4clt",
+    "nombre": "Maserati 4CLT",
+    "anio_desde": 1948,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Formula One"
+    ]
+  },
+  {
+    "id": "maserati_250f",
+    "nombre": "Maserati 250F",
+    "anio_desde": 1953,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Formula One"
+    ]
+  },
+  {
+    "id": "maserati_300s",
+    "nombre": "Maserati 300S",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_350s",
+    "nombre": "Maserati 350S",
+    "anio_desde": 1957,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_450s",
+    "nombre": "Maserati 450S",
+    "anio_desde": 1957,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_420m58",
+    "nombre": "Maserati 420M/58",
+    "anio_desde": 1958,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Single-seater"
+    ]
+  },
+  {
+    "id": "maserati_tipo_60_birdcage",
+    "nombre": "Maserati Tipo 60 \"Birdcage\"",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_tipo_61_birdcage",
+    "nombre": "Maserati Tipo 61 \"Birdcage\"",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_tipo_151",
+    "nombre": "Maserati Tipo 151",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_barchetta",
+    "nombre": "Maserati Barchetta",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "maserati_tipo_folgore",
+    "nombre": "Maserati Tipo Folgore",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Formula E"
+    ]
+  },
+  {
+    "id": "maserati_simun",
+    "nombre": "Maserati Simun",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_boomerang",
+    "nombre": "Maserati Boomerang",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_coupe_22",
+    "nombre": "Maserati Coupé 2+2",
+    "anio_desde": 1974,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_medici",
+    "nombre": "Maserati Medici",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_medici_ii",
+    "nombre": "Maserati Medici II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_chubasco",
+    "nombre": "Maserati Chubasco",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_spider_maserati_opac",
+    "nombre": "Maserati Spider Maserati-Opac",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_buran",
+    "nombre": "Maserati Buran",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_320s",
+    "nombre": "Maserati 320S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_kubang_gt_wagon",
+    "nombre": "Maserati Kubang GT Wagon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_birdcage_75th",
+    "nombre": "Maserati Birdcage 75th",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_a8gcs",
+    "nombre": "Maserati A8GCS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_kubang",
+    "nombre": "Maserati Kubang",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "maserati_alfieri",
+    "nombre": "Maserati Alfieri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

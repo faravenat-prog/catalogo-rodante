@@ -1,0 +1,660 @@
+[
+  {
+    "id": "dodge_fast_four",
+    "nombre": "Dodge Fast Four",
+    "anio_desde": 1927,
+    "anio_hasta": 1928,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_d5d6d7",
+    "nombre": "Dodge D5/D6/D7",
+    "anio_desde": 1937,
+    "anio_hasta": 1937,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_d8d9d10",
+    "nombre": "Dodge D8/D9/D10",
+    "anio_desde": 1938,
+    "anio_hasta": 1938,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_coronet",
+    "nombre": "Dodge Coronet",
+    "anio_desde": 1949,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_custom",
+    "nombre": "Dodge Custom",
+    "anio_desde": 1946,
+    "anio_hasta": 1949,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_kingsway",
+    "nombre": "Dodge Kingsway",
+    "anio_desde": 1959,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_meadowbrook",
+    "nombre": "Dodge Meadowbrook",
+    "anio_desde": 1949,
+    "anio_hasta": 1954,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_wayfarer",
+    "nombre": "Dodge Wayfarer",
+    "anio_desde": 1949,
+    "anio_hasta": 1952,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_custom_royal",
+    "nombre": "Dodge Custom Royal",
+    "anio_desde": 1955,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_la_femme",
+    "nombre": "Dodge La Femme",
+    "anio_desde": 1955,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_lancer",
+    "nombre": "Dodge Lancer",
+    "anio_desde": 1955,
+    "anio_hasta": 1962,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_royal",
+    "nombre": "Dodge Royal",
+    "anio_desde": 1954,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_charger_1966",
+    "nombre": "Dodge Charger (1966)",
+    "anio_desde": 1966,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_charger_daytona",
+    "nombre": "Dodge Charger Daytona",
+    "anio_desde": 1969,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_custom_880",
+    "nombre": "Dodge Custom 880",
+    "anio_desde": 1962,
+    "anio_hasta": 1965,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_challenger_1970",
+    "nombre": "Dodge Challenger (1970)",
+    "anio_desde": 1970,
+    "anio_hasta": 1974,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_dart",
+    "nombre": "Dodge Dart",
+    "anio_desde": 1960,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_matador",
+    "nombre": "Dodge Matador",
+    "anio_desde": 1959,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_monaco",
+    "nombre": "Dodge Monaco",
+    "anio_desde": 1965,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_polara",
+    "nombre": "Dodge Polara",
+    "anio_desde": 1960,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_super_bee",
+    "nombre": "Dodge Super Bee",
+    "anio_desde": 1968,
+    "anio_hasta": 1971,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_aspen",
+    "nombre": "Dodge Aspen",
+    "anio_desde": 1976,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_diplomat",
+    "nombre": "Dodge Diplomat",
+    "anio_desde": 1977,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_magnum",
+    "nombre": "Dodge Magnum",
+    "anio_desde": 1978,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_st_regis",
+    "nombre": "Dodge St. Regis",
+    "anio_desde": 1979,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_aries",
+    "nombre": "Dodge Aries",
+    "anio_desde": 1981,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_charger_1981",
+    "nombre": "Dodge Charger (1981)",
+    "anio_desde": 1982,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_daytona",
+    "nombre": "Dodge Daytona",
+    "anio_desde": 1984,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_dynasty",
+    "nombre": "Dodge Dynasty",
+    "anio_desde": 1988,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_lancer_relaunch",
+    "nombre": "Dodge Lancer (relaunch)",
+    "anio_desde": 1985,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_mirada",
+    "nombre": "Dodge Mirada",
+    "anio_desde": 1980,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_shadow",
+    "nombre": "Dodge Shadow",
+    "anio_desde": 1987,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_spirit",
+    "nombre": "Dodge Spirit",
+    "anio_desde": 1989,
+    "anio_hasta": 1995,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_avenger",
+    "nombre": "Dodge Avenger",
+    "anio_desde": 1995,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_intrepid",
+    "nombre": "Dodge Intrepid",
+    "anio_desde": 1993,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_neon",
+    "nombre": "Dodge Neon",
+    "anio_desde": 1993,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_stratus",
+    "nombre": "Dodge Stratus",
+    "anio_desde": 1994,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_viper",
+    "nombre": "Dodge Viper",
+    "anio_desde": 1992,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_avenger_sedan",
+    "nombre": "Dodge Avenger Sedan",
+    "anio_desde": 2007,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_charger_daytona_relaunch",
+    "nombre": "Dodge Charger Daytona (relaunch)",
+    "anio_desde": 2006,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_charger_2005",
+    "nombre": "Dodge Charger (2005)",
+    "anio_desde": 2006,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_challenger_2008",
+    "nombre": "Dodge Challenger (2008)",
+    "anio_desde": 2008,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_caliber",
+    "nombre": "Dodge Caliber",
+    "anio_desde": 2007,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_dart_pf",
+    "nombre": "Dodge Dart (PF)",
+    "anio_desde": 2012,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_neon_relaunch",
+    "nombre": "Dodge Neon (relaunch)",
+    "anio_desde": 2016,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_viper_vx_i",
+    "nombre": "Dodge Viper (VX I)",
+    "anio_desde": 2013,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_crusader",
+    "nombre": "Dodge Crusader",
+    "anio_desde": 1951,
+    "anio_hasta": 1958,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_husky",
+    "nombre": "Dodge Husky",
+    "anio_desde": 1970,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_mayfair",
+    "nombre": "Dodge Mayfair",
+    "anio_desde": 1953,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_regent",
+    "nombre": "Dodge Regent",
+    "anio_desde": 1951,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_viscount",
+    "nombre": "Dodge Viscount",
+    "anio_desde": 1959,
+    "anio_hasta": 1959,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_phoenix",
+    "nombre": "Dodge Phoenix",
+    "anio_desde": 1960,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_alpine",
+    "nombre": "Dodge Alpine",
+    "anio_desde": 1975,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_arrow",
+    "nombre": "Dodge Arrow",
+    "anio_desde": 1973,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_colt",
+    "nombre": "Dodge Colt",
+    "anio_desde": 1971,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_colt_challenger",
+    "nombre": "Dodge Colt Challenger",
+    "anio_desde": 1976,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_dartcharger",
+    "nombre": "Dodge Dart/Charger",
+    "anio_desde": 1970,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_magnum_2",
+    "nombre": "Dodge Magnum",
+    "anio_desde": 1979,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_omni",
+    "nombre": "Dodge Omni",
+    "anio_desde": 1978,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_omni_024",
+    "nombre": "Dodge Omni 024",
+    "anio_desde": 1979,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_se",
+    "nombre": "Dodge SE",
+    "anio_desde": 1971,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_colt_vista",
+    "nombre": "Dodge Colt Vista",
+    "anio_desde": 1983,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_conquest",
+    "nombre": "Dodge Conquest",
+    "anio_desde": 1983,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_attitude",
+    "nombre": "Dodge Attitude",
+    "anio_desde": 2005,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_stealth",
+    "nombre": "Dodge Stealth",
+    "anio_desde": 1991,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_brisa",
+    "nombre": "Dodge Brisa",
+    "anio_desde": 2002,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_i10",
+    "nombre": "Dodge i10",
+    "anio_desde": 2007,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_ramcharger",
+    "nombre": "Dodge Ramcharger",
+    "anio_desde": 1974,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_rampage",
+    "nombre": "Dodge Rampage",
+    "anio_desde": 1982,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_magnum_relaunch",
+    "nombre": "Dodge Magnum (relaunch)",
+    "anio_desde": 2005,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_nitro",
+    "nombre": "Dodge Nitro",
+    "anio_desde": 2007,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_journey",
+    "nombre": "Dodge Journey",
+    "anio_desde": 2009,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_hornet",
+    "nombre": "Dodge Hornet",
+    "anio_desde": 2022,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_town_panel",
+    "nombre": "Dodge Town Panel",
+    "anio_desde": 1954,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_a100",
+    "nombre": "Dodge A100",
+    "anio_desde": 1964,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_space_van",
+    "nombre": "Dodge Space Van",
+    "anio_desde": 1967,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_ram_van",
+    "nombre": "Dodge Ram Van",
+    "anio_desde": 1970,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_caravan",
+    "nombre": "Dodge Caravan",
+    "anio_desde": 1984,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_sprinter",
+    "nombre": "Dodge Sprinter",
+    "anio_desde": 2003,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_t_series",
+    "nombre": "Dodge T Series",
+    "anio_desde": 1939,
+    "anio_hasta": 1947,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_wc_series",
+    "nombre": "Dodge WC Series",
+    "anio_desde": 1940,
+    "anio_hasta": 1945,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_power_wagon",
+    "nombre": "Dodge Power Wagon",
+    "anio_desde": 1945,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_b_series",
+    "nombre": "Dodge B Series",
+    "anio_desde": 1948,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_c_series",
+    "nombre": "Dodge C Series",
+    "anio_desde": 1954,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_d_series",
+    "nombre": "Dodge D Series",
+    "anio_desde": 1960,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_lcf_series",
+    "nombre": "Dodge LCF Series",
+    "anio_desde": 1960,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_travco",
+    "nombre": "Dodge Travco",
+    "anio_desde": 1964,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_ram_50",
+    "nombre": "Dodge Ram 50",
+    "anio_desde": 1979,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_dakota",
+    "nombre": "Dodge Dakota",
+    "anio_desde": 1987,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_100_kew",
+    "nombre": "Dodge 100 Kew",
+    "anio_desde": 1949,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_100_commando",
+    "nombre": "Dodge 100 Commando",
+    "anio_desde": 1970,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_50_series",
+    "nombre": "Dodge 50 Series",
+    "anio_desde": 1979,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_d50_ram_50",
+    "nombre": "Dodge D50 / Ram 50",
+    "anio_desde": 1979,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "dodge_h100",
+    "nombre": "Dodge H100",
+    "anio_desde": 2003,
+    "anio_hasta": 2020,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "lincoln_l_series",
+    "nombre": "Lincoln L series",
+    "anio_desde": 1922,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_k_series",
+    "nombre": "Lincoln K series",
+    "anio_desde": 1931,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_zephyr",
+    "nombre": "Lincoln Zephyr",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental",
+    "nombre": "Lincoln Continental",
+    "anio_desde": 1939,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_custom",
+    "nombre": "Lincoln Custom",
+    "anio_desde": 1941,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_el_series",
+    "nombre": "Lincoln EL-Series",
+    "anio_desde": 1949,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_cosmopolitan",
+    "nombre": "Lincoln Cosmopolitan",
+    "anio_desde": 1949,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_capri",
+    "nombre": "Lincoln Capri",
+    "anio_desde": 1952,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_premiere",
+    "nombre": "Lincoln Premiere",
+    "anio_desde": 1956,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_ii",
+    "nombre": "Lincoln Continental Mark II",
+    "anio_desde": 1957,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_iii",
+    "nombre": "Lincoln Continental Mark III",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_iv",
+    "nombre": "Lincoln Continental Mark IV",
+    "anio_desde": 1971,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_v",
+    "nombre": "Lincoln Continental Mark V",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_versailles",
+    "nombre": "Lincoln Versailles",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_vi",
+    "nombre": "Lincoln Continental Mark VI",
+    "anio_desde": 1980,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_continental_mark_vii",
+    "nombre": "Lincoln Continental Mark VII",
+    "anio_desde": 1984,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_town_car",
+    "nombre": "Lincoln Town Car",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mark_viii",
+    "nombre": "Lincoln Mark VIII",
+    "anio_desde": 1993,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_ls",
+    "nombre": "Lincoln LS",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mkx",
+    "nombre": "Lincoln MKX",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mkz",
+    "nombre": "Lincoln MKZ",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mks",
+    "nombre": "Lincoln MKS",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mkt",
+    "nombre": "Lincoln MKT",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mkc",
+    "nombre": "Lincoln MKC",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_blackwood",
+    "nombre": "Lincoln Blackwood",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lincoln_mark_lt",
+    "nombre": "Lincoln Mark LT",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

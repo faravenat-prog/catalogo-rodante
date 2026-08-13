@@ -1,0 +1,247 @@
+[
+  {
+    "id": "cadillac_runabout_tonneau",
+    "nombre": "Cadillac Runabout / Tonneau",
+    "anio_desde": 1902,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_model_d",
+    "nombre": "Cadillac Model D",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_model_thirty",
+    "nombre": "Cadillac Model Thirty",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_v8_type_51",
+    "nombre": "Cadillac V8 Type 51",
+    "anio_desde": 1915,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_type_v_63",
+    "nombre": "Cadillac Type V-63",
+    "anio_desde": 1924,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_v_16",
+    "nombre": "Cadillac V-16",
+    "anio_desde": 1930,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_v_12",
+    "nombre": "Cadillac V-12",
+    "anio_desde": 1930,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_355",
+    "nombre": "Cadillac Series 355",
+    "anio_desde": 1931,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_70",
+    "nombre": "Cadillac Series 70",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_60",
+    "nombre": "Cadillac Series 60",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_65",
+    "nombre": "Cadillac Series 65",
+    "anio_desde": 1937,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_sixty_special",
+    "nombre": "Cadillac Sixty Special",
+    "anio_desde": 1938,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_61",
+    "nombre": "Cadillac Series 61",
+    "anio_desde": 1938,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_series_62",
+    "nombre": "Cadillac Series 62",
+    "anio_desde": 1940,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_eldorado",
+    "nombre": "Cadillac Eldorado",
+    "anio_desde": 1952,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_de_ville",
+    "nombre": "Cadillac de Ville",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_calais",
+    "nombre": "Cadillac Calais",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_seville",
+    "nombre": "Cadillac Seville",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_fleetwood",
+    "nombre": "Cadillac Fleetwood",
+    "anio_desde": 1976,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_fleetwood_brougham",
+    "nombre": "Cadillac Fleetwood Brougham",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_cimarron",
+    "nombre": "Cadillac Cimarron",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_brougham",
+    "nombre": "Cadillac Brougham",
+    "anio_desde": 1986,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_allante",
+    "nombre": "Cadillac Allanté",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_catera",
+    "nombre": "Cadillac Catera",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_cts",
+    "nombre": "Cadillac CTS",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_srx",
+    "nombre": "Cadillac SRX",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_xlr",
+    "nombre": "Cadillac XLR",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_dts",
+    "nombre": "Cadillac DTS",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_bls",
+    "nombre": "Cadillac BLS",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_sts",
+    "nombre": "Cadillac STS",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_ats",
+    "nombre": "Cadillac ATS",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_xts",
+    "nombre": "Cadillac XTS",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_elr",
+    "nombre": "Cadillac ELR",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_gt4",
+    "nombre": "Cadillac GT4",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "cadillac_lasalle",
+    "nombre": "Cadillac LaSalle",
+    "anio_desde": 1927,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

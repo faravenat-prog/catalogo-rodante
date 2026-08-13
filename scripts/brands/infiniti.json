@@ -1,0 +1,173 @@
+[
+  {
+    "id": "infiniti_qx50",
+    "nombre": "Infiniti QX50",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_qx55",
+    "nombre": "Infiniti QX55",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_q50",
+    "nombre": "Infiniti Q50",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "infiniti_q60",
+    "nombre": "Infiniti Q60",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Coupe"
+    ]
+  },
+  {
+    "id": "infiniti_esq",
+    "nombre": "Infiniti ESQ",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_q30",
+    "nombre": "Infiniti Q30",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "infiniti_qx30",
+    "nombre": "Infiniti QX30",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover"
+    ]
+  },
+  {
+    "id": "infiniti_q70",
+    "nombre": "Infiniti Q70",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "infiniti_qx70",
+    "nombre": "Infiniti QX70",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_ex_series",
+    "nombre": "Infiniti EX-series",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_fx_series",
+    "nombre": "Infiniti FX-series",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_jx_series",
+    "nombre": "Infiniti JX-series",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_qx56",
+    "nombre": "Infiniti QX56",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_g_series",
+    "nombre": "Infiniti G-series",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan Coupe Cabriolet"
+    ]
+  },
+  {
+    "id": "infiniti_m_series",
+    "nombre": "Infiniti M-series",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "infiniti_q45",
+    "nombre": "Infiniti Q45",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "infiniti_qx4",
+    "nombre": "Infiniti QX4",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "infiniti_i_series",
+    "nombre": "Infiniti I-series",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "infiniti_j_series",
+    "nombre": "Infiniti J-series",
+    "anio_desde": 1992,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "kia_avella",
+    "nombre": "Kia Avella",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_brisa",
+    "nombre": "Kia Brisa",
+    "anio_desde": 1974,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_concordcapital",
+    "nombre": "Kia Concord/Capital",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_ceed_hatchback",
+    "nombre": "Kia Ceed hatchback",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_ceed_sportswagon",
+    "nombre": "Kia Ceed Sportswagon",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_credos",
+    "nombre": "Kia Credos",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_enterprise",
+    "nombre": "Kia Enterprise",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_elanvigato",
+    "nombre": "Kia Elan/Vigato",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_fortek3cerato",
+    "nombre": "Kia Forte/K3/Cerato",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_joice",
+    "nombre": "Kia Joice",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_k4_china",
+    "nombre": "Kia K4 (China)",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_k7cadenza",
+    "nombre": "Kia K7/Cadenza",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_kx3",
+    "nombre": "Kia KX3",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_kx5",
+    "nombre": "Kia KX5",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_kx7",
+    "nombre": "Kia KX7",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_mentor",
+    "nombre": "Kia Mentor",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_mohave",
+    "nombre": "Kia Mohave",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_niro_plus",
+    "nombre": "Kia Niro Plus",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_opirusamanti",
+    "nombre": "Kia Opirus/Amanti",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_potentia",
+    "nombre": "Kia Potentia",
+    "anio_desde": 1992,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_pregio",
+    "nombre": "Kia Pregio",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_pride",
+    "nombre": "Kia Pride",
+    "anio_desde": 1986,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_proceed",
+    "nombre": "Kia Proceed",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_qianlima",
+    "nombre": "Kia Qianlima",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_retona",
+    "nombre": "Kia Retona",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_rio",
+    "nombre": "Kia Rio",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_rondo",
+    "nombre": "Kia Rondo",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_sephia",
+    "nombre": "Kia Sephia",
+    "anio_desde": 1992,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_spectra",
+    "nombre": "Kia Spectra",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_stinger",
+    "nombre": "Kia Stinger",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_soul",
+    "nombre": "Kia Soul",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_soul_ev",
+    "nombre": "Kia Soul EV",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_venga",
+    "nombre": "Kia Venga",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_visto",
+    "nombre": "Kia Visto",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_pregio_2",
+    "nombre": "Kia Pregio",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "kia_combi",
+    "nombre": "Kia Combi",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

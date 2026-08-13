@@ -1,0 +1,3110 @@
+[
+  {
+    "id": "ferrari_main_page",
+    "nombre": "Ferrari Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_contents",
+    "nombre": "Ferrari Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_current_events",
+    "nombre": "Ferrari Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_random_article",
+    "nombre": "Ferrari Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_about_wikipedia",
+    "nombre": "Ferrari About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_contact_us",
+    "nombre": "Ferrari Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_help",
+    "nombre": "Ferrari Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_learn_to_edit",
+    "nombre": "Ferrari Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_community_portal",
+    "nombre": "Ferrari Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_recent_changes",
+    "nombre": "Ferrari Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_upload_file",
+    "nombre": "Ferrari Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_special_pages",
+    "nombre": "Ferrari Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_donate",
+    "nombre": "Ferrari Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_create_account",
+    "nombre": "Ferrari Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_log_in",
+    "nombre": "Ferrari Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1_current_models",
+    "nombre": "Ferrari 1 Current models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_21_2_seat_grand_tourer",
+    "nombre": "Ferrari 2.1 2-seat Grand Tourer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_22_4_seat_grand_tourer",
+    "nombre": "Ferrari 2.2 4-seat Grand Tourer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_23_4_seat_sports_car",
+    "nombre": "Ferrari 2.3 4-seat Sports car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_24_mid_engine_sports_car",
+    "nombre": "Ferrari 2.4 Mid-engine Sports car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_25_mid_engine_supercar",
+    "nombre": "Ferrari 2.5 Mid-engine Supercar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_26_electric",
+    "nombre": "Ferrari 2.6 Electric",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_27_icona",
+    "nombre": "Ferrari 2.7 Icona",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_28_flagship_supercar",
+    "nombre": "Ferrari 2.8 Flagship Supercar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_29_one_off_few_off",
+    "nombre": "Ferrari 2.9 One-off & Few-off",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_210_concept",
+    "nombre": "Ferrari 2.10 Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_3_see_also",
+    "nombre": "Ferrari 3 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_4_references",
+    "nombre": "Ferrari 4 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_5_external_links",
+    "nombre": "Ferrari 5 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_espanol",
+    "nombre": "Ferrari Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari",
+    "nombre": "Ferrari فارسی",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_francais",
+    "nombre": "Ferrari Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_galego",
+    "nombre": "Ferrari Galego",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_article",
+    "nombre": "Ferrari Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_talk",
+    "nombre": "Ferrari Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_read",
+    "nombre": "Ferrari Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_edit",
+    "nombre": "Ferrari Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_view_history",
+    "nombre": "Ferrari View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_what_links_here",
+    "nombre": "Ferrari What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_related_changes",
+    "nombre": "Ferrari Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_permanent_link",
+    "nombre": "Ferrari Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_page_information",
+    "nombre": "Ferrari Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_cite_this_page",
+    "nombre": "Ferrari Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_get_shortened_url",
+    "nombre": "Ferrari Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_switch_to_legacy_parser",
+    "nombre": "Ferrari Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_download_as_pdf",
+    "nombre": "Ferrari Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_printable_version",
+    "nombre": "Ferrari Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_wikimedia_commons",
+    "nombre": "Ferrari Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_wikidata_item",
+    "nombre": "Ferrari Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19481952_inter_19481950_166_inter_19501951_195_inter_19511952_212_inter",
+    "nombre": "Ferrari 1948–1952 Inter 1948–1950 166 Inter 1950–1951 195 Inter 1951–1952 212 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19481950_166_inter",
+    "nombre": "Ferrari 1948–1950 166 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19501951_195_inter",
+    "nombre": "Ferrari 1950–1951 195 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19511952_212_inter",
+    "nombre": "Ferrari 1951–1952 212 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1952_342_america",
+    "nombre": "Ferrari 1952 342 America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19531954_375_america",
+    "nombre": "Ferrari 1953–1954 375 America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19551959_410_superamerica",
+    "nombre": "Ferrari 1955–1959 410 Superamerica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19591964_400_superamerica",
+    "nombre": "Ferrari 1959–1964 400 Superamerica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19641966_500_superfast",
+    "nombre": "Ferrari 1964–1966 500 Superfast",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1953_250_europa",
+    "nombre": "Ferrari 1953 250 Europa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19541955_250_europa_gt",
+    "nombre": "Ferrari 1954–1955 250 Europa GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19551957_250_gt_coupe_boano",
+    "nombre": "Ferrari 1955–1957 250 GT Coupé Boano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19571958_250_gt_coupe_ellena",
+    "nombre": "Ferrari 1957–1958 250 GT Coupé Ellena",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19581960_250_gt_coupe_pinin_farina",
+    "nombre": "Ferrari 1958–1960 250 GT Coupé Pinin Farina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19561963_250_gt_berlinetta",
+    "nombre": "Ferrari 1956–1963 250 GT Berlinetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19571962_250_gt_cabriolet",
+    "nombre": "Ferrari 1957–1962 250 GT Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19571963_250_gt_california_spyder",
+    "nombre": "Ferrari 1957–1963 250 GT California Spyder",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19621964_250_gt_berlinetta_lusso",
+    "nombre": "Ferrari 1962–1964 250 GT Berlinetta Lusso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19641968_275_19641965_275_gtb_19641965_275_gts_19661968_275_gtb4",
+    "nombre": "Ferrari 1964–1968 275 1964–1965 275 GTB 1964–1965 275 GTS 1966–1968 275 GTB/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19641965_275_gtb",
+    "nombre": "Ferrari 1964–1965 275 GTB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19641965_275_gts",
+    "nombre": "Ferrari 1964–1965 275 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19661968_275_gtb4",
+    "nombre": "Ferrari 1966–1968 275 GTB/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19631968_330_19661968_330_gtc_19661968_330_gts",
+    "nombre": "Ferrari 1963–1968 330 1966–1968 330 GTC 1966–1968 330 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19661968_330_gtc",
+    "nombre": "Ferrari 1966–1968 330 GTC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19661968_330_gts",
+    "nombre": "Ferrari 1966–1968 330 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19661967_365_california",
+    "nombre": "Ferrari 1966–1967 365 California",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19681969_365_gtc",
+    "nombre": "Ferrari 1968–1969 365 GTC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19691970_365_gts",
+    "nombre": "Ferrari 1969–1970 365 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19681973_365_gtb4",
+    "nombre": "Ferrari 1968–1973 365 GTB/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19681973_365_gts4",
+    "nombre": "Ferrari 1968–1973 365 GTS/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19731984_berlinetta_boxer_19731976_365_gt4_bb_19761981_512_bb_19811984_512_bbi",
+    "nombre": "Ferrari 1973–1984 Berlinetta Boxer 1973–1976 365 GT4 BB 1976–1981 512 BB 1981–1984 512 BBi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19731976_365_gt4_bb",
+    "nombre": "Ferrari 1973–1976 365 GT4 BB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19761981_512_bb",
+    "nombre": "Ferrari 1976–1981 512 BB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19811984_512_bbi",
+    "nombre": "Ferrari 1981–1984 512 BBi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19841996_testarossa_19841992_testarossa_19921994_512_tr_19941996_f512_m",
+    "nombre": "Ferrari 1984–1996 Testarossa 1984–1992 Testarossa 1992–1994 512 TR 1994–1996 F512 M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19841992_testarossa",
+    "nombre": "Ferrari 1984–1992 Testarossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19921994_512_tr",
+    "nombre": "Ferrari 1992–1994 512 TR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19941996_f512_m",
+    "nombre": "Ferrari 1994–1996 F512 M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19962006_550_575_19962001_550_maranello_2001_550_barchetta_pininfarina_20022006_575m_maranello_2005_superamerica",
+    "nombre": "Ferrari 1996–2006 550 & 575 1996–2001 550 Maranello 2001 550 Barchetta Pininfarina 2002–2006 575M Maranello 2005 Superamerica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19962001_550_maranello",
+    "nombre": "Ferrari 1996–2001 550 Maranello",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2001_550_barchetta_pininfarina",
+    "nombre": "Ferrari 2001 550 Barchetta Pininfarina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20022006_575m_maranello",
+    "nombre": "Ferrari 2002–2006 575M Maranello",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2005_superamerica",
+    "nombre": "Ferrari 2005 Superamerica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20062012_599_20062012_599_gtb_fiorano_20102011_599_gto_2010_sa_aperta",
+    "nombre": "Ferrari 2006–2012 599 2006–2012 599 GTB Fiorano 2010–2011 599 GTO 2010 SA Aperta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20062012_599_gtb_fiorano",
+    "nombre": "Ferrari 2006–2012 599 GTB Fiorano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20102011_599_gto",
+    "nombre": "Ferrari 2010–2011 599 GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2010_sa_aperta",
+    "nombre": "Ferrari 2010 SA Aperta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20122017_f12berlinetta_20152017_f12tdf",
+    "nombre": "Ferrari 2012–2017 F12berlinetta 2015–2017 F12tdf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20152017_f12tdf",
+    "nombre": "Ferrari 2015–2017 F12tdf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20172024_812_superfast_20192024_812_gts_20212024_812_competizione_20212024_812_competizione_a",
+    "nombre": "Ferrari 2017–2024 812 Superfast 2019–2024 812 GTS 2021–2024 812 Competizione 2021–2024 812 Competizione A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20192024_812_gts",
+    "nombre": "Ferrari 2019–2024 812 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20212024_812_competizione",
+    "nombre": "Ferrari 2021–2024 812 Competizione",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20212024_812_competizione_a",
+    "nombre": "Ferrari 2021–2024 812 Competizione A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2024_12cilindri_2026_12cilindri_manuale",
+    "nombre": "Ferrari 2024– 12Cilindri 2026– 12Cilindri Manuale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2026_12cilindri_manuale",
+    "nombre": "Ferrari 2026– 12Cilindri Manuale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19591963_250_gte",
+    "nombre": "Ferrari 1959–1963 250 GT/E",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19631964_330_america",
+    "nombre": "Ferrari 1963–1964 330 America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19641967_330_gt_22",
+    "nombre": "Ferrari 1964–1967 330 GT 2+2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19671971_365_gt_22",
+    "nombre": "Ferrari 1967–1971 365 GT 2+2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19711972_365_gtc4",
+    "nombre": "Ferrari 1971–1972 365 GTC/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19721989_365_gt4_22_400_and_412_19721976_365_gt4_22_19761979_400_19791985_400i_19851989_412",
+    "nombre": "Ferrari 1972–1989 365 GT4 2+2, 400 and 412 1972–1976 365 GT4 2+2 1976–1979 400 1979–1985 400i 1985–1989 412",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19721976_365_gt4_22",
+    "nombre": "Ferrari 1972–1976 365 GT4 2+2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19791985_400i",
+    "nombre": "Ferrari 1979–1985 400i",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19922003_456_19921997_456_19982003_456m",
+    "nombre": "Ferrari 1992–2003 456 1992–1997 456 1998–2003 456M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19982003_456m",
+    "nombre": "Ferrari 1998–2003 456M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20042011_612_scaglietti",
+    "nombre": "Ferrari 2004–2011 612 Scaglietti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20112016_ff",
+    "nombre": "Ferrari 2011–2016 FF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20162020_gtc4lusso_20172020_gtc4lusso_t",
+    "nombre": "Ferrari 2016–2020 GTC4Lusso 2017–2020 GTC4Lusso T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20172020_gtc4lusso_t",
+    "nombre": "Ferrari 2017–2020 GTC4Lusso T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2023_purosangue",
+    "nombre": "Ferrari 2023– Purosangue",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19731980_gt4_19731975_dino_308_gt4_19761980_308_gt4_1975_dino_208_gt4_19761980_208_gt4",
+    "nombre": "Ferrari 1973–1980 GT4 1973–1975 Dino 308 GT4 1976–1980 308 GT4 1975 Dino 208 GT4 1976–1980 208 GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19731975_dino_308_gt4",
+    "nombre": "Ferrari 1973–1975 Dino 308 GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19761980_308_gt4",
+    "nombre": "Ferrari 1976–1980 308 GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1975_dino_208_gt4",
+    "nombre": "Ferrari 1975 Dino 208 GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19761980_208_gt4",
+    "nombre": "Ferrari 1976–1980 208 GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19801981_mondial_8",
+    "nombre": "Ferrari 1980–1981 Mondial 8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19821985_mondial_quattrovalvole",
+    "nombre": "Ferrari 1982–1985 Mondial Quattrovalvole",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19831985_mondial_quattrovalvole_cabriolet",
+    "nombre": "Ferrari 1983–1985 Mondial Quattrovalvole Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19851989_32_mondial_32_mondial_cabriolet",
+    "nombre": "Ferrari 1985–1989 3.2 Mondial & 3.2 Mondial Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19891993_mondial_t_mondial_t_cabriolet",
+    "nombre": "Ferrari 1989–1993 Mondial T & Mondial T Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20092017_california_20092014_california_20142017_california_t",
+    "nombre": "Ferrari 2009–2017 California 2009–2014 California 2014–2017 California T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20092014_california",
+    "nombre": "Ferrari 2009–2014 California",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20142017_california_t",
+    "nombre": "Ferrari 2014–2017 California T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20182021_portofino_20212023_portofino_m",
+    "nombre": "Ferrari 2018–2021 Portofino 2021–2023 Portofino M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20212023_portofino_m",
+    "nombre": "Ferrari 2021–2023 Portofino M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20202024_roma_20232026_roma_spider",
+    "nombre": "Ferrari 2020–2024 Roma 2023–2026 Roma Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20232026_roma_spider",
+    "nombre": "Ferrari 2023–2026 Roma Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2025_amalfi_2026_amalfi_spider",
+    "nombre": "Ferrari 2025– Amalfi 2026– Amalfi Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2026_amalfi_spider",
+    "nombre": "Ferrari 2026– Amalfi Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19671974_dino_19671969_dino_206_gt_19691974_dino_246_gt_19721974_dino_246_gts",
+    "nombre": "Ferrari 1967–1974 Dino 1967–1969 Dino 206 GT 1969–1974 Dino 246 GT 1972–1974 Dino 246 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19671969_dino_206_gt",
+    "nombre": "Ferrari 1967–1969 Dino 206 GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19691974_dino_246_gt",
+    "nombre": "Ferrari 1969–1974 Dino 246 GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19721974_dino_246_gts",
+    "nombre": "Ferrari 1972–1974 Dino 246 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19751977_308_gtb",
+    "nombre": "Ferrari 1975–1977 308 GTB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19771979_308_gtb_gts",
+    "nombre": "Ferrari 1977–1979 308 GTB & GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19801981_208_gtb_gts",
+    "nombre": "Ferrari 1980–1981 208 GTB & GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19801981_308_gtbi_gtsi",
+    "nombre": "Ferrari 1980–1981 308 GTBi & GTSi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19821985_208_gtb_turbo",
+    "nombre": "Ferrari 1982–1985 208 GTB Turbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19831985_208_gts_turbo",
+    "nombre": "Ferrari 1983–1985 208 GTS Turbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19821985_308_gtb_gts_quattrovalvole",
+    "nombre": "Ferrari 1982–1985 308 GTB & GTS Quattrovalvole",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19851989_328_19861989_328_gtb_gts_19861989_gtb_gts_turbo",
+    "nombre": "Ferrari 1985–1989 328 1986–1989 328 GTB & GTS 1986–1989 GTB & GTS Turbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19861989_328_gtb_gts",
+    "nombre": "Ferrari 1986–1989 328 GTB & GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19861989_gtb_gts_turbo",
+    "nombre": "Ferrari 1986–1989 GTB & GTS Turbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19891994_348_19891993_348_tb_ts_19931994_348_gtb_gts_spider",
+    "nombre": "Ferrari 1989–1994 348 1989–1993 348 TB & TS 1993–1994 348 GTB, GTS & Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19891993_348_tb_ts",
+    "nombre": "Ferrari 1989–1993 348 TB & TS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19931994_348_gtb_gts_spider",
+    "nombre": "Ferrari 1993–1994 348 GTB, GTS & Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19941999_f355_19941999_f355_berlinetta_19951999_f355_spider_gts_19971999_355_f1",
+    "nombre": "Ferrari 1994–1999 F355 1994–1999 F355 Berlinetta 1995–1999 F355 Spider & GTS 1997–1999 355 F1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19941999_f355_berlinetta",
+    "nombre": "Ferrari 1994–1999 F355 Berlinetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19951999_f355_spider_gts",
+    "nombre": "Ferrari 1995–1999 F355 Spider & GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19971999_355_f1",
+    "nombre": "Ferrari 1997–1999 355 F1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19992004_360_19992004_360_modena_spider_20032004_360_challenge_stradale",
+    "nombre": "Ferrari 1999–2004 360 1999–2004 360 Modena & Spider 2003–2004 360 Challenge Stradale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19992004_360_modena_spider",
+    "nombre": "Ferrari 1999–2004 360 Modena & Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20032004_360_challenge_stradale",
+    "nombre": "Ferrari 2003–2004 360 Challenge Stradale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20052009_f430_20052009_f430_f430_spider_20072009_430_scuderia_20082009_430_scuderia_spider_16m",
+    "nombre": "Ferrari 2005–2009 F430 2005–2009 F430 & F430 Spider 2007–2009 430 Scuderia 2008–2009 430 Scuderia Spider 16M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20052009_f430_f430_spider",
+    "nombre": "Ferrari 2005–2009 F430 & F430 Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20072009_430_scuderia",
+    "nombre": "Ferrari 2007–2009 430 Scuderia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20082009_430_scuderia_spider_16m",
+    "nombre": "Ferrari 2008–2009 430 Scuderia Spider 16M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20092015_458_20092015_458_italia_20112015_458_spider_20132015_458_speciale_20142015_458_speciale_a",
+    "nombre": "Ferrari 2009–2015 458 2009–2015 458 Italia 2011–2015 458 Spider 2013–2015 458 Speciale 2014–2015 458 Speciale A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20092015_458_italia",
+    "nombre": "Ferrari 2009–2015 458 Italia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20112015_458_spider",
+    "nombre": "Ferrari 2011–2015 458 Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20132015_458_speciale",
+    "nombre": "Ferrari 2013–2015 458 Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20142015_458_speciale_a",
+    "nombre": "Ferrari 2014–2015 458 Speciale A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20152020_488_20152019_488_gtb_488_spider_20182020_488_pista_488_pista_spider",
+    "nombre": "Ferrari 2015–2020 488 2015–2019 488 GTB & 488 Spider 2018–2020 488 Pista & 488 Pista Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20152019_488_gtb_488_spider",
+    "nombre": "Ferrari 2015–2019 488 GTB & 488 Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20182020_488_pista_488_pista_spider",
+    "nombre": "Ferrari 2018–2020 488 Pista & 488 Pista Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20192023_f8_20192023_f8_tributo_f8_spider",
+    "nombre": "Ferrari 2019–2023 F8 2019–2023 F8 Tributo & F8 Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20192023_f8_tributo_f8_spider",
+    "nombre": "Ferrari 2019–2023 F8 Tributo & F8 Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2021_296_2021_296_gtb_296_gts_2025_296_speciale",
+    "nombre": "Ferrari 2021– 296 2021– 296 GTB & 296 GTS 2025– 296 Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2021_296_gtb_296_gts",
+    "nombre": "Ferrari 2021– 296 GTB & 296 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2025_296_speciale",
+    "nombre": "Ferrari 2025– 296 Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20192024_sf90_stradale_20232026_sf90_stradale_sf90_spider_sf90_xx",
+    "nombre": "Ferrari 2019–2024 SF90 Stradale 2023–2026 SF90 Stradale, SF90 Spider & SF90 XX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20232026_sf90_stradale_sf90_spider_sf90_xx",
+    "nombre": "Ferrari 2023–2026 SF90 Stradale, SF90 Spider & SF90 XX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2025_849_testarossa",
+    "nombre": "Ferrari 2025– 849 Testarossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2026_luce",
+    "nombre": "Ferrari 2026– Luce",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20192022_monza_sp1_and_sp2",
+    "nombre": "Ferrari 2019–2022 Monza SP1 and SP2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20212025_daytona_sp3",
+    "nombre": "Ferrari 2021–2025 Daytona SP3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19841985_288_gto",
+    "nombre": "Ferrari 1984–1985 288 GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19871992_f40",
+    "nombre": "Ferrari 1987–1992 F40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_19951997_f50_1996_f50_gt",
+    "nombre": "Ferrari 1995–1997 F50 1996 F50 GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1996_f50_gt",
+    "nombre": "Ferrari 1996 F50 GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20022004_enzo",
+    "nombre": "Ferrari 2002–2004 Enzo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20132016_laferrari_20162018_laferrari_aperta",
+    "nombre": "Ferrari 2013–2016 LaFerrari 2016–2018 LaFerrari Aperta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_20162018_laferrari_aperta",
+    "nombre": "Ferrari 2016–2018 LaFerrari Aperta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2025_f80",
+    "nombre": "Ferrari 2025– F80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_both_of_the_ferrari_365_gt_22_nart_spyder_in_the_autogalerie_sinzig_germany_1952_ferrari_225_inter",
+    "nombre": "Ferrari both of the Ferrari 365 GT 2+2 NART Spyder  in the Autogalerie Sinzig, Germany 1952 Ferrari 225 Inter",
+    "anio_desde": 1260,
+    "anio_hasta": 1260,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1954_ferrari_375_mm_ingrid_bergman",
+    "nombre": "Ferrari 1954 Ferrari 375 MM \"Ingrid Bergman\"",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1956_ferrari_250_gt_pinin_farina_coupe_speciale",
+    "nombre": "Ferrari 1956 Ferrari 250 GT Pinin Farina Coupé Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1969_ferrari_365_gt_22_nart_spyder_grintosa",
+    "nombre": "Ferrari 1969 Ferrari 365 GT 2+2 NART Spyder \"Grintosa\"",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1971_ferrari_3z_spider",
+    "nombre": "Ferrari 1971 Ferrari 3Z Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1971_ferrari_365_gtb4_michelotti_nart_spider",
+    "nombre": "Ferrari 1971 Ferrari 365 GTB/4 Michelotti NART Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1975_ferrari_365_gtb4_shooting_brake",
+    "nombre": "Ferrari 1975 Ferrari 365 GTB/4 Shooting Brake",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1986_testarossa_spider",
+    "nombre": "Ferrari 1986 Testarossa Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1987_ferrari_ppg_pace_car",
+    "nombre": "Ferrari 1987 Ferrari PPG Pace Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1988_ferrari_f90",
+    "nombre": "Ferrari 1988 Ferrari F90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1995_ferrari_fx",
+    "nombre": "Ferrari 1995 Ferrari FX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1996_ferrari_456_gt_venice",
+    "nombre": "Ferrari 1996 Ferrari 456 GT Venice",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1996_ferrari_f50_bolide",
+    "nombre": "Ferrari 1996 Ferrari F50 Bolide",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2006_ferrari_p45",
+    "nombre": "Ferrari 2006 Ferrari P4/5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2006_ferrari_zagato_575_gtz",
+    "nombre": "Ferrari 2006 Ferrari Zagato 575 GTZ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2008_ferrari_sp1",
+    "nombre": "Ferrari 2008 Ferrari SP1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2009_ferrari_p540_superfast_aperta",
+    "nombre": "Ferrari 2009 Ferrari P540 Superfast Aperta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2011_ferrari_superamerica_45",
+    "nombre": "Ferrari 2011 Ferrari Superamerica 45",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2012_ferrari_sp12_ec",
+    "nombre": "Ferrari 2012 Ferrari SP12 EC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2013_ferrari_sp30_arya",
+    "nombre": "Ferrari 2013 Ferrari SP30 Arya",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2013_ferrari_sp_ffx",
+    "nombre": "Ferrari 2013 Ferrari SP FFX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2014_ferrari_f12_trs",
+    "nombre": "Ferrari 2014 Ferrari F12 TRS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2014_ferrari_sp_america",
+    "nombre": "Ferrari 2014 Ferrari SP America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2014_ferrari_f60_america",
+    "nombre": "Ferrari 2014 Ferrari F60 America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2015_ferrari_touring_berlinetta_lusso",
+    "nombre": "Ferrari 2015 Ferrari Touring Berlinetta Lusso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2015_ferrari_sergio",
+    "nombre": "Ferrari 2015 Ferrari Sergio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2015_ferrari_f12berlinetta_sg50_edition",
+    "nombre": "Ferrari 2015 Ferrari F12berlinetta SG50 Edition",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2016_ferrari_458_mm_speciale",
+    "nombre": "Ferrari 2016 Ferrari 458 MM Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2016_ferrari_sp275_rw_competizione",
+    "nombre": "Ferrari 2016 Ferrari SP275 RW Competizione",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2017_ferrari_j50",
+    "nombre": "Ferrari 2017 Ferrari J50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2018_ferrari_sp38_deborah",
+    "nombre": "Ferrari 2018 Ferrari SP38 Deborah",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2018_ferrari_sp3jc",
+    "nombre": "Ferrari 2018 Ferrari SP3JC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2019_ferrari_p80c",
+    "nombre": "Ferrari 2019 Ferrari P80/C",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2020_ferrari_omologata",
+    "nombre": "Ferrari 2020 Ferrari Omologata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2021_ferrari_br20",
+    "nombre": "Ferrari 2021 Ferrari BR20",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2022_ferrari_sp48_unica",
+    "nombre": "Ferrari 2022 Ferrari SP48 Unica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2022_ferrari_sp51",
+    "nombre": "Ferrari 2022 Ferrari SP51",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2023_ferrari_kc23",
+    "nombre": "Ferrari 2023 Ferrari KC23",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2023_ferrari_sp_8",
+    "nombre": "Ferrari 2023 Ferrari SP-8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2025_ferrari_sc40",
+    "nombre": "Ferrari 2025 Ferrari SC40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1965_dino_berlinetta_speciale",
+    "nombre": "Ferrari 1965 Dino Berlinetta Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1966_dino_berlinetta_gt",
+    "nombre": "Ferrari 1966 Dino Berlinetta GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1966_ferrari_365_p_berlinetta_speciale",
+    "nombre": "Ferrari 1966 Ferrari 365 P Berlinetta Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1967_dino_berlinetta_competizione",
+    "nombre": "Ferrari 1967 Dino Berlinetta Competizione",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1968_ferrari_250_p5_berlinetta_speciale",
+    "nombre": "Ferrari 1968 Ferrari 250 P5 Berlinetta Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1968_ferrari_p6",
+    "nombre": "Ferrari 1968 Ferrari P6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1969_ferrari_sigma_grand_prix",
+    "nombre": "Ferrari 1969 Ferrari Sigma Grand Prix",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1969_ferrari_512_s_berlinetta_speciale",
+    "nombre": "Ferrari 1969 Ferrari 512 S Berlinetta Speciale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1970_ferrari_modulo",
+    "nombre": "Ferrari 1970 Ferrari Modulo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1980_ferrari_pinin",
+    "nombre": "Ferrari 1980 Ferrari Pinin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1987_ferrari_408_4rm",
+    "nombre": "Ferrari 1987 Ferrari 408 4RM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1989_ferrari_mythos",
+    "nombre": "Ferrari 1989 Ferrari Mythos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1989_colani_ferrari_testa_doro",
+    "nombre": "Ferrari 1989 Colani Ferrari Testa d'Oro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_1993_ferrari_fz93",
+    "nombre": "Ferrari 1993 Ferrari FZ93",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2000_ferrari_rossa",
+    "nombre": "Ferrari 2000 Ferrari Rossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2005_ferrari_gg50",
+    "nombre": "Ferrari 2005 Ferrari GG50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2005_ferrari_ascari",
+    "nombre": "Ferrari 2005 Ferrari Ascari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2010_ferrari_millechili",
+    "nombre": "Ferrari 2010 Ferrari Millechili",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2013_pininfarina_sergio",
+    "nombre": "Ferrari 2013 Pininfarina Sergio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_2022_ferrari_vision_gran_turismo",
+    "nombre": "Ferrari 2022 Ferrari Vision Gran Turismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_list_of_ferrari_competition_cars",
+    "nombre": "Ferrari List of Ferrari competition cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_list_of_ferrari_engines",
+    "nombre": "Ferrari List of Ferrari engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_ferrari_news_all_the_latest_plus_updates",
+    "nombre": "Ferrari ↑ \"Ferrari news: All the latest plus updates\" .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_kew_ollie_this_is_the_romas_replacement_meet_the_new_ferrari_amalfi_now_with_buttons_top_gear",
+    "nombre": "Ferrari ↑ Kew, Ollie. \"This is the Roma's replacement: meet the new Ferrari Amalfi... now with buttons!\" . Top Gear .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_past_models_on_autoferraricom",
+    "nombre": "Ferrari Past Models on auto.ferrari.com",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_sf90_xx_stradale_spider",
+    "nombre": "Ferrari SF90 XX Stradale / Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_849_testarossa",
+    "nombre": "Ferrari 849 Testarossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_purosangue",
+    "nombre": "Ferrari Purosangue",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_12cilindri",
+    "nombre": "Ferrari 12Cilindri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f80",
+    "nombre": "Ferrari F80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_amalfi",
+    "nombre": "Ferrari Amalfi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_auto_avio_costruzioni_815",
+    "nombre": "Ferrari Auto Avio Costruzioni 815",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_125_c",
+    "nombre": "Ferrari 125 C",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_125_s",
+    "nombre": "Ferrari 125 S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_159_s",
+    "nombre": "Ferrari 159 S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_166_ssc",
+    "nombre": "Ferrari 166 S/SC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_166_mm",
+    "nombre": "Ferrari 166 MM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_166_inter",
+    "nombre": "Ferrari 166 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_195_s",
+    "nombre": "Ferrari 195 S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_195_inter",
+    "nombre": "Ferrari 195 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_212_export",
+    "nombre": "Ferrari 212 Export",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_212_inter",
+    "nombre": "Ferrari 212 Inter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_america",
+    "nombre": "Ferrari America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_225_s",
+    "nombre": "Ferrari 225 S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_375_mm",
+    "nombre": "Ferrari 375 MM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_250_s_250_mm_250_monza_250_gt_coupe_250_gt_california_spyder_250_gt_lusso_250_gto",
+    "nombre": "Ferrari 250 250 S 250 MM 250 Monza 250 GT Coupé 250 GT California Spyder 250 GT Lusso 250 GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_s",
+    "nombre": "Ferrari 250 S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_mm",
+    "nombre": "Ferrari 250 MM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_monza",
+    "nombre": "Ferrari 250 Monza",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_gt_coupe",
+    "nombre": "Ferrari 250 GT Coupé",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_gt_california_spyder",
+    "nombre": "Ferrari 250 GT California Spyder",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_gt_lusso",
+    "nombre": "Ferrari 250 GT Lusso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_250_gto",
+    "nombre": "Ferrari 250 GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_365_365_gt_22",
+    "nombre": "Ferrari 365 365 GT 2+2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_365_gt_22",
+    "nombre": "Ferrari 365 GT 2+2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_dino_206_gt246_gt246_gts",
+    "nombre": "Ferrari Dino 206 GT/246 GT/246 GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_daytona",
+    "nombre": "Ferrari Daytona",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_365_gtc4",
+    "nombre": "Ferrari 365 GTC/4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gt4",
+    "nombre": "Ferrari GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_berlinetta_boxer",
+    "nombre": "Ferrari Berlinetta Boxer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_308_gtbgts",
+    "nombre": "Ferrari 308 GTB/GTS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_mondial",
+    "nombre": "Ferrari Mondial",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_288_gto",
+    "nombre": "Ferrari 288 GTO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_testarossa",
+    "nombre": "Ferrari Testarossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f40",
+    "nombre": "Ferrari F40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_333_sp",
+    "nombre": "Ferrari 333 SP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f355",
+    "nombre": "Ferrari F355",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f50",
+    "nombre": "Ferrari F50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_enzo_ferrari",
+    "nombre": "Ferrari Enzo Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_575m_maranello",
+    "nombre": "Ferrari 575M Maranello",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f430",
+    "nombre": "Ferrari F430",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_612_scaglietti",
+    "nombre": "Ferrari 612 Scaglietti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_california",
+    "nombre": "Ferrari California",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_ff",
+    "nombre": "Ferrari FF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f12berlinetta",
+    "nombre": "Ferrari F12berlinetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_laferrari",
+    "nombre": "Ferrari LaFerrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_california_t",
+    "nombre": "Ferrari California T",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gtc4lusso",
+    "nombre": "Ferrari GTC4Lusso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_portofino",
+    "nombre": "Ferrari Portofino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_portofino_m",
+    "nombre": "Ferrari Portofino M",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_monza_sp1",
+    "nombre": "Ferrari Monza SP1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_monza_sp2",
+    "nombre": "Ferrari Monza SP2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_roma",
+    "nombre": "Ferrari Roma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_sf90_stradale_spider",
+    "nombre": "Ferrari SF90 Stradale / Spider",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f8",
+    "nombre": "Ferrari F8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_daytona_sp3",
+    "nombre": "Ferrari Daytona SP3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_luce",
+    "nombre": "Ferrari Luce",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_365_p_berlinetta",
+    "nombre": "Ferrari 365 P Berlinetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_sigma",
+    "nombre": "Ferrari Sigma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_512_s_berlinetta",
+    "nombre": "Ferrari 512 S Berlinetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_408_4rm",
+    "nombre": "Ferrari 408 4RM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_modulo",
+    "nombre": "Ferrari Modulo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_mythos",
+    "nombre": "Ferrari Mythos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_pinin",
+    "nombre": "Ferrari Pinin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_fz93",
+    "nombre": "Ferrari FZ93",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_rossa",
+    "nombre": "Ferrari Rossa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gg50",
+    "nombre": "Ferrari GG50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_millechili",
+    "nombre": "Ferrari Millechili",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_vision_gran_turismo",
+    "nombre": "Ferrari Vision Gran Turismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_ascari",
+    "nombre": "Ferrari Ascari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_pininfarina_sergio",
+    "nombre": "Ferrari Pininfarina Sergio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_fiat_dino",
+    "nombre": "Ferrari Fiat Dino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_lancia_lc2",
+    "nombre": "Ferrari Lancia LC2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_lancia_stratos",
+    "nombre": "Ferrari Lancia Stratos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_maserati_mc12",
+    "nombre": "Ferrari Maserati MC12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f140",
+    "nombre": "Ferrari F140",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f154",
+    "nombre": "Ferrari F154",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f160",
+    "nombre": "Ferrari F160",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f163",
+    "nombre": "Ferrari F163",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_colombo",
+    "nombre": "Ferrari Colombo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_lampredi",
+    "nombre": "Ferrari Lampredi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_jano",
+    "nombre": "Ferrari Jano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_dino",
+    "nombre": "Ferrari Dino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_flat_12",
+    "nombre": "Ferrari Flat-12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f116f133",
+    "nombre": "Ferrari F116/F133",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f136",
+    "nombre": "Ferrari F136",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_john_elkann",
+    "nombre": "Ferrari John Elkann",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_benedetto_vigna",
+    "nombre": "Ferrari Benedetto Vigna",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_piero_ferrari",
+    "nombre": "Ferrari Piero Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_flavio_manzoni",
+    "nombre": "Ferrari Flavio Manzoni",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_mario_almondo",
+    "nombre": "Ferrari Mario Almondo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_dany_bahar",
+    "nombre": "Ferrari Dany Bahar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_vittorio_bellentani",
+    "nombre": "Ferrari Vittorio Bellentani",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_marcello_gandini",
+    "nombre": "Ferrari Marcello Gandini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_giotto_bizzarrini",
+    "nombre": "Ferrari Giotto Bizzarrini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_aldo_brovarone",
+    "nombre": "Ferrari Aldo Brovarone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_giuseppe_busso",
+    "nombre": "Ferrari Giuseppe Busso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_louis_c_camilleri",
+    "nombre": "Ferrari Louis C. Camilleri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_jason_castriota",
+    "nombre": "Ferrari Jason Castriota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_luigi_chinetti",
+    "nombre": "Ferrari Luigi Chinetti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_donato_coco",
+    "nombre": "Ferrari Donato Coco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_giampaolo_dallara",
+    "nombre": "Ferrari Giampaolo Dallara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_marco_fainello",
+    "nombre": "Ferrari Marco Fainello",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_battista_farina",
+    "nombre": "Ferrari Battista Farina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_amedeo_felisa",
+    "nombre": "Ferrari Amedeo Felisa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_alfredo_dino_ferrari",
+    "nombre": "Ferrari Alfredo \"Dino\" Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_leonardo_fioravanti",
+    "nombre": "Ferrari Leonardo Fioravanti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_pier_ugo_gobbato",
+    "nombre": "Ferrari Pier Ugo Gobbato",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_aurelio_lampredi",
+    "nombre": "Ferrari Aurelio Lampredi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_sergio_marchionne",
+    "nombre": "Ferrari Sergio Marchionne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_paolo_martin",
+    "nombre": "Ferrari Paolo Martin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_alberto_massimino",
+    "nombre": "Ferrari Alberto Massimino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_nicola_materazzi",
+    "nombre": "Ferrari Nicola Materazzi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_marco_mattiacci",
+    "nombre": "Ferrari Marco Mattiacci",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_tom_meade",
+    "nombre": "Ferrari Tom Meade",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_giovanni_michelotti",
+    "nombre": "Ferrari Giovanni Michelotti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_luca_di_montezemolo",
+    "nombre": "Ferrari Luca di Montezemolo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_ken_okuyama",
+    "nombre": "Ferrari Ken Okuyama",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gerald_roush",
+    "nombre": "Ferrari Gerald Roush",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_frank_stephenson",
+    "nombre": "Ferrari Frank Stephenson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_museo_ferrari",
+    "nombre": "Ferrari Museo Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_museo_casa_enzo_ferrari",
+    "nombre": "Ferrari Museo Casa Enzo Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_world_abu_dhabi",
+    "nombre": "Ferrari World Abu Dhabi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_land",
+    "nombre": "Ferrari Land",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_factory",
+    "nombre": "Ferrari factory",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_fiorano_circuit",
+    "nombre": "Ferrari Fiorano Circuit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_mugello_circuit",
+    "nombre": "Ferrari Mugello Circuit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_la_passione",
+    "nombre": "Ferrari La Passione",
+    "anio_desde": 1996,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_the_snake_and_the_stallion",
+    "nombre": "Ferrari The Snake and the Stallion",
+    "anio_desde": 2002,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_ford_v_ferrari_soundtrack",
+    "nombre": "Ferrari Ford v Ferrari  soundtrack",
+    "anio_desde": 2019,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_soundtrack",
+    "nombre": "Ferrari soundtrack",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_magnum_pi",
+    "nombre": "Ferrari Magnum, P.I.",
+    "anio_desde": 1980,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_miami_vice",
+    "nombre": "Ferrari Miami Vice",
+    "anio_desde": 1984,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_magnum_p_i",
+    "nombre": "Ferrari Magnum P. I.",
+    "anio_desde": 2018,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_formula_one",
+    "nombre": "Ferrari Formula One",
+    "anio_desde": 1988,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_grand_prix_challenge",
+    "nombre": "Ferrari Grand Prix Challenge",
+    "anio_desde": 1992,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_f355_challenge",
+    "nombre": "Ferrari F355 Challenge",
+    "anio_desde": 1999,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_challenge_trofeo_pirelli",
+    "nombre": "Ferrari Challenge: Trofeo Pirelli",
+    "anio_desde": 2008,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gt_evolution",
+    "nombre": "Ferrari GT: Evolution",
+    "anio_desde": 2008,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_virtual_race",
+    "nombre": "Ferrari Virtual Race",
+    "anio_desde": 2009,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_virtual_academy",
+    "nombre": "Ferrari Virtual Academy",
+    "anio_desde": 2010,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_the_race_experience",
+    "nombre": "Ferrari: The Race Experience",
+    "anio_desde": 2010,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_gt_3_world_track",
+    "nombre": "Ferrari GT 3: World Track",
+    "anio_desde": 2012,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_test_drive_ferrari_racing_legends",
+    "nombre": "Ferrari Test Drive: Ferrari Racing Legends",
+    "anio_desde": 2012,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_af_corse",
+    "nombre": "Ferrari AF Corse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_north_american_racing_team",
+    "nombre": "Ferrari North American Racing Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_risi_competizione",
+    "nombre": "Ferrari Risi Competizione",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_scuderia_ferrari",
+    "nombre": "Ferrari Scuderia Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_carrozzeria_scaglietti",
+    "nombre": "Ferrari Carrozzeria Scaglietti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_dallara",
+    "nombre": "Ferrari Dallara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_michelotto_automobili",
+    "nombre": "Ferrari Michelotto Automobili",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_challenge",
+    "nombre": "Ferrari Challenge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_florida_winter_series",
+    "nombre": "Ferrari Florida Winter Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_hypersail",
+    "nombre": "Ferrari Hypersail",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_arno_xi",
+    "nombre": "Ferrari Arno XI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_cavallino",
+    "nombre": "Ferrari Cavallino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_palm_beach_cavallino_classic",
+    "nombre": "Ferrari Palm Beach Cavallino Classic",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_the_kiss_of_death",
+    "nombre": "Ferrari The Kiss of Death",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_manettino_dial",
+    "nombre": "Ferrari Manettino dial",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_pininfarina",
+    "nombre": "Ferrari Pininfarina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_prancing_horse",
+    "nombre": "Ferrari Prancing Horse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_xx_programmes",
+    "nombre": "Ferrari XX Programmes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_category",
+    "nombre": "Ferrari Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_commons",
+    "nombre": "Ferrari Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_lists_of_cars",
+    "nombre": "Ferrari Lists of cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_lists_of_vehicles_by_manufacturer",
+    "nombre": "Ferrari Lists of vehicles by manufacturer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_articles_with_short_description",
+    "nombre": "Ferrari Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_short_description_is_different_from_wikidata",
+    "nombre": "Ferrari Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_articles_needing_additional_references_from_april_2023",
+    "nombre": "Ferrari Articles needing additional references from April 2023",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_all_articles_needing_additional_references",
+    "nombre": "Ferrari All articles needing additional references",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_this_page_was_last_edited_on_7_august_2026_at_1137",
+    "nombre": "Ferrari This page was last edited on 7 August 2026, at 11:37  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_page_was_rendered_with_parsoid",
+    "nombre": "Ferrari Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_privacy_policy",
+    "nombre": "Ferrari Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_disclaimers",
+    "nombre": "Ferrari Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_contact_wikipedia",
+    "nombre": "Ferrari Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_legal_safety_contacts",
+    "nombre": "Ferrari Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_code_of_conduct",
+    "nombre": "Ferrari Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_developers",
+    "nombre": "Ferrari Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_statistics",
+    "nombre": "Ferrari Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_cookie_statement",
+    "nombre": "Ferrari Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "ferrari_mobile_view",
+    "nombre": "Ferrari Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

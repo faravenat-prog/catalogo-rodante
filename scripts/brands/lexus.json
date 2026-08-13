@@ -1,0 +1,548 @@
+[
+  {
+    "id": "lexus_es",
+    "nombre": "Lexus ES",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls",
+    "nombre": "Lexus LS",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "lexus_ux",
+    "nombre": "Lexus UX",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_nx",
+    "nombre": "Lexus NX",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx",
+    "nombre": "Lexus RX",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rz",
+    "nombre": "Lexus RZ",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_tx",
+    "nombre": "Lexus TX",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_tz",
+    "nombre": "Lexus TZ",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_lx",
+    "nombre": "Lexus LX",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Body-on-frame SUV"
+    ]
+  },
+  {
+    "id": "lexus_ct",
+    "nombre": "Lexus CT",
+    "anio_desde": 2011,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_gs",
+    "nombre": "Lexus GS",
+    "anio_desde": 1993,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_hs",
+    "nombre": "Lexus HS",
+    "anio_desde": 2009,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_lfa",
+    "nombre": "Lexus LFA",
+    "anio_desde": 2010,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_rc",
+    "nombre": "Lexus RC",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_sc",
+    "nombre": "Lexus SC",
+    "anio_desde": 1991,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "lexus_ct_200h",
+    "nombre": "Lexus CT 200h",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact hybrid hatchback"
+    ]
+  },
+  {
+    "id": "lexus_es_250",
+    "nombre": "Lexus ES 250",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_300",
+    "nombre": "Lexus ES 300",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_300_2",
+    "nombre": "Lexus ES 300",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_300_es_330",
+    "nombre": "Lexus ES 300 ES 330",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_240_es_350",
+    "nombre": "Lexus ES 240 ES 350",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_200_es_250_es_300h_es_350",
+    "nombre": "Lexus ES 200 ES 250 ES 300h ES 350",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_200_es_250_es_260_in_china_es_300h_es_350",
+    "nombre": "Lexus ES 200 ES 250 (ES 260 in China) ES 300h ES 350",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_es_300h_es_350h_es_350e_es_500e",
+    "nombre": "Lexus ES 300h ES 350h ES 350e ES 500e",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_gs_300",
+    "nombre": "Lexus GS 300",
+    "anio_desde": 1993,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_gs_300_gs_400_gs_430",
+    "nombre": "Lexus GS 300 GS 400 GS 430",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_gs_300_gs_430_gs_450h_gs_350_gs_460",
+    "nombre": "Lexus GS 300 GS 430 GS 450h GS 350 GS 460",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_gs_200tgs_300_gs_300h_gs_250_gs_350_gs_450h_gs_f",
+    "nombre": "Lexus GS 200t/GS 300 GS 300h GS 250 GS 350 GS 450h GS F",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_hs_250h",
+    "nombre": "Lexus HS 250h",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact hybrid sedan"
+    ]
+  },
+  {
+    "id": "lexus_is_200_is_300_sportcross",
+    "nombre": "Lexus IS 200 IS 300 SportCross",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact sedan Compact hatchback / wagon"
+    ]
+  },
+  {
+    "id": "lexus_is_200d_is_220d_is_250is_250c_is_300is_300c_is_350is_350c_is_f",
+    "nombre": "Lexus IS 200d IS 220d IS 250/IS 250C IS 300/IS 300C IS 350/IS 350C IS F",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact sedan Compact coupé convertible"
+    ]
+  },
+  {
+    "id": "lexus_is_200tis_300_is_250_is_300h_is_300_awdis_350_is_500_f_sport_performance",
+    "nombre": "Lexus IS 200t/IS 300 IS 250 IS 300h IS 300 AWD/IS 350 IS 500 F Sport Performance",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls_400",
+    "nombre": "Lexus LS 400",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls_400_2",
+    "nombre": "Lexus LS 400",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls_430",
+    "nombre": "Lexus LS 430",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls_460_ls_460_l_ls_600h_ls_600h_l",
+    "nombre": "Lexus LS 460 LS 460 L LS 600h LS 600h L",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_ls_350_china_only_ls_500_ls_500h",
+    "nombre": "Lexus LS 350 (China-only) LS 500 LS 500h",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size sedan"
+    ]
+  },
+  {
+    "id": "lexus_lc_500_lc_500h",
+    "nombre": "Lexus LC 500 LC 500h",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "lexus_lfa_2",
+    "nombre": "Lexus LFA",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "lexus_rc_200trc_300_rc_300h_rc_350_rc_f",
+    "nombre": "Lexus RC 200t/RC 300 RC 300h RC 350 RC F",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact coupé"
+    ]
+  },
+  {
+    "id": "lexus_sc_400_sc_300",
+    "nombre": "Lexus SC 400 SC 300",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "lexus_sc_430",
+    "nombre": "Lexus SC 430",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "lexus_lbx_lbx_morizo_rr",
+    "nombre": "Lexus LBX LBX Morizo RR",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Subcompact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_ux_200_ux_250h_ux_260h_in_china_ux_300h_ux_300e",
+    "nombre": "Lexus UX 200 UX 250h (UX 260h in China) UX 300h UX 300e",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Subcompact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_nx_200_nx_200tnx_300_nx_300h",
+    "nombre": "Lexus NX 200 NX 200t/NX 300 NX 300h",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_nx_200_nx_250_nx_350_nx_350hnx_400hnx450h",
+    "nombre": "Lexus NX 200 NX 250 NX 350 NX 350h/NX 400h+/NX450h+",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rz_300e_rz_350e_rz_450e_rz_500e_rz_550e_f_sport_rz_600e_f_sport_performance",
+    "nombre": "Lexus RZ 300e RZ 350e RZ 450e RZ 500e RZ 550e F Sport RZ 600e F Sport Performance",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx_300",
+    "nombre": "Lexus RX 300",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx_300_rx_330_rx_350_rx_400h",
+    "nombre": "Lexus RX 300 RX 330 RX 350 RX 400h",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx_270_rx_350_rx_450h",
+    "nombre": "Lexus RX 270 RX 350 RX 450h",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx_200trx_300_rx_350_rx_450h",
+    "nombre": "Lexus RX 200t/RX 300 RX 350 RX 450h",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_rx_300_china_only_rx_350_rx_350hrx_450h_rx_500h_f_sport",
+    "nombre": "Lexus RX 300 (China-only) RX 350 RX 350h/RX 450h+ RX 500h F Sport",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_tx_350_tx_500h_tx_550h",
+    "nombre": "Lexus TX 350 TX 500h TX 550h+",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size crossover SUV"
+    ]
+  },
+  {
+    "id": "lexus_gx_470",
+    "nombre": "Lexus GX 470",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_gx_460_gx_400",
+    "nombre": "Lexus GX 460 GX 400",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_gx_550",
+    "nombre": "Lexus GX 550",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_lx_450",
+    "nombre": "Lexus LX 450",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_lx_470",
+    "nombre": "Lexus LX 470",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_lx_450d_lx_460_lx_470_lx_570",
+    "nombre": "Lexus LX 450d LX 460 LX 470 LX 570",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_lx_500d_lx_600_lx_700h",
+    "nombre": "Lexus LX 500d LX 600 LX 700h",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size SUV"
+    ]
+  },
+  {
+    "id": "lexus_lm_350_lm_300h",
+    "nombre": "Lexus LM 350 LM 300h",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Minivan"
+    ]
+  },
+  {
+    "id": "lexus_lm_350h_lm_500h",
+    "nombre": "Lexus LM 350h LM 500h",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Minivan"
+    ]
+  }
+]

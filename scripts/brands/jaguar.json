@@ -1,0 +1,6155 @@
+[
+  {
+    "id": "jaguar_main_page",
+    "nombre": "Jaguar Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_contents",
+    "nombre": "Jaguar Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_current_events",
+    "nombre": "Jaguar Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_random_article",
+    "nombre": "Jaguar Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_about_wikipedia",
+    "nombre": "Jaguar About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_contact_us",
+    "nombre": "Jaguar Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_help",
+    "nombre": "Jaguar Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_learn_to_edit",
+    "nombre": "Jaguar Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_community_portal",
+    "nombre": "Jaguar Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_recent_changes",
+    "nombre": "Jaguar Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_upload_file",
+    "nombre": "Jaguar Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_special_pages",
+    "nombre": "Jaguar Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_donate",
+    "nombre": "Jaguar Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_create_account",
+    "nombre": "Jaguar Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_log_in",
+    "nombre": "Jaguar Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_11_founding",
+    "nombre": "Jaguar 1.1 Founding",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_12_daimler",
+    "nombre": "Jaguar 1.2 Daimler",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_13_an_end_to_independence",
+    "nombre": "Jaguar 1.3 An end to independence",
+    "anio_desde": 1965,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_14_temporary_return_to_independence",
+    "nombre": "Jaguar 1.4 Temporary return to independence",
+    "anio_desde": 1984,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_15_ford_era",
+    "nombre": "Jaguar 1.5 Ford era",
+    "anio_desde": 1989,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_16_tata_motors_era",
+    "nombre": "Jaguar 1.6 Tata Motors era",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_17_electrification",
+    "nombre": "Jaguar 1.7 Electrification",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_2_plants",
+    "nombre": "Jaguar 2 Plants",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_3_upcoming_car_models_toggle_upcoming_car_models_subsection_31_type_01",
+    "nombre": "Jaguar 3 Upcoming car models Toggle Upcoming car models subsection 3.1 Type 01",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_31_type_01",
+    "nombre": "Jaguar 3.1 Type 01",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_41_e_pace",
+    "nombre": "Jaguar 4.1 E-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_42_f_type",
+    "nombre": "Jaguar 4.2 F-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_43_f_pace",
+    "nombre": "Jaguar 4.3 F-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_44_i_pace",
+    "nombre": "Jaguar 4.4 I-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_45_xe",
+    "nombre": "Jaguar 4.5 XE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_46_xf",
+    "nombre": "Jaguar 4.6 XF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_5_r_and_svr_models",
+    "nombre": "Jaguar 5 R and SVR models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_61_list_611_large_executive_612_compact_executive_613_sports_614_racing_and_competition",
+    "nombre": "Jaguar 6.1 List 6.1.1 Large executive 6.1.2 Compact executive 6.1.3 Sports 6.1.4 Racing and competition",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_611_large_executive",
+    "nombre": "Jaguar 6.1.1 Large executive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_612_compact_executive",
+    "nombre": "Jaguar 6.1.2 Compact executive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_613_sports",
+    "nombre": "Jaguar 6.1.3 Sports",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_614_racing_and_competition",
+    "nombre": "Jaguar 6.1.4 Racing and competition",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_62_global_sales",
+    "nombre": "Jaguar 6.2 Global Sales",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_7_concept_cars",
+    "nombre": "Jaguar 7 Concept cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_8_engines",
+    "nombre": "Jaguar 8 Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_9_motorsport",
+    "nombre": "Jaguar 9 Motorsport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_10_see_also",
+    "nombre": "Jaguar 10 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_11_references",
+    "nombre": "Jaguar 11 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_12_external_links",
+    "nombre": "Jaguar 12 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar",
+    "nombre": "Jaguar العربية",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_asturianu",
+    "nombre": "Jaguar Asturianu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_azrbaycanca",
+    "nombre": "Jaguar Azərbaycanca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_banjar",
+    "nombre": "Jaguar Banjar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bosanski",
+    "nombre": "Jaguar Bosanski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_catala",
+    "nombre": "Jaguar Català",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cestina",
+    "nombre": "Jaguar Čeština",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dansk",
+    "nombre": "Jaguar Dansk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_deutsch",
+    "nombre": "Jaguar Deutsch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_zazaki",
+    "nombre": "Jaguar Zazaki",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_esperanto",
+    "nombre": "Jaguar Esperanto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_espanol",
+    "nombre": "Jaguar Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_eesti",
+    "nombre": "Jaguar Eesti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_euskara",
+    "nombre": "Jaguar Euskara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_suomi",
+    "nombre": "Jaguar Suomi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_francais",
+    "nombre": "Jaguar Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_galego",
+    "nombre": "Jaguar Galego",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hrvatski",
+    "nombre": "Jaguar Hrvatski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_magyar",
+    "nombre": "Jaguar Magyar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bahasa_indonesia",
+    "nombre": "Jaguar Bahasa Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_italiano",
+    "nombre": "Jaguar Italiano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_qaraqalpaqsha",
+    "nombre": "Jaguar Qaraqalpaqsha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kurdi",
+    "nombre": "Jaguar Kurdî",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lingala",
+    "nombre": "Jaguar Lingála",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lietuviu",
+    "nombre": "Jaguar Lietuvių",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_latviesu",
+    "nombre": "Jaguar Latviešu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bahasa_melayu",
+    "nombre": "Jaguar Bahasa Melayu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_nederlands",
+    "nombre": "Jaguar Nederlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_norsk_bokmal",
+    "nombre": "Jaguar Norsk bokmål",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_polski",
+    "nombre": "Jaguar Polski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_piemonteis",
+    "nombre": "Jaguar Piemontèis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_portugues",
+    "nombre": "Jaguar Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_romana",
+    "nombre": "Jaguar Română",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_scots",
+    "nombre": "Jaguar Scots",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_srpskohrvatski",
+    "nombre": "Jaguar Srpskohrvatski / српскохрватски",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_simple_english",
+    "nombre": "Jaguar Simple English",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_slovencina",
+    "nombre": "Jaguar Slovenčina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_srpski",
+    "nombre": "Jaguar Српски / srpski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_svenska",
+    "nombre": "Jaguar Svenska",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_turkce",
+    "nombre": "Jaguar Türkçe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ozbekcha",
+    "nombre": "Jaguar Oʻzbekcha / ўзбекча",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tieng_viet",
+    "nombre": "Jaguar Tiếng Việt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_article",
+    "nombre": "Jaguar Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_talk",
+    "nombre": "Jaguar Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_read",
+    "nombre": "Jaguar Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_edit",
+    "nombre": "Jaguar Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_view_history",
+    "nombre": "Jaguar View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_what_links_here",
+    "nombre": "Jaguar What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_related_changes",
+    "nombre": "Jaguar Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_permanent_link",
+    "nombre": "Jaguar Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_page_information",
+    "nombre": "Jaguar Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cite_this_page",
+    "nombre": "Jaguar Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_get_shortened_url",
+    "nombre": "Jaguar Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_switch_to_legacy_parser",
+    "nombre": "Jaguar Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_download_as_pdf",
+    "nombre": "Jaguar Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_printable_version",
+    "nombre": "Jaguar Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wikimedia_commons",
+    "nombre": "Jaguar Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wikidata_item",
+    "nombre": "Jaguar Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ss_cars",
+    "nombre": "Jaguar SS Cars",
+    "anio_desde": 1935,
+    "anio_hasta": 1945,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cars_limited",
+    "nombre": "Jaguar Cars Limited",
+    "anio_desde": 1945,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_motor_holdings",
+    "nombre": "Jaguar British Motor Holdings",
+    "anio_desde": 1966,
+    "anio_hasta": 1968,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_leyland",
+    "nombre": "Jaguar British Leyland",
+    "anio_desde": 1968,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_plc",
+    "nombre": "Jaguar plc",
+    "anio_desde": 1984,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford",
+    "nombre": "Jaguar Ford",
+    "anio_desde": 1990,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tata_motors",
+    "nombre": "Jaguar Tata Motors",
+    "anio_desde": 2008,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19351955_2_1_2_litre_saloon",
+    "nombre": "Jaguar 1935–1955 2 + 1 ⁄ 2 litre saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19371948_3_1_2_litre_saloon",
+    "nombre": "Jaguar 1937–1948 3 + 1 ⁄ 2 Litre saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19481951_mark_v",
+    "nombre": "Jaguar 1948–1951 Mark V",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19511957_mark_vii",
+    "nombre": "Jaguar 1951–1957 Mark VII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19571959_mark_viii",
+    "nombre": "Jaguar 1957–1959 Mark VIII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19591961_mark_ix",
+    "nombre": "Jaguar 1959–1961 Mark IX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19611966_mark_x",
+    "nombre": "Jaguar 1961–1966 Mark X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19661970_420g",
+    "nombre": "Jaguar 1966–1970 420G",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19681987_xj6_series_1_2_3",
+    "nombre": "Jaguar 1968–1987 XJ6 Series 1, 2 & 3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19721992_xj12",
+    "nombre": "Jaguar 1972–1992 XJ12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19861994_xj6",
+    "nombre": "Jaguar 1986–1994 XJ6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19931994_xj12",
+    "nombre": "Jaguar 1993–1994 XJ12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19951997_xj6_xj12",
+    "nombre": "Jaguar 1995–1997 XJ6 & XJ12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19982003_xj8",
+    "nombre": "Jaguar 1998–2003 XJ8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20042007_xj",
+    "nombre": "Jaguar 2004–2007 XJ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20082009_xj",
+    "nombre": "Jaguar 2008–2009 XJ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20102019_xj",
+    "nombre": "Jaguar 2010–2019 XJ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19351949_1_1_2_litre_saloon",
+    "nombre": "Jaguar 1935–1949 1 + 1 ⁄ 2 Litre saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19551959_mark_1",
+    "nombre": "Jaguar 1955–1959 Mark 1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19591967_mark_2",
+    "nombre": "Jaguar 1959–1967 Mark 2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19631968_s_type",
+    "nombre": "Jaguar 1963–1968 S-type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19992008_s_type",
+    "nombre": "Jaguar 1999–2008 S-type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20012009_x_type",
+    "nombre": "Jaguar 2001–2009 X-type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20072015_xf",
+    "nombre": "Jaguar 2007–2015 XF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20152024_xf",
+    "nombre": "Jaguar 2015–2024 XF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20152024_xe",
+    "nombre": "Jaguar 2015–2024 XE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19481954_xk120",
+    "nombre": "Jaguar 1948–1954 XK120",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19541957_xk140",
+    "nombre": "Jaguar 1954–1957 XK140",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19571961_xk150",
+    "nombre": "Jaguar 1957–1961 XK150",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19611974_e_type",
+    "nombre": "Jaguar 1961–1974 E-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19751996_xj_s",
+    "nombre": "Jaguar 1975–1996 XJ-S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19921994_xj220",
+    "nombre": "Jaguar 1992–1994 XJ220",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19972006_xk8xkr",
+    "nombre": "Jaguar 1997–2006 XK8/XKR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20062014_xk",
+    "nombre": "Jaguar 2006–2014 XK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_20142024_f_type",
+    "nombre": "Jaguar 2014–2024 F-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1950s_c_type",
+    "nombre": "Jaguar 1950s C-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1950s_d_type",
+    "nombre": "Jaguar 1950s D-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1960s_e_type_lightweight",
+    "nombre": "Jaguar 1960s E-Type Lightweight",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_19851992_xjr_5_through_xjr_17",
+    "nombre": "Jaguar 1985–1992 XJR-5 through XJR-17",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_2009_xfr_bonneville_salt_flats_speed_record",
+    "nombre": "Jaguar 2009 XFR Bonneville Salt Flats speed record",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_2010_jaguar_rsr_xkr_gt2",
+    "nombre": "Jaguar 2010 Jaguar RSR XKR GT2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_e1a_the_1950s_e_type_concept_vehicle",
+    "nombre": "Jaguar E1A – The 1950s E-Type concept vehicle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_e2a_the_second_e_type_concept_vehicle_which_raced_at_lemans_and_in_the_usa",
+    "nombre": "Jaguar E2A – The second E-Type concept vehicle, which raced at LeMans and in the USA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj13_built_to_race_at_lemans_never_run",
+    "nombre": "Jaguar XJ13  – Built to race at LeMans, never run",
+    "anio_desde": 1966,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pirana_designed_by_bertone",
+    "nombre": "Jaguar Pirana  – Designed by Bertone",
+    "anio_desde": 1967,
+    "anio_hasta": 1967,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ascot",
+    "nombre": "Jaguar Ascot",
+    "anio_desde": 1977,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj41xj42_the_first_f_type_cancelled_due_to_the_fords_takeover_of_jaguar",
+    "nombre": "Jaguar XJ41/XJ42  – the first F-Type; cancelled due to the Ford's takeover of Jaguar",
+    "anio_desde": 1982,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj90_planned_xj40_replacement_cancelled_due_to_fords_takeover_of_jaguar",
+    "nombre": "Jaguar XJ90  – planned XJ40 replacement; cancelled due to Ford's takeover of Jaguar",
+    "anio_desde": 1988,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kensington",
+    "nombre": "Jaguar Kensington",
+    "anio_desde": 1990,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk_180_roadster_concept_based_on_the_xk8",
+    "nombre": "Jaguar XK 180  – Roadster concept based on the XK8",
+    "anio_desde": 1998,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_f_type_roadster_similar_to_the_xk8_but_smaller",
+    "nombre": "Jaguar F-Type  – Roadster, similar to the XK8 but smaller",
+    "anio_desde": 2000,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_r_coupe_large_four_seater_coupe",
+    "nombre": "Jaguar R-Coupé  – Large four-seater coupé",
+    "anio_desde": 2001,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fuore_xf_10",
+    "nombre": "Jaguar Fuore XF 10",
+    "anio_desde": 2003,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_r_d6_compact_four_seat_coupe",
+    "nombre": "Jaguar R-D6  – Compact four-seat coupé",
+    "anio_desde": 2003,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xkr_r_a_high_performance_version_of_the_first_generation_xk_coupe",
+    "nombre": "Jaguar XKR-R  – A high-performance version of the first generation XK coupé",
+    "anio_desde": 2001,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk_rs_another_performance_spec_version_of_the_first_generation_xk_convertible",
+    "nombre": "Jaguar XK-RS  – Another performance-spec version of the first generation XK convertible",
+    "anio_desde": 2004,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_concept_eight_super_luxury_version_of_the_long_wheelbase_model_of_the_xj",
+    "nombre": "Jaguar Concept Eight  – Super-luxury version of the long-wheelbase model of the XJ",
+    "anio_desde": 2004,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_advanced_lightweight_coupe_concept_previewed_the_second_generation_jaguar_xk",
+    "nombre": "Jaguar Advanced Lightweight Coupe Concept  – Previewed the second generation Jaguar XK",
+    "anio_desde": 2005,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_xf_precursor_to_the_production_model_xf_saloon",
+    "nombre": "Jaguar C-XF  – Precursor to the production model XF saloon",
+    "anio_desde": 2007,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x75_hybrid_electric_sports_car_originally_intended_for_production_but_cancelled_in_2012",
+    "nombre": "Jaguar C-X75  – Hybrid-electric sports car, originally intended for production but cancelled in 2012",
+    "anio_desde": 2010,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_b99",
+    "nombre": "Jaguar B99",
+    "anio_desde": 2011,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x16_precursor_to_the_production_model_f_type",
+    "nombre": "Jaguar C-X16  – Precursor to the production model F-Type",
+    "anio_desde": 2011,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x17_first_ever_jaguar_suv_concept",
+    "nombre": "Jaguar C-X17  – First ever Jaguar SUV concept",
+    "anio_desde": 2013,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_project_7_a_542_bhp_v8_powered_speedster_based_on_the_f_type_and_inspired_by_the_d_type",
+    "nombre": "Jaguar Project 7 – a 542 bhp V8-powered speedster based on the F-Type and inspired by the D-Type",
+    "anio_desde": 2013,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_future_type",
+    "nombre": "Jaguar Future-Type",
+    "anio_desde": 2017,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_type_00_is_a_concept_car_introduced_at_miami_art_week_in_december_2024_with_no_plans_for_production",
+    "nombre": "Jaguar Type 00 is a concept car introduced at Miami Art Week in December 2024, with no plans for production.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_historic_xk6_l6_v12_60_v12_aj6aj16_22_inline_6_aj_v6_60_v6",
+    "nombre": "Jaguar Historic: XK6 – L6 V12 – 60° V12 AJ6/AJ16 – 22° Inline-6 AJ-V6 – 60° V6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk6_l6",
+    "nombre": "Jaguar XK6 – L6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_v12_60_v12",
+    "nombre": "Jaguar V12 – 60° V12",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aj6aj16_22_inline_6",
+    "nombre": "Jaguar AJ6/AJ16 – 22° Inline-6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aj_v6_60_v6",
+    "nombre": "Jaguar AJ-V6 – 60° V6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_discontinued_aj_v8_90_v8_aj126_90_v6_ajd_v6_60_v6_ingenium_inline_4",
+    "nombre": "Jaguar Discontinued: AJ-V8 – 90° V8 AJ126 – 90° V6 AJD-V6 – 60° V6  Ingenium – Inline-4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aj_v8_90_v8",
+    "nombre": "Jaguar AJ-V8 – 90° V8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aj126_90_v6",
+    "nombre": "Jaguar AJ126 – 90° V6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ajd_v6_60_v6",
+    "nombre": "Jaguar AJD-V6 – 60° V6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ingenium_inline_4",
+    "nombre": "Jaguar Ingenium – Inline-4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_type",
+    "nombre": "Jaguar C-Type",
+    "anio_desde": 1951,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_d_type",
+    "nombre": "Jaguar D-Type",
+    "anio_desde": 1954,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lightweight_e_type",
+    "nombre": "Jaguar Lightweight E-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj13",
+    "nombre": "Jaguar XJ13",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xjr_sportscars",
+    "nombre": "Jaguar XJR Sportscars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xjr_9",
+    "nombre": "Jaguar XJR-9",
+    "anio_desde": 1988,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj220",
+    "nombre": "Jaguar XJ220",
+    "anio_desde": 1988,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xjr_15",
+    "nombre": "Jaguar XJR-15",
+    "anio_desde": 1990,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_list_of_car_manufacturers_of_the_united_kingdom",
+    "nombre": "Jaguar List of car manufacturers of the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_years_1989_to_1996_jaguar_cars_ltd_archived_from_the_original_on_24_june_2009_retrieved_19_june_2009",
+    "nombre": "Jaguar ↑ \"The Years 1989 to 1996\" . Jaguar Cars Ltd. Archived from the original on 24 June 2009 . Retrieved 19 June 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_design_evolution_80_years_of_jaguar_part_1_jaguar_jaguar_land_rover_retrieved_7_december_2018",
+    "nombre": "Jaguar ↑ \"Design Evolution: 80 Years of Jaguar – Part 1\" . Jaguar . Jaguar Land Rover . Retrieved 7 December 2018 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_years_1932_to_1935_jaguar_cars_ltd_archived_from_the_original_on_1_june_2009_retrieved_26_december_2008",
+    "nombre": "Jaguar ↑ \"The Years 1932 to 1935\" . Jaguar Cars Ltd. Archived from the original on 1 June 2009 . Retrieved 26 December 2008 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ss_cars_limited_the_times_4_april_1945_page_10",
+    "nombre": "Jaguar ↑ S.S. Cars Limited The Times 4 April 1945 page 10",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1_2_the_lyons_share_interview_with_wl_motor_18_21_19_february_1972",
+    "nombre": "Jaguar 1 2 \"The Lyons share – interview with WL\". Motor : 18– 21. 19 February 1972.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_archived_from_the_original_on_9_january_2014_retrieved_22_june_2014",
+    "nombre": "Jaguar ↑ \"Jaguar\" . Archived from the original on 9 January 2014 . Retrieved 22 June 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sir_william_lyons_the_official_biography_philip_porter_paul_skilleter_page_120_onwards",
+    "nombre": "Jaguar ↑ 'Sir William Lyons – The Official Biography', Philip Porter & Paul Skilleter, page 120 onwards",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_years_1968_to_1979_jaguar_cars_archived_from_the_original_on_1_june_2009_retrieved_26_december_2008",
+    "nombre": "Jaguar ↑ \"The Years 1968 to 1979\" . Jaguar Cars. Archived from the original on 1 June 2009 . Retrieved 26 December 2008 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_motor_takes_that_new_label_the_times_no_56815_london_15_december_1966_p_17",
+    "nombre": "Jaguar ↑ \"British Motor Takes That New Label\". The Times . No. 56815. London. 15 December 1966. p. 17.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_zetlin_m_john_egan_tough_leadership_turns_jaguar_around_management_review_75_2020",
+    "nombre": "Jaguar ↑ Zetlin, M. . John Egan: Tough leadership turns Jaguar around. Management Review , 75,  20–20.",
+    "anio_desde": 1986,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_badge_on_the_bonnet_the_times_3_november_1989_pg_13_issue_63542",
+    "nombre": "Jaguar ↑ The Badge on the Bonnet. The Times 3 November 1989; pg. 13; Issue 63542.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ball_now_in_tata_motors_court_to_tie_up_deal_unite_cnbc_tv_18_3_january_2008_retrieved_4_january_2008",
+    "nombre": "Jaguar ↑ \"Ball now in Tata Motors' court to tie-up deal: Unite\" . CNBC TV-18. 3 January 2008 . Retrieved 4 January 2008 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tata_motors_completes_acquisition_of_jag_land_rover_2_june_2008_retrieved_2_june_2008",
+    "nombre": "Jaguar ↑ \"Tata Motors completes acquisition of Jag, Land Rover\" . 2 June 2008 . Retrieved 2 June 2008 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jobs_warning_at_jaguar_land_rover_bbc_news_26_june_2009_retrieved_26_june_2009",
+    "nombre": "Jaguar ↑ \"Jobs warning at Jaguar Land Rover\" . BBC News . 26 June 2009 . Retrieved 26 June 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_425006_vehicules_record_historique_de_ventes_pour_jaguar_land_rover_la_tribune",
+    "nombre": "Jaguar ↑ \"425.006 véhicules : record historique de ventes pour Jaguar Land Rover\" . la tribune .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_apres_renault_thierry_bollore_revient_chez_jaguar_land_rover_motor1",
+    "nombre": "Jaguar ↑ \"Après Renault, Thierry Bolloré revient chez Jaguar Land Rover\" . motor1 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_every_jaguar_except_the_f_pace_is_dead_motor1com_retrieved_21_july_2024",
+    "nombre": "Jaguar ↑ \"Every Jaguar, Except the F-Pace, Is Dead\" . Motor1.com . Retrieved 21 July 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_must_die_to_be_born_again_road_track_28_february_2024_retrieved_21_july_2024",
+    "nombre": "Jaguar ↑ \"Jaguar Must Die to Be Born Again\" . Road & Track . 28 February 2024 . Retrieved 21 July 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_car_brand_to_be_all_electric_by_2025_bbc_news_15_february_2021_retrieved_15_february_2021",
+    "nombre": "Jaguar ↑ \"Jaguar car brand to be all-electric by 2025\" . BBC News . 15 February 2021 . Retrieved 15 February 2021 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_morris_james_jaguar_rebrand_is_absolute_geniusheres_why_forbes_retrieved_5_february_2025",
+    "nombre": "Jaguar ↑ Morris, James. \"Jaguar Rebrand Is Absolute Genius—Here's Why\" . Forbes . Retrieved 5 February 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_one_word_describes_jaguars_new_concept_brutal_bloombergcom_3_december_2024_retrieved_5_february_2025",
+    "nombre": "Jaguar ↑ \"One Word Describes Jaguar's New Concept: Brutal\" . Bloomberg.com . 3 December 2024 . Retrieved 5 February 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_did_jaguar_go_woke_and_go_broke_no_its_more_complicated_than_that_the_independent_6_july_2025",
+    "nombre": "Jaguar ↑ \"Did Jaguar 'go woke and go broke'? No, it's more complicated than that\" . The Independent . 6 July 2025.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_history_the_surrey_region_jaguar_enthusiasts_club_archived_from_the_original_on_30_june_2007",
+    "nombre": "Jaguar ↑ \"Jaguar History\" . The Surrey Region Jaguar Enthusiasts Club. Archived from the original on 30 June 2007.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_unveils_new_logo_and_branding_ahead_of_electric_only_future_wwwbbccom_retrieved_20_november_2024",
+    "nombre": "Jaguar ↑ \"Jaguar unveils new logo and branding ahead of electric-only future\" . www.bbc.com . Retrieved 20 November 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1_2_jaguar_to_stop_selling_all_new_cars_in_the_uk_this_month_car_magazine_retrieved_5_february_2025",
+    "nombre": "Jaguar 1 2 \"Jaguar to stop selling all new cars in the UK this month\" . CAR Magazine . Retrieved 5 February 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_a_british_car_brand_has_stopped_selling_new_cars_in_the_uk_motor1com_retrieved_5_february_2025",
+    "nombre": "Jaguar ↑ \"Jaguar, a British Car Brand, Has Stopped Selling New Cars in the UK\" . Motor1.com . Retrieved 5 February 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_car_magazine_jaguar_f_type_first_official_pictures_retrieved_28_september_2012",
+    "nombre": "Jaguar ↑ \"CAR Magazine: Jaguar F-type  first official pictures\" . Retrieved 28 September 2012 .",
+    "anio_desde": 2013,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_f_pace_to_be_axed_globally_in_2026_autocar_wwwautocarcouk_retrieved_5_february_2025",
+    "nombre": "Jaguar ↑ \"Jaguar F-Pace to be axed globally in 2026 | Autocar\" . www.autocar.co.uk . Retrieved 5 February 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kane_mark_jaguar_i_pace_sales_faded_again_in_q2_2023_insideevs_retrieved_26_december_2023",
+    "nombre": "Jaguar ↑ Kane, Mark . \"Jaguar I-Pace Sales Faded Again In Q2 2023\" . InsideEVs . Retrieved 26 December 2023 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_xe_launch_press_release",
+    "nombre": "Jaguar ↑ \"Jaguar XE Launch Press Release\" .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_new_jaguar_saloon_to_be_called_xe_auto_express_4_march_2014_retrieved_4_march_2014",
+    "nombre": "Jaguar ↑ \"New Jaguar saloon to be called XE\" . Auto Express . 4 March 2014 . Retrieved 4 March 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_cars_uk_web_site_jaguarcouk_archived_from_the_original_on_14_april_2013_retrieved_24_may_2010",
+    "nombre": "Jaguar ↑ \"Jaguar Cars UK Web Site\" . jaguar.co.uk . Archived from the original on 14 April 2013 . Retrieved 24 May 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_cars_for_us_the_times_27_april_1948_p_2_issue_51056",
+    "nombre": "Jaguar ↑ \"British Cars for U.S.\" The Times , 27 April 1948, p. 2; Issue 51056.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_consumer_reports_buying_guide_2007_211",
+    "nombre": "Jaguar ↑ Consumer Reports, Buying Guide 2007, 211.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_xk_guide_carpagescouk_archived_from_the_original_on_7_june_2011_retrieved_16_may_2010",
+    "nombre": "Jaguar ↑ \"Jaguar XK Guide\" . carpages.co.uk . Archived from the original on 7 June 2011 . Retrieved 16 May 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_xj_series_autocars_archived_from_the_original_on_9_july_2009_retrieved_19_june_2009",
+    "nombre": "Jaguar ↑ \"Jaguar XJ Series\" . Autocars . Archived from the original on 9 July 2009 . Retrieved 19 June 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_plisner_peter_changing_face_of_jaguar_bbc_news_retrieved_15_july_2009",
+    "nombre": "Jaguar ↑ Plisner, Peter . \"Changing face of Jaguar\" . BBC News . Retrieved 15 July 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_xj_models_jaguar_cars_ltd_retrieved_19_june_2009",
+    "nombre": "Jaguar ↑ \"Jaguar XJ – models\" . Jaguar Cars Ltd . Retrieved 19 June 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguars_concept_car_divides_opinion_wwwbbccom_retrieved_12_january_2025",
+    "nombre": "Jaguar ↑ \"Jaguar's concept car divides opinion\" . www.bbc.com . Retrieved 12 January 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_records_annual_sales_boost_in_2008_jaguar_media_newsroom",
+    "nombre": "Jaguar ↑ \"Jaguar Records Annual Sales Boost in 2008 | Jaguar Media Newsroom\" .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_absatzmenge_weltweit_2022",
+    "nombre": "Jaguar ↑ \"Jaguar - Absatzmenge weltweit 2022\" .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_2023_global_jaguar_land_rover_worldwide_sale_by_model_car_sales_statistics",
+    "nombre": "Jaguar ↑ \"2023  Global: Jaguar Land Rover Worldwide Sale by Model - Car Sales Statistics\" .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_concepts_and_prototypes_jaguar_xj41xj42_aronline_19_march_2021",
+    "nombre": "Jaguar ↑ \"Concepts and prototypes : Jaguar XJ41/XJ42 \" . AROnline . 19 March 2021.",
+    "anio_desde": 1982,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_xj90_the_missing_1990s_xj_finally_breaks_cover_aronline_17_july_2022",
+    "nombre": "Jaguar ↑ \"Jaguar XJ90 : the missing 1990s XJ finally breaks cover\" . AROnline . 17 July 2022.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bbc_top_gear_archived_13_july_2013_at_the_wayback_machine_retrieved_10_july_2013",
+    "nombre": "Jaguar ↑ BBC Top Gear. Archived 13 July 2013 at the Wayback Machine . Retrieved 10 July 2013.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_double_loss_for_motor_sport_motor_sport_16_december_2010_retrieved_21_april_2014",
+    "nombre": "Jaguar ↑ \"Double loss for motor sport\" . Motor Sport . 16 December 2010 . Retrieved 21 April 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_red_bull_snaps_up_jaguar_f1_team_bbc_news_15_november_2004_retrieved_21_april_2014",
+    "nombre": "Jaguar ↑ \"Red Bull snaps up Jaguar F1 team\" . BBC News . 15 November 2004 . Retrieved 21 April 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jaguar_commits_to_formula_e_until_2030_autosport_26_april_2024",
+    "nombre": "Jaguar ↑ \"Jaguar commits to Formula E until 2030\" . Autosport. 26 April 2024.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_advanced_lightweight_coupe_concept",
+    "nombre": "Jaguar Advanced Lightweight Coupe Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x16",
+    "nombre": "Jaguar C-X16",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x17",
+    "nombre": "Jaguar C-X17",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_x75",
+    "nombre": "Jaguar C-X75",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_c_xf",
+    "nombre": "Jaguar C-XF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_f_type_concept",
+    "nombre": "Jaguar F-Type concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pirana",
+    "nombre": "Jaguar Pirana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_r_coupe",
+    "nombre": "Jaguar R-Coupe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_r_d6",
+    "nombre": "Jaguar R-D6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj220_concept",
+    "nombre": "Jaguar XJ220 concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj41",
+    "nombre": "Jaguar XJ41",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj42",
+    "nombre": "Jaguar XJ42",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk_180",
+    "nombre": "Jaguar XK 180",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xkr_r",
+    "nombre": "Jaguar XKR-R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bowler_motors",
+    "nombre": "Jaguar Bowler Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_land_rover_slovakia",
+    "nombre": "Jaguar Land Rover Slovakia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_chery_jaguar_land_rover",
+    "nombre": "Jaguar Chery Jaguar Land Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_daimler_motor_company",
+    "nombre": "Jaguar Daimler Motor Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lanchester_motor_company",
+    "nombre": "Jaguar Lanchester Motor Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_land_rover",
+    "nombre": "Jaguar Land Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_freelander",
+    "nombre": "Jaguar Freelander",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_daimler",
+    "nombre": "Jaguar Daimler",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rover",
+    "nombre": "Jaguar Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_browns_lane_plant",
+    "nombre": "Jaguar Browns Lane plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_castle_bromwich_assembly",
+    "nombre": "Jaguar Castle Bromwich Assembly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gaydon_centre",
+    "nombre": "Jaguar Gaydon Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_land_rover_halewood",
+    "nombre": "Jaguar Land Rover Halewood",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_solihull_plant",
+    "nombre": "Jaguar Solihull plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_whitley_plant",
+    "nombre": "Jaguar Whitley plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_engine_manufacturing_centre",
+    "nombre": "Jaguar Engine Manufacturing Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_nitra_plant",
+    "nombre": "Jaguar Nitra plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_e_pace",
+    "nombre": "Jaguar E-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_e_type",
+    "nombre": "Jaguar E-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_f_pace",
+    "nombre": "Jaguar F-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_f_type",
+    "nombre": "Jaguar F-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_i_pace",
+    "nombre": "Jaguar I-Pace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_1",
+    "nombre": "Jaguar Mark 1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_2",
+    "nombre": "Jaguar Mark 2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_iv",
+    "nombre": "Jaguar Mark IV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_v",
+    "nombre": "Jaguar Mark V",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_vii",
+    "nombre": "Jaguar Mark VII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_viii",
+    "nombre": "Jaguar Mark VIII",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_ix",
+    "nombre": "Jaguar Mark IX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mark_x",
+    "nombre": "Jaguar Mark X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_s_type",
+    "nombre": "Jaguar S-Type",
+    "anio_desde": 1963,
+    "anio_hasta": 1963,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_x_type",
+    "nombre": "Jaguar X-Type",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xj",
+    "nombre": "Jaguar XJ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk",
+    "nombre": "Jaguar XK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xe",
+    "nombre": "Jaguar XE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xf",
+    "nombre": "Jaguar XF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk120",
+    "nombre": "Jaguar XK120",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk140",
+    "nombre": "Jaguar XK140",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xk150",
+    "nombre": "Jaguar XK150",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_defender",
+    "nombre": "Jaguar Defender",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_discovery",
+    "nombre": "Jaguar Discovery",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_discovery_sport",
+    "nombre": "Jaguar Discovery Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_range_rover",
+    "nombre": "Jaguar Range Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_range_rover_evoque",
+    "nombre": "Jaguar Range Rover Evoque",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_range_rover_sport",
+    "nombre": "Jaguar Range Rover Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_range_rover_velar",
+    "nombre": "Jaguar Range Rover Velar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_101_forward_control",
+    "nombre": "Jaguar 101 Forward Control",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_range_rover_classic",
+    "nombre": "Jaguar Range Rover Classic",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_series_i",
+    "nombre": "Jaguar Series I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_series_ii",
+    "nombre": "Jaguar Series II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_series_iii",
+    "nombre": "Jaguar Series III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_daimler_vehicles",
+    "nombre": "Jaguar Daimler vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vehicles",
+    "nombre": "Jaguar vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_land_rover_vehicles",
+    "nombre": "Jaguar Land Rover vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_r_and_svr_models",
+    "nombre": "Jaguar R and SVR models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_land_rover_cyberattack",
+    "nombre": "Jaguar Land Rover cyberattack",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_category_jaguar_land_rover",
+    "nombre": "Jaguar Category: Jaguar Land Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_category_tata_motors",
+    "nombre": "Jaguar Category: Tata Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_manufacturing_in_the_united_kingdom",
+    "nombre": "Jaguar Manufacturing in the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_economy_of_the_united_kingdom",
+    "nombre": "Jaguar Economy of the United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_alexander_dennis_plaxton",
+    "nombre": "Jaguar Alexander Dennis Plaxton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_plaxton",
+    "nombre": "Jaguar Plaxton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bedeo",
+    "nombre": "Jaguar BEDEO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dennis_eagle",
+    "nombre": "Jaguar Dennis Eagle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jcb",
+    "nombre": "Jaguar JCB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_leyland_trucks",
+    "nombre": "Jaguar Leyland Trucks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_levc",
+    "nombre": "Jaguar LEVC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mellor_bus",
+    "nombre": "Jaguar Mellor Bus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_multidrive_vehicles",
+    "nombre": "Jaguar Multidrive Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_optare",
+    "nombre": "Jaguar Optare",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ree_automotive",
+    "nombre": "Jaguar REE Automotive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vauxhall_ellesmere_port_plant",
+    "nombre": "Jaguar Vauxhall Ellesmere Port plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ellesmere_port_plant",
+    "nombre": "Jaguar Ellesmere Port plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wrightbus",
+    "nombre": "Jaguar Wrightbus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aec",
+    "nombre": "Jaguar AEC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_albion",
+    "nombre": "Jaguar Albion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_alternative_chassis_engineering",
+    "nombre": "Jaguar Alternative Chassis Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_arrival",
+    "nombre": "Jaguar Arrival",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aveling_barford",
+    "nombre": "Jaguar Aveling-Barford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_awd",
+    "nombre": "Jaguar AWD",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bedford",
+    "nombre": "Jaguar Bedford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bristol",
+    "nombre": "Jaguar Bristol",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_united_traction",
+    "nombre": "Jaguar British United Traction",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_carlyle_works",
+    "nombre": "Jaguar Carlyle Works",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_charles_h_roe",
+    "nombre": "Jaguar Charles H Roe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_clough_smith",
+    "nombre": "Jaguar Clough, Smith",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_commer",
+    "nombre": "Jaguar Commer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_crossley",
+    "nombre": "Jaguar Crossley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dennis",
+    "nombre": "Jaguar Dennis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_duple",
+    "nombre": "Jaguar Duple",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_east_lancashire",
+    "nombre": "Jaguar East Lancashire",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_eastern",
+    "nombre": "Jaguar Eastern",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_erf",
+    "nombre": "Jaguar ERF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fca",
+    "nombre": "Jaguar FCA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_foden",
+    "nombre": "Jaguar Foden",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_southampton",
+    "nombre": "Jaguar Ford Southampton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_southampton",
+    "nombre": "Jaguar Southampton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_guy",
+    "nombre": "Jaguar Guy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hallford",
+    "nombre": "Jaguar Hallford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ibc_vehicles",
+    "nombre": "Jaguar IBC Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jensen",
+    "nombre": "Jaguar Jensen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_karrier",
+    "nombre": "Jaguar Karrier",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ldv",
+    "nombre": "Jaguar LDV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_leyland_bus",
+    "nombre": "Jaguar Leyland Bus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_leyland_daf",
+    "nombre": "Jaguar Leyland DAF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_leyland_motors",
+    "nombre": "Jaguar Leyland Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_london_taxi_company",
+    "nombre": "Jaguar London Taxi Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_longwell_green",
+    "nombre": "Jaguar Longwell Green",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_marshall",
+    "nombre": "Jaguar Marshall",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_maudslay",
+    "nombre": "Jaguar Maudslay",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_metro_cammell_weymann",
+    "nombre": "Jaguar Metro Cammell Weymann",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_modec",
+    "nombre": "Jaguar Modec",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_morrison_electricar",
+    "nombre": "Jaguar Morrison-Electricar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_northern_counties",
+    "nombre": "Jaguar Northern Counties",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_park_royal",
+    "nombre": "Jaguar Park Royal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_reeve_burgess",
+    "nombre": "Jaguar Reeve Burgess",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_scammell",
+    "nombre": "Jaguar Scammell",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_seddon_atkinson",
+    "nombre": "Jaguar Seddon Atkinson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sentinel",
+    "nombre": "Jaguar Sentinel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_shelvoke_drewry",
+    "nombre": "Jaguar Shelvoke & Drewry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_smith_ev",
+    "nombre": "Jaguar Smith EV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_stevens",
+    "nombre": "Jaguar Stevens",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_straker_squire",
+    "nombre": "Jaguar Straker-Squire",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sunbeam",
+    "nombre": "Jaguar Sunbeam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thornycroft",
+    "nombre": "Jaguar Thornycroft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tilling_stevens",
+    "nombre": "Jaguar Tilling-Stevens",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vulcan",
+    "nombre": "Jaguar Vulcan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wadham_stringer",
+    "nombre": "Jaguar Wadham Stringer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wales_edwards",
+    "nombre": "Jaguar Wales & Edwards",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_walter_alexander",
+    "nombre": "Jaguar Walter Alexander",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_willowbrook",
+    "nombre": "Jaguar Willowbrook",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_advanced_engine_research",
+    "nombre": "Jaguar Advanced Engine Research",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_alpine_f1_team",
+    "nombre": "Jaguar Alpine F1 Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_amr_gp_limited",
+    "nombre": "Jaguar AMR GP Limited",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_arena_motorsport",
+    "nombre": "Jaguar Arena Motorsport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_carlin",
+    "nombre": "Jaguar Carlin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_chevron_cars",
+    "nombre": "Jaguar Chevron Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cosworth",
+    "nombre": "Jaguar Cosworth",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_driftworks",
+    "nombre": "Jaguar Driftworks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_engine_developments",
+    "nombre": "Jaguar Engine Developments",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_world_rally_team",
+    "nombre": "Jaguar Ford World Rally Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fortec",
+    "nombre": "Jaguar Fortec",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gibson_technology",
+    "nombre": "Jaguar Gibson Technology",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hewland",
+    "nombre": "Jaguar Hewland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kahn_design",
+    "nombre": "Jaguar Kahn Design",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ilmor",
+    "nombre": "Jaguar Ilmor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lola_cars",
+    "nombre": "Jaguar Lola Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mclaren",
+    "nombre": "Jaguar McLaren",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mercedes_amg_high_performance_powertrains",
+    "nombre": "Jaguar Mercedes AMG High Performance Powertrains",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mercedes_amg",
+    "nombre": "Jaguar Mercedes AMG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_m_sport",
+    "nombre": "Jaguar M-Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_munchis",
+    "nombre": "Jaguar Munchi's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_prodrive",
+    "nombre": "Jaguar Prodrive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_radical",
+    "nombre": "Jaguar Radical",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_red_bull_racing",
+    "nombre": "Jaguar Red Bull Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rodin_motorsport",
+    "nombre": "Jaguar Rodin Motorsport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rml_group",
+    "nombre": "Jaguar RML Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_roger_dowson_engineering",
+    "nombre": "Jaguar Roger Dowson Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sumo_power",
+    "nombre": "Jaguar Sumo Power",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_team_dynamics",
+    "nombre": "Jaguar Team Dynamics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_triple_eight_racing",
+    "nombre": "Jaguar Triple Eight Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_van_diemen",
+    "nombre": "Jaguar Van Diemen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_williams",
+    "nombre": "Jaguar Williams",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wirth",
+    "nombre": "Jaguar Wirth",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_xtrac",
+    "nombre": "Jaguar Xtrac",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ariel",
+    "nombre": "Jaguar Ariel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aston_martin_lagonda",
+    "nombre": "Jaguar Aston Martin Lagonda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lagonda",
+    "nombre": "Jaguar Lagonda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bentley_crewe_plant",
+    "nombre": "Jaguar Bentley Crewe plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_crewe_plant",
+    "nombre": "Jaguar Crewe plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bmw_mini_oxford_plant_swindon_plant_rolls_royce_goodwood_plant",
+    "nombre": "Jaguar BMW Mini Oxford plant Swindon plant Rolls-Royce Goodwood plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mini",
+    "nombre": "Jaguar Mini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_oxford_plant",
+    "nombre": "Jaguar Oxford plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_swindon_plant",
+    "nombre": "Jaguar Swindon plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rolls_royce_goodwood_plant",
+    "nombre": "Jaguar Rolls-Royce Goodwood plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_goodwood_plant",
+    "nombre": "Jaguar Goodwood plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_briggs",
+    "nombre": "Jaguar Briggs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_caterham",
+    "nombre": "Jaguar Caterham",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_david_brown",
+    "nombre": "Jaguar David Brown",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ginetta",
+    "nombre": "Jaguar Ginetta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jlr_jaguar_land_rover_castle_bromwich_plant_gaydon_centre_halewood_plant_solihull_plant_whitley_engineering_centre",
+    "nombre": "Jaguar JLR Jaguar Land Rover Castle Bromwich plant Gaydon Centre Halewood plant Solihull plant Whitley Engineering Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_castle_bromwich_plant",
+    "nombre": "Jaguar Castle Bromwich plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_halewood_plant",
+    "nombre": "Jaguar Halewood plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_whitley_engineering_centre",
+    "nombre": "Jaguar Whitley Engineering Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lotus",
+    "nombre": "Jaguar Lotus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mclaren_mclaren_technology_centre",
+    "nombre": "Jaguar McLaren McLaren Technology Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mclaren_technology_centre",
+    "nombre": "Jaguar McLaren Technology Centre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_saic_motor_uk_mg",
+    "nombre": "Jaguar SAIC Motor UK MG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mg",
+    "nombre": "Jaguar MG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_morgan",
+    "nombre": "Jaguar Morgan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_nissan_uk",
+    "nombre": "Jaguar Nissan UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_noble",
+    "nombre": "Jaguar Noble",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_overfinch",
+    "nombre": "Jaguar Overfinch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_spyker",
+    "nombre": "Jaguar Spyker",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_toyota_uk",
+    "nombre": "Jaguar Toyota UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tvr",
+    "nombre": "Jaguar TVR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_westfield",
+    "nombre": "Jaguar Westfield",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_zenos",
+    "nombre": "Jaguar Zenos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_abbey",
+    "nombre": "Jaguar Abbey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_allard",
+    "nombre": "Jaguar Allard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_alvis",
+    "nombre": "Jaguar Alvis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_armstrong_siddeley",
+    "nombre": "Jaguar Armstrong Siddeley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ascari",
+    "nombre": "Jaguar Ascari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_austin",
+    "nombre": "Jaguar Austin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_austin_healey",
+    "nombre": "Jaguar Austin-Healey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_belsize",
+    "nombre": "Jaguar Belsize",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bond",
+    "nombre": "Jaguar Bond",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_brabham_automotive",
+    "nombre": "Jaguar Brabham Automotive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bmc",
+    "nombre": "Jaguar BMC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bmh",
+    "nombre": "Jaguar BMH",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_caparo",
+    "nombre": "Jaguar Caparo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_clement_talbot",
+    "nombre": "Jaguar Clément-Talbot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_eagle_cars",
+    "nombre": "Jaguar Eagle Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_electric_car_corporation",
+    "nombre": "Jaguar Electric Car Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fenix",
+    "nombre": "Jaguar Fenix",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_frazer_nash",
+    "nombre": "Jaguar Frazer Nash",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gilbern",
+    "nombre": "Jaguar Gilbern",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gtm",
+    "nombre": "Jaguar GTM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_honda",
+    "nombre": "Jaguar Honda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jba_motors",
+    "nombre": "Jaguar JBA Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jowett",
+    "nombre": "Jaguar Jowett",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lanchester",
+    "nombre": "Jaguar Lanchester",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lightning",
+    "nombre": "Jaguar Lightning",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lister",
+    "nombre": "Jaguar Lister",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_marcos_engineering",
+    "nombre": "Jaguar Marcos Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_melling",
+    "nombre": "Jaguar Melling",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mg_rover_mg_longbridge_plant",
+    "nombre": "Jaguar MG Rover MG Longbridge plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mg_longbridge_plant",
+    "nombre": "Jaguar MG Longbridge plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_longbridge_plant",
+    "nombre": "Jaguar Longbridge plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_morris",
+    "nombre": "Jaguar Morris",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_peel_engineering",
+    "nombre": "Jaguar Peel Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_reliant",
+    "nombre": "Jaguar Reliant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_riley",
+    "nombre": "Jaguar Riley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rootes_ryton_plant",
+    "nombre": "Jaguar Rootes Ryton plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ryton_plant",
+    "nombre": "Jaguar Ryton plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rover_company",
+    "nombre": "Jaguar Rover Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rover_group",
+    "nombre": "Jaguar Rover Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_standard",
+    "nombre": "Jaguar Standard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sunbeam_talbot",
+    "nombre": "Jaguar Sunbeam-Talbot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_triumph",
+    "nombre": "Jaguar Triumph",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_trojan",
+    "nombre": "Jaguar Trojan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wolseley",
+    "nombre": "Jaguar Wolseley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cummins_uk",
+    "nombre": "Jaguar Cummins UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dunlop_tyres",
+    "nombre": "Jaguar Dunlop Tyres",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gkn_gkn_driveline",
+    "nombre": "Jaguar GKN GKN Driveline",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gkn_driveline",
+    "nombre": "Jaguar GKN Driveline",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_grayson_thermal_systems",
+    "nombre": "Jaguar Grayson Thermal Systems",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_horse_powertrain",
+    "nombre": "Jaguar Horse Powertrain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_johnson_matthey",
+    "nombre": "Jaguar Johnson Matthey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lotus_engineering",
+    "nombre": "Jaguar Lotus Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_millbrook",
+    "nombre": "Jaguar Millbrook",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mira",
+    "nombre": "Jaguar MIRA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_perkins_engines",
+    "nombre": "Jaguar Perkins Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pilkington",
+    "nombre": "Jaguar Pilkington",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_quaife",
+    "nombre": "Jaguar Quaife",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ricardo",
+    "nombre": "Jaguar Ricardo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tickford",
+    "nombre": "Jaguar Tickford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_transport_research_laboratory",
+    "nombre": "Jaguar Transport Research Laboratory",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_unipart",
+    "nombre": "Jaguar Unipart",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wmg",
+    "nombre": "Jaguar WMG",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wipac",
+    "nombre": "Jaguar Wipac",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_zytek_automotive",
+    "nombre": "Jaguar Zytek Automotive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_abbey_panels",
+    "nombre": "Jaguar Abbey Panels",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_caparo_vehicle_technologies",
+    "nombre": "Jaguar Caparo Vehicle Technologies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dunlop_rubber",
+    "nombre": "Jaguar Dunlop Rubber",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ferodo",
+    "nombre": "Jaguar Ferodo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gardner",
+    "nombre": "Jaguar Gardner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hardy_spicer",
+    "nombre": "Jaguar Hardy Spicer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_henry_meadows",
+    "nombre": "Jaguar Henry Meadows",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_laycock_engineering",
+    "nombre": "Jaguar Laycock Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lucas_industries",
+    "nombre": "Jaguar Lucas Industries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lucasvarity",
+    "nombre": "Jaguar LucasVarity",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tata_steel_europe",
+    "nombre": "Jaguar Tata Steel Europe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tomkins",
+    "nombre": "Jaguar Tomkins",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_white_and_poppe",
+    "nombre": "Jaguar White and Poppe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_arnold_clark",
+    "nombre": "Jaguar Arnold Clark",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_carcraft",
+    "nombre": "Jaguar Carcraft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_retail_group",
+    "nombre": "Jaguar Ford Retail Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_group_1_automotive",
+    "nombre": "Jaguar Group 1 Automotive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_inchcape",
+    "nombre": "Jaguar Inchcape",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jardine",
+    "nombre": "Jaguar Jardine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jct600",
+    "nombre": "Jaguar JCT600",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lookers",
+    "nombre": "Jaguar Lookers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hr_owen_jack_barclay_bentley",
+    "nombre": "Jaguar H.R. Owen Jack Barclay Bentley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jack_barclay_bentley",
+    "nombre": "Jaguar Jack Barclay Bentley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_perrys",
+    "nombre": "Jaguar Perrys",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_robins_day",
+    "nombre": "Jaguar Robins & Day",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_stoneacre",
+    "nombre": "Jaguar Stoneacre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sytner",
+    "nombre": "Jaguar Sytner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vertu",
+    "nombre": "Jaguar Vertu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_aa",
+    "nombre": "Jaguar The AA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ats_euromaster",
+    "nombre": "Jaguar ATS Euromaster",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autoglass",
+    "nombre": "Jaguar Autoglass",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_auto_windscreens",
+    "nombre": "Jaguar Auto Windscreens",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bvrla",
+    "nombre": "Jaguar BVRLA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_carwow",
+    "nombre": "Jaguar Carwow",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_constellation_automotive_group_we_buy_any_car",
+    "nombre": "Jaguar Constellation Automotive Group We Buy Any Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_we_buy_any_car",
+    "nombre": "Jaguar We Buy Any Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_green_flag",
+    "nombre": "Jaguar Green Flag",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_halfords_halfords_autocentre",
+    "nombre": "Jaguar Halfords Halfords Autocentre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_halfords_autocentre",
+    "nombre": "Jaguar Halfords Autocentre",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hiq",
+    "nombre": "Jaguar HiQ",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kwik_fit",
+    "nombre": "Jaguar Kwik Fit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_leaseplan",
+    "nombre": "Jaguar LeasePlan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lex_autolease",
+    "nombre": "Jaguar Lex Autolease",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_millbrook_proving_ground",
+    "nombre": "Jaguar Millbrook Proving Ground",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_motorway",
+    "nombre": "Jaguar Motorway",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_national_tyres_and_autocare",
+    "nombre": "Jaguar National Tyres and Autocare",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pinewood_technologies",
+    "nombre": "Jaguar Pinewood Technologies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_rac",
+    "nombre": "Jaguar RAC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_automotive_council_uk",
+    "nombre": "Jaguar Automotive Council UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_department_for_transport",
+    "nombre": "Jaguar Department for Transport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_driver_vehicle_licensing_agency",
+    "nombre": "Jaguar Driver & Vehicle Licensing Agency",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_driving_standards_agency",
+    "nombre": "Jaguar Driving Standards Agency",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vehicle_certification_agency",
+    "nombre": "Jaguar Vehicle Certification Agency",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vehicle_operator_services_agency",
+    "nombre": "Jaguar Vehicle & Operator Services Agency",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_am_magazine",
+    "nombre": "Jaguar AM Magazine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autocar",
+    "nombre": "Jaguar Autocar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autosport",
+    "nombre": "Jaguar Autosport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_auto_trader",
+    "nombre": "Jaguar Auto Trader",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_auto_express",
+    "nombre": "Jaguar Auto Express",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_buses",
+    "nombre": "Jaguar Buses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_car",
+    "nombre": "Jaguar Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_classic_sports_car",
+    "nombre": "Jaguar Classic & Sports Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_coach_bus_week",
+    "nombre": "Jaguar Coach & Bus Week",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_commercial_motor",
+    "nombre": "Jaguar Commercial Motor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_evo",
+    "nombre": "Jaguar Evo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fast_car",
+    "nombre": "Jaguar Fast Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fifth_gear",
+    "nombre": "Jaguar Fifth Gear",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_institute_of_advanced_motorists",
+    "nombre": "Jaguar Institute of Advanced Motorists",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_motor_sport",
+    "nombre": "Jaguar Motor Sport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_octane",
+    "nombre": "Jaguar Octane",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_royal_society_for_the_prevention_of_accidents",
+    "nombre": "Jaguar Royal Society for the Prevention of Accidents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_society_of_motor_manufacturers_and_traders",
+    "nombre": "Jaguar Society of Motor Manufacturers and Traders",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_top_gear",
+    "nombre": "Jaguar Top Gear",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_what_car",
+    "nombre": "Jaguar What Car?",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_category",
+    "nombre": "Jaguar Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_commons",
+    "nombre": "Jaguar Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_raptor",
+    "nombre": "Jaguar Ford Raptor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_raptor",
+    "nombre": "Jaguar Raptor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lincoln",
+    "nombre": "Jaguar Lincoln",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_comet",
+    "nombre": "Jaguar Comet",
+    "anio_desde": 1960,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_continental",
+    "nombre": "Jaguar Continental",
+    "anio_desde": 1956,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_edsel",
+    "nombre": "Jaguar Edsel",
+    "anio_desde": 1956,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fordson",
+    "nombre": "Jaguar Fordson",
+    "anio_desde": 1917,
+    "anio_hasta": 1917,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_frontenac",
+    "nombre": "Jaguar Frontenac",
+    "anio_desde": 1960,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mercury",
+    "nombre": "Jaguar Mercury",
+    "anio_desde": 1938,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_merkur",
+    "nombre": "Jaguar Merkur",
+    "anio_desde": 1985,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_meteor",
+    "nombre": "Jaguar Meteor",
+    "anio_desde": 1949,
+    "anio_hasta": 1949,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_monarch",
+    "nombre": "Jaguar Monarch",
+    "anio_desde": 1946,
+    "anio_hasta": 1946,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thames",
+    "nombre": "Jaguar Thames",
+    "anio_desde": 1939,
+    "anio_hasta": 1939,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_automotive_components_holdings",
+    "nombre": "Jaguar Automotive Components Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_changan_ford",
+    "nombre": "Jaguar Changan Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_australia",
+    "nombre": "Jaguar Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_argentina",
+    "nombre": "Jaguar Argentina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_brazil",
+    "nombre": "Jaguar Brazil",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_canada",
+    "nombre": "Jaguar Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_credit",
+    "nombre": "Jaguar Credit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_europe_france_germany_ireland_italia_romania_united_kingdom",
+    "nombre": "Jaguar Europe France Germany Ireland Italia Romania United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_france",
+    "nombre": "Jaguar France",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_germany",
+    "nombre": "Jaguar Germany",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ireland",
+    "nombre": "Jaguar Ireland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_italia",
+    "nombre": "Jaguar Italia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_romania",
+    "nombre": "Jaguar Romania",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_united_kingdom",
+    "nombre": "Jaguar United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_new_zealand",
+    "nombre": "Jaguar New Zealand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_philippines",
+    "nombre": "Jaguar Philippines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_quick_lane",
+    "nombre": "Jaguar Quick Lane",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_southern_africa",
+    "nombre": "Jaguar Southern Africa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_aston_martin",
+    "nombre": "Jaguar Aston Martin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_chariot",
+    "nombre": "Jaguar Chariot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_aerospace",
+    "nombre": "Jaguar Ford Aerospace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fpv",
+    "nombre": "Jaguar FPV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_india",
+    "nombre": "Jaguar Ford India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_japan",
+    "nombre": "Jaguar Ford Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hertz_corporation",
+    "nombre": "Jaguar Hertz Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_daimler_company",
+    "nombre": "Jaguar Daimler Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_new_holland_agriculture",
+    "nombre": "Jaguar New Holland Agriculture",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_premier_automotive_group",
+    "nombre": "Jaguar Premier Automotive Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_special_vehicle_operations",
+    "nombre": "Jaguar Special Vehicle Operations",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_special_vehicle_team",
+    "nombre": "Jaguar Special Vehicle Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_spin",
+    "nombre": "Jaguar Spin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thnk",
+    "nombre": "Jaguar Th!nk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_troller",
+    "nombre": "Jaguar Troller",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_visteon",
+    "nombre": "Jaguar Visteon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_volvo",
+    "nombre": "Jaguar Volvo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autoalliance_international",
+    "nombre": "Jaguar AutoAlliance International",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autoalliance_thailand",
+    "nombre": "Jaguar AutoAlliance Thailand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_lio_ho",
+    "nombre": "Jaguar Ford Lio Ho",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_otosan",
+    "nombre": "Jaguar Ford Otosan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_vietnam",
+    "nombre": "Jaguar Ford Vietnam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jiangling_motors",
+    "nombre": "Jaguar Jiangling Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_argo_ai",
+    "nombre": "Jaguar Argo AI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autolatina",
+    "nombre": "Jaguar AutoLatina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_automotive_fuel_cell_cooperation",
+    "nombre": "Jaguar Automotive Fuel Cell Cooperation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_changan_ford_mazda",
+    "nombre": "Jaguar Changan Ford Mazda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_sollers",
+    "nombre": "Jaguar Ford Sollers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_union",
+    "nombre": "Jaguar Ford Union",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_getrag_ford_transmissions",
+    "nombre": "Jaguar Getrag Ford Transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_matford",
+    "nombre": "Jaguar Matford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_samcor",
+    "nombre": "Jaguar Samcor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_world_headquarters",
+    "nombre": "Jaguar World Headquarters",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_detroit_corktown_campus_properties_michigan_central_station_roosevelt_warehouse",
+    "nombre": "Jaguar Detroit Corktown campus properties Michigan Central Station Roosevelt Warehouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_michigan_central_station",
+    "nombre": "Jaguar Michigan Central Station",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_roosevelt_warehouse",
+    "nombre": "Jaguar Roosevelt Warehouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_engines",
+    "nombre": "Jaguar Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_factories",
+    "nombre": "Jaguar Factories",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_motorcraft_mercon",
+    "nombre": "Jaguar Motorcraft Mercon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mercon",
+    "nombre": "Jaguar Mercon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_platforms",
+    "nombre": "Jaguar Platforms",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_proving_grounds",
+    "nombre": "Jaguar Proving grounds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_transmissions",
+    "nombre": "Jaguar Transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_designers",
+    "nombre": "Jaguar Designers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_family",
+    "nombre": "Jaguar Ford Family",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_henry_ford",
+    "nombre": "Jaguar Henry Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_william_clay_ford_jr",
+    "nombre": "Jaguar William Clay Ford Jr.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_jim_farley",
+    "nombre": "Jaguar Jim Farley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_list_of_leaders",
+    "nombre": "Jaguar List of leaders",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_m_sport_world_rally_team",
+    "nombre": "Jaguar M-Sport World Rally Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_racing",
+    "nombre": "Jaguar Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_team_rs",
+    "nombre": "Jaguar Team RS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_world_rally_team_munchis",
+    "nombre": "Jaguar World Rally Team Munchi's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_in_formula_one",
+    "nombre": "Jaguar Ford in Formula One",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_big_three",
+    "nombre": "Jaguar Big Three",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dodge_v_ford_motor_co",
+    "nombre": "Jaguar Dodge v. Ford Motor Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_grimshaw_v_ford_motor_co",
+    "nombre": "Jaguar Grimshaw v. Ford Motor Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fordlandia",
+    "nombre": "Jaguar Fordlândia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_field",
+    "nombre": "Jaguar Ford Field",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_ford_show",
+    "nombre": "Jaguar The Ford Show",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ford_v_ferrari",
+    "nombre": "Jaguar Ford v Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_history",
+    "nombre": "Jaguar History",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kinetic_design",
+    "nombre": "Jaguar Kinetic Design",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_new_edge",
+    "nombre": "Jaguar New Edge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pay_on_production",
+    "nombre": "Jaguar Pay on production",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_united_states_council_for_automotive_research",
+    "nombre": "Jaguar United States Council for Automotive Research",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_a_c_cooper",
+    "nombre": "Jaguar A. C. Cooper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_abels_moving_services",
+    "nombre": "Jaguar Abels Moving Services",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ainsworths",
+    "nombre": "Jaguar Ainsworths",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_anderson_sheppard",
+    "nombre": "Jaguar Anderson & Sheppard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_andrex",
+    "nombre": "Jaguar Andrex",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_autoglym",
+    "nombre": "Jaguar Autoglym",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_axminster_carpets",
+    "nombre": "Jaguar Axminster Carpets",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_barbour",
+    "nombre": "Jaguar Barbour",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_barnard_westwood",
+    "nombre": "Jaguar Barnard & Westwood",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bendicks",
+    "nombre": "Jaguar Bendicks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_benson_clegg",
+    "nombre": "Jaguar Benson & Clegg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bentley_skinner",
+    "nombre": "Jaguar Bentley & Skinner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bentley_motors",
+    "nombre": "Jaguar Bentley Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_berry_bros_rudd",
+    "nombre": "Jaguar Berry Bros. & Rudd",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bidfood",
+    "nombre": "Jaguar Bidfood",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_brintons",
+    "nombre": "Jaguar Brintons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_british_sugar",
+    "nombre": "Jaguar British Sugar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bt",
+    "nombre": "Jaguar BT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_burberry",
+    "nombre": "Jaguar Burberry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_bollinger",
+    "nombre": "Jaguar Bollinger",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_civica",
+    "nombre": "Jaguar Civica",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_connolly_brothers",
+    "nombre": "Jaguar Connolly Brothers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_corgi_socks",
+    "nombre": "Jaguar Corgi Socks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_crockett_jones",
+    "nombre": "Jaguar Crockett & Jones",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_crown_paints",
+    "nombre": "Jaguar Crown Paints",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dairy_crest",
+    "nombre": "Jaguar Dairy Crest",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_daks",
+    "nombre": "Jaguar DAKS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_db_cargo_uk",
+    "nombre": "Jaguar DB Cargo UK",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dege_skinner",
+    "nombre": "Jaguar Dege & Skinner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_denise_mcadam",
+    "nombre": "Jaguar Denise McAdam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dents",
+    "nombre": "Jaguar Dents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dhl",
+    "nombre": "Jaguar DHL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_donald_russell",
+    "nombre": "Jaguar Donald Russell",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dubonnet",
+    "nombre": "Jaguar Dubonnet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_dunelm_group",
+    "nombre": "Jaguar Dunelm Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ede_ravenscroft",
+    "nombre": "Jaguar Ede & Ravenscroft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ettinger",
+    "nombre": "Jaguar Ettinger",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_enterprise_rent_a_car",
+    "nombre": "Jaguar Enterprise Rent-A-Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_flying_colours_flagmakers",
+    "nombre": "Jaguar Flying Colours Flagmakers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fortnum_mason",
+    "nombre": "Jaguar Fortnum & Mason",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_garrard_co",
+    "nombre": "Jaguar Garrard & Co",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gieves_hawkes",
+    "nombre": "Jaguar Gieves & Hawkes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_gordons",
+    "nombre": "Jaguar Gordon's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_h_bronnley_co",
+    "nombre": "Jaguar H. Bronnley & Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_halcyon_days",
+    "nombre": "Jaguar Halcyon Days",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hamilton_inches",
+    "nombre": "Jaguar Hamilton & Inches",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hand_lock",
+    "nombre": "Jaguar Hand & Lock",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hatchards",
+    "nombre": "Jaguar Hatchards",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_heinz",
+    "nombre": "Jaguar Heinz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_henry_poole_co",
+    "nombre": "Jaguar Henry Poole & Co",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hillier_nurseries",
+    "nombre": "Jaguar Hillier Nurseries",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_holland_holland",
+    "nombre": "Jaguar Holland & Holland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_howdens_joinery",
+    "nombre": "Jaguar Howdens Joinery",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_hugo_burnand",
+    "nombre": "Jaguar Hugo Burnand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_james_purdey_sons",
+    "nombre": "Jaguar James Purdey & Sons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_john_broadwood_sons",
+    "nombre": "Jaguar John Broadwood & Sons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_john_deere",
+    "nombre": "Jaguar John Deere",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_john_lewis_partners",
+    "nombre": "Jaguar John Lewis & Partners",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_john_lobb",
+    "nombre": "Jaguar John Lobb",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_john_smedley",
+    "nombre": "Jaguar John Smedley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_johnnie_walker",
+    "nombre": "Jaguar Johnnie Walker",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_johnstons_of_elgin",
+    "nombre": "Jaguar Johnstons of Elgin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_justerini_brooks",
+    "nombre": "Jaguar Justerini & Brooks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kelloggs",
+    "nombre": "Jaguar Kellogg's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kimberly_clark",
+    "nombre": "Jaguar Kimberly-Clark",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_laurent_perrier",
+    "nombre": "Jaguar Laurent-Perrier",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_laphroaig",
+    "nombre": "Jaguar Laphroaig",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lea_sandeman",
+    "nombre": "Jaguar Lea & Sandeman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lg_harris_co",
+    "nombre": "Jaguar LG Harris & Co",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_louis_roederer",
+    "nombre": "Jaguar Louis Roederer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_loake",
+    "nombre": "Jaguar Loake",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_lock_co",
+    "nombre": "Jaguar Lock & Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_maggs_bros_ltd",
+    "nombre": "Jaguar Maggs Bros Ltd",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_maldon_salt",
+    "nombre": "Jaguar Maldon Salt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mappin_webb",
+    "nombre": "Jaguar Mappin & Webb",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_martini_rossi",
+    "nombre": "Jaguar Martini & Rossi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mcilhenny_company",
+    "nombre": "Jaguar McIlhenny Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mcvities",
+    "nombre": "Jaguar McVitie's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mercedes_benz",
+    "nombre": "Jaguar Mercedes-Benz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_minky",
+    "nombre": "Jaguar Minky",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_moet_chandon",
+    "nombre": "Jaguar Moët & Chandon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_molton_brown",
+    "nombre": "Jaguar Molton Brown",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_momart",
+    "nombre": "Jaguar Momart",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_moyses_stevens",
+    "nombre": "Jaguar Moyses Stevens",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_musto",
+    "nombre": "Jaguar Musto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_n_e_j_stevenson",
+    "nombre": "Jaguar N. E. J. Stevenson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_natoora",
+    "nombre": "Jaguar Natoora",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_nestle",
+    "nombre": "Jaguar Nestlé",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_noble_foods",
+    "nombre": "Jaguar Noble Foods",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_parker_pen_company",
+    "nombre": "Jaguar Parker Pen Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_partridges",
+    "nombre": "Jaguar Partridges",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_paxton_whitfield",
+    "nombre": "Jaguar Paxton & Whitfield",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_penhaligons",
+    "nombre": "Jaguar Penhaligon's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_period_piano_company",
+    "nombre": "Jaguar Period Piano Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pladis",
+    "nombre": "Jaguar pladis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pimms",
+    "nombre": "Jaguar Pimm's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_pol_roger",
+    "nombre": "Jaguar Pol Roger",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_poppy_factory",
+    "nombre": "Jaguar Poppy Factory",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_prestat",
+    "nombre": "Jaguar Prestat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_prices_candles",
+    "nombre": "Jaguar Price's Candles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_richard_haworth_ltd",
+    "nombre": "Jaguar Richard Haworth Ltd",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ritz_london",
+    "nombre": "Jaguar Ritz London",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_roberts_radio",
+    "nombre": "Jaguar Roberts Radio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_roger_pope_partners",
+    "nombre": "Jaguar Roger Pope & Partners",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_royal_brierley",
+    "nombre": "Jaguar Royal Brierley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_royal_lochnagar_distillery",
+    "nombre": "Jaguar Royal Lochnagar distillery",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_ryvita",
+    "nombre": "Jaguar Ryvita",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_samsung",
+    "nombre": "Jaguar Samsung",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sanderson",
+    "nombre": "Jaguar Sanderson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_schweppes",
+    "nombre": "Jaguar Schweppes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_shane_connolly",
+    "nombre": "Jaguar Shane Connolly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_shepherd_neame",
+    "nombre": "Jaguar Shepherd Neame",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_sleepeezee",
+    "nombre": "Jaguar Sleepeezee",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_spink_son",
+    "nombre": "Jaguar Spink & Son",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_stagecoach_bluebird",
+    "nombre": "Jaguar Stagecoach Bluebird",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_stanley_gibbons",
+    "nombre": "Jaguar Stanley Gibbons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_suttons_seeds",
+    "nombre": "Jaguar Suttons Seeds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_symington_family_estates",
+    "nombre": "Jaguar Symington Family Estates",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tanqueray",
+    "nombre": "Jaguar Tanqueray",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_tate_lyle",
+    "nombre": "Jaguar Tate & Lyle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_taylors",
+    "nombre": "Jaguar Taylor's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_taylors_bulbs",
+    "nombre": "Jaguar Taylors Bulbs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_the_famous_grouse",
+    "nombre": "Jaguar The Famous Grouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thomas_fattorini_ltd",
+    "nombre": "Jaguar Thomas Fattorini Ltd",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thomas_hine_co",
+    "nombre": "Jaguar Thomas Hine & Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thomas_lyte",
+    "nombre": "Jaguar Thomas Lyte",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_thresher_glenny",
+    "nombre": "Jaguar Thresher & Glenny",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_toye_kenning_spencer",
+    "nombre": "Jaguar Toye, Kenning & Spencer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_trickers",
+    "nombre": "Jaguar Tricker's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_turnbull_asser",
+    "nombre": "Jaguar Turnbull & Asser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_twinings",
+    "nombre": "Jaguar Twinings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_veuve_clicquot",
+    "nombre": "Jaguar Veuve Clicquot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_waitrose",
+    "nombre": "Jaguar Waitrose",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_walkers_shortbread",
+    "nombre": "Jaguar Walker's Shortbread",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wartski",
+    "nombre": "Jaguar Wartski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_weetabix",
+    "nombre": "Jaguar Weetabix",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wilkin_sons",
+    "nombre": "Jaguar Wilkin & Sons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_winsor_newton",
+    "nombre": "Jaguar Winsor & Newton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wolsey",
+    "nombre": "Jaguar Wolsey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_worcester_bosch_group",
+    "nombre": "Jaguar Worcester, Bosch Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_worcestershire_medal_service",
+    "nombre": "Jaguar Worcestershire Medal Service",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_anna_valentine",
+    "nombre": "Jaguar Anna Valentine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_anya_hindmarch",
+    "nombre": "Jaguar Anya Hindmarch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_boots",
+    "nombre": "Jaguar Boots",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_fine_cell_work",
+    "nombre": "Jaguar Fine Cell Work",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_frank_smythson",
+    "nombre": "Jaguar Frank Smythson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_heywood_hill",
+    "nombre": "Jaguar Heywood Hill",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_kiki_mcdonough",
+    "nombre": "Jaguar Kiki McDonough",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_launer_london",
+    "nombre": "Jaguar Launer London",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_philip_treacy",
+    "nombre": "Jaguar Philip Treacy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_trove",
+    "nombre": "Jaguar Trove",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_musicbrainz_label",
+    "nombre": "Jaguar MusicBrainz label",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_vehicle_manufacturing_companies_established_in_1935",
+    "nombre": "Jaguar Vehicle manufacturing companies established in 1935",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_english_brands",
+    "nombre": "Jaguar English brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_car_brands",
+    "nombre": "Jaguar Car brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_companies_formerly_listed_on_the_london_stock_exchange",
+    "nombre": "Jaguar Companies formerly listed on the London Stock Exchange",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cars",
+    "nombre": "Jaguar Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_luxury_motor_vehicle_manufacturers",
+    "nombre": "Jaguar Luxury motor vehicle manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_1935_establishments_in_england",
+    "nombre": "Jaguar 1935 establishments in England",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_short_description",
+    "nombre": "Jaguar Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_short_description_is_different_from_wikidata",
+    "nombre": "Jaguar Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_use_british_english_from_july_2025",
+    "nombre": "Jaguar Use British English from July 2025",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_all_wikipedia_articles_written_in_british_english",
+    "nombre": "Jaguar All Wikipedia articles written in British English",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_use_dmy_dates_from_july_2025",
+    "nombre": "Jaguar Use dmy dates from July 2025",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_wikipedia_articles_lacking_focus_from_july_2026",
+    "nombre": "Jaguar Wikipedia articles lacking focus from July 2026",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_all_wikipedia_articles_lacking_focus",
+    "nombre": "Jaguar All Wikipedia articles lacking focus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_all_articles_with_unsourced_statements",
+    "nombre": "Jaguar All articles with unsourced statements",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_unsourced_statements_from_march_2014",
+    "nombre": "Jaguar Articles with unsourced statements from March 2014",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_unsourced_statements_from_july_2011",
+    "nombre": "Jaguar Articles with unsourced statements from July 2011",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_unsourced_statements_from_november_2014",
+    "nombre": "Jaguar Articles with unsourced statements from November 2014",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_unsourced_statements_from_july_2017",
+    "nombre": "Jaguar Articles with unsourced statements from July 2017",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_unsourced_statements_from_april_2017",
+    "nombre": "Jaguar Articles with unsourced statements from April 2017",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_all_articles_with_dead_external_links",
+    "nombre": "Jaguar All articles with dead external links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_dead_external_links_from_february_2018",
+    "nombre": "Jaguar Articles with dead external links from February 2018",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_articles_with_permanently_dead_external_links",
+    "nombre": "Jaguar Articles with permanently dead external links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_webarchive_template_wayback_links",
+    "nombre": "Jaguar Webarchive template wayback links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_commons_category_link_from_wikidata",
+    "nombre": "Jaguar Commons category link from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_this_page_was_last_edited_on_9_august_2026_at_1550",
+    "nombre": "Jaguar This page was last edited on 9 August 2026, at 15:50  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_page_was_rendered_with_parsoid",
+    "nombre": "Jaguar Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_privacy_policy",
+    "nombre": "Jaguar Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_disclaimers",
+    "nombre": "Jaguar Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_contact_wikipedia",
+    "nombre": "Jaguar Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_legal_safety_contacts",
+    "nombre": "Jaguar Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_code_of_conduct",
+    "nombre": "Jaguar Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_developers",
+    "nombre": "Jaguar Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_statistics",
+    "nombre": "Jaguar Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_cookie_statement",
+    "nombre": "Jaguar Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "jaguar_mobile_view",
+    "nombre": "Jaguar Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

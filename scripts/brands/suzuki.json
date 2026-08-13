@@ -1,0 +1,401 @@
+[
+  {
+    "id": "suzuki_go",
+    "nombre": "Suzuki Go",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_cv_1",
+    "nombre": "Suzuki CV-1",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ee_10",
+    "nombre": "Suzuki EE-10",
+    "anio_desde": 1993,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ut_1",
+    "nombre": "Suzuki UT-1",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ur_1",
+    "nombre": "Suzuki UR-1",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ct_1",
+    "nombre": "Suzuki CT-1",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_uw_1",
+    "nombre": "Suzuki UW-1",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_pu_3_commuter",
+    "nombre": "Suzuki Pu-3 Commuter",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_grand_vitara_pick_up",
+    "nombre": "Suzuki Grand Vitara Pick-up",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_gsx_r4",
+    "nombre": "Suzuki GSX-R/4",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_covie",
+    "nombre": "Suzuki Covie",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_concept_s",
+    "nombre": "Suzuki Concept S",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_concept_s2",
+    "nombre": "Suzuki Concept S2",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_s_ride",
+    "nombre": "Suzuki S-RIDE",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_landbreeze",
+    "nombre": "Suzuki LANDBREEZE",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_mobile_terrace",
+    "nombre": "Suzuki Mobile Terrace",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_wagon_r_fcv",
+    "nombre": "Suzuki Wagon R FCV",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_lc",
+    "nombre": "Suzuki LC",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ionis",
+    "nombre": "Suzuki IONIS",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_moms_personal_wagon",
+    "nombre": "Suzuki Mom's Personal Wagon",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_dune_grand_vitara",
+    "nombre": "Suzuki Dune Grand Vitara",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_concept_x2",
+    "nombre": "Suzuki concept-X2",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_px",
+    "nombre": "Suzuki P.X",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_splash",
+    "nombre": "Suzuki Splash",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_a_star",
+    "nombre": "Suzuki A-star",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_kizashi_concept_1",
+    "nombre": "Suzuki Kizashi Concept 1",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_makai",
+    "nombre": "Suzuki Makai",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_kizashi_concept_2",
+    "nombre": "Suzuki Kizashi Concept 2",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_x_head",
+    "nombre": "Suzuki X-Head",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ssc_pixy",
+    "nombre": "Suzuki SSC & Pixy",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_kizashi_concept_3",
+    "nombre": "Suzuki Kizashi Concept 3",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_sx4_fcv",
+    "nombre": "Suzuki SX4 -FCV",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_lapin_convertible",
+    "nombre": "Suzuki Lapin Convertible",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_g70regina",
+    "nombre": "Suzuki G70/Regina",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_swift_s_concept",
+    "nombre": "Suzuki Swift S-Concept",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_q_concept",
+    "nombre": "Suzuki Q-Concept",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_s_cross_concept",
+    "nombre": "Suzuki S-Cross Concept",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_crosshiker",
+    "nombre": "Suzuki Crosshiker",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_iv_4",
+    "nombre": "Suzuki iV-4",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_x_lander",
+    "nombre": "Suzuki X-Lander",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_im_4",
+    "nombre": "Suzuki iM-4",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ik_2",
+    "nombre": "Suzuki iK-2",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_airtriser",
+    "nombre": "Suzuki AirTriser",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_mighty_deck",
+    "nombre": "Suzuki Mighty Deck",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_e_survivor",
+    "nombre": "Suzuki e-SURVIVOR",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_future_s",
+    "nombre": "Suzuki Future S",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_waku_spo",
+    "nombre": "Suzuki Waku Spo",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_hanare",
+    "nombre": "Suzuki Hanare",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_hustler_concept",
+    "nombre": "Suzuki Hustler Concept",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ertiga_concept",
+    "nombre": "Suzuki Ertiga concept",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_futuro_e",
+    "nombre": "Suzuki FUTURO-e",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_misano",
+    "nombre": "Suzuki-Misano",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_vision_grand_turismo",
+    "nombre": "Suzuki Vision Grand Turismo",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_ewx",
+    "nombre": "Suzuki eWX",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_evx",
+    "nombre": "Suzuki eVX",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_e_every",
+    "nombre": "Suzuki e-Every",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "suzuki_vision_e_sky",
+    "nombre": "Suzuki Vision e-Sky",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

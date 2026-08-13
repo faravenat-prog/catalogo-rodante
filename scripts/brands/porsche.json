@@ -1,0 +1,422 @@
+[
+  {
+    "id": "porsche_us_and_canada",
+    "nombre": "Porsche U.S. and Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_europe_without_germany",
+    "nombre": "Porsche Europe without Germany",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_rest_of_the_world",
+    "nombre": "Porsche Rest of the world",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_germany",
+    "nombre": "Porsche Germany",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_china_incl_hong_kong",
+    "nombre": "Porsche China incl. Hong Kong",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2002",
+    "nombre": "Porsche 31 July 2002",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2003",
+    "nombre": "Porsche 31 July 2003",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2004",
+    "nombre": "Porsche 31 July 2004",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2005",
+    "nombre": "Porsche 31 July 2005",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2006",
+    "nombre": "Porsche 31 July 2006",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2007",
+    "nombre": "Porsche 31 July 2007",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2008",
+    "nombre": "Porsche 31 July 2008",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2009",
+    "nombre": "Porsche 31 July 2009",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_july_2010",
+    "nombre": "Porsche 31 July 2010",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2010",
+    "nombre": "Porsche 31 December 2010",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2011",
+    "nombre": "Porsche 31 December 2011",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2012",
+    "nombre": "Porsche 31 December 2012",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2013",
+    "nombre": "Porsche 31 December 2013",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2014",
+    "nombre": "Porsche 31 December 2014",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2015",
+    "nombre": "Porsche 31 December 2015",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2019",
+    "nombre": "Porsche 31 December 2019",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2020",
+    "nombre": "Porsche 31 December 2020",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2021",
+    "nombre": "Porsche 31 December 2021",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_31_december_2022",
+    "nombre": "Porsche 31 December 2022",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_boxster_986",
+    "nombre": "Porsche Boxster (986)",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_boxster_987",
+    "nombre": "Porsche Boxster (987)",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayman",
+    "nombre": "Porsche Cayman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_2",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_2",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_boxstercayman",
+    "nombre": "Porsche Boxster/Cayman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_3",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_3",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_boxstercayman_2",
+    "nombre": "Porsche Boxster/Cayman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera_2",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_4",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_macan",
+    "nombre": "Porsche Macan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_4",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_718_boxstercayman",
+    "nombre": "Porsche 718 Boxster/Cayman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera_3",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_5",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_macan_2",
+    "nombre": "Porsche Macan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_5",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_taycan",
+    "nombre": "Porsche Taycan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera_4",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_6",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_macan_3",
+    "nombre": "Porsche Macan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_6",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_taycan_2",
+    "nombre": "Porsche Taycan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera_5",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_7",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_macan_4",
+    "nombre": "Porsche Macan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_7",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_taycan_3",
+    "nombre": "Porsche Taycan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_panamera_6",
+    "nombre": "Porsche Panamera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_cayenne_8",
+    "nombre": "Porsche Cayenne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_macan_5",
+    "nombre": "Porsche Macan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "porsche_total_8",
+    "nombre": "Porsche Total",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "id": "audi_a3",
+    "nombre": "Audi A3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_a5",
+    "nombre": "Audi A5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_a6",
+    "nombre": "Audi A6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_a6_e_tron",
+    "nombre": "Audi A6 e-tron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_e_tron_gt",
+    "nombre": "Audi e-tron GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_nuvolari",
+    "nombre": "Audi Nuvolari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q3",
+    "nombre": "Audi Q3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q4_e_tron",
+    "nombre": "Audi Q4 e-tron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q5",
+    "nombre": "Audi Q5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q5_e_tron",
+    "nombre": "Audi Q5 e-tron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q6",
+    "nombre": "Audi Q6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q6_e_tron",
+    "nombre": "Audi Q6 e-tron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q7",
+    "nombre": "Audi Q7",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_q8",
+    "nombre": "Audi Q8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s3",
+    "nombre": "Audi S3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s5",
+    "nombre": "Audi S5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s6_e_tron",
+    "nombre": "Audi S6 e-tron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s_e_tron_gt",
+    "nombre": "Audi S e-tron GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_sq5",
+    "nombre": "Audi SQ5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_sq7",
+    "nombre": "Audi SQ7",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_sq8",
+    "nombre": "Audi SQ8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_e_tron_gt",
+    "nombre": "Audi RS e-tron GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_3",
+    "nombre": "Audi RS 3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_5",
+    "nombre": "Audi RS 5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_q8",
+    "nombre": "Audi RS Q8",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_sport_north_america",
+    "nombre": "Audi Sport North America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_champion_racing",
+    "nombre": "Audi Champion Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_champion_racing_2",
+    "nombre": "Audi Champion Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r10",
+    "nombre": "Audi R10",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_sport_japan",
+    "nombre": "Audi Sport Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_ex",
+    "nombre": "Audi EX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rene_rast",
+    "nombre": "Audi René Rast",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Audi Sport Abt Schaeffler"
+    ]
+  },
+  {
+    "id": "audi_quattro",
+    "nombre": "Audi Quattro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_80_quattro_a2",
+    "nombre": "Audi 80 Quattro A2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_quattro_a2",
+    "nombre": "Audi Quattro A2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_coupe_quattro",
+    "nombre": "Audi Coupé Quattro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r8r",
+    "nombre": "Audi R8R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r10_tdi",
+    "nombre": "Audi R10 TDI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r8_lms",
+    "nombre": "Audi R8 LMS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r15_tdi",
+    "nombre": "Audi R15 TDI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r18_tdi",
+    "nombre": "Audi R18 TDI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r18_ultra",
+    "nombre": "Audi R18 Ultra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r18_e_tron_quattro",
+    "nombre": "Audi R18 e-Tron quattro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs5_dtm_rc3",
+    "nombre": "Audi RS5 DTM RC3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s1_eks_rx_quattro",
+    "nombre": "Audi S1 EKS RX quattro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_s3_saloon",
+    "nombre": "Audi S3 Saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r8_lms_gt4",
+    "nombre": "Audi R8 LMS GT4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_3_lms_tcr",
+    "nombre": "Audi RS 3 LMS TCR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_r8_lms_gt2",
+    "nombre": "Audi R8 LMS GT2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs5_turbo_dtm",
+    "nombre": "Audi RS5 Turbo DTM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "audi_rs_3_lms_tcr_21",
+    "nombre": "Audi RS 3 LMS TCR (21)",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

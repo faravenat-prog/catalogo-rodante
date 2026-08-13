@@ -1,0 +1,261 @@
+[
+  {
+    "id": "pontiac_deluxe",
+    "nombre": "Pontiac Deluxe",
+    "anio_desde": 1933,
+    "anio_hasta": 1942,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_torpedo",
+    "nombre": "Pontiac Torpedo",
+    "anio_desde": 1939,
+    "anio_hasta": 1948,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_streamliner",
+    "nombre": "Pontiac Streamliner",
+    "anio_desde": 1941,
+    "anio_hasta": 1951,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_chieftain",
+    "nombre": "Pontiac Chieftain",
+    "anio_desde": 1949,
+    "anio_hasta": 1958,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_catalina",
+    "nombre": "Pontiac Catalina",
+    "anio_desde": 1950,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_star_chief",
+    "nombre": "Pontiac Star Chief",
+    "anio_desde": 1954,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_safari",
+    "nombre": "Pontiac Safari",
+    "anio_desde": 1955,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_bonneville",
+    "nombre": "Pontiac Bonneville",
+    "anio_desde": 1958,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_tempest",
+    "nombre": "Pontiac Tempest",
+    "anio_desde": 1960,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_ventura",
+    "nombre": "Pontiac Ventura",
+    "anio_desde": 1960,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_grand_prix",
+    "nombre": "Pontiac Grand Prix",
+    "anio_desde": 1962,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_lemans",
+    "nombre": "Pontiac LeMans",
+    "anio_desde": 1962,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_gto",
+    "nombre": "Pontiac GTO",
+    "anio_desde": 1964,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_executive",
+    "nombre": "Pontiac Executive",
+    "anio_desde": 1966,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_firebird",
+    "nombre": "Pontiac Firebird",
+    "anio_desde": 1967,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_custom_s",
+    "nombre": "Pontiac Custom S",
+    "anio_desde": 1969,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_grand_safari",
+    "nombre": "Pontiac Grand Safari",
+    "anio_desde": 1971,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_grand_ville",
+    "nombre": "Pontiac Grand Ville",
+    "anio_desde": 1971,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_ventura_ii",
+    "nombre": "Pontiac Ventura II",
+    "anio_desde": 1971,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_astre",
+    "nombre": "Pontiac Astre",
+    "anio_desde": 1973,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_grand_am",
+    "nombre": "Pontiac Grand Am",
+    "anio_desde": 1973,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_sunbird",
+    "nombre": "Pontiac Sunbird",
+    "anio_desde": 1976,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_phoenix",
+    "nombre": "Pontiac Phoenix",
+    "anio_desde": 1977,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_t1000",
+    "nombre": "Pontiac T1000",
+    "anio_desde": 1981,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_j2000_2000_2000_sunbird",
+    "nombre": "Pontiac J2000 / 2000 / 2000 Sunbird",
+    "anio_desde": 1982,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_fiero",
+    "nombre": "Pontiac Fiero",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_trans_sport",
+    "nombre": "Pontiac Trans Sport",
+    "anio_desde": 1990,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_sunfire",
+    "nombre": "Pontiac Sunfire",
+    "anio_desde": 1995,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_montana",
+    "nombre": "Pontiac Montana",
+    "anio_desde": 1997,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_aztek",
+    "nombre": "Pontiac Aztek",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_vibe",
+    "nombre": "Pontiac Vibe",
+    "anio_desde": 2003,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_g6",
+    "nombre": "Pontiac G6",
+    "anio_desde": 2005,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_solstice",
+    "nombre": "Pontiac Solstice",
+    "anio_desde": 2006,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_torrent",
+    "nombre": "Pontiac Torrent",
+    "anio_desde": 2006,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_g5",
+    "nombre": "Pontiac G5",
+    "anio_desde": 2007,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_g8",
+    "nombre": "Pontiac G8",
+    "anio_desde": 2008,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "pontiac_g3",
+    "nombre": "Pontiac G3",
+    "anio_desde": 2009,
+    "anio_hasta": 2009,
+    "segmentos": []
+  }
+]

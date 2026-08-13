@@ -1,0 +1,407 @@
+[
+  {
+    "id": "nissan_micra",
+    "nombre": "Nissan Micra",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "nissan_note",
+    "nombre": "Nissan Note",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "nissan_almera_versa_sunny_v_drive",
+    "nombre": "Nissan Almera/ Versa/ Sunny/ V-Drive",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_altima",
+    "nombre": "Nissan Altima",
+    "anio_desde": 1992,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_teana",
+    "nombre": "Nissan Teana",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_n6",
+    "nombre": "Nissan N6",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_n7_primera",
+    "nombre": "Nissan N7/ Primera",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_sentra",
+    "nombre": "Nissan Sentra",
+    "anio_desde": 1982,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_sylphy",
+    "nombre": "Nissan Sylphy",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_skyline",
+    "nombre": "Nissan Skyline",
+    "anio_desde": 1957,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan"
+    ]
+  },
+  {
+    "id": "nissan_juke",
+    "nombre": "Nissan Juke",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_2027_f17",
+    "nombre": "Nissan 2027 ( F17 )",
+    "anio_desde": 2027,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_kait_kicks_e_power",
+    "nombre": "Nissan Kait/ Kicks e-Power",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_kicks",
+    "nombre": "Nissan Kicks",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_2024_p16",
+    "nombre": "Nissan 2024 ( P16 )",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_leaf",
+    "nombre": "Nissan Leaf",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_magnite",
+    "nombre": "Nissan Magnite",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_murano",
+    "nombre": "Nissan Murano",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_nx7",
+    "nombre": "Nissan NX7",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_nx8",
+    "nombre": "Nissan NX8",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_pathfinder",
+    "nombre": "Nissan Pathfinder",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_patrol",
+    "nombre": "Nissan Patrol",
+    "anio_desde": 1951,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_armada",
+    "nombre": "Nissan Armada",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_qashqai",
+    "nombre": "Nissan Qashqai",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_rogue_plug_in_hybrid",
+    "nombre": "Nissan Rogue Plug-In Hybrid",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_rogue",
+    "nombre": "Nissan Rogue",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_x_trail",
+    "nombre": "Nissan X-Trail",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_tekton",
+    "nombre": "Nissan Tekton",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_terra_x_terra",
+    "nombre": "Nissan Terra/ X-Terra",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV"
+    ]
+  },
+  {
+    "id": "nissan_gravite",
+    "nombre": "Nissan Gravite",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "nissan_livina",
+    "nombre": "Nissan Livina",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "nissan_primastar",
+    "nombre": "Nissan Primastar",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "nissan_serena",
+    "nombre": "Nissan Serena",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "nissan_townstar",
+    "nombre": "Nissan Townstar",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "nissan_roox",
+    "nombre": "Nissan Roox",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "nissan_sakura",
+    "nombre": "Nissan Sakura",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "nissan_2026_d27",
+    "nombre": "Nissan 2026 ( D27 )",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "nissan_frontier",
+    "nombre": "Nissan Frontier",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "nissan_frontier_pronavara_pro",
+    "nombre": "Nissan Frontier Pro/Navara Pro",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "nissan_nt100_clipper",
+    "nombre": "Nissan NT100 Clipper",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "nissan_interstar",
+    "nombre": "Nissan Interstar",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "nissan_nv100_clipper",
+    "nombre": "Nissan NV100 Clipper",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "nissan_nv200",
+    "nombre": "Nissan NV200",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "nissan_primastar_2",
+    "nombre": "Nissan Primastar",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "nissan_townstar_2",
+    "nombre": "Nissan Townstar",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  }
+]

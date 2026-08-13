@@ -1,0 +1,219 @@
+[
+  {
+    "id": "lamborghini_urus",
+    "nombre": "Lamborghini Urus",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_revuelto",
+    "nombre": "Lamborghini Revuelto",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_temerario",
+    "nombre": "Lamborghini Temerario",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_350_gt",
+    "nombre": "Lamborghini 350 GT",
+    "anio_desde": 1964,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_400_gt",
+    "nombre": "Lamborghini 400 GT",
+    "anio_desde": 1966,
+    "anio_hasta": 1968,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_miura",
+    "nombre": "Lamborghini Miura",
+    "anio_desde": 1966,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_espada",
+    "nombre": "Lamborghini Espada",
+    "anio_desde": 1968,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_islero",
+    "nombre": "Lamborghini Islero",
+    "anio_desde": 1968,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_jarama",
+    "nombre": "Lamborghini Jarama",
+    "anio_desde": 1970,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_urraco",
+    "nombre": "Lamborghini Urraco",
+    "anio_desde": 1973,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_countach",
+    "nombre": "Lamborghini Countach",
+    "anio_desde": 1974,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_silhouette",
+    "nombre": "Lamborghini Silhouette",
+    "anio_desde": 1976,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_jalpa",
+    "nombre": "Lamborghini Jalpa",
+    "anio_desde": 1981,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_lm002",
+    "nombre": "Lamborghini LM002",
+    "anio_desde": 1986,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_diablo",
+    "nombre": "Lamborghini Diablo",
+    "anio_desde": 1990,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_murcielago",
+    "nombre": "Lamborghini Murciélago",
+    "anio_desde": 2001,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_gallardo",
+    "nombre": "Lamborghini Gallardo",
+    "anio_desde": 2003,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_aventador",
+    "nombre": "Lamborghini Aventador",
+    "anio_desde": 2011,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_huracan",
+    "nombre": "Lamborghini Huracán",
+    "anio_desde": 2014,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_reventon",
+    "nombre": "Lamborghini Reventón",
+    "anio_desde": 2008,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_sesto_elemento",
+    "nombre": "Lamborghini Sesto Elemento",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_veneno",
+    "nombre": "Lamborghini Veneno",
+    "anio_desde": 2013,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_centenario",
+    "nombre": "Lamborghini Centenario",
+    "anio_desde": 2016,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_sc18_alston",
+    "nombre": "Lamborghini SC18 Alston",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_sian_fkp_37",
+    "nombre": "Lamborghini Sián FKP 37",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_essenza_scv12",
+    "nombre": "Lamborghini Essenza SCV12",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_sc20_alston",
+    "nombre": "Lamborghini SC20 Alston",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_countach_2",
+    "nombre": "Lamborghini Countach",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_invencible",
+    "nombre": "Lamborghini Invencible",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_autentica",
+    "nombre": "Lamborghini Auténtica",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lamborghini_fenomeno",
+    "nombre": "Lamborghini Fenomeno",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

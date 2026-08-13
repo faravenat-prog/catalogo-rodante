@@ -1,0 +1,200 @@
+[
+  {
+    "id": "mini_first",
+    "nombre": "Mini First",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,397 cc (1.4 L; 85.3 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_one",
+    "nombre": "Mini One",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,397 cc (1.4 L; 85.3 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_first_2",
+    "nombre": "Mini First",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_one_2",
+    "nombre": "Mini One",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_cooper_hardtop_cooper_clubman_cooper_convertible",
+    "nombre": "Mini Cooper Hardtop Cooper Clubman Cooper Convertible",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_cooper_all_body_styles",
+    "nombre": "Mini Cooper (all body styles)",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4"
+    ]
+  },
+  {
+    "id": "mini_cooper_s_hardtop_cooper_s_clubman_cooper_s_convertible",
+    "nombre": "Mini Cooper S Hardtop Cooper S Clubman Cooper S Convertible",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_cooper_s_all_body_styles",
+    "nombre": "Mini Cooper S (all body styles)",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_john_cooper_works_challenge_john_cooper_works_all_body_styles",
+    "nombre": "Mini John Cooper Works CHALLENGE John Cooper Works (all body styles)",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_one_d",
+    "nombre": "Mini One D",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,364 cc (1.4 L; 83.2 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_one_d_2",
+    "nombre": "Mini One D",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,560 cc (1.6 L; 95.2 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_cooper_d",
+    "nombre": "Mini Cooper D",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,560 cc (1.6 L; 95.2 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_one_d_3",
+    "nombre": "Mini One D",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_cooper_d_2",
+    "nombre": "Mini Cooper D",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,598 cc (1.6 L; 97.5 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_cooper_sd",
+    "nombre": "Mini Cooper SD",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "1,995 cc (2.0 L; 121.7 cu in) I4 turbo"
+    ]
+  },
+  {
+    "id": "mini_body_styles",
+    "nombre": "Mini Body styles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_trim_level",
+    "nombre": "Mini Trim level",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_first_3",
+    "nombre": "Mini First",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_one_3",
+    "nombre": "Mini One",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_cooper",
+    "nombre": "Mini Cooper",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_cooper_s",
+    "nombre": "Mini Cooper S",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_john_cooper_works",
+    "nombre": "Mini John Cooper Works",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_john_cooper_works_challenge",
+    "nombre": "Mini John Cooper Works Challenge",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mini_cooper_d_3",
+    "nombre": "Mini Cooper D",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

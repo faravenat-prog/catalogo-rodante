@@ -1,0 +1,227 @@
+[
+  {
+    "id": "bentley_3_litre",
+    "nombre": "Bentley 3 Litre",
+    "anio_desde": 1921,
+    "anio_hasta": 1929,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "bentley_35_litre",
+    "nombre": "Bentley 3.5 Litre",
+    "anio_desde": 1933,
+    "anio_hasta": 1939,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_4_litre",
+    "nombre": "Bentley 4 Litre",
+    "anio_desde": 1931,
+    "anio_hasta": 1931,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_4_12_litre",
+    "nombre": "Bentley 4 1/2 Litre",
+    "anio_desde": 1927,
+    "anio_hasta": 1931,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "bentley_speed_six",
+    "nombre": "Bentley Speed Six",
+    "anio_desde": 1926,
+    "anio_hasta": 1930,
+    "segmentos": [
+      "\"Rolling chassis\""
+    ]
+  },
+  {
+    "id": "bentley_8_litre",
+    "nombre": "Bentley 8 Litre",
+    "anio_desde": 1930,
+    "anio_hasta": 1932,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_arnage",
+    "nombre": "Bentley Arnage",
+    "anio_desde": 1998,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_azure",
+    "nombre": "Bentley Azure",
+    "anio_desde": 1995,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bentley_bentayga",
+    "nombre": "Bentley Bentayga",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Luxury SUV"
+    ]
+  },
+  {
+    "id": "bentley_brooklands",
+    "nombre": "Bentley Brooklands",
+    "anio_desde": 1992,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Luxury car Grand tourer"
+    ]
+  },
+  {
+    "id": "bentley_continental",
+    "nombre": "Bentley Continental",
+    "anio_desde": 1952,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Luxury car Grand tourer"
+    ]
+  },
+  {
+    "id": "bentley_continental_gt",
+    "nombre": "Bentley Continental GT",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bentley_eight",
+    "nombre": "Bentley Eight",
+    "anio_desde": 1984,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_flying_spur",
+    "nombre": "Bentley Flying Spur",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Luxury car Ultra-luxury car"
+    ]
+  },
+  {
+    "id": "bentley_mark_v",
+    "nombre": "Bentley Mark V",
+    "anio_desde": 1939,
+    "anio_hasta": 1941,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_mark_vi",
+    "nombre": "Bentley Mark VI",
+    "anio_desde": 1946,
+    "anio_hasta": 1952,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_mulsanne",
+    "nombre": "Bentley Mulsanne",
+    "anio_desde": 1980,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_mulsanne_2",
+    "nombre": "Bentley Mulsanne",
+    "anio_desde": 2010,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_r_type",
+    "nombre": "Bentley R Type",
+    "anio_desde": 1952,
+    "anio_hasta": 1955,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_s1",
+    "nombre": "Bentley S1",
+    "anio_desde": 1955,
+    "anio_hasta": 1959,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_s2",
+    "nombre": "Bentley S2",
+    "anio_desde": 1959,
+    "anio_hasta": 1962,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_s3",
+    "nombre": "Bentley S3",
+    "anio_desde": 1962,
+    "anio_hasta": 1965,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_state_limousine",
+    "nombre": "Bentley State Limousine",
+    "anio_desde": 2002,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Luxury car Limousine Official state car"
+    ]
+  },
+  {
+    "id": "bentley_t_series",
+    "nombre": "Bentley T-Series",
+    "anio_desde": 1965,
+    "anio_hasta": 1980,
+    "segmentos": [
+      "Luxury car"
+    ]
+  },
+  {
+    "id": "bentley_turbo_r",
+    "nombre": "Bentley Turbo R",
+    "anio_desde": 1985,
+    "anio_hasta": 1999,
+    "segmentos": [
+      "Luxury car"
+    ]
+  }
+]

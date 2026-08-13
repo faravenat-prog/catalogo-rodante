@@ -1,0 +1,296 @@
+[
+  {
+    "id": "subaru_levorg_layback",
+    "nombre": "Subaru Levorg Layback",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Station wagon"
+    ]
+  },
+  {
+    "id": "subaru_crosstrek",
+    "nombre": "Subaru Crosstrek",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_forester",
+    "nombre": "Subaru Forester",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_getaway",
+    "nombre": "Subaru Getaway",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_outback",
+    "nombre": "Subaru Outback",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_rex",
+    "nombre": "Subaru Rex",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_solterra",
+    "nombre": "Subaru Solterra",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_trailseeker_e_outback",
+    "nombre": "Subaru Trailseeker/ E-Outback",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_uncharted",
+    "nombre": "Subaru Uncharted",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "subaru_pleo_plus",
+    "nombre": "Subaru Pleo Plus",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "subaru_stella",
+    "nombre": "Subaru Stella",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "subaru_sambar_truck",
+    "nombre": "Subaru Sambar Truck",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "subaru_sambar_van",
+    "nombre": "Subaru Sambar Van",
+    "anio_desde": 1961,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "subaru_sambar_dias",
+    "nombre": "Subaru Sambar Dias",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "subaru_alcyonesvx",
+    "nombre": "Subaru Alcyone/SVX",
+    "anio_desde": 1991,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_baja",
+    "nombre": "Subaru Baja",
+    "anio_desde": 2002,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_bighorn",
+    "nombre": "Subaru Bighorn",
+    "anio_desde": 1988,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_bratbrumbymv",
+    "nombre": "Subaru BRAT/Brumby/MV",
+    "anio_desde": 1978,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_dex",
+    "nombre": "Subaru Dex",
+    "anio_desde": 2006,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_exiga",
+    "nombre": "Subaru Exiga",
+    "anio_desde": 2008,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_ff_1_g_19711972",
+    "nombre": "Subaru FF-1 G (1971–1972)",
+    "anio_desde": 1971,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_ff_1_star_19691973",
+    "nombre": "Subaru FF-1 Star (1969–1973)",
+    "anio_desde": 1969,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_legacy",
+    "nombre": "Subaru Legacy",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_leone",
+    "nombre": "Subaru Leone",
+    "anio_desde": 1971,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_leone_van",
+    "nombre": "Subaru Leone Van",
+    "anio_desde": 1999,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_lucra",
+    "nombre": "Subaru Lucra",
+    "anio_desde": 2010,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_outback_sportgravel_expressrv",
+    "nombre": "Subaru Outback Sport/Gravel Express/RV",
+    "anio_desde": 1994,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_pleo",
+    "nombre": "Subaru Pleo",
+    "anio_desde": 1998,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_r_2",
+    "nombre": "Subaru R-2",
+    "anio_desde": 1969,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_r1",
+    "nombre": "Subaru R1",
+    "anio_desde": 2005,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_r2",
+    "nombre": "Subaru R2",
+    "anio_desde": 2003,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_rex_2",
+    "nombre": "Subaru Rex",
+    "anio_desde": 1972,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_sumoliberadomingocolumbusse_seriesestratto",
+    "nombre": "Subaru Sumo/Libera/Domingo/Columbuss/E series/Estratto",
+    "anio_desde": 1983,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_traviq",
+    "nombre": "Subaru Traviq",
+    "anio_desde": 1999,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_trezia",
+    "nombre": "Subaru Trezia",
+    "anio_desde": 2010,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_tribeca",
+    "nombre": "Subaru Tribeca",
+    "anio_desde": 2005,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_vivio",
+    "nombre": "Subaru Vivio",
+    "anio_desde": 1992,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "subaru_alcyone_xtvortex",
+    "nombre": "Subaru Alcyone XT/Vortex",
+    "anio_desde": 1985,
+    "anio_hasta": 1991,
+    "segmentos": []
+  }
+]

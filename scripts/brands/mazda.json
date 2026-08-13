@@ -1,0 +1,536 @@
+[
+  {
+    "id": "mazda_2_hybrid",
+    "nombre": "Mazda2 Hybrid",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "mazda_3",
+    "nombre": "Mazda3",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "mazda_3_2",
+    "nombre": "Mazda3",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan / liftback"
+    ]
+  },
+  {
+    "id": "mazda_ez_66e",
+    "nombre": "Mazda EZ-6/6e",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sedan / liftback"
+    ]
+  },
+  {
+    "id": "mazda_cx_30",
+    "nombre": "Mazda CX-30",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_5",
+    "nombre": "Mazda CX-5",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_50",
+    "nombre": "Mazda CX-50",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_60",
+    "nombre": "Mazda CX-60",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_70",
+    "nombre": "Mazda CX-70",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_8",
+    "nombre": "Mazda CX-8",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_80",
+    "nombre": "Mazda CX-80",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_cx_90",
+    "nombre": "Mazda CX-90",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_ez_60cx_6e",
+    "nombre": "Mazda EZ-60/CX-6e",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_mx_30",
+    "nombre": "Mazda MX-30",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "mazda_bt_50",
+    "nombre": "Mazda BT-50",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "mazda_flair",
+    "nombre": "Mazda Flair",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "mazda_flair_crossover",
+    "nombre": "Mazda Flair Crossover",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "mazda_flair_wagon",
+    "nombre": "Mazda Flair Wagon",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "mazda_scrum",
+    "nombre": "Mazda Scrum",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "mazda_scrum_2",
+    "nombre": "Mazda Scrum",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei vehicles"
+    ]
+  },
+  {
+    "id": "mazda_bongo",
+    "nombre": "Mazda Bongo",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Commercial vans"
+    ]
+  },
+  {
+    "id": "mazda_familia_van_xp160",
+    "nombre": "Mazda Familia Van (XP160)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Commercial vans"
+    ]
+  },
+  {
+    "id": "mazda_romper",
+    "nombre": "Mazda Romper",
+    "anio_desde": 1958,
+    "anio_hasta": 1965,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_r360",
+    "nombre": "Mazda R360",
+    "anio_desde": 1960,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_b_series",
+    "nombre": "Mazda B-series",
+    "anio_desde": 1961,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_roadpacer",
+    "nombre": "Mazda Roadpacer",
+    "anio_desde": 1975,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_familia",
+    "nombre": "Mazda Familia",
+    "anio_desde": 1964,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_kraft",
+    "nombre": "Mazda Kraft",
+    "anio_desde": 1965,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_luce",
+    "nombre": "Mazda Luce",
+    "anio_desde": 1966,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_cosmo",
+    "nombre": "Mazda Cosmo",
+    "anio_desde": 1967,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_boxer",
+    "nombre": "Mazda Boxer",
+    "anio_desde": 1969,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_capella",
+    "nombre": "Mazda Capella",
+    "anio_desde": 1970,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_pathfinder_xv_1",
+    "nombre": "Mazda Pathfinder XV-1",
+    "anio_desde": 1970,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_savanna",
+    "nombre": "Mazda Savanna",
+    "anio_desde": 1971,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_chantez",
+    "nombre": "Mazda Chantez",
+    "anio_desde": 1972,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_porter",
+    "nombre": "Mazda Porter",
+    "anio_desde": 1969,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_b360",
+    "nombre": "Mazda B360",
+    "anio_desde": 1961,
+    "anio_hasta": 1966,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_parkway",
+    "nombre": "Mazda Parkway",
+    "anio_desde": 1972,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_929",
+    "nombre": "Mazda 929",
+    "anio_desde": 1973,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_323",
+    "nombre": "Mazda 323",
+    "anio_desde": 1977,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_rx_7",
+    "nombre": "Mazda RX-7",
+    "anio_desde": 1978,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_626",
+    "nombre": "Mazda 626",
+    "anio_desde": 1978,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_rustler",
+    "nombre": "Mazda Rustler",
+    "anio_desde": 1983,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_persona",
+    "nombre": "Mazda Persona",
+    "anio_desde": 1988,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_121",
+    "nombre": "Mazda 121",
+    "anio_desde": 1986,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_mx_6",
+    "nombre": "Mazda MX-6",
+    "anio_desde": 1988,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_mpvmazda8",
+    "nombre": "Mazda MPV/Mazda8",
+    "anio_desde": 1996,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_sentia",
+    "nombre": "Mazda Sentia",
+    "anio_desde": 1990,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_mx_3",
+    "nombre": "Mazda MX-3",
+    "anio_desde": 1990,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_revue",
+    "nombre": "Mazda Revue",
+    "anio_desde": 1990,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_lantiscronos",
+    "nombre": "Mazda Lantis/Cronos",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_millenia",
+    "nombre": "Mazda Millenia",
+    "anio_desde": 1993,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_az_wagon",
+    "nombre": "Mazda AZ-Wagon",
+    "anio_desde": 1994,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_demio",
+    "nombre": "Mazda Demio",
+    "anio_desde": 1996,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_az_offroad",
+    "nombre": "Mazda AZ-Offroad",
+    "anio_desde": 1998,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_laputa",
+    "nombre": "Mazda Laputa",
+    "anio_desde": 1999,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_premacymazda5",
+    "nombre": "Mazda Premacy/Mazda5",
+    "anio_desde": 1999,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_etude",
+    "nombre": "Mazda Étude",
+    "anio_desde": 1987,
+    "anio_hasta": 1989,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_tribute",
+    "nombre": "Mazda Tribute",
+    "anio_desde": 2000,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_proceed_levante",
+    "nombre": "Mazda Proceed Levante",
+    "anio_desde": 1995,
+    "anio_hasta": 1999,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_proceed_marvie",
+    "nombre": "Mazda Proceed Marvie",
+    "anio_desde": 1991,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_atenzamazda6",
+    "nombre": "Mazda Atenza/Mazda6",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_axela",
+    "nombre": "Mazda Axela",
+    "anio_desde": 2003,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_rx_8",
+    "nombre": "Mazda RX-8",
+    "anio_desde": 2003,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_verisa",
+    "nombre": "Mazda Verisa",
+    "anio_desde": 2004,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_cx_9",
+    "nombre": "Mazda CX-9",
+    "anio_desde": 2006,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_cx_7",
+    "nombre": "Mazda CX-7",
+    "anio_desde": 2006,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_cx_4",
+    "nombre": "Mazda CX-4",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_vx_1",
+    "nombre": "Mazda VX-1",
+    "anio_desde": 2013,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "mazda_biante",
+    "nombre": "Mazda Biante",
+    "anio_desde": 2008,
+    "anio_hasta": 2018,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "id": "hyundai_cortina",
+    "nombre": "Hyundai Cortina",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_20m",
+    "nombre": "Hyundai 20M",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_pony",
+    "nombre": "Hyundai Pony",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_granada",
+    "nombre": "Hyundai Granada",
+    "anio_desde": 1978,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_stellar",
+    "nombre": "Hyundai Stellar",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_excelpresto",
+    "nombre": "Hyundai Excel/Presto",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_graceh100satellite",
+    "nombre": "Hyundai Grace/H100/Satellite",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_scoupe",
+    "nombre": "Hyundai Scoupe",
+    "anio_desde": 1988,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_galloper",
+    "nombre": "Hyundai Galloper",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_marcia",
+    "nombre": "Hyundai Marcia",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_tiburoncoupetuscani",
+    "nombre": "Hyundai Tiburon/Coupe/Tuscani",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_dynasty",
+    "nombre": "Hyundai Dynasty",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_santamo",
+    "nombre": "Hyundai Santamo",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_atossantro",
+    "nombre": "Hyundai Atos/Santro",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_starex",
+    "nombre": "Hyundai Starex",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_trajet",
+    "nombre": "Hyundai Trajet",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_equuscentennial",
+    "nombre": "Hyundai Equus/Centennial",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_liberoh_1",
+    "nombre": "Hyundai Libero/H-1",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_lavitamatrix",
+    "nombre": "Hyundai Lavita/Matrix",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_terracan",
+    "nombre": "Hyundai Terracan",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_getzclick",
+    "nombre": "Hyundai Getz/Click",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_veracruzix55",
+    "nombre": "Hyundai Veracruz/ix55",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_entourage",
+    "nombre": "Hyundai Entourage",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_genesis",
+    "nombre": "Hyundai Genesis",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_genesis_coupe",
+    "nombre": "Hyundai Genesis Coupe",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ix20",
+    "nombre": "Hyundai ix20",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ix35_china",
+    "nombre": "Hyundai ix35 (China)",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_veloster",
+    "nombre": "Hyundai Veloster",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_eon",
+    "nombre": "Hyundai Eon",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_i40",
+    "nombre": "Hyundai i40",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_mistra",
+    "nombre": "Hyundai Mistra",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ix35_fcev",
+    "nombre": "Hyundai ix35 FCEV",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_maxcruzsanta_fe_xl",
+    "nombre": "Hyundai Maxcruz/Santa Fe XL",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_xcent",
+    "nombre": "Hyundai Xcent",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ix25",
+    "nombre": "Hyundai ix25",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_aslan",
+    "nombre": "Hyundai Aslan",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_i20_active",
+    "nombre": "Hyundai i20 Active",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ioniq",
+    "nombre": "Hyundai Ioniq",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_reinaverna",
+    "nombre": "Hyundai Reina/Verna",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_celesta",
+    "nombre": "Hyundai Celesta",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_santro_ah2",
+    "nombre": "Hyundai Santro (AH2)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_lafesta",
+    "nombre": "Hyundai Lafesta",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_encino",
+    "nombre": "Hyundai Encino",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_d_series",
+    "nombre": "Hyundai D series",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_r_series",
+    "nombre": "Hyundai R series",
+    "anio_desde": 1969,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_o302",
+    "nombre": "Hyundai O302",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_dk_series",
+    "nombre": "Hyundai DK series",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_dq_7",
+    "nombre": "Hyundai DQ-7",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_hd_series",
+    "nombre": "Hyundai HD series",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_o303",
+    "nombre": "Hyundai O303",
+    "anio_desde": 1976,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_bison",
+    "nombre": "Hyundai Bison",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_8_to_25_ton_truck",
+    "nombre": "Hyundai 8 to 25-ton truck",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_rb_series",
+    "nombre": "Hyundai RB series",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_fb_series",
+    "nombre": "Hyundai FB series",
+    "anio_desde": 1983,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_aero",
+    "nombre": "Hyundai Aero",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_aero_space",
+    "nombre": "Hyundai Aero Space",
+    "anio_desde": 1985,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_chorus",
+    "nombre": "Hyundai Chorus",
+    "anio_desde": 1988,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_45_to_5_ton_truck",
+    "nombre": "Hyundai 4.5 to 5-ton truck",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_aero_town",
+    "nombre": "Hyundai Aero Town",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_starexh_1i_load",
+    "nombre": "Hyundai Starex/H-1/i-Load",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_super_truck",
+    "nombre": "Hyundai Super Truck",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_trago",
+    "nombre": "Hyundai Trago",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_super_truck_medium",
+    "nombre": "Hyundai Super Truck Medium",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_mega_truck",
+    "nombre": "Hyundai Mega Truck",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_green_city",
+    "nombre": "Hyundai Green City",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_blue_city",
+    "nombre": "Hyundai Blue City",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "hyundai_ruiyuechido",
+    "nombre": "Hyundai Ruiyue/Chido",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

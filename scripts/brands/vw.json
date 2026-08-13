@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "vw_main_page",
+    "nombre": "Volkswagen Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_contents",
+    "nombre": "Volkswagen Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_current_events",
+    "nombre": "Volkswagen Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_random_article",
+    "nombre": "Volkswagen Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_about_wikipedia",
+    "nombre": "Volkswagen About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_contact_us",
+    "nombre": "Volkswagen Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_help",
+    "nombre": "Volkswagen Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_learn_to_edit",
+    "nombre": "Volkswagen Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_community_portal",
+    "nombre": "Volkswagen Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_recent_changes",
+    "nombre": "Volkswagen Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_upload_file",
+    "nombre": "Volkswagen Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_special_pages",
+    "nombre": "Volkswagen Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_donate",
+    "nombre": "Volkswagen Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_create_account",
+    "nombre": "Volkswagen Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_log_in",
+    "nombre": "Volkswagen Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_1_current_models_toggle_current_models_subsection_11_volkswagen_passenger_cars_12_volkswagen_commercial_vehicles",
+    "nombre": "Volkswagen 1 Current models Toggle Current models subsection 1.1 Volkswagen Passenger Cars 1.2 Volkswagen Commercial Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_11_volkswagen_passenger_cars",
+    "nombre": "Volkswagen 1.1 Volkswagen Passenger Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_12_volkswagen_commercial_vehicles",
+    "nombre": "Volkswagen 1.2 Volkswagen Commercial Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_2_former_models_toggle_former_models_subsection_21_aircooled_models_22_watercooled_models",
+    "nombre": "Volkswagen 2 Former models Toggle Former models subsection 2.1 Aircooled models 2.2 Watercooled models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_21_aircooled_models",
+    "nombre": "Volkswagen 2.1 Aircooled models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_22_watercooled_models",
+    "nombre": "Volkswagen 2.2 Watercooled models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_3_volkswagen_engines",
+    "nombre": "Volkswagen 3 Volkswagen engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_4_see_also",
+    "nombre": "Volkswagen 4 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_5_notes",
+    "nombre": "Volkswagen 5 Notes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_6_references",
+    "nombre": "Volkswagen 6 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_portugues",
+    "nombre": "Volkswagen Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw",
+    "nombre": "Volkswagen Русский",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_article",
+    "nombre": "Volkswagen Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_talk",
+    "nombre": "Volkswagen Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_read",
+    "nombre": "Volkswagen Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_edit",
+    "nombre": "Volkswagen Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_view_history",
+    "nombre": "Volkswagen View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_what_links_here",
+    "nombre": "Volkswagen What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_related_changes",
+    "nombre": "Volkswagen Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_permanent_link",
+    "nombre": "Volkswagen Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_page_information",
+    "nombre": "Volkswagen Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_cite_this_page",
+    "nombre": "Volkswagen Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_get_shortened_url",
+    "nombre": "Volkswagen Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_switch_to_legacy_parser",
+    "nombre": "Volkswagen Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_download_as_pdf",
+    "nombre": "Volkswagen Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_printable_version",
+    "nombre": "Volkswagen Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_wikidata_item",
+    "nombre": "Volkswagen Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_beetle",
+    "nombre": "Volkswagen Beetle",
+    "anio_desde": 1938,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_kubelwagen_light_military_vehicle",
+    "nombre": "Volkswagen Kübelwagen  light military vehicle",
+    "anio_desde": 1940,
+    "anio_hasta": 1945,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_kommandeurswagen_staff_car_for_wehrmacht",
+    "nombre": "Volkswagen Kommandeurswagen  staff car for Wehrmacht",
+    "anio_desde": 1941,
+    "anio_hasta": 1944,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_schwimmwagen",
+    "nombre": "Volkswagen Schwimmwagen",
+    "anio_desde": 1942,
+    "anio_hasta": 1944,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_type_18a",
+    "nombre": "Volkswagen Type 18A",
+    "anio_desde": 1949,
+    "anio_hasta": 1949,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_hebmuller_cabriolet",
+    "nombre": "Volkswagen Hebmüller Cabriolet",
+    "anio_desde": 1949,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_karmann_ghia",
+    "nombre": "Volkswagen Karmann Ghia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_15001600",
+    "nombre": "Volkswagen 1500/1600",
+    "anio_desde": 1961,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_type_147_kleinlieferwagen",
+    "nombre": "Volkswagen Type 147 Kleinlieferwagen",
+    "anio_desde": 1964,
+    "anio_hasta": 1974,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_411412",
+    "nombre": "Volkswagen 411/412",
+    "anio_desde": 1967,
+    "anio_hasta": 1973,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_country_buggy",
+    "nombre": "Volkswagen Country Buggy",
+    "anio_desde": 1967,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_181",
+    "nombre": "Volkswagen 181",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_porsche_914",
+    "nombre": "Volkswagen-Porsche 914",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_sp1sp2",
+    "nombre": "Volkswagen SP1/SP2",
+    "anio_desde": 1973,
+    "anio_hasta": 1976,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_brasilia",
+    "nombre": "Volkswagen Brasília",
+    "anio_desde": 1973,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_gacel",
+    "nombre": "Volkswagen Gacel",
+    "anio_desde": 1983,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_senda",
+    "nombre": "Volkswagen Senda",
+    "anio_desde": 1991,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_k70",
+    "nombre": "Volkswagen K70",
+    "anio_desde": 1968,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_scirocco",
+    "nombre": "Volkswagen Scirocco",
+    "anio_desde": 1974,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_dasher",
+    "nombre": "Volkswagen Dasher",
+    "anio_desde": 1974,
+    "anio_hasta": 1982,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_rabbit",
+    "nombre": "Volkswagen Rabbit",
+    "anio_desde": 1975,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_derby",
+    "nombre": "Volkswagen Derby ,",
+    "anio_desde": 1977,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_caribe",
+    "nombre": "Volkswagen Caribe",
+    "anio_desde": 1977,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_iltis",
+    "nombre": "Volkswagen Iltis",
+    "anio_desde": 1978,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_cabriolet",
+    "nombre": "Volkswagen Cabriolet",
+    "anio_desde": 1979,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_cabrio",
+    "nombre": "Volkswagen Cabrio",
+    "anio_desde": 1979,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_gol",
+    "nombre": "Volkswagen Gol",
+    "anio_desde": 1980,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_atlantic",
+    "nombre": "Volkswagen Atlantic",
+    "anio_desde": 1981,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_santana",
+    "nombre": "Volkswagen Santana",
+    "anio_desde": 1981,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_quantum",
+    "nombre": "Volkswagen Quantum",
+    "anio_desde": 1982,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_parati",
+    "nombre": "Volkswagen Parati",
+    "anio_desde": 1982,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_voyage",
+    "nombre": "Volkswagen Voyage",
+    "anio_desde": 1983,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_corsar",
+    "nombre": "Volkswagen Corsar",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_citi_golf",
+    "nombre": "Volkswagen Citi Golf",
+    "anio_desde": 1984,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_carat",
+    "nombre": "Volkswagen Carat",
+    "anio_desde": 1987,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_corrado",
+    "nombre": "Volkswagen Corrado",
+    "anio_desde": 1988,
+    "anio_hasta": 1995,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_taro",
+    "nombre": "Volkswagen Taro",
+    "anio_desde": 1989,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_apollo",
+    "nombre": "Volkswagen Apollo",
+    "anio_desde": 1990,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_logus",
+    "nombre": "Volkswagen Logus",
+    "anio_desde": 1993,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_pointer",
+    "nombre": "Volkswagen Pointer",
+    "anio_desde": 1994,
+    "anio_hasta": 1996,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_sharan",
+    "nombre": "Volkswagen Sharan",
+    "anio_desde": 1995,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_polo_playa",
+    "nombre": "Volkswagen Polo Playa",
+    "anio_desde": 1996,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_new_beetle",
+    "nombre": "Volkswagen New Beetle",
+    "anio_desde": 1997,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_jetta_king",
+    "nombre": "Volkswagen Jetta King",
+    "anio_desde": 1997,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_lupo",
+    "nombre": "Volkswagen Lupo",
+    "anio_desde": 1998,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_phaeton",
+    "nombre": "Volkswagen Phaeton",
+    "anio_desde": 2002,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_touareg",
+    "nombre": "Volkswagen Touareg",
+    "anio_desde": 2002,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_fox",
+    "nombre": "Volkswagen Fox",
+    "anio_desde": 2003,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_golf_plus",
+    "nombre": "Volkswagen Golf Plus",
+    "anio_desde": 2004,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_passat_lingyu",
+    "nombre": "Volkswagen Passat Lingyu",
+    "anio_desde": 2005,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_eos",
+    "nombre": "Volkswagen Eos",
+    "anio_desde": 2006,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_suranspacefox",
+    "nombre": "Volkswagen Suran/SpaceFox",
+    "anio_desde": 2006,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_routan",
+    "nombre": "Volkswagen Routan",
+    "anio_desde": 2008,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_clasico",
+    "nombre": "Volkswagen Clásico",
+    "anio_desde": 2010,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_jetta_pioneer",
+    "nombre": "Volkswagen Jetta Pioneer",
+    "anio_desde": 2010,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_ventopolo_sedan",
+    "nombre": "Volkswagen Vento/Polo Sedan",
+    "anio_desde": 2010,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_up",
+    "nombre": "Volkswagen Up",
+    "anio_desde": 2011,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_passat_nms",
+    "nombre": "Volkswagen Passat NMS",
+    "anio_desde": 2011,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_new_jetta",
+    "nombre": "Volkswagen New Jetta",
+    "anio_desde": 2013,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_golf_sportsvan",
+    "nombre": "Volkswagen Golf Sportsvan",
+    "anio_desde": 2014,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_spacecross",
+    "nombre": "Volkswagen SpaceCross",
+    "anio_desde": 2014,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_xl1",
+    "nombre": "Volkswagen XL1",
+    "anio_desde": 2015,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_c_trek",
+    "nombre": "Volkswagen C-Trek",
+    "anio_desde": 2016,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_ameo",
+    "nombre": "Volkswagen Ameo",
+    "anio_desde": 2016,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_phideon",
+    "nombre": "Volkswagen Phideon",
+    "anio_desde": 2016,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_tiguan_allspace",
+    "nombre": "Volkswagen Tiguan Allspace",
+    "anio_desde": 2018,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_polo",
+    "nombre": "Volkswagen Polo",
+    "anio_desde": 2020,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_tiguan_x",
+    "nombre": "Volkswagen Tiguan X",
+    "anio_desde": 2020,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_volkswagen_group_engines",
+    "nombre": "Volkswagen List of Volkswagen Group engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_group",
+    "nombre": "Volkswagen Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_modular_light_commercial_vehicle_platform",
+    "nombre": "Volkswagen ↑ Modular Light Commercial Vehicle platform",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_passenger_cars_volkswagen_group_annual_report_2022_retrieved_2023_03_30",
+    "nombre": "Volkswagen ↑ \"Volkswagen Passenger Cars\" . Volkswagen Group Annual Report 2022 . Retrieved 2023-03-30 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_bora",
+    "nombre": "Volkswagen Bora",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_golf",
+    "nombre": "Volkswagen Golf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id3",
+    "nombre": "Volkswagen ID.3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id7",
+    "nombre": "Volkswagen ID.7",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_polo",
+    "nombre": "Volkswagen ID. Polo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_era_5s",
+    "nombre": "Volkswagen ID. Era 5S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_unyx_07",
+    "nombre": "Volkswagen ID. Unyx 07",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_unyx_09",
+    "nombre": "Volkswagen ID. Unyx 09",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_jettasagitarvento",
+    "nombre": "Volkswagen Jetta/Sagitar/Vento",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lamando",
+    "nombre": "Volkswagen Lamando",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lavida",
+    "nombre": "Volkswagen Lavida",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lavida_pro",
+    "nombre": "Volkswagen Lavida Pro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_magotan",
+    "nombre": "Volkswagen Magotan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_passat",
+    "nombre": "Volkswagen Passat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_passat_pro",
+    "nombre": "Volkswagen Passat Pro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_polo",
+    "nombre": "Volkswagen Polo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_sagitar_l",
+    "nombre": "Volkswagen Sagitar L",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_sagitar_s",
+    "nombre": "Volkswagen Sagitar S",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_virtus_polo_sedan_lavida_xr",
+    "nombre": "Volkswagen Virtus / Polo Sedan / Lavida XR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_atlasteramont",
+    "nombre": "Volkswagen Atlas/Teramont",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id4",
+    "nombre": "Volkswagen ID.4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id5",
+    "nombre": "Volkswagen ID.5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id6",
+    "nombre": "Volkswagen ID.6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_aura_t6",
+    "nombre": "Volkswagen ID. Aura T6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_cross",
+    "nombre": "Volkswagen ID. Cross",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_era_5x",
+    "nombre": "Volkswagen ID. Era 5X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_era_8x",
+    "nombre": "Volkswagen ID. Era 8X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_era_9x",
+    "nombre": "Volkswagen ID. Era 9X",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_unyx_06",
+    "nombre": "Volkswagen ID. Unyx 06",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_unyx_08",
+    "nombre": "Volkswagen ID. Unyx 08",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_cross_tharu_xr_taigun",
+    "nombre": "Volkswagen T-Cross / Tharu XR / Taigun",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_roc",
+    "nombre": "Volkswagen T-Roc",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_taigonivus",
+    "nombre": "Volkswagen Taigo/Nivus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_talagon",
+    "nombre": "Volkswagen Talagon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_taostharu",
+    "nombre": "Volkswagen Taos/Tharu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_tavendor",
+    "nombre": "Volkswagen Tavendor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_tayron",
+    "nombre": "Volkswagen Tayron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_tera",
+    "nombre": "Volkswagen Tera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_tiguan",
+    "nombre": "Volkswagen Tiguan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_buzz",
+    "nombre": "Volkswagen ID. Buzz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_viloran",
+    "nombre": "Volkswagen Viloran",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_beetle",
+    "nombre": "Volkswagen Beetle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_brasilia",
+    "nombre": "Volkswagen Brasília",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_country_buggysakbayan",
+    "nombre": "Volkswagen Country Buggy/Sakbayan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_gacel",
+    "nombre": "Volkswagen Gacel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_hebmuller_cabriolet",
+    "nombre": "Volkswagen Hebmüller Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_karmann_ghia",
+    "nombre": "Volkswagen Karmann Ghia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_kommandeurswagen",
+    "nombre": "Volkswagen Kommandeurswagen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_kubelwagen",
+    "nombre": "Volkswagen Kübelwagen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_schwimmwagen",
+    "nombre": "Volkswagen Schwimmwagen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_senda",
+    "nombre": "Volkswagen Senda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_sp1sp2",
+    "nombre": "Volkswagen SP1/SP2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_type_18a",
+    "nombre": "Volkswagen Type 18A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_type_147",
+    "nombre": "Volkswagen Type 147",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_porsche_914",
+    "nombre": "Volkswagen VW-Porsche 914",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_ameo",
+    "nombre": "Volkswagen Ameo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_apollo",
+    "nombre": "Volkswagen Apollo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_arteoncc",
+    "nombre": "Volkswagen Arteon/CC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_atlantic",
+    "nombre": "Volkswagen Atlantic",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_c_trek",
+    "nombre": "Volkswagen C-Trek",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_cabrio",
+    "nombre": "Volkswagen Cabrio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_cabriolet",
+    "nombre": "Volkswagen Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_carat",
+    "nombre": "Volkswagen Carat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_caribe",
+    "nombre": "Volkswagen Caribe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_citi_golf",
+    "nombre": "Volkswagen Citi Golf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_clasico",
+    "nombre": "Volkswagen Clásico",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_corrado",
+    "nombre": "Volkswagen Corrado",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_corsar",
+    "nombre": "Volkswagen Corsar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_dasher",
+    "nombre": "Volkswagen Dasher",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_derby",
+    "nombre": "Volkswagen Derby",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_eos",
+    "nombre": "Volkswagen Eos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_fox",
+    "nombre": "Volkswagen Fox",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_gol",
+    "nombre": "Volkswagen Gol",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_golf_plus",
+    "nombre": "Volkswagen Golf Plus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_golf_sportsvan",
+    "nombre": "Volkswagen Golf Sportsvan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_iltis",
+    "nombre": "Volkswagen Iltis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_k70",
+    "nombre": "Volkswagen K70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_logus",
+    "nombre": "Volkswagen Logus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lupo",
+    "nombre": "Volkswagen Lupo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_new_beetle",
+    "nombre": "Volkswagen New Beetle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_parati",
+    "nombre": "Volkswagen Parati",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_passat_lingyu",
+    "nombre": "Volkswagen Passat Lingyu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_phaeton",
+    "nombre": "Volkswagen Phaeton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_phideon",
+    "nombre": "Volkswagen Phideon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_pointer",
+    "nombre": "Volkswagen Pointer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_polo_playa",
+    "nombre": "Volkswagen Polo Playa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_quantum",
+    "nombre": "Volkswagen Quantum",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_rabbit",
+    "nombre": "Volkswagen Rabbit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_routan",
+    "nombre": "Volkswagen Routan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_santana",
+    "nombre": "Volkswagen Santana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_scirocco",
+    "nombre": "Volkswagen Scirocco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_sharan",
+    "nombre": "Volkswagen Sharan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_spacecross",
+    "nombre": "Volkswagen SpaceCross",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_suranspacefox",
+    "nombre": "Volkswagen Suran/SpaceFox",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_taro",
+    "nombre": "Volkswagen Taro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_roc_cabriolet",
+    "nombre": "Volkswagen T-Roc Cabriolet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_touareg",
+    "nombre": "Volkswagen Touareg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_touran",
+    "nombre": "Volkswagen Touran",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_up",
+    "nombre": "Volkswagen Up",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_ventopolo_sedan",
+    "nombre": "Volkswagen Vento/Polo Sedan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_voyagegol_sedan",
+    "nombre": "Volkswagen Voyage/Gol Sedan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_xl1",
+    "nombre": "Volkswagen XL1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_1_litrel1xl1_concept",
+    "nombre": "Volkswagen 1-Litre/L1/XL1 Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_alltrack_concept",
+    "nombre": "Volkswagen Alltrack Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_arvw",
+    "nombre": "Volkswagen ARVW",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_auto_2000",
+    "nombre": "Volkswagen Auto 2000",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_bio_runner",
+    "nombre": "Volkswagen Bio Runner",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_budd_e",
+    "nombre": "Volkswagen BUDD-e",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_bulli_concept",
+    "nombre": "Volkswagen Bulli Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_c_coupe_gte",
+    "nombre": "Volkswagen C Coupe GTE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_chico",
+    "nombre": "Volkswagen Chico",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_concept_a",
+    "nombre": "Volkswagen Concept A",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_concept_bluesport",
+    "nombre": "Volkswagen Concept BlueSport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_concept_d",
+    "nombre": "Volkswagen Concept D",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_concept_r",
+    "nombre": "Volkswagen Concept R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_crossblue_concept",
+    "nombre": "Volkswagen CrossBlue Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_cross_coupe_gte_concept",
+    "nombre": "Volkswagen Cross Coupe GTE concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_ecoracer",
+    "nombre": "Volkswagen EcoRacer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_edag_biwak",
+    "nombre": "Volkswagen EDAG Biwak",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_gti_roadstersupersport_vision_gran_turismo",
+    "nombre": "Volkswagen GTI Roadster/Supersport Vision Gran Turismo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_gx3",
+    "nombre": "Volkswagen GX3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id2all",
+    "nombre": "Volkswagen ID.2all",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_buggy",
+    "nombre": "Volkswagen I.D. Buggy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_crozz",
+    "nombre": "Volkswagen I.D. Crozz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_r",
+    "nombre": "Volkswagen I.D. R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_roomzz",
+    "nombre": "Volkswagen I.D. Roomzz",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_space_vizzion",
+    "nombre": "Volkswagen I.D. Space Vizzion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_aero",
+    "nombre": "Volkswagen ID. Aero",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_code",
+    "nombre": "Volkswagen ID. Code",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_life",
+    "nombre": "Volkswagen ID. Life",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_idnext",
+    "nombre": "Volkswagen ID.Next",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_vizzion",
+    "nombre": "Volkswagen ID. Vizzion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_iroc",
+    "nombre": "Volkswagen Iroc",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_magellan",
+    "nombre": "Volkswagen Magellan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_microbus_concept",
+    "nombre": "Volkswagen Microbus Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_milano_taxi",
+    "nombre": "Volkswagen Milano Taxi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_new_beetle_ragster",
+    "nombre": "Volkswagen New Beetle Ragster",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_new_compact_coupe",
+    "nombre": "Volkswagen New Compact Coupé",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_phaeton_d2_concept",
+    "nombre": "Volkswagen Phaeton D2 Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_smv_concept",
+    "nombre": "Volkswagen SMV Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_stanley",
+    "nombre": "Volkswagen Stanley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_cross_breeze_concept",
+    "nombre": "Volkswagen T-Cross Breeze Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_roc_concept",
+    "nombre": "Volkswagen T-Roc Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t_prime_concept_gte",
+    "nombre": "Volkswagen T-Prime Concept GTE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_taigun_concept",
+    "nombre": "Volkswagen Taigun Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_tarok_concept",
+    "nombre": "Volkswagen Tarok Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_touran_hymotion",
+    "nombre": "Volkswagen Touran HyMotion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_w12_couperoadster",
+    "nombre": "Volkswagen W12 Coupe/Roadster",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_xl_sport_concept",
+    "nombre": "Volkswagen XL Sport Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_e_beetle_concept",
+    "nombre": "Volkswagen e-Beetle Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_polo_r_wrc",
+    "nombre": "Volkswagen Polo R WRC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_formula_vee",
+    "nombre": "Volkswagen Formula Vee",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_empi_imp",
+    "nombre": "Volkswagen EMPI Imp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_baja_bug",
+    "nombre": "Volkswagen Baja Bug",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_meyers_manx",
+    "nombre": "Volkswagen Meyers Manx",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_race_touareg",
+    "nombre": "Volkswagen Race Touareg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_petrol_engines_discontinued_petrol_engines_g40_g60_vr6_engine",
+    "nombre": "Volkswagen Petrol engines Discontinued petrol engines G40 / G60 VR6 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_discontinued_petrol_engines",
+    "nombre": "Volkswagen Discontinued petrol engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_g40_g60",
+    "nombre": "Volkswagen G40 / G60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_vr6_engine",
+    "nombre": "Volkswagen VR6 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_diesel_engines_discontinued_diesel_engines",
+    "nombre": "Volkswagen Diesel engines Discontinued diesel engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_discontinued_diesel_engines",
+    "nombre": "Volkswagen Discontinued diesel engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_north_american_engines",
+    "nombre": "Volkswagen North American engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_air_cooled_engine",
+    "nombre": "Volkswagen Air-cooled engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_wasserboxer",
+    "nombre": "Volkswagen Wasserboxer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_autoeuropa",
+    "nombre": "Volkswagen Autoeuropa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_bratislava",
+    "nombre": "Volkswagen Bratislava",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_chattanooga",
+    "nombre": "Volkswagen Chattanooga",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_poznan",
+    "nombre": "Volkswagen Poznań",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_transparent_factory",
+    "nombre": "Volkswagen Transparent Factory",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_westmoreland",
+    "nombre": "Volkswagen Westmoreland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_wolfsburg",
+    "nombre": "Volkswagen Wolfsburg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_zwickau",
+    "nombre": "Volkswagen Zwickau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_passenger_cars",
+    "nombre": "Volkswagen List of passenger cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_emissions_scandal",
+    "nombre": "Volkswagen Emissions scandal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_4motion",
+    "nombre": "Volkswagen 4Motion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_advertising",
+    "nombre": "Volkswagen Advertising",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_automuseum_volkswagen",
+    "nombre": "Volkswagen AutoMuseum Volkswagen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_bluemotion",
+    "nombre": "Volkswagen BlueMotion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_ehra_lessien",
+    "nombre": "Volkswagen Ehra-Lessien",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_deutsche_arbeitsfront",
+    "nombre": "Volkswagen Deutsche Arbeitsfront",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_g_lader",
+    "nombre": "Volkswagen G-Lader",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_herbie",
+    "nombre": "Volkswagen Herbie",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_platforms",
+    "nombre": "Volkswagen Platforms",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_r",
+    "nombre": "Volkswagen R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_westfalia_camper",
+    "nombre": "Volkswagen Westfalia Camper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_category",
+    "nombre": "Volkswagen Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_amarok",
+    "nombre": "Volkswagen Amarok",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_caddy",
+    "nombre": "Volkswagen Caddy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_crafter",
+    "nombre": "Volkswagen Crafter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_id_buzz_cargo",
+    "nombre": "Volkswagen ID. Buzz Cargo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_saveiro",
+    "nombre": "Volkswagen Saveiro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_transportercaravelle",
+    "nombre": "Volkswagen Transporter/Caravelle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_multivan",
+    "nombre": "Volkswagen Multivan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_kleinlieferwagen",
+    "nombre": "Volkswagen Kleinlieferwagen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_ea489_basistransporter",
+    "nombre": "Volkswagen EA489 Basistransporter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_type_2_transporter_bus_splitscreen",
+    "nombre": "Volkswagen Type 2  Transporter / Bus / Splitscreen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_type_2_transporter_caravelle_vanagon_t25",
+    "nombre": "Volkswagen Type 2 : Transporter / Caravelle / Vanagon / T25",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_type_2_transportercaravellevanagont25",
+    "nombre": "Volkswagen Type 2 : Transporter/Caravelle/Vanagon/T25",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t4_transportermultivancaravelleeurovan",
+    "nombre": "Volkswagen T4: Transporter/Multivan/Caravelle/Eurovan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t5_transportermultivaneurovankombicaravelle",
+    "nombre": "Volkswagen T5: Transporter/Multivan/Eurovan/Kombi/Caravelle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_t6_transportercaravellecalifornia",
+    "nombre": "Volkswagen T6: Transporter/Caravelle/California",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_l80",
+    "nombre": "Volkswagen L80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lt",
+    "nombre": "Volkswagen LT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_search_rescue_pickup_concept",
+    "nombre": "Volkswagen Search & Rescue Pickup Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_volkswagen_group_factories",
+    "nombre": "Volkswagen list of Volkswagen Group factories",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_volkswagen_group_platforms",
+    "nombre": "Volkswagen list of Volkswagen Group platforms",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_volkswagen_group_petrol_engines",
+    "nombre": "Volkswagen list of Volkswagen Group petrol engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_list_of_volkswagen_group_diesel_engines",
+    "nombre": "Volkswagen list of Volkswagen Group diesel engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_transporter",
+    "nombre": "Volkswagen Transporter",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_trucks_and_buses",
+    "nombre": "Volkswagen Trucks and Buses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_volkswagen_vehicles",
+    "nombre": "Volkswagen vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_german_technology_related_lists",
+    "nombre": "Volkswagen German technology-related lists",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lists_of_cars",
+    "nombre": "Volkswagen Lists of cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_lists_of_vehicles_by_manufacturer",
+    "nombre": "Volkswagen Lists of vehicles by manufacturer",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_articles_with_short_description",
+    "nombre": "Volkswagen Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_short_description_is_different_from_wikidata",
+    "nombre": "Volkswagen Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_this_page_was_last_edited_on_12_august_2026_at_0653",
+    "nombre": "Volkswagen This page was last edited on 12 August 2026, at 06:53  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_page_was_rendered_with_parsoid",
+    "nombre": "Volkswagen Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_privacy_policy",
+    "nombre": "Volkswagen Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_disclaimers",
+    "nombre": "Volkswagen Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_contact_wikipedia",
+    "nombre": "Volkswagen Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_legal_safety_contacts",
+    "nombre": "Volkswagen Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_code_of_conduct",
+    "nombre": "Volkswagen Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_developers",
+    "nombre": "Volkswagen Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_statistics",
+    "nombre": "Volkswagen Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_cookie_statement",
+    "nombre": "Volkswagen Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "vw_mobile_view",
+    "nombre": "Volkswagen Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

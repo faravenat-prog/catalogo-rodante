@@ -1,0 +1,441 @@
+[
+  {
+    "id": "daihatsu_copen",
+    "nombre": "Daihatsu Copen",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_mira_es",
+    "nombre": "Daihatsu Mira e:S",
+    "anio_desde": 1980,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_move",
+    "nombre": "Daihatsu Move",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_move_canbus",
+    "nombre": "Daihatsu Move Canbus",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_taft",
+    "nombre": "Daihatsu Taft",
+    "anio_desde": 1974,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_tanto",
+    "nombre": "Daihatsu Tanto",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei car"
+    ]
+  },
+  {
+    "id": "daihatsu_hijet",
+    "nombre": "Daihatsu Hijet",
+    "anio_desde": 1960,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Kei truck"
+    ]
+  },
+  {
+    "id": "daihatsu_sirion",
+    "nombre": "Daihatsu Sirion",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "daihatsu_luxio",
+    "nombre": "Daihatsu Luxio",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/van"
+    ]
+  },
+  {
+    "id": "daihatsu_sigra",
+    "nombre": "Daihatsu Sigra",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/van"
+    ]
+  },
+  {
+    "id": "daihatsu_thor",
+    "nombre": "Daihatsu Thor",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/van"
+    ]
+  },
+  {
+    "id": "daihatsu_xenia",
+    "nombre": "Daihatsu Xenia",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/van"
+    ]
+  },
+  {
+    "id": "daihatsu_terios",
+    "nombre": "Daihatsu Terios",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "daihatsu_applause",
+    "nombre": "Daihatsu Applause",
+    "anio_desde": 1988,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_ascendvalera",
+    "nombre": "Daihatsu Ascend/Valéra",
+    "anio_desde": 1993,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_altis",
+    "nombre": "Daihatsu Altis",
+    "anio_desde": 2000,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_bee",
+    "nombre": "Daihatsu Bee",
+    "anio_desde": 1951,
+    "anio_hasta": 1952,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_bego",
+    "nombre": "Daihatsu Be‣go",
+    "anio_desde": 2006,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_boon_luminas",
+    "nombre": "Daihatsu Boon Luminas",
+    "anio_desde": 2008,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_boon",
+    "nombre": "Daihatsu Boon",
+    "anio_desde": 2004,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_cast",
+    "nombre": "Daihatsu Cast",
+    "anio_desde": 2015,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_ceria",
+    "nombre": "Daihatsu Ceria",
+    "anio_desde": 2001,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_charade",
+    "nombre": "Daihatsu Charade",
+    "anio_desde": 1977,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_charmant",
+    "nombre": "Daihatsu Charmant",
+    "anio_desde": 1974,
+    "anio_hasta": 1987,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_compagno",
+    "nombre": "Daihatsu Compagno",
+    "anio_desde": 1963,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_coomateria",
+    "nombre": "Daihatsu Coo/Materia",
+    "anio_desde": 2006,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_consorte",
+    "nombre": "Daihatsu Consorte",
+    "anio_desde": 1969,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_delta",
+    "nombre": "Daihatsu Delta",
+    "anio_desde": 1970,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_esse",
+    "nombre": "Daihatsu Esse",
+    "anio_desde": 2005,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_fellow_max",
+    "nombre": "Daihatsu Fellow Max",
+    "anio_desde": 1966,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_hijet_caddie",
+    "nombre": "Daihatsu Hijet Caddie",
+    "anio_desde": 2016,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_hijet_gran_cargoextol",
+    "nombre": "Daihatsu Hijet Gran Cargo/Extol",
+    "anio_desde": 1999,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_hi_max",
+    "nombre": "Daihatsu Hi-Max",
+    "anio_desde": 2016,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_leeza",
+    "nombre": "Daihatsu Leeza",
+    "anio_desde": 1986,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_leeza_spider",
+    "nombre": "Daihatsu Leeza Spider",
+    "anio_desde": 1989,
+    "anio_hasta": 1993,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_max",
+    "nombre": "Daihatsu Max",
+    "anio_desde": 2001,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_mebius",
+    "nombre": "Daihatsu Mebius",
+    "anio_desde": 2013,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_midget_midget_ii",
+    "nombre": "Daihatsu Midget / Midget II",
+    "anio_desde": 1996,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_miracuoredominohandihandivan",
+    "nombre": "Daihatsu Mira/Cuore/Domino/Handi/Handivan",
+    "anio_desde": 1980,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_mira_cocoa",
+    "nombre": "Daihatsu Mira Cocoa",
+    "anio_desde": 2009,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_mira_gino",
+    "nombre": "Daihatsu Mira Gino",
+    "anio_desde": 1999,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_mira_tocot",
+    "nombre": "Daihatsu Mira Tocot",
+    "anio_desde": 2018,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_move_conte",
+    "nombre": "Daihatsu Move Conte",
+    "anio_desde": 2008,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_move_latte",
+    "nombre": "Daihatsu Move Latte",
+    "anio_desde": 2004,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_naked",
+    "nombre": "Daihatsu Naked",
+    "anio_desde": 1999,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_new_line",
+    "nombre": "Daihatsu New Line",
+    "anio_desde": 1963,
+    "anio_hasta": 1968,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_opti",
+    "nombre": "Daihatsu Opti",
+    "anio_desde": 1992,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_pyzargran_movegrand_move",
+    "nombre": "Daihatsu Pyzar/Gran Move/Grand Move",
+    "anio_desde": 1996,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_rockyferozasportrak_f300",
+    "nombre": "Daihatsu Rocky/Feroza/Sportrak (F300)",
+    "anio_desde": 1989,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_ruggerrockyfourtraktafthilineferoza_f70",
+    "nombre": "Daihatsu Rugger/Rocky/Fourtrak/Taft/Hiline/Feroza (F70)",
+    "anio_desde": 1989,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_sonica",
+    "nombre": "Daihatsu Sonica",
+    "anio_desde": 2006,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_storia",
+    "nombre": "Daihatsu Storia",
+    "anio_desde": 1998,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_taft_f10f20f50f60scat",
+    "nombre": "Daihatsu Taft (F10/F20/F50/F60)/Scat",
+    "anio_desde": 1974,
+    "anio_hasta": 1984,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_tanto_exe",
+    "nombre": "Daihatsu Tanto Exe",
+    "anio_desde": 2009,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_taruna",
+    "nombre": "Daihatsu Taruna",
+    "anio_desde": 1999,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_trevis",
+    "nombre": "Daihatsu Trevis",
+    "anio_desde": 2004,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_wake",
+    "nombre": "Daihatsu Wake",
+    "anio_desde": 2014,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_yrv",
+    "nombre": "Daihatsu YRV",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "daihatsu_zebrahijet_zebrahijet_maxxcitivan",
+    "nombre": "Daihatsu Zebra/Hijet Zebra/Hijet Maxx/Citivan",
+    "anio_desde": 1987,
+    "anio_hasta": 2007,
+    "segmentos": []
+  }
+]

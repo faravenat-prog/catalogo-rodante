@@ -1,0 +1,303 @@
+[
+  {
+    "id": "buick_model_b",
+    "nombre": "Buick Model B",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_four",
+    "nombre": "Buick Four",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_six",
+    "nombre": "Buick Six",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_master_six",
+    "nombre": "Buick Master Six",
+    "anio_desde": 1925,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_standard_six",
+    "nombre": "Buick Standard Six",
+    "anio_desde": 1925,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_limited",
+    "nombre": "Buick Limited",
+    "anio_desde": 1931,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_century",
+    "nombre": "Buick Century",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_roadmaster",
+    "nombre": "Buick Roadmaster",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_special",
+    "nombre": "Buick Special",
+    "anio_desde": 1936,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_super",
+    "nombre": "Buick Super",
+    "anio_desde": 1939,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_skylark",
+    "nombre": "Buick Skylark",
+    "anio_desde": 1953,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_electra",
+    "nombre": "Buick Electra",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_invicta",
+    "nombre": "Buick Invicta",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_lesabre",
+    "nombre": "Buick LeSabre",
+    "anio_desde": 1959,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_riviera",
+    "nombre": "Buick Riviera",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_wildcat",
+    "nombre": "Buick Wildcat",
+    "anio_desde": 1963,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_estate_wagon",
+    "nombre": "Buick Estate wagon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_centurion",
+    "nombre": "Buick Centurion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_gsx",
+    "nombre": "Buick GSX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_apollo",
+    "nombre": "Buick Apollo",
+    "anio_desde": 1973,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_skyhawk",
+    "nombre": "Buick Skyhawk",
+    "anio_desde": 1974,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_somerset",
+    "nombre": "Buick Somerset",
+    "anio_desde": 1984,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_reatta",
+    "nombre": "Buick Reatta",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_park_avenue",
+    "nombre": "Buick Park Avenue",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_roadmaster_revival",
+    "nombre": "Buick Roadmaster (revival)",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_rendezvous",
+    "nombre": "Buick Rendezvous",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_rainier",
+    "nombre": "Buick Rainier",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_excelle",
+    "nombre": "Buick Excelle",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_terraza",
+    "nombre": "Buick Terraza",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_lucerne",
+    "nombre": "Buick Lucerne",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_excelle_gt",
+    "nombre": "Buick Excelle GT",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_verano_north_america",
+    "nombre": "Buick Verano (North America)",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_encore",
+    "nombre": "Buick Encore",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_gl6",
+    "nombre": "Buick GL6",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_enclave_china",
+    "nombre": "Buick Enclave (China)",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_velite_7",
+    "nombre": "Buick Velite 7",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_electra_e4",
+    "nombre": "Buick Electra E4",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_opel",
+    "nombre": "Buick Opel",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_sail",
+    "nombre": "Buick Sail",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_excelle_hrv",
+    "nombre": "Buick Excelle HRV",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_royaum",
+    "nombre": "Buick Royaum",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_cascada",
+    "nombre": "Buick Cascada",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "buick_velite_5",
+    "nombre": "Buick Velite 5",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

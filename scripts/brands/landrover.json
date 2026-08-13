@@ -1,0 +1,16 @@
+[
+  {
+    "id": "landrover_units_sold",
+    "nombre": "Landrover Units sold",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "landrover_china_includes_data_for_201516_onwards_of_chery_jaguar_land_rover_cjlr_sales_asia_pacific_is_merged_into_the_rest_of_world_heading_from_201516_onwards",
+    "nombre": "Landrover * China includes data for 2015/16 onwards of Chery Jaguar Land Rover (CJLR) sales. ** Asia Pacific is merged into the rest of world heading from 2015/16 onwards.",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

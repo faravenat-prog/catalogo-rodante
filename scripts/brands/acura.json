@@ -1,0 +1,121 @@
+[
+  {
+    "id": "acura_legend",
+    "nombre": "Acura Legend",
+    "anio_desde": 1986,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_nsx",
+    "nombre": "Acura NSX",
+    "anio_desde": 1991,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_vigor",
+    "nombre": "Acura Vigor",
+    "anio_desde": 1992,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_rl",
+    "nombre": "Acura RL",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_slx",
+    "nombre": "Acura SLX",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_tl",
+    "nombre": "Acura TL",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_cl",
+    "nombre": "Acura CL",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_el",
+    "nombre": "Acura EL",
+    "anio_desde": 1997,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_rsx",
+    "nombre": "Acura RSX",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_tsx",
+    "nombre": "Acura TSX",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_csx",
+    "nombre": "Acura CSX",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_rdx",
+    "nombre": "Acura RDX",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_zdx",
+    "nombre": "Acura ZDX",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_ilx",
+    "nombre": "Acura ILX",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_rlx",
+    "nombre": "Acura RLX",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_tlx",
+    "nombre": "Acura TLX",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "acura_cdx",
+    "nombre": "Acura CDX",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

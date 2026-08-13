@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "peugeot_rcz",
+    "nombre": "Peugeot RCZ",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_ion",
+    "nombre": "Peugeot iOn",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_hoggar",
+    "nombre": "Peugeot Hoggar",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_pick_up",
+    "nombre": "Peugeot Pick Up",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_d3",
+    "nombre": "Peugeot D3",
+    "anio_desde": 1950,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_d4",
+    "nombre": "Peugeot D4",
+    "anio_desde": 1955,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_j5",
+    "nombre": "Peugeot J5",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_j7",
+    "nombre": "Peugeot J7",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_j9",
+    "nombre": "Peugeot J9",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_p4",
+    "nombre": "Peugeot P4",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_dma",
+    "nombre": "Peugeot DMA",
+    "anio_desde": 1941,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_vlv",
+    "nombre": "Peugeot VLV",
+    "anio_desde": 1941,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_bipper",
+    "nombre": "Peugeot Bipper",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_bipper_tepee",
+    "nombre": "Peugeot Bipper Tepee",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Others"
+    ]
+  },
+  {
+    "id": "peugeot_type_1",
+    "nombre": "Peugeot Type 1",
+    "anio_desde": 1886,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_2",
+    "nombre": "Peugeot Type 2",
+    "anio_desde": 1890,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_3",
+    "nombre": "Peugeot Type 3",
+    "anio_desde": 1891,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_4",
+    "nombre": "Peugeot Type 4",
+    "anio_desde": 1892,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_5",
+    "nombre": "Peugeot Type 5",
+    "anio_desde": 1893,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_6",
+    "nombre": "Peugeot Type 6",
+    "anio_desde": 1894,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_7",
+    "nombre": "Peugeot Type 7",
+    "anio_desde": 1894,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_8",
+    "nombre": "Peugeot Type 8",
+    "anio_desde": 1894,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_9",
+    "nombre": "Peugeot Type 9",
+    "anio_desde": 1894,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_10",
+    "nombre": "Peugeot Type 10",
+    "anio_desde": 1894,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_11",
+    "nombre": "Peugeot Type 11",
+    "anio_desde": 1895,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_12",
+    "nombre": "Peugeot Type 12",
+    "anio_desde": 1895,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_13",
+    "nombre": "Peugeot Type 13",
+    "anio_desde": 1895,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_14",
+    "nombre": "Peugeot Type 14",
+    "anio_desde": 1896,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_15",
+    "nombre": "Peugeot Type 15",
+    "anio_desde": 1896,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_16",
+    "nombre": "Peugeot Type 16",
+    "anio_desde": 1897,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_17",
+    "nombre": "Peugeot Type 17",
+    "anio_desde": 1897,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_18",
+    "nombre": "Peugeot Type 18",
+    "anio_desde": 1897,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_19",
+    "nombre": "Peugeot Type 19",
+    "anio_desde": 1897,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_20",
+    "nombre": "Peugeot Type 20",
+    "anio_desde": 1897,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_21",
+    "nombre": "Peugeot Type 21",
+    "anio_desde": 1898,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_22",
+    "nombre": "Peugeot Type 22",
+    "anio_desde": 1898,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_23",
+    "nombre": "Peugeot Type 23",
+    "anio_desde": 1898,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_24",
+    "nombre": "Peugeot Type 24",
+    "anio_desde": 1898,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_25",
+    "nombre": "Peugeot Type 25",
+    "anio_desde": 1898,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_26",
+    "nombre": "Peugeot Type 26",
+    "anio_desde": 1899,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_27",
+    "nombre": "Peugeot Type 27",
+    "anio_desde": 1899,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_28",
+    "nombre": "Peugeot Type 28",
+    "anio_desde": 1899,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_29",
+    "nombre": "Peugeot Type 29",
+    "anio_desde": 1899,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_30",
+    "nombre": "Peugeot Type 30",
+    "anio_desde": 1900,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_31",
+    "nombre": "Peugeot Type 31",
+    "anio_desde": 1900,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_32",
+    "nombre": "Peugeot Type 32",
+    "anio_desde": 1900,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_33",
+    "nombre": "Peugeot Type 33",
+    "anio_desde": 1901,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_34",
+    "nombre": "Peugeot Type 34",
+    "anio_desde": 1900,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_35",
+    "nombre": "Peugeot Type 35",
+    "anio_desde": 1900,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_36",
+    "nombre": "Peugeot Type 36",
+    "anio_desde": 1901,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_37",
+    "nombre": "Peugeot Type 37",
+    "anio_desde": 1902,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_39",
+    "nombre": "Peugeot Type 39",
+    "anio_desde": 1902,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_42",
+    "nombre": "Peugeot Type 42",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_43",
+    "nombre": "Peugeot Type 43",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_44",
+    "nombre": "Peugeot Type 44",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_48",
+    "nombre": "Peugeot Type 48",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_49",
+    "nombre": "Peugeot Type 49",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_50",
+    "nombre": "Peugeot Type 50",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_54",
+    "nombre": "Peugeot Type 54",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_56",
+    "nombre": "Peugeot Type 56",
+    "anio_desde": 1903,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_57",
+    "nombre": "Peugeot Type 57",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_58",
+    "nombre": "Peugeot Type 58",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_61",
+    "nombre": "Peugeot Type 61",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_62",
+    "nombre": "Peugeot Type 62",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_63",
+    "nombre": "Peugeot Type 63",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_64",
+    "nombre": "Peugeot Type 64",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_65",
+    "nombre": "Peugeot Type 65",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_66",
+    "nombre": "Peugeot Type 66",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_67",
+    "nombre": "Peugeot Type 67",
+    "anio_desde": 1904,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_68",
+    "nombre": "Peugeot Type 68",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_bebe_type_69",
+    "nombre": "Peugeot Bébé (Type 69)",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_71",
+    "nombre": "Peugeot Type 71",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_72",
+    "nombre": "Peugeot Type 72",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_76",
+    "nombre": "Peugeot Type 76",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_77",
+    "nombre": "Peugeot Type 77",
+    "anio_desde": 1905,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_78",
+    "nombre": "Peugeot Type 78",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_80",
+    "nombre": "Peugeot Type 80",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_81",
+    "nombre": "Peugeot Type 81",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_82",
+    "nombre": "Peugeot Type 82",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_83",
+    "nombre": "Peugeot Type 83",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_85",
+    "nombre": "Peugeot Type 85",
+    "anio_desde": 1906,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_88",
+    "nombre": "Peugeot Type 88",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_91",
+    "nombre": "Peugeot Type 91",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_92",
+    "nombre": "Peugeot Type 92",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_93",
+    "nombre": "Peugeot Type 93",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_95",
+    "nombre": "Peugeot Type 95",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_96",
+    "nombre": "Peugeot Type 96",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_99",
+    "nombre": "Peugeot Type 99",
+    "anio_desde": 1907,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_101",
+    "nombre": "Peugeot Type 101",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_103",
+    "nombre": "Peugeot Type 103",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_104",
+    "nombre": "Peugeot Type 104",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_105",
+    "nombre": "Peugeot Type 105",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_106",
+    "nombre": "Peugeot Type 106",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_107",
+    "nombre": "Peugeot Type 107",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_108",
+    "nombre": "Peugeot Type 108",
+    "anio_desde": 1908,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_111",
+    "nombre": "Peugeot Type 111",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_112",
+    "nombre": "Peugeot Type 112",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_113",
+    "nombre": "Peugeot Type 113",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_116",
+    "nombre": "Peugeot Type 116",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_117",
+    "nombre": "Peugeot Type 117",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_118",
+    "nombre": "Peugeot Type 118",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_120",
+    "nombre": "Peugeot Type 120",
+    "anio_desde": 1909,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_122",
+    "nombre": "Peugeot Type 122",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_125",
+    "nombre": "Peugeot Type 125",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_126",
+    "nombre": "Peugeot Type 126",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_127",
+    "nombre": "Peugeot Type 127",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_129",
+    "nombre": "Peugeot Type 129",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_130",
+    "nombre": "Peugeot Type 130",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_131",
+    "nombre": "Peugeot Type 131",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_133",
+    "nombre": "Peugeot Type 133",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_134",
+    "nombre": "Peugeot Type 134",
+    "anio_desde": 1910,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_135",
+    "nombre": "Peugeot Type 135",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_136",
+    "nombre": "Peugeot Type 136",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_138",
+    "nombre": "Peugeot Type 138",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_139",
+    "nombre": "Peugeot Type 139",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_141",
+    "nombre": "Peugeot Type 141",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_143",
+    "nombre": "Peugeot Type 143",
+    "anio_desde": 1911,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_144",
+    "nombre": "Peugeot Type 144",
+    "anio_desde": 1913,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_145",
+    "nombre": "Peugeot Type 145",
+    "anio_desde": 1913,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_146",
+    "nombre": "Peugeot Type 146",
+    "anio_desde": 1913,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_147",
+    "nombre": "Peugeot Type 147",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_148",
+    "nombre": "Peugeot Type 148",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_150",
+    "nombre": "Peugeot Type 150",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_153",
+    "nombre": "Peugeot Type 153",
+    "anio_desde": 1914,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_156",
+    "nombre": "Peugeot Type 156",
+    "anio_desde": 1920,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_159",
+    "nombre": "Peugeot Type 159",
+    "anio_desde": 1920,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_160",
+    "nombre": "Peugeot Type 160",
+    "anio_desde": 1913,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_quadrilette_type_161",
+    "nombre": "Peugeot Quadrilette (Type 161)",
+    "anio_desde": 1921,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_163",
+    "nombre": "Peugeot Type 163",
+    "anio_desde": 1921,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_172_quadrilette_type_172_and_5cv_series",
+    "nombre": "Peugeot Type 172 ( Quadrilette (Type 172) and 5CV series)",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_173",
+    "nombre": "Peugeot Type 173",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_174",
+    "nombre": "Peugeot Type 174",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_175",
+    "nombre": "Peugeot Type 175",
+    "anio_desde": 1923,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_176",
+    "nombre": "Peugeot Type 176",
+    "anio_desde": 1924,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_177",
+    "nombre": "Peugeot Type 177",
+    "anio_desde": 1924,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_181",
+    "nombre": "Peugeot Type 181",
+    "anio_desde": 1925,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_12_cv_six_type_183",
+    "nombre": "Peugeot 12 CV Six (Type 183)",
+    "anio_desde": 1928,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_184",
+    "nombre": "Peugeot Type 184",
+    "anio_desde": 1928,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_type_190",
+    "nombre": "Peugeot Type 190",
+    "anio_desde": 1928,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_quasar",
+    "nombre": "Peugeot Quasar",
+    "anio_desde": 1984,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_rc",
+    "nombre": "Peugeot RC",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_hoggar_2",
+    "nombre": "Peugeot Hoggar",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_quark",
+    "nombre": "Peugeot Quark",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_20cup",
+    "nombre": "Peugeot 20Cup",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_908_rc",
+    "nombre": "Peugeot 908 RC",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_flux",
+    "nombre": "Peugeot Flux",
+    "anio_desde": 2007,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_rc_hymotion4",
+    "nombre": "Peugeot RC HYmotion4",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_bb1",
+    "nombre": "Peugeot BB1",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_rcz_hybrid4",
+    "nombre": "Peugeot RCZ HYbrid4",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_ex1",
+    "nombre": "Peugeot EX1",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_hr1",
+    "nombre": "Peugeot HR1",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_sr1",
+    "nombre": "Peugeot SR1",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_velv",
+    "nombre": "Peugeot VeLV",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_onyx",
+    "nombre": "Peugeot Onyx",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_e_legend",
+    "nombre": "Peugeot e-Legend",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "peugeot_inception",
+    "nombre": "Peugeot Inception",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

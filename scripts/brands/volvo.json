@@ -1,0 +1,4531 @@
+[
+  {
+    "id": "volvo_main_page",
+    "nombre": "Volvo Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_contents",
+    "nombre": "Volvo Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_current_events",
+    "nombre": "Volvo Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_random_article",
+    "nombre": "Volvo Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_about_wikipedia",
+    "nombre": "Volvo About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_contact_us",
+    "nombre": "Volvo Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_help",
+    "nombre": "Volvo Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_learn_to_edit",
+    "nombre": "Volvo Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_community_portal",
+    "nombre": "Volvo Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_recent_changes",
+    "nombre": "Volvo Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_upload_file",
+    "nombre": "Volvo Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_special_pages",
+    "nombre": "Volvo Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_donate",
+    "nombre": "Volvo Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_create_account",
+    "nombre": "Volvo Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_log_in",
+    "nombre": "Volvo Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1_history_toggle_history_subsection_11_19271999_12_ford_era_13_geely_era",
+    "nombre": "Volvo 1 History Toggle History subsection 1.1 1927–1999 1.2 Ford era  1.3 Geely era",
+    "anio_desde": 1999,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_12_ford_era",
+    "nombre": "Volvo 1.2 Ford era",
+    "anio_desde": 1999,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_13_geely_era",
+    "nombre": "Volvo 1.3 Geely era",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2_safety_toggle_safety_subsection_21_safety_milestones",
+    "nombre": "Volvo 2 Safety Toggle Safety subsection 2.1 Safety milestones",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_21_safety_milestones",
+    "nombre": "Volvo 2.1 Safety milestones",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_31_early_years",
+    "nombre": "Volvo 3.1 Early years",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_32_tri_digit_nomenclature",
+    "nombre": "Volvo 3.2 Tri-digit nomenclature",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_33_post_tri_digit_models",
+    "nombre": "Volvo 3.3 Post tri-digit models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_34_current_models",
+    "nombre": "Volvo 3.4 Current models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_35_future_models",
+    "nombre": "Volvo 3.5 Future models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_36_concept_cars",
+    "nombre": "Volvo 3.6 Concept cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_41_flexible_fuel_vehicles",
+    "nombre": "Volvo 4.1 Flexible-fuel vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_42_plug_in_hybrids",
+    "nombre": "Volvo 4.2 Plug-in hybrids",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_43_electric_car",
+    "nombre": "Volvo 4.3 Electric car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_44_gas_turbine_hybrid",
+    "nombre": "Volvo 4.4 Gas-turbine Hybrid",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_45_drive_e_engines",
+    "nombre": "Volvo 4.5 Drive-E engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_5_production_locations",
+    "nombre": "Volvo 5 Production locations",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_6_other_facilities",
+    "nombre": "Volvo 6 Other facilities",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_7_engine_types",
+    "nombre": "Volvo 7 Engine types",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_8_transmissions_toggle_transmissions_subsection_81_automatic_transmissions_82_manual_transmissions",
+    "nombre": "Volvo 8 Transmissions Toggle Transmissions subsection 8.1 Automatic transmissions 8.2 Manual transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_81_automatic_transmissions",
+    "nombre": "Volvo 8.1 Automatic transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_82_manual_transmissions",
+    "nombre": "Volvo 8.2 Manual transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_9_motorsport",
+    "nombre": "Volvo 9 Motorsport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_10_marketing_toggle_marketing_subsection_101_logo_102_sponsorship_103_video_games",
+    "nombre": "Volvo 10 Marketing Toggle Marketing subsection 10.1 Logo 10.2 Sponsorship 10.3 Video games",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_101_logo",
+    "nombre": "Volvo 10.1 Logo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_102_sponsorship",
+    "nombre": "Volvo 10.2 Sponsorship",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_103_video_games",
+    "nombre": "Volvo 10.3 Video games",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_11_volvo_trademark_lawsuit",
+    "nombre": "Volvo 11 Volvo trademark lawsuit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_12_see_also",
+    "nombre": "Volvo 12 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_13_references",
+    "nombre": "Volvo 13 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_14_external_links",
+    "nombre": "Volvo 14 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo",
+    "nombre": "Volvo العربية",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_asturianu",
+    "nombre": "Volvo Asturianu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cestina",
+    "nombre": "Volvo Čeština",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cymraeg",
+    "nombre": "Volvo Cymraeg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_dansk",
+    "nombre": "Volvo Dansk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_deutsch",
+    "nombre": "Volvo Deutsch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_espanol",
+    "nombre": "Volvo Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_eesti",
+    "nombre": "Volvo Eesti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_suomi",
+    "nombre": "Volvo Suomi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_francais",
+    "nombre": "Volvo Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_magyar",
+    "nombre": "Volvo Magyar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_bahasa_indonesia",
+    "nombre": "Volvo Bahasa Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_italiano",
+    "nombre": "Volvo Italiano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_qaraqalpaqsha",
+    "nombre": "Volvo Qaraqalpaqsha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_latina",
+    "nombre": "Volvo Latina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_letzebuergesch",
+    "nombre": "Volvo Lëtzebuergesch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lietuviu",
+    "nombre": "Volvo Lietuvių",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_latviesu",
+    "nombre": "Volvo Latviešu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_bahasa_melayu",
+    "nombre": "Volvo Bahasa Melayu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_nederlands",
+    "nombre": "Volvo Nederlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_norsk_nynorsk",
+    "nombre": "Volvo Norsk nynorsk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_norsk_bokmal",
+    "nombre": "Volvo Norsk bokmål",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polski",
+    "nombre": "Volvo Polski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_piemonteis",
+    "nombre": "Volvo Piemontèis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_portugues",
+    "nombre": "Volvo Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_romana",
+    "nombre": "Volvo Română",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_slovencina",
+    "nombre": "Volvo Slovenčina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_slovenscina",
+    "nombre": "Volvo Slovenščina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_svenska",
+    "nombre": "Volvo Svenska",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_turkce",
+    "nombre": "Volvo Türkçe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ozbekcha",
+    "nombre": "Volvo Oʻzbekcha / ўзбекча",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_tieng_viet",
+    "nombre": "Volvo Tiếng Việt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_article",
+    "nombre": "Volvo Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_talk",
+    "nombre": "Volvo Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_read",
+    "nombre": "Volvo Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_view_source",
+    "nombre": "Volvo View source",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_view_history",
+    "nombre": "Volvo View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_what_links_here",
+    "nombre": "Volvo What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_related_changes",
+    "nombre": "Volvo Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_permanent_link",
+    "nombre": "Volvo Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_page_information",
+    "nombre": "Volvo Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cite_this_page",
+    "nombre": "Volvo Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_get_shortened_url",
+    "nombre": "Volvo Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_switch_to_legacy_parser",
+    "nombre": "Volvo Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_download_as_pdf",
+    "nombre": "Volvo Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_printable_version",
+    "nombre": "Volvo Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_wikimedia_commons",
+    "nombre": "Volvo Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_wikidata_item",
+    "nombre": "Volvo Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_li_shufu",
+    "nombre": "Volvo Li Shufu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_hakan_samuelsson",
+    "nombre": "Volvo Håkan Samuelsson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_haleytek",
+    "nombre": "Volvo HaleyTek",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_novo_energy",
+    "nombre": "Volvo NOVO Energy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polestar",
+    "nombre": "Volvo Polestar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zenseact",
+    "nombre": "Volvo Zenseact",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_group_a_manufacturer_of_trucks_buses_and_construction_equipment_owned_by_swedish_interests",
+    "nombre": "Volvo Group – a manufacturer of trucks, buses and construction equipment  owned by Swedish interests",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_car_group_or_volvo_cars_a_manufacturer_of_automobiles_owned_by_ford_motor_company",
+    "nombre": "Volvo Car Group or Volvo Cars – a manufacturer of automobiles owned by Ford Motor Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1944_safety_cage",
+    "nombre": "Volvo 1944 – safety cage",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1944_laminated_windscreen",
+    "nombre": "Volvo 1944 – laminated windscreen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1957_anchor_points_for_two_point_safety_belts_front",
+    "nombre": "Volvo 1957 – anchor points for two-point safety belts, front",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1958_anchor_points_for_two_point_safety_belts_rear",
+    "nombre": "Volvo 1958 – anchor points for two-point safety belts, rear",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1959_three_point_safety_belt_standard_in_front_seats",
+    "nombre": "Volvo 1959 – three-point safety belt, standard in front seats",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1964_rearward_facing_child_safety_seat_first_prototype_tested",
+    "nombre": "Volvo 1964 – rearward-facing child safety seat, first prototype tested",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1966_crumple_zones_front_and_rear",
+    "nombre": "Volvo 1966 – crumple zones front and rear",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1966_safety_door_locks",
+    "nombre": "Volvo 1966 – safety door-locks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1969_inertia_reel_safety_belts",
+    "nombre": "Volvo 1969 – inertia-reel safety belts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1971_reminder_safety_belt",
+    "nombre": "Volvo 1971 – reminder safety belt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1972_three_point_safety_belt_outer_rear_seats",
+    "nombre": "Volvo 1972 – three-point safety belt, outer rear seats",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1972_rearward_facing_child_safety_seat",
+    "nombre": "Volvo 1972 – rearward-facing child safety seat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1974_multistage_impact_absorbing_steering_column",
+    "nombre": "Volvo 1974 – multistage impact absorbing steering column",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1974_bulb_integrity_sensor",
+    "nombre": "Volvo 1974 – bulb integrity sensor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1975_braking_system_with_stepped_bore_master_cylinder",
+    "nombre": "Volvo 1975 – braking system with stepped bore master cylinder",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1978_child_safety_booster_cushion",
+    "nombre": "Volvo 1978 – child safety booster cushion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1982_anti_submarining_protection",
+    "nombre": "Volvo 1982 – \"anti-submarining\" protection",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1986_three_point_safety_belt_in_centre_rear_seat",
+    "nombre": "Volvo 1986 – three-point safety belt in centre rear seat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1990_integrated_child_safety_cushion_in_centre_rear_seat",
+    "nombre": "Volvo 1990 – integrated child safety cushion in centre rear seat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1991_side_impact_protection_system",
+    "nombre": "Volvo 1991 – Side Impact Protection System",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1991_automatic_height_adjusting_safety_belt",
+    "nombre": "Volvo 1991 – automatic height adjusting safety belt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1992_reinforced_rear_seats_estate_models",
+    "nombre": "Volvo 1992 – reinforced rear seats, estate models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1995_front_side_airbags_for_torso_integrated_child_safety_cushion_outer_rear_seats",
+    "nombre": "Volvo 1995 – front side airbags  for torso , integrated child safety cushion, outer rear seats",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1997_roll_over_protection_system",
+    "nombre": "Volvo 1997 – Roll Over Protection System",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1998_whiplash_protection_system",
+    "nombre": "Volvo 1998 – Whiplash Protection System",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1998_roof_mounted_inflatable_curtain_side_airbags",
+    "nombre": "Volvo 1998 – roof-mounted inflatable curtain side airbags",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2001_scc_volvo_safety_concept_car",
+    "nombre": "Volvo 2001 – SCC : Volvo Safety Concept Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2002_roll_stability_control",
+    "nombre": "Volvo 2002 – Roll Stability Control",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2003_volvo_intelligent_vehicle_architecture_new_front_structure",
+    "nombre": "Volvo 2003 – Volvo Intelligent Vehicle Architecture, new front structure",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2003_rear_seat_belt_reminders",
+    "nombre": "Volvo 2003 – rear seat belt reminders",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2003_volvos_traffic_accident_research_team_inaugurated_in_bangkok",
+    "nombre": "Volvo 2003 – Volvo's Traffic Accident Research Team, inaugurated in Bangkok",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2005_door_mounted_inflatable_curtain_airbags",
+    "nombre": "Volvo 2005 – door-mounted inflatable curtain airbags",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2006_personal_car_communicator",
+    "nombre": "Volvo 2006 – Personal Car Communicator",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2006_electrical_parking_brake",
+    "nombre": "Volvo 2006 – Electrical Parking Brake",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2007_lane_departure_warning_a_system_that_warns_the_driver_for_unintended_lane_departures",
+    "nombre": "Volvo 2007 – Lane Departure Warning, a system that warns the driver for unintended lane departures",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2012_knee_airbag_for_the_driver",
+    "nombre": "Volvo 2012 – knee airbag, for the driver",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2012_upgraded_city_safety_now_working_up_to_50_kmh",
+    "nombre": "Volvo 2012 – Upgraded City Safety, now working up to 50 km/h",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2018_head_on_crash_detection_with_auto_brake",
+    "nombre": "Volvo 2018 – Head-on crash detection with Auto Brake.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ov_4_aka_jakob_1927_volvo_ov_4",
+    "nombre": "Volvo ÖV 4 , a.k.a. Jakob 1927 Volvo ÖV 4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv650_series",
+    "nombre": "Volvo PV650 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_tr670_series",
+    "nombre": "Volvo TR670 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv_36_carioca",
+    "nombre": "Volvo PV 36 Carioca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv51",
+    "nombre": "Volvo PV51",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv800_series_and_military",
+    "nombre": "Volvo PV800 Series  and military )",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv_60",
+    "nombre": "Volvo PV 60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv444544_volvo_pv544",
+    "nombre": "Volvo PV444/544 Volvo PV544",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_duett",
+    "nombre": "Volvo Duett",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p1900",
+    "nombre": "Volvo P1900",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_amazonvolvo_122",
+    "nombre": "Volvo Amazon/Volvo 122",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p1800",
+    "nombre": "Volvo P1800",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_66",
+    "nombre": "Volvo 66",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c202",
+    "nombre": "Volvo C202",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c3_series",
+    "nombre": "Volvo C3-series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_140",
+    "nombre": "Volvo 140",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_164",
+    "nombre": "Volvo 164",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_240",
+    "nombre": "Volvo 240",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_260",
+    "nombre": "Volvo 260",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_340",
+    "nombre": "Volvo 340",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_360",
+    "nombre": "Volvo 360",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_440460",
+    "nombre": "Volvo 440/460",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_480",
+    "nombre": "Volvo 480",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_760",
+    "nombre": "Volvo 760",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_780",
+    "nombre": "Volvo 780",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_850",
+    "nombre": "Volvo 850",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_960",
+    "nombre": "Volvo 960",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_1995_volvo_s40_volvo_v40",
+    "nombre": "Volvo Released in 1995 Volvo S40 Volvo V40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s40",
+    "nombre": "Volvo S40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v40",
+    "nombre": "Volvo V40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s70_replaced_the_850_saloon",
+    "nombre": "Volvo S70 replaced the 850 saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70_replaced_the_850_estate",
+    "nombre": "Volvo V70 replaced the 850 estate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90_replaced_the_960_saloon",
+    "nombre": "Volvo S90 replaced the 960 saloon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v90_replaced_the_960_estate",
+    "nombre": "Volvo V90 replaced the 960 estate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_1997_volvo_c70_coupe_volvo_v70_xc",
+    "nombre": "Volvo Released in 1997 Volvo C70 coupé Volvo V70 XC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c70_coupe",
+    "nombre": "Volvo C70 coupé",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70_xc",
+    "nombre": "Volvo V70 XC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_1998_volvo_c70_convertible_volvo_s80_replaced_the_volvo_s90",
+    "nombre": "Volvo Released in 1998 Volvo C70 convertible Volvo S80 replaced the Volvo S90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c70_convertible",
+    "nombre": "Volvo C70 convertible",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s80_replaced_the_volvo_s90",
+    "nombre": "Volvo S80 replaced the Volvo S90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2000_volvo_s60_replaced_the_volvo_s70_volvo_v70_ii_volvo_v70_xc_iixc70",
+    "nombre": "Volvo Released in 2000 Volvo S60 replaced the Volvo S70 Volvo V70 II Volvo V70 XC II/XC70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60_replaced_the_volvo_s70",
+    "nombre": "Volvo S60 replaced the Volvo S70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70_ii",
+    "nombre": "Volvo V70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70_xc_iixc70",
+    "nombre": "Volvo V70 XC II/XC70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2002_volvo_xc90",
+    "nombre": "Volvo Released in 2002 Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc90",
+    "nombre": "Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2004_volvo_s40_ii_replaced_the_volvo_s40_volvo_v50_replaced_the_volvo_v40",
+    "nombre": "Volvo Released in 2004 Volvo S40 II replaced the Volvo S40 Volvo V50 replaced the Volvo V40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s40_ii_replaced_the_volvo_s40",
+    "nombre": "Volvo S40 II replaced the Volvo S40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v50_replaced_the_volvo_v40",
+    "nombre": "Volvo V50 replaced the Volvo V40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2006_volvo_c30_volvo_c70_ii_volvo_s80_ii",
+    "nombre": "Volvo Released in 2006 Volvo C30 Volvo C70 II Volvo S80 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c30",
+    "nombre": "Volvo C30",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c70_ii",
+    "nombre": "Volvo C70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s80_ii",
+    "nombre": "Volvo S80 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2007_volvo_v70_iii_volvo_xc70_ii",
+    "nombre": "Volvo Released in 2007 Volvo V70 III Volvo XC70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70_iii",
+    "nombre": "Volvo V70 III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc70_ii",
+    "nombre": "Volvo XC70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2008_volvo_xc60",
+    "nombre": "Volvo Released in 2008 Volvo XC60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc60",
+    "nombre": "Volvo XC60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2010_volvo_s60_ii_replaced_the_volvo_s60_volvo_v60_replaced_the_volvo_v50",
+    "nombre": "Volvo Released in 2010 Volvo S60 II replaced the Volvo S60 Volvo V60 replaced the Volvo V50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60_ii_replaced_the_volvo_s60",
+    "nombre": "Volvo S60 II replaced the Volvo S60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v60_replaced_the_volvo_v50",
+    "nombre": "Volvo V60 replaced the Volvo V50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2012_volvo_v40_ii_replaced_both_the_volvo_s40_ii_and_volvo_v50",
+    "nombre": "Volvo Released in 2012 Volvo V40 II replaced both the Volvo S40 II and Volvo V50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v40_ii_replaced_both_the_volvo_s40_ii_and_volvo_v50",
+    "nombre": "Volvo V40 II replaced both the Volvo S40 II and Volvo V50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc_classic_the_xc90_introduced_in_2002_was_the_first_volvo_suv",
+    "nombre": "Volvo XC Classic The XC90, introduced in 2002, was the first Volvo SUV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc90_ii_replaced_the_volvo_xc90",
+    "nombre": "Volvo XC90 II replaced the Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2016_volvo_s90_replaced_the_volvo_s80_ii_volvo_v90_replaced_both_the_volvo_v70_iii_and_volvo_xc70_ii",
+    "nombre": "Volvo Released in 2016 Volvo S90 replaced the Volvo S80 II Volvo V90 replaced both the Volvo V70 III and Volvo XC70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90_replaced_the_volvo_s80_ii",
+    "nombre": "Volvo S90 replaced the Volvo S80 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v90_replaced_both_the_volvo_v70_iii_and_volvo_xc70_ii",
+    "nombre": "Volvo V90 replaced both the Volvo V70 III and Volvo XC70 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2017_volvo_xc60_ii_replaced_the_volvo_xc60_volvo_xc40",
+    "nombre": "Volvo Released in 2017 Volvo XC60 II replaced the Volvo XC60 Volvo XC40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc60_ii_replaced_the_volvo_xc60",
+    "nombre": "Volvo XC60 II replaced the Volvo XC60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc40",
+    "nombre": "Volvo XC40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2018_volvo_v60_ii_replaced_the_volvo_v60",
+    "nombre": "Volvo Released in 2018 Volvo V60 II replaced the Volvo V60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v60_ii_replaced_the_volvo_v60",
+    "nombre": "Volvo V60 II replaced the Volvo V60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2021_volvo_c40_coupe_version_of_the_volvo_xc40_recharge",
+    "nombre": "Volvo Released in 2021 Volvo C40 coupé version of the Volvo XC40 Recharge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c40_coupe_version_of_the_volvo_xc40_recharge",
+    "nombre": "Volvo C40 coupé version of the Volvo XC40 Recharge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2022_volvo_ex90_fully_electric_replacement_for_the_volvo_xc90_ii",
+    "nombre": "Volvo Released in 2022 Volvo EX90 fully electric replacement for the Volvo XC90 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex90_fully_electric_replacement_for_the_volvo_xc90_ii",
+    "nombre": "Volvo EX90 fully electric replacement for the Volvo XC90 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2023_volvo_ex30_volvo_em90",
+    "nombre": "Volvo Released in 2023 Volvo EX30 Volvo EM90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex30",
+    "nombre": "Volvo EX30",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_em90",
+    "nombre": "Volvo EM90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2025_volvo_es90_fully_electric_replacement_for_the_volvo_s90_ii_volvo_xc70",
+    "nombre": "Volvo Released in 2025 Volvo ES90 fully electric replacement for the Volvo S90 II Volvo XC70",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_es90_fully_electric_replacement_for_the_volvo_s90_ii",
+    "nombre": "Volvo ES90 fully electric replacement for the Volvo S90 II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc70",
+    "nombre": "Volvo XC70",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_released_in_2026_volvo_ex60",
+    "nombre": "Volvo Released in 2026 Volvo EX60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex60",
+    "nombre": "Volvo EX60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_medium_cars_volvo_ex30_2023present",
+    "nombre": "Volvo Medium cars  Volvo EX30 2023–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex30_2023present",
+    "nombre": "Volvo EX30 2023–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_medium_cars_volvo_xc40_2017present_volvo_ec40_2021present",
+    "nombre": "Volvo Medium cars  Volvo XC40 2017–present  Volvo EC40 2021–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc40_2017present",
+    "nombre": "Volvo XC40 2017–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ec40_2021present",
+    "nombre": "Volvo EC40 2021–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc90_ii_2014present",
+    "nombre": "Volvo XC90 II 2014–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90_ii_2016present",
+    "nombre": "Volvo S90 II 2016–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc60_ii_2017present",
+    "nombre": "Volvo XC60 II 2017–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v60_ii_2018present",
+    "nombre": "Volvo V60 II 2018–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_large_plug_in_hybrid_cars_volvo_xc70_2025present",
+    "nombre": "Volvo Large plug-in hybrid cars  Volvo XC70 2025–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc70_2025present",
+    "nombre": "Volvo XC70 2025–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex90_2022present",
+    "nombre": "Volvo EX90 2022–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_es90_2025present",
+    "nombre": "Volvo ES90 2025–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_large_electric_cars_volvo_ex60_2026present",
+    "nombre": "Volvo Large electric cars  Volvo EX60 2026–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex60_2026present",
+    "nombre": "Volvo EX60 2026–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_large_electric_mpv_volvo_em90_2024present",
+    "nombre": "Volvo Large electric MPV  Volvo EM90 2024–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_em90_2024present",
+    "nombre": "Volvo EM90 2024–present",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v60",
+    "nombre": "Volvo V60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90",
+    "nombre": "Volvo S90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ec40",
+    "nombre": "Volvo EC40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_es90",
+    "nombre": "Volvo ES90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex90",
+    "nombre": "Volvo EX90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_venus_bilo",
+    "nombre": "Volvo Venus Bilo",
+    "anio_desde": 1933,
+    "anio_hasta": 1933,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_philip",
+    "nombre": "Volvo Philip",
+    "anio_desde": 1952,
+    "anio_hasta": 1952,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_margarete_rose",
+    "nombre": "Volvo Margarete Rose",
+    "anio_desde": 1953,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_elisabeth_i",
+    "nombre": "Volvo Elisabeth I",
+    "anio_desde": 1953,
+    "anio_hasta": 1953,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gtz",
+    "nombre": "Volvo GTZ",
+    "anio_desde": 1969,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gtz_3000",
+    "nombre": "Volvo GTZ 3000",
+    "anio_desde": 1970,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vesc",
+    "nombre": "Volvo VESC",
+    "anio_desde": 1972,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1800_esc",
+    "nombre": "Volvo 1800 ESC",
+    "anio_desde": 1972,
+    "anio_hasta": 1972,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ec",
+    "nombre": "Volvo EC",
+    "anio_desde": 1977,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_city_taxi",
+    "nombre": "Volvo City Taxi",
+    "anio_desde": 1977,
+    "anio_hasta": 1977,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_tundra",
+    "nombre": "Volvo Tundra",
+    "anio_desde": 1979,
+    "anio_hasta": 1979,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vcc_volvo_concept_car",
+    "nombre": "Volvo VCC – Volvo Concept Car",
+    "anio_desde": 1980,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lcp2000",
+    "nombre": "Volvo LCP2000",
+    "anio_desde": 1983,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ecc_environment_concept_car",
+    "nombre": "Volvo ECC – Environment Concept Car",
+    "anio_desde": 1992,
+    "anio_hasta": 1992,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_acc_adventure_concept_car",
+    "nombre": "Volvo ACC – Adventure Concept Car",
+    "anio_desde": 1997,
+    "anio_hasta": 1997,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_scc_safety_concept_car",
+    "nombre": "Volvo SCC – Safety Concept Car",
+    "anio_desde": 2001,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pcc_performance_concept_car",
+    "nombre": "Volvo PCC – Performance Concept Car",
+    "anio_desde": 2001,
+    "anio_hasta": 2001,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pcc2",
+    "nombre": "Volvo PCC2",
+    "anio_desde": 2002,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_acc2",
+    "nombre": "Volvo ACC2",
+    "anio_desde": 2002,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vcc_versatility_concept_car",
+    "nombre": "Volvo VCC – Versatility Concept Car",
+    "anio_desde": 2003,
+    "anio_hasta": 2003,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ycc_your_concept_car",
+    "nombre": "Volvo YCC – Your Concept Car",
+    "anio_desde": 2004,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_t6",
+    "nombre": "Volvo T6",
+    "anio_desde": 2005,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_3cc",
+    "nombre": "Volvo 3CC",
+    "anio_desde": 2005,
+    "anio_hasta": 2005,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c30_design_concept",
+    "nombre": "Volvo C30 Design Concept",
+    "anio_desde": 2006,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc60_concept",
+    "nombre": "Volvo XC60 Concept",
+    "anio_desde": 2006,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_recharge_concept",
+    "nombre": "Volvo ReCharge Concept",
+    "anio_desde": 2007,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60_concept",
+    "nombre": "Volvo S60 Concept",
+    "anio_desde": 2008,
+    "anio_hasta": 2008,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c30_drive_electric",
+    "nombre": "Volvo C30 DRIVe Electric",
+    "anio_desde": 2010,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_universe_concept",
+    "nombre": "Volvo Universe Concept",
+    "anio_desde": 2011,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_concept_you",
+    "nombre": "Volvo Concept You",
+    "anio_desde": 2011,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_concept_coupe",
+    "nombre": "Volvo Concept Coupe",
+    "anio_desde": 2013,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_concept_estate",
+    "nombre": "Volvo Concept Estate",
+    "anio_desde": 2014,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_concept_xc_coupe",
+    "nombre": "Volvo Concept XC Coupe",
+    "anio_desde": 2014,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_401",
+    "nombre": "Volvo 40.1",
+    "anio_desde": 2016,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_402",
+    "nombre": "Volvo 40.2",
+    "anio_desde": 2016,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_360c",
+    "nombre": "Volvo 360c",
+    "anio_desde": 2018,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_concept_recharge",
+    "nombre": "Volvo Concept Recharge",
+    "anio_desde": 2021,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_torslanda_1964present_volvo_v60_volvo_xc60_volvo_v90_volvo_xc90",
+    "nombre": "Volvo Torslanda , 1964–present Volvo V60 , Volvo XC60 , Volvo V90 , Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v60_volvo_xc60_volvo_v90_volvo_xc90",
+    "nombre": "Volvo V60 , Volvo XC60 , Volvo V90 , Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_olofstrom",
+    "nombre": "Volvo Olofström",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_skovde",
+    "nombre": "Volvo Skövde",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_floby",
+    "nombre": "Volvo Floby",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ghent_1965present_volvo_xc40_volvo_c40_volvo_s60_volvo_v60_volvo_ex30",
+    "nombre": "Volvo Ghent , 1965–present Volvo XC40 , Volvo C40 , Volvo S60 , Volvo V60 , Volvo EX30",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_xc40_volvo_c40_volvo_s60_volvo_v60_volvo_ex30",
+    "nombre": "Volvo XC40 , Volvo C40 , Volvo S60 , Volvo V60 , Volvo EX30",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_chengdu_2013present_volvo_s60l_volvo_xc60_volvo_ex30_volvo_ex90",
+    "nombre": "Volvo Chengdu , 2013–present Volvo S60L , Volvo XC60 , Volvo EX30 , Volvo EX90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60l_volvo_xc60_volvo_ex30_volvo_ex90",
+    "nombre": "Volvo S60L , Volvo XC60 , Volvo EX30 , Volvo EX90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_daqing_2014present_volvo_s90_volvo_s90l",
+    "nombre": "Volvo Daqing , 2014–present Volvo S90 , Volvo S90L",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90_volvo_s90l",
+    "nombre": "Volvo S90 , Volvo S90L",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_luqiao_2016present_volvo_xc40",
+    "nombre": "Volvo Luqiao , 2016–present Volvo XC40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zhangjiakou",
+    "nombre": "Volvo Zhangjiakou",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60_volvo_s90_volvo_v60_volvo_ex30_volvo_xc40_volvo_xc60_volvo_xc90",
+    "nombre": "Volvo S60 , Volvo S90 , Volvo V60 , Volvo EX30 , Volvo XC40 , Volvo XC60 , Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_bangalore_2017present_volvo_s90_volvo_xc60_volvo_xc90",
+    "nombre": "Volvo Bangalore , 2017–present Volvo S90 , Volvo XC60 , Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s90_volvo_xc60_volvo_xc90",
+    "nombre": "Volvo S90 , Volvo XC60 , Volvo XC90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ridgeville_south_carolina_2018present_volvo_s60_volvo_ex90",
+    "nombre": "Volvo Ridgeville, South Carolina , 2018–present Volvo S60 , Volvo EX90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60_volvo_ex90",
+    "nombre": "Volvo S60 , Volvo EX90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gothenburg",
+    "nombre": "Volvo Gothenburg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_hedared",
+    "nombre": "Volvo Hedared",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b4b_and_b14a_fitted_into_the_volvo_pv_and_volvo_duett_from_1947_to_1956",
+    "nombre": "Volvo B4B and B14A – fitted into the Volvo PV and Volvo Duett from 1947 to 1956",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b16_fitted_into_the_pv_duett_and_volvo_amazon_from_1957_to_1960",
+    "nombre": "Volvo B16  – fitted into the PV, Duett and Volvo Amazon from 1957 to 1960",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b19_b21_and_b23_fitted_from_1975",
+    "nombre": "Volvo B19 , B21 , and B23 – fitted from 1975",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b200_and_b230_20_l_and_23_l_respectively_sohc_8v_fitted_to_240_360_700_940_series_cars_from_1985",
+    "nombre": "Volvo B200 and B230 – 2.0 L and 2.3 L, respectively, SOHC 8v fitted to 240, 360, 700, 940 series cars from 1985",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b204_and_b234_20_l_and_23_l_dohc_16_valve_engines",
+    "nombre": "Volvo B204 and B234 – 2.0 L and 2.3 L DOHC 16 valve engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b27_b28_and_b280_27_and_28_l_sohc_12v_developed_together_with_renault_and_peugeot",
+    "nombre": "Volvo B27 / B28 and B280 – 2.7 and 2.8 L SOHC 12v developed together with Renault and Peugeot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_b30_fitted_to_all_164_models",
+    "nombre": "Volvo B30 – fitted to all 164 models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_borg_warner_35_transmission",
+    "nombre": "Volvo Borg-Warner 35 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_borg_warner_55_transmission",
+    "nombre": "Volvo Borg-Warner 55 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw70_series_transmissions_volvo_aw70_transmission_volvo_aw71_transmission_volvo_aw72_transmission",
+    "nombre": "Volvo AW70 series transmissions Volvo AW70 transmission Volvo AW71 transmission Volvo AW72 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw70_transmission",
+    "nombre": "Volvo AW70 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw71_transmission",
+    "nombre": "Volvo AW71 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw72_transmission",
+    "nombre": "Volvo AW72 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw50_42",
+    "nombre": "Volvo AW50-42",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aw55_5051",
+    "nombre": "Volvo AW55-50/51",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gm4t65evgt",
+    "nombre": "Volvo GM4T65EV/GT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_awtf_80_sc",
+    "nombre": "Volvo AWTF-80 SC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zf_4hp22_transmission",
+    "nombre": "Volvo ZF 4HP22 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m30_transmission",
+    "nombre": "Volvo M30 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m40_transmission",
+    "nombre": "Volvo M40 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m400_m410_transmission",
+    "nombre": "Volvo M400 & M410 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m41_transmission",
+    "nombre": "Volvo M41 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m45_transmission",
+    "nombre": "Volvo M45 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m46_transmission",
+    "nombre": "Volvo M46 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m47_transmission",
+    "nombre": "Volvo M47 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m50_transmission",
+    "nombre": "Volvo M50 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m51_transmission",
+    "nombre": "Volvo M51 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m56_transmission",
+    "nombre": "Volvo M56 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m58_transmission",
+    "nombre": "Volvo M58 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m59_transmission",
+    "nombre": "Volvo M59 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m65_transmission",
+    "nombre": "Volvo M65 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m66_transmission",
+    "nombre": "Volvo M66 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m90_transmission",
+    "nombre": "Volvo M90 transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ib5",
+    "nombre": "Volvo IB5",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mtx_75",
+    "nombre": "Volvo MTX-75",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mmt6",
+    "nombre": "Volvo MMT6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mps6",
+    "nombre": "Volvo MPS6",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_british_touring_car_championship",
+    "nombre": "Volvo British Touring Car Championship",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polestar_racing",
+    "nombre": "Volvo Polestar Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_garry_rogers_motorsport",
+    "nombre": "Volvo Garry Rogers Motorsport",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_saab_automobile",
+    "nombre": "Volvo Saab Automobile",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_the_saint",
+    "nombre": "Volvo The Saint",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_tom_trana",
+    "nombre": "Volvo Tom Trana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_the_game",
+    "nombre": "Volvo – The Game",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_penta",
+    "nombre": "Volvo Penta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_tom_walkinshaw_racing",
+    "nombre": "Volvo Tom Walkinshaw Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_jan_wilsgaard",
+    "nombre": "Volvo Jan Wilsgaard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_list_of_volvo_passenger_cars",
+    "nombre": "Volvo List of Volvo passenger cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_geely_confirms_interest_in_volvo_wwwmotorauthoritycom_archived_from_the_original_on_1_september_2009",
+    "nombre": "Volvo ↑ \"Geely confirms interest in Volvo\" . www.motorauthority.com . Archived from the original on 1 September 2009.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_volvo_sera_100_electrique_dici_2030_exclusivement_en_vente_en_ligne_le_figaro_2_march_2021",
+    "nombre": "Volvo ↑ \"Volvo sera 100% électrique d'ici 2030, exclusivement en vente en ligne\" . le figaro . 2 March 2021.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_di_e_tidning_etidningdise_archived_from_the_original_on_4_april_2023_retrieved_18_january_2023",
+    "nombre": "Volvo ↑ \"Di e-tidning\" . etidning.di.se . Archived from the original on 4 April 2023 . Retrieved 18 January 2023 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_volvo_cars_brings_back_veteran_hakan_samuelsson_as_ceo_reuters_30_march_2025_retrieved_30_march_2025",
+    "nombre": "Volvo ↑ \"Volvo Cars brings back veteran Hakan Samuelsson as CEO\" . Reuters . 30 March 2025 . Retrieved 30 March 2025 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1_2_3_4_5_volvo_safety_firsts_archived_from_the_original_on_26_february_2008",
+    "nombre": "Volvo 1 2 3 4 5 \"Volvo Safety Firsts\" . Archived from the original on 26 February 2008.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_three_point_seatbelt_inventor_nils_bohlin_born_archived_4_november_2012_at_the_wayback_machine_history_channel",
+    "nombre": "Volvo ↑ Three-point seatbelt inventor Nils Bohlin born Archived 4 November 2012 at the Wayback Machine , History Channel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1998_archived_from_the_original_on_14_july_2015_retrieved_14_july_2015",
+    "nombre": "Volvo ↑ \"1998\" . Archived from the original on 14 July 2015 . Retrieved 14 July 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2006_volvo_c70_archived_from_the_original_on_11_july_2015_retrieved_14_july_2015",
+    "nombre": "Volvo ↑ \"2006 Volvo C70\" . Archived from the original on 11 July 2015 . Retrieved 14 July 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_williams_paul_feature_vision_2020_volvos_plan_for_the_future_autosca",
+    "nombre": "Volvo ↑ Williams, Paul . \"Feature: \"Vision 2020\" – Volvo's plan for the future\" . Autos.ca .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2006_safety_picks_securityworldcom_archived_from_the_original_on_29_may_2007_retrieved_28_may_2009",
+    "nombre": "Volvo ↑ \"2006 Safety Picks\" . SecurityWorld.com. Archived from the original on 29 May 2007 . Retrieved 28 May 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_yahoo_news_volvo_fined_200000_euros_over_fatal_french_car_crash_archived_from_the_original_on_4_february_2008",
+    "nombre": "Volvo ↑ \"Yahoo News: Volvo fined 200,000 euros over fatal French car crash\" . Archived from the original on 4 February 2008.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_s40_iihsorg_archived_from_the_original_on_2_june_2009_retrieved_28_may_2009",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo S40\" . Iihs.org. Archived from the original on 2 June 2009 . Retrieved 28 May 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_s60_iihsorg_archived_from_the_original_on_4_october_2009_retrieved_28_may_2009",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo S60\" . Iihs.org. Archived from the original on 4 October 2009 . Retrieved 28 May 2009 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_850s70_iihsorg_archived_from_the_original_on_28_november_2008_retrieved_23_november_2010",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo 850/S70\" . Iihs.org. Archived from the original on 28 November 2008 . Retrieved 23 November 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_xc90_iihsorg_archived_from_the_original_on_20_september_2010_retrieved_23_november_2010",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo XC90\" . Iihs.org. Archived from the original on 20 September 2010 . Retrieved 23 November 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_s80_iihsorg_archived_from_the_original_on_20_november_2010_retrieved_23_november_2010",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo S80\" . Iihs.org. Archived from the original on 20 November 2010 . Retrieved 23 November 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_c70_iihsorg_archived_from_the_original_on_18_july_2013_retrieved_14_april_2013",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo C70\" . Iihs.org. Archived from the original on 18 July 2013 . Retrieved 14 April 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_xc60_iihsorg_archived_from_the_original_on_20_november_2010_retrieved_14_april_2013",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo XC60\" . Iihs.org. Archived from the original on 20 November 2010 . Retrieved 14 April 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_s60_iihsorg_archived_from_the_original_on_4_october_2009_retrieved_14_april_2013",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo S60\" . Iihs.org. Archived from the original on 4 October 2009 . Retrieved 14 April 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_iihs_hldi_volvo_c30_iihsorg_archived_from_the_original_on_2_may_2013_retrieved_14_april_2013",
+    "nombre": "Volvo ↑ \"IIHS-HLDI: Volvo C30\" . Iihs.org. Archived from the original on 2 May 2013 . Retrieved 14 April 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_volvo_s80_iihs_iihsorg_archived_from_the_original_on_20_october_2017_retrieved_17_december_2014",
+    "nombre": "Volvo ↑ \"Volvo S80\" . IIHS . Iihs.org. Archived from the original on 20 October 2017 . Retrieved 17 December 2014 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_fatality_facts_2021_males_and_females_iihs_hldi_crash_testing_and_highway_safety_retrieved_10_april_2024",
+    "nombre": "Volvo ↑ \"Fatality Facts 2021: Males and females\" . IIHS-HLDI crash testing and highway safety . Retrieved 10 April 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_retrospective_volvo_history_archived_from_the_original_on_17_october_2007",
+    "nombre": "Volvo ↑ \"Retrospective: Volvo History \" . Archived from the original on 17 October 2007.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_kurylko_diana_t_shakeup_at_volvo_crain_communications_retrieved_14_july_2017",
+    "nombre": "Volvo ↑ Kurylko, Diana T. . \"Shakeup at Volvo\" . Crain Communications . Retrieved 14 July 2017 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_retrieved_1_july_2012",
+    "nombre": "Volvo ↑ \"富豪汽車告大富豪\"  . Retrieved 1 July 2012 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_official_website",
+    "nombre": "Volvo Official website",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_wikibooksvehicle_identification_numbers_volvovin_codes",
+    "nombre": "Volvo Wikibooks:Vehicle Identification Numbers /Volvo/VIN codes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zhejiang_geely_holding_group",
+    "nombre": "Volvo Zhejiang Geely Holding Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ex40",
+    "nombre": "Volvo EX40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_140_series",
+    "nombre": "Volvo 140 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_200_series",
+    "nombre": "Volvo 200 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_700_series",
+    "nombre": "Volvo 700 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_900_series",
+    "nombre": "Volvo 900 Series",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_amazon",
+    "nombre": "Volvo Amazon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_c70",
+    "nombre": "Volvo C70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pv444544",
+    "nombre": "Volvo PV444/544",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s40v40",
+    "nombre": "Volvo S40/V40",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s60",
+    "nombre": "Volvo S60",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s70",
+    "nombre": "Volvo S70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s80",
+    "nombre": "Volvo S80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v50",
+    "nombre": "Volvo V50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v70xc70",
+    "nombre": "Volvo V70/XC70",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_v90",
+    "nombre": "Volvo V90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_263_gl",
+    "nombre": "Volvo 263 GL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_242_gtc_turbo",
+    "nombre": "Volvo 242 GTC Turbo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vcc",
+    "nombre": "Volvo VCC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ecc",
+    "nombre": "Volvo ECC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_acc",
+    "nombre": "Volvo ACC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_scc",
+    "nombre": "Volvo SCC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pcc",
+    "nombre": "Volvo PCC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ycc",
+    "nombre": "Volvo YCC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_recharge",
+    "nombre": "Volvo ReCharge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_universe",
+    "nombre": "Volvo Universe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polestar_precept_concept",
+    "nombre": "Volvo Polestar Precept Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polestar_o_2_concept",
+    "nombre": "Volvo Polestar O 2 Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_list_passenger_cars_engines_manufacturing_plants",
+    "nombre": "Volvo List passenger cars engines manufacturing plants",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_passenger_cars",
+    "nombre": "Volvo passenger cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_engines",
+    "nombre": "Volvo engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_manufacturing_plants",
+    "nombre": "Volvo manufacturing plants",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_platforms_p80_p90_p1_p2_p3_spa_cma",
+    "nombre": "Volvo Platforms P80 P90 P1 P2 P3 SPA CMA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p80",
+    "nombre": "Volvo P80",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p90",
+    "nombre": "Volvo P90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p1",
+    "nombre": "Volvo P1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p2",
+    "nombre": "Volvo P2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_p3",
+    "nombre": "Volvo P3",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_spa",
+    "nombre": "Volvo SPA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cma",
+    "nombre": "Volvo CMA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_r",
+    "nombre": "Volvo R",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_safety_sips_whips",
+    "nombre": "Volvo Safety SIPS WHIPS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_sips",
+    "nombre": "Volvo SIPS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_whips",
+    "nombre": "Volvo WHIPS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_motorsports_polestar_polestar_cyan_racing",
+    "nombre": "Volvo Motorsports Polestar Polestar Cyan Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_polestar_cyan_racing",
+    "nombre": "Volvo Polestar Cyan Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_s40_racing",
+    "nombre": "Volvo S40 Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_world_of_volvo",
+    "nombre": "Volvo World of Volvo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_see_also",
+    "nombre": "Volvo See also :",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ab_volvo_volvo_trucks_volvo_buses",
+    "nombre": "Volvo AB Volvo Volvo Trucks Volvo Buses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_trucks",
+    "nombre": "Volvo Trucks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_buses",
+    "nombre": "Volvo Buses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_category",
+    "nombre": "Volvo Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_commons",
+    "nombre": "Volvo Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_automotive_industry",
+    "nombre": "Volvo Automotive industry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_economy_of_sweden",
+    "nombre": "Volvo Economy of Sweden",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_transport_in_sweden",
+    "nombre": "Volvo Transport in Sweden",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_caresto",
+    "nombre": "Volvo Caresto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_huddig",
+    "nombre": "Volvo Huddig",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_koenigsegg",
+    "nombre": "Volvo Koenigsegg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_josse_car",
+    "nombre": "Volvo Jösse Car",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ljungby_maskin",
+    "nombre": "Volvo Ljungby Maskin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_nevs_saab",
+    "nombre": "Volvo NEVS Saab",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_saab",
+    "nombre": "Volvo Saab",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_scania",
+    "nombre": "Volvo Scania",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_svetruck",
+    "nombre": "Volvo Svetruck",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_uniti",
+    "nombre": "Volvo Uniti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_volvo_buses_volvo_construction_equipment_volvo_trucks",
+    "nombre": "Volvo Volvo Buses Volvo Construction Equipment Volvo Trucks",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_construction_equipment",
+    "nombre": "Volvo Construction Equipment",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cars_polestar",
+    "nombre": "Volvo Cars Polestar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_autoliv",
+    "nombre": "Volvo Autoliv",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_haldex",
+    "nombre": "Volvo Haldex",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_haldex_traction",
+    "nombre": "Volvo Haldex Traction",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_northvolt",
+    "nombre": "Volvo Northvolt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ohlins",
+    "nombre": "Volvo Öhlins",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_skf",
+    "nombre": "Volvo SKF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_trelleborg_ab",
+    "nombre": "Volvo Trelleborg AB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_saab_aero",
+    "nombre": "Volvo Saab Aero",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_power_big_meet",
+    "nombre": "Volvo Power Big Meet",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_euro_ncap",
+    "nombre": "Volvo Euro NCAP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_swedish_transport_agency",
+    "nombre": "Volvo Swedish Transport Agency",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_geely_auto_geely_galaxy_lynk_co_radar_auto_zeekr",
+    "nombre": "Volvo Geely Auto Geely Galaxy Lynk & Co Radar Auto  Zeekr",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_geely_galaxy",
+    "nombre": "Volvo Geely Galaxy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lynk_co",
+    "nombre": "Volvo Lynk & Co",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_radar_auto",
+    "nombre": "Volvo Radar Auto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zeekr",
+    "nombre": "Volvo Zeekr",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lotus_cars",
+    "nombre": "Volvo Lotus Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_farizon_auto",
+    "nombre": "Volvo Farizon Auto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_levc",
+    "nombre": "Volvo LEVC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_caocao",
+    "nombre": "Volvo Caocao",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_geespace",
+    "nombre": "Volvo Geespace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_terrafugia",
+    "nombre": "Volvo Terrafugia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_emgrand",
+    "nombre": "Volvo Emgrand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_englon",
+    "nombre": "Volvo Englon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gleagle",
+    "nombre": "Volvo Gleagle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_maple",
+    "nombre": "Volvo Maple",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_belgee",
+    "nombre": "Volvo BelGee",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_jidu_auto",
+    "nombre": "Volvo Jidu Auto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ji_yue",
+    "nombre": "Volvo Ji Yue",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_horse_powertrain",
+    "nombre": "Volvo Horse Powertrain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_livan",
+    "nombre": "Volvo Livan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_proton",
+    "nombre": "Volvo Proton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_renault_korea",
+    "nombre": "Volvo Renault Korea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_smart_automobile",
+    "nombre": "Volvo Smart Automobile",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_zhejiang_kandi_electric_vehicles",
+    "nombre": "Volvo Zhejiang Kandi Electric Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_aston_martin",
+    "nombre": "Volvo Aston Martin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lotus_group",
+    "nombre": "Volvo Lotus Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mercedes_benz_group",
+    "nombre": "Volvo Mercedes-Benz Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_saxo_bank",
+    "nombre": "Volvo Saxo Bank",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_group",
+    "nombre": "Volvo Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_renault_geely_do_brasil",
+    "nombre": "Volvo Renault Geely do Brasil",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_bma",
+    "nombre": "Volvo BMA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_gea",
+    "nombre": "Volvo GEA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_fe",
+    "nombre": "Volvo FE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_kc",
+    "nombre": "Volvo KC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_nl",
+    "nombre": "Volvo NL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_sea",
+    "nombre": "Volvo SEA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_benelli",
+    "nombre": "Volvo Benelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_motorcycles",
+    "nombre": "Volvo Motorcycles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_beijing_geely_university",
+    "nombre": "Volvo Beijing Geely University",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_geely_university_of_china",
+    "nombre": "Volvo Geely University of China",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_raptor",
+    "nombre": "Volvo Ford Raptor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_raptor",
+    "nombre": "Volvo Raptor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_lincoln",
+    "nombre": "Volvo Lincoln",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_comet",
+    "nombre": "Volvo Comet",
+    "anio_desde": 1960,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_continental",
+    "nombre": "Volvo Continental",
+    "anio_desde": 1956,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_edsel",
+    "nombre": "Volvo Edsel",
+    "anio_desde": 1956,
+    "anio_hasta": 1956,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_fordson",
+    "nombre": "Volvo Fordson",
+    "anio_desde": 1917,
+    "anio_hasta": 1917,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_frontenac",
+    "nombre": "Volvo Frontenac",
+    "anio_desde": 1960,
+    "anio_hasta": 1960,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mercury",
+    "nombre": "Volvo Mercury",
+    "anio_desde": 1938,
+    "anio_hasta": 2011,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_merkur",
+    "nombre": "Volvo Merkur",
+    "anio_desde": 1985,
+    "anio_hasta": 1985,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_meteor",
+    "nombre": "Volvo Meteor",
+    "anio_desde": 1949,
+    "anio_hasta": 1949,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_monarch",
+    "nombre": "Volvo Monarch",
+    "anio_desde": 1946,
+    "anio_hasta": 1946,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_thames",
+    "nombre": "Volvo Thames",
+    "anio_desde": 1939,
+    "anio_hasta": 1939,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_automotive_components_holdings",
+    "nombre": "Volvo Automotive Components Holdings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_changan_ford",
+    "nombre": "Volvo Changan Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_australia",
+    "nombre": "Volvo Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_argentina",
+    "nombre": "Volvo Argentina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_brazil",
+    "nombre": "Volvo Brazil",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_canada",
+    "nombre": "Volvo Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_credit",
+    "nombre": "Volvo Credit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_europe_france_germany_ireland_italia_romania_united_kingdom",
+    "nombre": "Volvo Europe France Germany Ireland Italia Romania United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_france",
+    "nombre": "Volvo France",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_germany",
+    "nombre": "Volvo Germany",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ireland",
+    "nombre": "Volvo Ireland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_italia",
+    "nombre": "Volvo Italia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_romania",
+    "nombre": "Volvo Romania",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_united_kingdom",
+    "nombre": "Volvo United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_new_zealand",
+    "nombre": "Volvo New Zealand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_philippines",
+    "nombre": "Volvo Philippines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_quick_lane",
+    "nombre": "Volvo Quick Lane",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_southern_africa",
+    "nombre": "Volvo Southern Africa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_chariot",
+    "nombre": "Volvo Chariot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cosworth",
+    "nombre": "Volvo Cosworth",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_aerospace",
+    "nombre": "Volvo Ford Aerospace",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_fpv",
+    "nombre": "Volvo FPV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_india",
+    "nombre": "Volvo Ford India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_japan",
+    "nombre": "Volvo Ford Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_hertz_corporation",
+    "nombre": "Volvo Hertz Corporation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_jaguar_daimler_company",
+    "nombre": "Volvo Jaguar Daimler Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_daimler_company",
+    "nombre": "Volvo Daimler Company",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_kwik_fit",
+    "nombre": "Volvo Kwik-Fit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_land_rover",
+    "nombre": "Volvo Land Rover",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_new_holland_agriculture",
+    "nombre": "Volvo New Holland Agriculture",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_premier_automotive_group",
+    "nombre": "Volvo Premier Automotive Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_special_vehicle_operations",
+    "nombre": "Volvo Special Vehicle Operations",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_special_vehicle_team",
+    "nombre": "Volvo Special Vehicle Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_spin",
+    "nombre": "Volvo Spin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_thnk",
+    "nombre": "Volvo Th!nk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_troller",
+    "nombre": "Volvo Troller",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_visteon",
+    "nombre": "Volvo Visteon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_autoalliance_international",
+    "nombre": "Volvo AutoAlliance International",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_autoalliance_thailand",
+    "nombre": "Volvo AutoAlliance Thailand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_lio_ho",
+    "nombre": "Volvo Ford Lio Ho",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_otosan",
+    "nombre": "Volvo Ford Otosan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_vietnam",
+    "nombre": "Volvo Ford Vietnam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_jiangling_motors",
+    "nombre": "Volvo Jiangling Motors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_argo_ai",
+    "nombre": "Volvo Argo AI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_autolatina",
+    "nombre": "Volvo AutoLatina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_automotive_fuel_cell_cooperation",
+    "nombre": "Volvo Automotive Fuel Cell Cooperation",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_changan_ford_mazda",
+    "nombre": "Volvo Changan Ford Mazda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_sollers",
+    "nombre": "Volvo Ford Sollers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_union",
+    "nombre": "Volvo Ford Union",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_getrag_ford_transmissions",
+    "nombre": "Volvo Getrag Ford Transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_matford",
+    "nombre": "Volvo Matford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_samcor",
+    "nombre": "Volvo Samcor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_world_headquarters",
+    "nombre": "Volvo World Headquarters",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_detroit_corktown_campus_properties_michigan_central_station_roosevelt_warehouse",
+    "nombre": "Volvo Detroit Corktown campus properties Michigan Central Station Roosevelt Warehouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_michigan_central_station",
+    "nombre": "Volvo Michigan Central Station",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_roosevelt_warehouse",
+    "nombre": "Volvo Roosevelt Warehouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_factories",
+    "nombre": "Volvo Factories",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_motorcraft_mercon",
+    "nombre": "Volvo Motorcraft Mercon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mercon",
+    "nombre": "Volvo Mercon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_platforms",
+    "nombre": "Volvo Platforms",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_proving_grounds",
+    "nombre": "Volvo Proving grounds",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_transmissions",
+    "nombre": "Volvo Transmissions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vehicles",
+    "nombre": "Volvo Vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_designers",
+    "nombre": "Volvo Designers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_family",
+    "nombre": "Volvo Ford Family",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_henry_ford",
+    "nombre": "Volvo Henry Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_william_clay_ford_jr",
+    "nombre": "Volvo William Clay Ford Jr.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_jim_farley",
+    "nombre": "Volvo Jim Farley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_list_of_leaders",
+    "nombre": "Volvo List of leaders",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_m_sport_world_rally_team",
+    "nombre": "Volvo M-Sport World Rally Team",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_racing",
+    "nombre": "Volvo Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_team_rs",
+    "nombre": "Volvo Team RS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_world_rally_team_munchis",
+    "nombre": "Volvo World Rally Team Munchi's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_munchis",
+    "nombre": "Volvo Munchi's",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_in_formula_one",
+    "nombre": "Volvo Ford in Formula One",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_big_three",
+    "nombre": "Volvo Big Three",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_dodge_v_ford_motor_co",
+    "nombre": "Volvo Dodge v. Ford Motor Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_grimshaw_v_ford_motor_co",
+    "nombre": "Volvo Grimshaw v. Ford Motor Co.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_fordlandia",
+    "nombre": "Volvo Fordlândia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_field",
+    "nombre": "Volvo Ford Field",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_the_ford_show",
+    "nombre": "Volvo The Ford Show",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_ford_v_ferrari",
+    "nombre": "Volvo Ford v Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_history",
+    "nombre": "Volvo History",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_kinetic_design",
+    "nombre": "Volvo Kinetic Design",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_new_edge",
+    "nombre": "Volvo New Edge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pay_on_production",
+    "nombre": "Volvo Pay on production",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_united_states_council_for_automotive_research",
+    "nombre": "Volvo United States Council for Automotive Research",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_isni",
+    "nombre": "Volvo ISNI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_viaf",
+    "nombre": "Volvo VIAF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_czech_republic",
+    "nombre": "Volvo Czech Republic",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_yale_lux",
+    "nombre": "Volvo Yale LUX",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cars",
+    "nombre": "Volvo Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_car_brands",
+    "nombre": "Volvo Car brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_electric_vehicle_manufacturers_of_sweden",
+    "nombre": "Volvo Electric vehicle manufacturers of Sweden",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_car_manufacturers_of_sweden",
+    "nombre": "Volvo Car manufacturers of Sweden",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_corporate_spin_offs",
+    "nombre": "Volvo Corporate spin-offs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_luxury_motor_vehicle_manufacturers",
+    "nombre": "Volvo Luxury motor vehicle manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_vehicle_manufacturing_companies_established_in_1927",
+    "nombre": "Volvo Vehicle manufacturing companies established in 1927",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_swedish_companies_established_in_1927",
+    "nombre": "Volvo Swedish companies established in 1927",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_1999_mergers_and_acquisitions",
+    "nombre": "Volvo 1999 mergers and acquisitions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_swedish_brands",
+    "nombre": "Volvo Swedish brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2010_mergers_and_acquisitions",
+    "nombre": "Volvo 2010 mergers and acquisitions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_2021_initial_public_offerings",
+    "nombre": "Volvo 2021 initial public offerings",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_companies_listed_on_nasdaq_stockholm",
+    "nombre": "Volvo Companies listed on Nasdaq Stockholm",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_swedish_subsidiaries_of_foreign_companies",
+    "nombre": "Volvo Swedish subsidiaries of foreign companies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_articles_with_short_description",
+    "nombre": "Volvo Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_short_description_is_different_from_wikidata",
+    "nombre": "Volvo Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_wikipedia_indefinitely_semi_protected_pages",
+    "nombre": "Volvo Wikipedia indefinitely semi-protected pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_use_british_english_from_may_2026",
+    "nombre": "Volvo Use British English from May 2026",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_all_wikipedia_articles_written_in_british_english",
+    "nombre": "Volvo All Wikipedia articles written in British English",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_use_dmy_dates_from_january_2025",
+    "nombre": "Volvo Use dmy dates from January 2025",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_pages_with_swedish_ipa",
+    "nombre": "Volvo Pages with Swedish IPA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_articles_containing_swedish_language_text",
+    "nombre": "Volvo Articles containing Swedish-language text",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cs1_swedish_language_sources",
+    "nombre": "Volvo CS1 Swedish-language sources",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_webarchive_template_wayback_links",
+    "nombre": "Volvo Webarchive template wayback links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cs1_russian_language_sources",
+    "nombre": "Volvo CS1 Russian-language sources",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_all_articles_with_unsourced_statements",
+    "nombre": "Volvo All articles with unsourced statements",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_articles_with_unsourced_statements_from_august_2017",
+    "nombre": "Volvo Articles with unsourced statements from August 2017",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_articles_with_unsourced_statements_from_august_2007",
+    "nombre": "Volvo Articles with unsourced statements from August 2007",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_articles_needing_additional_references_from_october_2017",
+    "nombre": "Volvo Articles needing additional references from October 2017",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_all_articles_needing_additional_references",
+    "nombre": "Volvo All articles needing additional references",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cs1_chinese_language_sources",
+    "nombre": "Volvo CS1 Chinese-language sources",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_commons_category_link_from_wikidata",
+    "nombre": "Volvo Commons category link from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_this_page_was_last_edited_on_18_july_2026_at_1919",
+    "nombre": "Volvo This page was last edited on 18 July 2026, at 19:19  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_page_was_rendered_with_parsoid",
+    "nombre": "Volvo Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_privacy_policy",
+    "nombre": "Volvo Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_disclaimers",
+    "nombre": "Volvo Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_contact_wikipedia",
+    "nombre": "Volvo Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_legal_safety_contacts",
+    "nombre": "Volvo Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_code_of_conduct",
+    "nombre": "Volvo Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_developers",
+    "nombre": "Volvo Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_statistics",
+    "nombre": "Volvo Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_cookie_statement",
+    "nombre": "Volvo Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "volvo_mobile_view",
+    "nombre": "Volvo Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "id": "bmw_f_76",
+    "nombre": "Bmw F 76",
+    "anio_desde": 1932,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Freight tricycle"
+    ]
+  },
+  {
+    "id": "bmw_320_ps",
+    "nombre": "Bmw 3/20 PS",
+    "anio_desde": 1932,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact car"
+    ]
+  },
+  {
+    "id": "bmw_isetta",
+    "nombre": "Bmw Isetta",
+    "anio_desde": 1953,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Microcar"
+    ]
+  },
+  {
+    "id": "bmw_3200_cs",
+    "nombre": "Bmw 3200 CS",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_new_class_sedans",
+    "nombre": "Bmw New Class (sedans)",
+    "anio_desde": 1962,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_new_class_coupes",
+    "nombre": "Bmw New Class (coupés)",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_02_series",
+    "nombre": "Bmw 02 Series",
+    "anio_desde": 1966,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_new_six_coupes_e9",
+    "nombre": "Bmw New Six coupés (E9)",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_new_six_sedans_e3",
+    "nombre": "Bmw New Six sedans (E3)",
+    "anio_desde": 1968,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_5_series_e12",
+    "nombre": "Bmw 5 Series (E12)",
+    "anio_desde": 1972,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_3_series_e21",
+    "nombre": "Bmw 3 Series (E21)",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_6_series_e24",
+    "nombre": "Bmw 6 Series (E24)",
+    "anio_desde": 1976,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_7_series_e23",
+    "nombre": "Bmw 7 Series (E23)",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_m1",
+    "nombre": "Bmw M1",
+    "anio_desde": 1978,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car"
+    ]
+  },
+  {
+    "id": "bmw_5_series_e28",
+    "nombre": "Bmw 5 Series (E28)",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_3_series_e30",
+    "nombre": "Bmw 3 Series (E30)",
+    "anio_desde": 1982,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_7_series_e32",
+    "nombre": "Bmw 7 Series (E32)",
+    "anio_desde": 1986,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_5_series_e34",
+    "nombre": "Bmw 5 Series (E34)",
+    "anio_desde": 1987,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_z1",
+    "nombre": "Bmw Z1",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster"
+    ]
+  },
+  {
+    "id": "bmw_8_series_e31",
+    "nombre": "Bmw 8 Series (E31)",
+    "anio_desde": 1989,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_3_series_e36",
+    "nombre": "Bmw 3 Series (E36)",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_7_series_e38",
+    "nombre": "Bmw 7 Series (E38)",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_z3",
+    "nombre": "Bmw Z3",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster and coupé"
+    ]
+  },
+  {
+    "id": "bmw_5_series_e39",
+    "nombre": "Bmw 5 Series (E39)",
+    "anio_desde": 1995,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_3_series_e46",
+    "nombre": "Bmw 3 Series (E46)",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_x5_e53",
+    "nombre": "Bmw X5 (E53)",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_z8",
+    "nombre": "Bmw Z8",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster"
+    ]
+  },
+  {
+    "id": "bmw_7_series_e65e66",
+    "nombre": "Bmw 7 Series (E65/E66)",
+    "anio_desde": 2001,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_z4_e85e86",
+    "nombre": "Bmw Z4 (E85/E86)",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster, coupé"
+    ]
+  },
+  {
+    "id": "bmw_5_series_e60e61",
+    "nombre": "Bmw 5 Series (E60/E61)",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_6_series_e63e64",
+    "nombre": "Bmw 6 Series (E63/E64)",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_x3_e83",
+    "nombre": "Bmw X3 (E83)",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_1_series_e81e82e87e88",
+    "nombre": "Bmw 1 Series (E81/E82/E87/E88)",
+    "anio_desde": 2004,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback, coupé, convertible"
+    ]
+  },
+  {
+    "id": "bmw_3_series_e90e91e92e93",
+    "nombre": "Bmw 3 Series (E90/E91/E92/E93)",
+    "anio_desde": 2005,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_x5_e70",
+    "nombre": "Bmw X5 (E70)",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_x6_e71",
+    "nombre": "Bmw X6 (E71)",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_7_series_f01f02",
+    "nombre": "Bmw 7 Series (F01/F02)",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_z4_e89",
+    "nombre": "Bmw Z4 (E89)",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster"
+    ]
+  },
+  {
+    "id": "bmw_x1_e84",
+    "nombre": "Bmw X1 (E84)",
+    "anio_desde": 2009,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_5_series_f07f10f11",
+    "nombre": "Bmw 5 Series (F07/F10/F11)",
+    "anio_desde": 2010,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_6_series_f06f12f13",
+    "nombre": "Bmw 6 Series (F06/F12/F13)",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_x3_f25",
+    "nombre": "Bmw X3 (F25)",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_1_series_f20f21",
+    "nombre": "Bmw 1 Series (F20/F21)",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_3_series_f30f31f34",
+    "nombre": "Bmw 3 Series (F30/F31/F34)",
+    "anio_desde": 2011,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_i3_i01",
+    "nombre": "Bmw i3 (I01)",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact executive car (electric)"
+    ]
+  },
+  {
+    "id": "bmw_4_series_f32f33f36",
+    "nombre": "Bmw 4 Series (F32/F33/F36)",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_2_series_f22f23",
+    "nombre": "Bmw 2 Series (F22/F23)",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Subcompact car"
+    ]
+  },
+  {
+    "id": "bmw_x5_f15",
+    "nombre": "Bmw X5 (F15)",
+    "anio_desde": 2013,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_2_series_f45f46",
+    "nombre": "Bmw 2 Series (F45/F46)",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact MPV Large MPV"
+    ]
+  },
+  {
+    "id": "bmw_i8",
+    "nombre": "Bmw i8",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sports car (hybrid)"
+    ]
+  },
+  {
+    "id": "bmw_x4_f26",
+    "nombre": "Bmw X4 (F26)",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_x6_f16",
+    "nombre": "Bmw X6 (F16)",
+    "anio_desde": 2014,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_x1_f48",
+    "nombre": "Bmw X1 (F48)",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_7_series_g11g12",
+    "nombre": "Bmw 7 Series (G11/G12)",
+    "anio_desde": 2015,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Full-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_5_series_g30g31",
+    "nombre": "Bmw 5 Series (G30/G31)",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Mid-size luxury car"
+    ]
+  },
+  {
+    "id": "bmw_1_series_f52",
+    "nombre": "Bmw 1 Series (F52)",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_6_series_g32",
+    "nombre": "Bmw 6 Series (G32)",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_x3_g01",
+    "nombre": "Bmw X3 (G01)",
+    "anio_desde": 2017,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_x2_f39",
+    "nombre": "Bmw X2 (F39)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_x4_g02",
+    "nombre": "Bmw X4 (G02)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV"
+    ]
+  },
+  {
+    "id": "bmw_z4_g29",
+    "nombre": "Bmw Z4 (G29)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Roadster"
+    ]
+  },
+  {
+    "id": "bmw_8_series_g14g15g15",
+    "nombre": "Bmw 8 Series (G14/G15/G15)",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Grand tourer"
+    ]
+  },
+  {
+    "id": "bmw_1_series_f40",
+    "nombre": "Bmw 1 Series (F40)",
+    "anio_desde": 2019,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_2_series_f44",
+    "nombre": "Bmw 2 Series (F44)",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Sub-compact executive car"
+    ]
+  },
+  {
+    "id": "bmw_ix3_g08",
+    "nombre": "Bmw iX3 (G08)",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Compact luxury SUV (electric)"
+    ]
+  }
+]

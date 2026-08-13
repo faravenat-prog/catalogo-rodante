@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "ford_puma_gen_e",
+    "nombre": "Ford Puma Gen-E",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_capri_ev",
+    "nombre": "Ford Capri EV",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_bronco_sport",
+    "nombre": "Ford Bronco Sport",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_edge",
+    "nombre": "Ford Edge",
+    "anio_desde": 2006,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_escape",
+    "nombre": "Ford Escape",
+    "anio_desde": 2000,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_kuga",
+    "nombre": "Ford Kuga",
+    "anio_desde": 2008,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_mondeo_sport",
+    "nombre": "Ford Mondeo Sport",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_explorer_ev",
+    "nombre": "Ford Explorer EV",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_mustang_mach_e",
+    "nombre": "Ford Mustang Mach-E",
+    "anio_desde": 2020,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_territory_equator_sport",
+    "nombre": "Ford Territory / Equator Sport",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_equator",
+    "nombre": "Ford Equator",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_explorer",
+    "nombre": "Ford Explorer",
+    "anio_desde": 1990,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_bronco",
+    "nombre": "Ford Bronco",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_bronco_new_energy",
+    "nombre": "Ford Bronco New Energy",
+    "anio_desde": 2025,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_everest",
+    "nombre": "Ford Everest",
+    "anio_desde": 2003,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_expedition",
+    "nombre": "Ford Expedition",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SUV / crossover"
+    ]
+  },
+  {
+    "id": "ford_maverick",
+    "nombre": "Ford Maverick",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "ford_ranger",
+    "nombre": "Ford Ranger",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "ford_f_series",
+    "nombre": "Ford F-Series",
+    "anio_desde": 1948,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup truck"
+    ]
+  },
+  {
+    "id": "ford_tourneo_connect",
+    "nombre": "Ford Tourneo Connect",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "ford_tourneo_custom",
+    "nombre": "Ford Tourneo Custom",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "ford_transit_connect",
+    "nombre": "Ford Transit Connect",
+    "anio_desde": 2002,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "ford_transit_city",
+    "nombre": "Ford Transit City",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "ford_transit_custom",
+    "nombre": "Ford Transit Custom",
+    "anio_desde": 2012,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "ford_transit",
+    "nombre": "Ford Transit",
+    "anio_desde": 1965,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "ford_e_series_cutaway",
+    "nombre": "Ford E-Series Cutaway",
+    "anio_desde": 1975,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Heavy commercial vehicles"
+    ]
+  },
+  {
+    "id": "ford_super_duty",
+    "nombre": "Ford Super Duty",
+    "anio_desde": 1999,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Heavy commercial vehicles"
+    ]
+  },
+  {
+    "id": "ford_f_series_2",
+    "nombre": "Ford F-Series",
+    "anio_desde": 1948,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Heavy commercial vehicles"
+    ]
+  },
+  {
+    "id": "ford_f_max",
+    "nombre": "Ford F-MAX",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Heavy commercial vehicles"
+    ]
+  },
+  {
+    "id": "ford_model_a",
+    "nombre": "Ford Model A",
+    "anio_desde": 1903,
+    "anio_hasta": 1904,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_b",
+    "nombre": "Ford Model B",
+    "anio_desde": 1904,
+    "anio_hasta": 1906,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_c",
+    "nombre": "Ford Model C",
+    "anio_desde": 1904,
+    "anio_hasta": 1905,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_f",
+    "nombre": "Ford Model F",
+    "anio_desde": 1905,
+    "anio_hasta": 1906,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_k",
+    "nombre": "Ford Model K",
+    "anio_desde": 1906,
+    "anio_hasta": 1908,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_n_r_s",
+    "nombre": "Ford Model N / R / S",
+    "anio_desde": 1906,
+    "anio_hasta": 1909,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_t",
+    "nombre": "Ford Model T",
+    "anio_desde": 1908,
+    "anio_hasta": 1927,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_a_1927",
+    "nombre": "Ford Model A (1927)",
+    "anio_desde": 1927,
+    "anio_hasta": 1931,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_tt",
+    "nombre": "Ford Model TT",
+    "anio_desde": 1925,
+    "anio_hasta": 1927,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_model_aa",
+    "nombre": "Ford Model AA",
+    "anio_desde": 1927,
+    "anio_hasta": 1931,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_model_b_bb_18_40",
+    "nombre": "Ford Model B / BB / 18 / 40",
+    "anio_desde": 1932,
+    "anio_hasta": 1934,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_y",
+    "nombre": "Ford Model Y",
+    "anio_desde": 1932,
+    "anio_hasta": 1937,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_koln",
+    "nombre": "Ford Köln",
+    "anio_desde": 1932,
+    "anio_hasta": 1935,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_rheinland",
+    "nombre": "Ford Rheinland",
+    "anio_desde": 1933,
+    "anio_hasta": 1936,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_48",
+    "nombre": "Ford Model 48",
+    "anio_desde": 1935,
+    "anio_hasta": 1936,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_model_c_ten",
+    "nombre": "Ford Model C Ten",
+    "anio_desde": 1935,
+    "anio_hasta": 1937,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_eifel",
+    "nombre": "Ford Eifel",
+    "anio_desde": 1935,
+    "anio_hasta": 1939,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_cx",
+    "nombre": "Ford CX",
+    "anio_desde": 1935,
+    "anio_hasta": 1937,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_7w",
+    "nombre": "Ford 7W",
+    "anio_desde": 1937,
+    "anio_hasta": 1938,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_7y",
+    "nombre": "Ford 7Y",
+    "anio_desde": 1938,
+    "anio_hasta": 1939,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_prefect",
+    "nombre": "Ford Prefect",
+    "anio_desde": 1938,
+    "anio_hasta": 1961,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_anglia",
+    "nombre": "Ford Anglia",
+    "anio_desde": 1939,
+    "anio_hasta": 1967,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_taunus",
+    "nombre": "Ford Taunus",
+    "anio_desde": 1939,
+    "anio_hasta": 1994,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_son_e83w",
+    "nombre": "Fordson E83W",
+    "anio_desde": 1938,
+    "anio_hasta": 1957,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_vedette",
+    "nombre": "Ford Vedette",
+    "anio_desde": 1948,
+    "anio_hasta": 1954,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_pilot",
+    "nombre": "Ford Pilot",
+    "anio_desde": 1947,
+    "anio_hasta": 1951,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_custom",
+    "nombre": "Ford Custom",
+    "anio_desde": 1949,
+    "anio_hasta": 1981,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_consul",
+    "nombre": "Ford Consul",
+    "anio_desde": 1951,
+    "anio_hasta": 1962,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_country_sedan",
+    "nombre": "Ford Country Sedan",
+    "anio_desde": 1952,
+    "anio_hasta": 1974,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_country_squire",
+    "nombre": "Ford Country Squire",
+    "anio_desde": 1950,
+    "anio_hasta": 1991,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_courier",
+    "nombre": "Ford Courier",
+    "anio_desde": 1952,
+    "anio_hasta": 2013,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_crestline",
+    "nombre": "Ford Crestline",
+    "anio_desde": 1950,
+    "anio_hasta": 1951,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_del_rio",
+    "nombre": "Ford Del Rio",
+    "anio_desde": 1957,
+    "anio_hasta": 1958,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_escort_100e",
+    "nombre": "Ford Escort (100E)",
+    "anio_desde": 1955,
+    "anio_hasta": 1961,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fairlane",
+    "nombre": "Ford Fairlane",
+    "anio_desde": 1955,
+    "anio_hasta": 1970,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_galaxie",
+    "nombre": "Ford Galaxie",
+    "anio_desde": 1959,
+    "anio_hasta": 1974,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_mainline",
+    "nombre": "Ford Mainline",
+    "anio_desde": 1952,
+    "anio_hasta": 1956,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_parklane",
+    "nombre": "Ford Parklane",
+    "anio_desde": 1956,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_popular",
+    "nombre": "Ford Popular",
+    "anio_desde": 1953,
+    "anio_hasta": 1962,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_ranchero",
+    "nombre": "Ford Ranchero",
+    "anio_desde": 1957,
+    "anio_hasta": 1979,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_squire",
+    "nombre": "Ford Squire",
+    "anio_desde": 1955,
+    "anio_hasta": 1959,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_thunderbird",
+    "nombre": "Ford Thunderbird",
+    "anio_desde": 1955,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_versailles",
+    "nombre": "Ford Versailles",
+    "anio_desde": 1954,
+    "anio_hasta": 1957,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_zephyr",
+    "nombre": "Ford Zephyr",
+    "anio_desde": 1950,
+    "anio_hasta": 1971,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_c_series",
+    "nombre": "Ford C Series",
+    "anio_desde": 1957,
+    "anio_hasta": 1990,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_fk",
+    "nombre": "Ford FK",
+    "anio_desde": 1951,
+    "anio_hasta": 1961,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_starliner",
+    "nombre": "Ford Starliner",
+    "anio_desde": 1960,
+    "anio_hasta": 1964,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_falcon",
+    "nombre": "Ford Falcon",
+    "anio_desde": 1960,
+    "anio_hasta": 1970,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_falcon_2",
+    "nombre": "Ford Falcon",
+    "anio_desde": 1960,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_e_series_econoline",
+    "nombre": "Ford E-Series / Econoline",
+    "anio_desde": 1961,
+    "anio_hasta": 2014,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_cortina",
+    "nombre": "Ford Cortina",
+    "anio_desde": 1962,
+    "anio_hasta": 1982,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fairlane_thunderbolt",
+    "nombre": "Ford Fairlane Thunderbolt",
+    "anio_desde": 1964,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_gt40",
+    "nombre": "Ford GT40",
+    "anio_desde": 1964,
+    "anio_hasta": 1969,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_corsair",
+    "nombre": "Ford Corsair",
+    "anio_desde": 1964,
+    "anio_hasta": 1970,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_ltd",
+    "nombre": "Ford LTD",
+    "anio_desde": 1965,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fairmont",
+    "nombre": "Ford Fairmont",
+    "anio_desde": 1965,
+    "anio_hasta": 2008,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_p7",
+    "nombre": "Ford P7",
+    "anio_desde": 1967,
+    "anio_hasta": 1972,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fairlane_2",
+    "nombre": "Ford Fairlane",
+    "anio_desde": 1967,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_torino",
+    "nombre": "Ford Torino",
+    "anio_desde": 1968,
+    "anio_hasta": 1976,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_capri_coupe",
+    "nombre": "Ford Capri (coupe)",
+    "anio_desde": 1968,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_corcel",
+    "nombre": "Ford Corcel",
+    "anio_desde": 1968,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_escort",
+    "nombre": "Ford Escort",
+    "anio_desde": 1968,
+    "anio_hasta": 2000,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_n_series",
+    "nombre": "Ford N-Series",
+    "anio_desde": 1962,
+    "anio_hasta": 1969,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_d_series",
+    "nombre": "Ford D-Series",
+    "anio_desde": 1965,
+    "anio_hasta": 1981,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_w_series",
+    "nombre": "Ford W-Series",
+    "anio_desde": 1966,
+    "anio_hasta": 1977,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_maverick_2",
+    "nombre": "Ford Maverick",
+    "anio_desde": 1970,
+    "anio_hasta": 1979,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_pinto",
+    "nombre": "Ford Pinto",
+    "anio_desde": 1971,
+    "anio_hasta": 1980,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_p100",
+    "nombre": "Ford P100",
+    "anio_desde": 1971,
+    "anio_hasta": 1993,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_granada",
+    "nombre": "Ford Granada",
+    "anio_desde": 1972,
+    "anio_hasta": 1994,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_landau",
+    "nombre": "Ford Landau",
+    "anio_desde": 1971,
+    "anio_hasta": 1983,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_landau_2",
+    "nombre": "Ford Landau",
+    "anio_desde": 1973,
+    "anio_hasta": 1976,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_elite",
+    "nombre": "Ford Elite",
+    "anio_desde": 1974,
+    "anio_hasta": 1976,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_granada_2",
+    "nombre": "Ford Granada",
+    "anio_desde": 1975,
+    "anio_hasta": 1982,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fiesta",
+    "nombre": "Ford Fiesta",
+    "anio_desde": 1976,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fairmont_2",
+    "nombre": "Ford Fairmont",
+    "anio_desde": 1978,
+    "anio_hasta": 1983,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_durango",
+    "nombre": "Ford Durango",
+    "anio_desde": 1979,
+    "anio_hasta": 1982,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_econovan_spectron",
+    "nombre": "Ford Econovan / Spectron",
+    "anio_desde": 1977,
+    "anio_hasta": 1999,
+    "segmentos": [
+      "Vans"
+    ]
+  },
+  {
+    "id": "ford_l_series",
+    "nombre": "Ford L-Series",
+    "anio_desde": 1970,
+    "anio_hasta": 1998,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_courier_2",
+    "nombre": "Ford Courier",
+    "anio_desde": 1971,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_fiera",
+    "nombre": "Ford Fiera",
+    "anio_desde": 1972,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_transcontinental",
+    "nombre": "Ford Transcontinental",
+    "anio_desde": 1975,
+    "anio_hasta": 1984,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_cl_series",
+    "nombre": "Ford CL-Series",
+    "anio_desde": 1978,
+    "anio_hasta": 1991,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_capri",
+    "nombre": "Ford Capri",
+    "anio_desde": 1989,
+    "anio_hasta": 1994,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_del_rey",
+    "nombre": "Ford Del Rey",
+    "anio_desde": 1981,
+    "anio_hasta": 1991,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_escort_2",
+    "nombre": "Ford Escort",
+    "anio_desde": 1981,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_exp",
+    "nombre": "Ford EXP",
+    "anio_desde": 1982,
+    "anio_hasta": 1988,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_festiva",
+    "nombre": "Ford Festiva",
+    "anio_desde": 1988,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_laser",
+    "nombre": "Ford Laser",
+    "anio_desde": 1980,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_ltd_crown_victoria",
+    "nombre": "Ford LTD Crown Victoria",
+    "anio_desde": 1980,
+    "anio_hasta": 1991,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_orion",
+    "nombre": "Ford Orion",
+    "anio_desde": 1983,
+    "anio_hasta": 1993,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_probe",
+    "nombre": "Ford Probe",
+    "anio_desde": 1989,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_rs200",
+    "nombre": "Ford RS200",
+    "anio_desde": 1984,
+    "anio_hasta": 1986,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_scorpio",
+    "nombre": "Ford Scorpio",
+    "anio_desde": 1985,
+    "anio_hasta": 1999,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_sierra",
+    "nombre": "Ford Sierra",
+    "anio_desde": 1982,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_telstar",
+    "nombre": "Ford Telstar",
+    "anio_desde": 1983,
+    "anio_hasta": 1999,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_taurus",
+    "nombre": "Ford Taurus",
+    "anio_desde": 1985,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_tempo",
+    "nombre": "Ford Tempo",
+    "anio_desde": 1984,
+    "anio_hasta": 1994,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_verona",
+    "nombre": "Ford Verona",
+    "anio_desde": 1989,
+    "anio_hasta": 2000,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_corsair_2",
+    "nombre": "Ford Corsair",
+    "anio_desde": 1989,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_maverick_3",
+    "nombre": "Ford Maverick",
+    "anio_desde": 1988,
+    "anio_hasta": 1994,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_bronco_ii",
+    "nombre": "Ford Bronco II",
+    "anio_desde": 1984,
+    "anio_hasta": 1990,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_aerostar",
+    "nombre": "Ford Aerostar",
+    "anio_desde": 1986,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "Vans"
+    ]
+  },
+  {
+    "id": "ford_cargo",
+    "nombre": "Ford Cargo",
+    "anio_desde": 1982,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_n_series_2",
+    "nombre": "Ford N-Series",
+    "anio_desde": 1982,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_bantam",
+    "nombre": "Ford Bantam",
+    "anio_desde": 1983,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_pronto",
+    "nombre": "Ford Pronto",
+    "anio_desde": 1985,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "Trucks"
+    ]
+  },
+  {
+    "id": "ford_versailles_2",
+    "nombre": "Ford Versailles",
+    "anio_desde": 1991,
+    "anio_hasta": 1996,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_aspire",
+    "nombre": "Ford Aspire",
+    "anio_desde": 1993,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_contour",
+    "nombre": "Ford Contour",
+    "anio_desde": 1995,
+    "anio_hasta": 2000,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_cougar",
+    "nombre": "Ford Cougar",
+    "anio_desde": 1999,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_crown_victoria",
+    "nombre": "Ford Crown Victoria",
+    "anio_desde": 1992,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_ka",
+    "nombre": "Ford Ka",
+    "anio_desde": 1996,
+    "anio_hasta": 2021,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_puma_coupe",
+    "nombre": "Ford Puma (coupe)",
+    "anio_desde": 1997,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_activa",
+    "nombre": "Ford Activa",
+    "anio_desde": 1998,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_focus",
+    "nombre": "Ford Focus",
+    "anio_desde": 1998,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_ikon",
+    "nombre": "Ford Ikon",
+    "anio_desde": 1999,
+    "anio_hasta": 2015,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_raider",
+    "nombre": "Ford Raider",
+    "anio_desde": 1991,
+    "anio_hasta": 1997,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_maverick_4",
+    "nombre": "Ford Maverick",
+    "anio_desde": 1993,
+    "anio_hasta": 1999,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_explorer_2",
+    "nombre": "Ford Explorer",
+    "anio_desde": 1994,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_freda",
+    "nombre": "Ford Freda",
+    "anio_desde": 1995,
+    "anio_hasta": 2002,
+    "segmentos": [
+      "Vans / minivans"
+    ]
+  },
+  {
+    "id": "ford_galaxy",
+    "nombre": "Ford Galaxy",
+    "anio_desde": 1995,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Vans / minivans"
+    ]
+  },
+  {
+    "id": "ford_windstar",
+    "nombre": "Ford Windstar",
+    "anio_desde": 1995,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Vans / minivans"
+    ]
+  },
+  {
+    "id": "ford_ixion",
+    "nombre": "Ford Ixion",
+    "anio_desde": 1999,
+    "anio_hasta": 2003,
+    "segmentos": [
+      "Vans / minivans"
+    ]
+  },
+  {
+    "id": "ford_gt",
+    "nombre": "Ford GT",
+    "anio_desde": 2005,
+    "anio_hasta": 2022,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_five_hundred",
+    "nombre": "Ford Five Hundred",
+    "anio_desde": 2005,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fusion",
+    "nombre": "Ford Fusion",
+    "anio_desde": 2006,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fusion_hybrid",
+    "nombre": "Ford Fusion Hybrid",
+    "anio_desde": 2010,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_excursion",
+    "nombre": "Ford Excursion",
+    "anio_desde": 2000,
+    "anio_hasta": 2005,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_ecosport",
+    "nombre": "Ford EcoSport",
+    "anio_desde": 2003,
+    "anio_hasta": 2022,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_territory",
+    "nombre": "Ford Territory",
+    "anio_desde": 2004,
+    "anio_hasta": 2016,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_freestyle",
+    "nombre": "Ford Freestyle",
+    "anio_desde": 2005,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_edge_2",
+    "nombre": "Ford Edge",
+    "anio_desde": 2006,
+    "anio_hasta": 2024,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_taurus_x",
+    "nombre": "Ford Taurus X",
+    "anio_desde": 2008,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_flex",
+    "nombre": "Ford Flex",
+    "anio_desde": 2009,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "SUVs"
+    ]
+  },
+  {
+    "id": "ford_fusion_2",
+    "nombre": "Ford Fusion",
+    "anio_desde": 2002,
+    "anio_hasta": 2012,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_i_max",
+    "nombre": "Ford i-Max",
+    "anio_desde": 2007,
+    "anio_hasta": 2011,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_c_max",
+    "nombre": "Ford C-Max",
+    "anio_desde": 2003,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_freestar",
+    "nombre": "Ford Freestar",
+    "anio_desde": 2003,
+    "anio_hasta": 2007,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_s_max",
+    "nombre": "Ford S-Max",
+    "anio_desde": 2006,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_explorer_sport_trac",
+    "nombre": "Ford Explorer Sport Trac",
+    "anio_desde": 2001,
+    "anio_hasta": 2010,
+    "segmentos": [
+      "Trucks / pickups"
+    ]
+  },
+  {
+    "id": "ford_lcf",
+    "nombre": "Ford LCF",
+    "anio_desde": 2006,
+    "anio_hasta": 2009,
+    "segmentos": [
+      "Trucks / pickups"
+    ]
+  },
+  {
+    "id": "ford_figo",
+    "nombre": "Ford Figo",
+    "anio_desde": 2010,
+    "anio_hasta": 2021,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_fusion_energi",
+    "nombre": "Ford Fusion Energi",
+    "anio_desde": 2012,
+    "anio_hasta": 2020,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_focus_electric",
+    "nombre": "Ford Focus Electric",
+    "anio_desde": 2012,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_escort_3",
+    "nombre": "Ford Escort",
+    "anio_desde": 2015,
+    "anio_hasta": 2023,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_taurus_2",
+    "nombre": "Ford Taurus",
+    "anio_desde": 2015,
+    "anio_hasta": 2022,
+    "segmentos": [
+      "Cars"
+    ]
+  },
+  {
+    "id": "ford_grand_c_max",
+    "nombre": "Ford Grand C-Max",
+    "anio_desde": 2010,
+    "anio_hasta": 2019,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_b_max",
+    "nombre": "Ford B-Max",
+    "anio_desde": 2012,
+    "anio_hasta": 2017,
+    "segmentos": [
+      "Minivans"
+    ]
+  },
+  {
+    "id": "ford_f_150_lightning",
+    "nombre": "Ford F-150 Lightning",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "pickups"
+    ]
+  }
+]

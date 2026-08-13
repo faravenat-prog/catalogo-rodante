@@ -1,0 +1,306 @@
+[
+  {
+    "id": "mercedes_algeria",
+    "nombre": "Mercedes Algeria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_argentina",
+    "nombre": "Mercedes Argentina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_australia",
+    "nombre": "Mercedes Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_austria",
+    "nombre": "Mercedes Austria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_bosnia_and_herzegovina",
+    "nombre": "Mercedes Bosnia and Herzegovina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_brazil",
+    "nombre": "Mercedes Brazil",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_canada",
+    "nombre": "Mercedes Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_colombia",
+    "nombre": "Mercedes Colombia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_china",
+    "nombre": "Mercedes China",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_denmark",
+    "nombre": "Mercedes Denmark",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_egypt",
+    "nombre": "Mercedes Egypt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_finland",
+    "nombre": "Mercedes Finland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_hungary",
+    "nombre": "Mercedes Hungary",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_jordan",
+    "nombre": "Mercedes Jordan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_india",
+    "nombre": "Mercedes India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_indonesia",
+    "nombre": "Mercedes Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_iran",
+    "nombre": "Mercedes Iran",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_malaysia",
+    "nombre": "Mercedes Malaysia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_mexico",
+    "nombre": "Mercedes Mexico",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_nigeria",
+    "nombre": "Mercedes Nigeria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_russia",
+    "nombre": "Mercedes Russia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_serbia",
+    "nombre": "Mercedes Serbia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_spain",
+    "nombre": "Mercedes Spain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_south_africa",
+    "nombre": "Mercedes South Africa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_south_korea",
+    "nombre": "Mercedes South Korea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_taiwan",
+    "nombre": "Mercedes Taiwan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_thailand",
+    "nombre": "Mercedes Thailand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_turkey",
+    "nombre": "Mercedes Turkey",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_united_kingdom",
+    "nombre": "Mercedes United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_united_states",
+    "nombre": "Mercedes United States",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_vietnam",
+    "nombre": "Mercedes Vietnam",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_core_models",
+    "nombre": "Mercedes Core models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "E-Class"
+    ]
+  },
+  {
+    "id": "mercedes_offroad_vehiclessuvs",
+    "nombre": "Mercedes Off/road vehicles/SUVs",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "GLE"
+    ]
+  },
+  {
+    "id": "mercedes_4_door_coupes",
+    "nombre": "Mercedes 4-door coupés",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "CLE"
+    ]
+  },
+  {
+    "id": "mercedes_roadsters",
+    "nombre": "Mercedes Roadsters",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "SL"
+    ]
+  },
+  {
+    "id": "mercedes_electric_vehicles",
+    "nombre": "Mercedes Electric vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "EQE"
+    ]
+  },
+  {
+    "id": "mercedes_natural_gas_drive",
+    "nombre": "Mercedes Natural Gas Drive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_bluetec_cdi",
+    "nombre": "Mercedes BlueTec CDI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_plug_in_hybrid_electric_drive",
+    "nombre": "Mercedes PLUG-IN HYBRID Electric Drive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_fuel_cell",
+    "nombre": "Mercedes Fuel Cell",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_hybrid_bluetec_hybrid",
+    "nombre": "Mercedes HYBRID BlueTEC HYBRID",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "mercedes_4matic",
+    "nombre": "Mercedes 4MATIC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "fiat_argo",
+    "nombre": "Fiat Argo",
+    "anio_desde": 2018,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "fiat_grande_panda",
+    "nombre": "Fiat Grande Panda",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "fiat_mobi",
+    "nombre": "Fiat Mobi",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "fiat_panda",
+    "nombre": "Fiat Panda",
+    "anio_desde": 1980,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Hatchback"
+    ]
+  },
+  {
+    "id": "fiat_fastback",
+    "nombre": "Fiat Fastback",
+    "anio_desde": 2022,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "fiat_grizzly_grizzly_fastback",
+    "nombre": "Fiat Grizzly / Grizzly Fastback",
+    "anio_desde": 2026,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "fiat_pulse",
+    "nombre": "Fiat Pulse",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover SUV"
+    ]
+  },
+  {
+    "id": "fiat_ulysse",
+    "nombre": "Fiat Ulysse",
+    "anio_desde": 1994,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "MPV/ minivan"
+    ]
+  },
+  {
+    "id": "fiat_ducato",
+    "nombre": "Fiat Ducato",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "fiat_fiorino_327",
+    "nombre": "Fiat Fiorino (327)",
+    "anio_desde": 1977,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "fiat_scudo",
+    "nombre": "Fiat Scudo",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Van"
+    ]
+  },
+  {
+    "id": "fiat_ducato_flatbed",
+    "nombre": "Fiat Ducato Flatbed",
+    "anio_desde": 1981,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup"
+    ]
+  },
+  {
+    "id": "fiat_strada",
+    "nombre": "Fiat Strada",
+    "anio_desde": 1996,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup"
+    ]
+  },
+  {
+    "id": "fiat_toro",
+    "nombre": "Fiat Toro",
+    "anio_desde": 2016,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup"
+    ]
+  },
+  {
+    "id": "fiat_titano",
+    "nombre": "Fiat Titano",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Pickup"
+    ]
+  },
+  {
+    "id": "fiat_fastback_2",
+    "nombre": "Fiat Fastback",
+    "anio_desde": 2023,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover/SUV"
+    ]
+  },
+  {
+    "id": "fiat_600e",
+    "nombre": "Fiat 600e",
+    "anio_desde": 2024,
+    "anio_hasta": 2025,
+    "segmentos": [
+      "Crossover/SUV"
+    ]
+  }
+]

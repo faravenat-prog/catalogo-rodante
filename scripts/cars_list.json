@@ -1,0 +1,2900 @@
+[
+  {
+    "id": "toyota_ae86_trueno",
+    "nombre": "Toyota Corolla AE86 Trueno",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "toyota_supra_a70",
+    "nombre": "Toyota Supra MkIII (A70)",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "toyota_supra_a80",
+    "nombre": "Toyota Supra MkIV (A80)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "toyota_corolla_ae90",
+    "nombre": "Toyota Corolla E90",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "toyota_corolla_e100",
+    "nombre": "Toyota Corolla E100",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "toyota_corolla_e110",
+    "nombre": "Toyota Corolla E110",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_mr2_sw10",
+    "nombre": "Toyota MR2 SW10",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "toyota_mr2_sw20",
+    "nombre": "Toyota MR2 SW20 Turbo",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "toyota_celica_st185",
+    "nombre": "Toyota Celica GT-Four ST185",
+    "pais": "Japón",
+    "anio": 1993
+  },
+  {
+    "id": "toyota_land_cruiser_fj40",
+    "nombre": "Toyota Land Cruiser FJ40",
+    "pais": "Japón",
+    "anio": 1984
+  },
+  {
+    "id": "toyota_land_cruiser_fj80",
+    "nombre": "Toyota Land Cruiser FJ80",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "toyota_starlet_ep82",
+    "nombre": "Toyota Starlet GT Turbo EP82",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "toyota_hilux_n50",
+    "nombre": "Toyota Hilux N50",
+    "pais": "Japón",
+    "anio": 1983
+  },
+  {
+    "id": "toyota_rav4_gen1",
+    "nombre": "Toyota RAV4 Gen1",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "toyota_crown_s100",
+    "nombre": "Toyota Crown S100",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "toyota_tercel_el50",
+    "nombre": "Toyota Tercel EL50",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "toyota_2000gt",
+    "nombre": "Toyota 2000GT",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "toyota_celica_ta22",
+    "nombre": "Toyota Celica TA22 (1a gen)",
+    "pais": "Japón",
+    "anio": 1977
+  },
+  {
+    "id": "toyota_supra_a60",
+    "nombre": "Toyota Supra A60 (MkII)",
+    "pais": "Japón",
+    "anio": 1986
+  },
+  {
+    "id": "toyota_supra_a90",
+    "nombre": "Toyota GR Supra (A90)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_celica_st162",
+    "nombre": "Toyota Celica ST162 (4a gen)",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "toyota_celica_st202",
+    "nombre": "Toyota Celica ST202 (6a gen)",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "toyota_celica_zzt231",
+    "nombre": "Toyota Celica ZZT231 (7a gen)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "toyota_sprinter_trueno_ae111",
+    "nombre": "Toyota Sprinter Trueno AE111",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "toyota_mr2_w30",
+    "nombre": "Toyota MR2 Roadster (W30)",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "toyota_soarer_z30",
+    "nombre": "Toyota Soarer Z30 (Lexus SC400)",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "toyota_altezza_rs200",
+    "nombre": "Toyota Altezza RS200 (IS200/IS300)",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "toyota_gr86",
+    "nombre": "Toyota GR86 (ZN8)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_gr_yaris",
+    "nombre": "Toyota GR Yaris (GXPA16)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_mark2_jzx100",
+    "nombre": "Toyota Mark II JZX100",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_chaser_jzx100",
+    "nombre": "Toyota Chaser JZX100",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_aristo_s160",
+    "nombre": "Toyota Aristo S160 (Lexus GS)",
+    "pais": "Japón",
+    "anio": 2004
+  },
+  {
+    "id": "toyota_cressida_x60",
+    "nombre": "Toyota Cressida (MX62)",
+    "pais": "Japón",
+    "anio": 1988
+  },
+  {
+    "id": "toyota_crown_s200",
+    "nombre": "Toyota Crown S200",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "toyota_century_vg45",
+    "nombre": "Toyota Century (VG45)",
+    "pais": "Japón",
+    "anio": 2017
+  },
+  {
+    "id": "toyota_corolla_ke10",
+    "nombre": "Toyota Corolla KE10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "toyota_corolla_e70",
+    "nombre": "Toyota Corolla E70",
+    "pais": "Japón",
+    "anio": 1983
+  },
+  {
+    "id": "toyota_corolla_e120",
+    "nombre": "Toyota Corolla E120",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "toyota_corolla_e210",
+    "nombre": "Toyota Corolla E210 (12a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_camry_v10",
+    "nombre": "Toyota Camry V10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1986
+  },
+  {
+    "id": "toyota_camry_xv30",
+    "nombre": "Toyota Camry XV30",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "toyota_camry_xv70",
+    "nombre": "Toyota Camry XV70 Híbrido",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_prius_nhw10",
+    "nombre": "Toyota Prius NHW10 (1a gen)",
+    "pais": "Japón",
+    "anio": 2003
+  },
+  {
+    "id": "toyota_prius_nhw20",
+    "nombre": "Toyota Prius NHW20 (2a gen)",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "toyota_prius_zvw30",
+    "nombre": "Toyota Prius ZVW30 (3a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "toyota_yaris_p10",
+    "nombre": "Toyota Yaris / Vitz P10 (1a gen)",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "toyota_land_cruiser_70",
+    "nombre": "Toyota Land Cruiser Serie 70",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_land_cruiser_100",
+    "nombre": "Toyota Land Cruiser 100 (UZJ100)",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "toyota_land_cruiser_200",
+    "nombre": "Toyota Land Cruiser 200 (URJ200)",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "toyota_land_cruiser_300",
+    "nombre": "Toyota Land Cruiser 300 (VJA300)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_prado_j90",
+    "nombre": "Toyota Land Cruiser Prado J90",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "toyota_prado_j150",
+    "nombre": "Toyota Land Cruiser Prado J150",
+    "pais": "Japón",
+    "anio": 2023
+  },
+  {
+    "id": "toyota_fj_cruiser",
+    "nombre": "Toyota FJ Cruiser (GSJ15)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "toyota_hilux_n70",
+    "nombre": "Toyota Hilux N70 (7a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "toyota_hilux_n80",
+    "nombre": "Toyota Hilux N80 (8a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_rav4_gen2",
+    "nombre": "Toyota RAV4 Gen2 (XA20)",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "toyota_rav4_gen5",
+    "nombre": "Toyota RAV4 Gen5 Híbrido (XA50)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_fortuner_an150",
+    "nombre": "Toyota Fortuner AN150 (1a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "toyota_hiace_h200",
+    "nombre": "Toyota HiAce H200 (5a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_previa_tcr10",
+    "nombre": "Toyota Previa / Estima (TCR10)",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "toyota_celica_supra_a40_mki",
+    "nombre": "Toyota Celica Supra A40 (MkI)",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "toyota_celica_a20",
+    "nombre": "Toyota Celica RA28 (2a gen)",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "toyota_celica_a40",
+    "nombre": "Toyota Celica TA40 (3a gen)",
+    "pais": "Japón",
+    "anio": 1985
+  },
+  {
+    "id": "toyota_celica_st205",
+    "nombre": "Toyota Celica GT-Four ST205 (WRC)",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "toyota_corolla_levin_ae86",
+    "nombre": "Toyota Corolla Levin AE86",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "toyota_corolla_e30",
+    "nombre": "Toyota Corolla E30 (2a gen)",
+    "pais": "Japón",
+    "anio": 1974
+  },
+  {
+    "id": "toyota_corolla_e50",
+    "nombre": "Toyota Corolla E50 (3a gen)",
+    "pais": "Japón",
+    "anio": 1979
+  },
+  {
+    "id": "toyota_corolla_e80",
+    "nombre": "Toyota Corolla E80 (5a gen)",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "toyota_corolla_e130",
+    "nombre": "Toyota Corolla E130 / Altis",
+    "pais": "Japón",
+    "anio": 2013
+  },
+  {
+    "id": "toyota_corolla_cross",
+    "nombre": "Toyota Corolla Cross (XG10)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_gr_corolla",
+    "nombre": "Toyota GR Corolla (GZEA10)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_camry_xv20",
+    "nombre": "Toyota Camry XV20",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_camry_xv50",
+    "nombre": "Toyota Camry XV50",
+    "pais": "Japón",
+    "anio": 2017
+  },
+  {
+    "id": "toyota_crown_s10",
+    "nombre": "Toyota Crown S10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1962
+  },
+  {
+    "id": "toyota_crown_s130",
+    "nombre": "Toyota Crown S130 (8a gen)",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "toyota_crown_s170",
+    "nombre": "Toyota Crown S170 (10a gen)",
+    "pais": "Japón",
+    "anio": 2003
+  },
+  {
+    "id": "toyota_crown_crossover",
+    "nombre": "Toyota Crown Crossover (S235)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_mark2_jzx81",
+    "nombre": "Toyota Mark II JZX81",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "toyota_mark2_jzx90",
+    "nombre": "Toyota Mark II JZX90",
+    "pais": "Japón",
+    "anio": 1996
+  },
+  {
+    "id": "toyota_chaser_jzx90",
+    "nombre": "Toyota Chaser JZX90",
+    "pais": "Japón",
+    "anio": 1996
+  },
+  {
+    "id": "toyota_cresta_jzx100",
+    "nombre": "Toyota Cresta JZX100",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_mark_x_grx120",
+    "nombre": "Toyota Mark X GRX120",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "toyota_soarer_z20",
+    "nombre": "Toyota Soarer Z20 (2a gen)",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "toyota_carina_at190",
+    "nombre": "Toyota Carina E (AT190)",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "toyota_corona_rt80",
+    "nombre": "Toyota Corona RT80 (4a gen)",
+    "pais": "Japón",
+    "anio": 1973
+  },
+  {
+    "id": "toyota_avalon_mcx10",
+    "nombre": "Toyota Avalon MCX10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "toyota_starlet_kp61",
+    "nombre": "Toyota Starlet KP61",
+    "pais": "Japón",
+    "anio": 1984
+  },
+  {
+    "id": "toyota_starlet_ep71",
+    "nombre": "Toyota Starlet EP71 Turbo S",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "toyota_prius_zvw50",
+    "nombre": "Toyota Prius ZVW50 (4a gen)",
+    "pais": "Japón",
+    "anio": 2022
+  },
+  {
+    "id": "toyota_prius_fxea50",
+    "nombre": "Toyota Prius (5a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_aqua_nhp10",
+    "nombre": "Toyota Aqua / Prius C (NHP10)",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "toyota_mirai",
+    "nombre": "Toyota Mirai (Fuel Cell)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_bz4x",
+    "nombre": "Toyota bZ4X (ZYM20)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_yaris_xp130",
+    "nombre": "Toyota Yaris XP130 (3a gen)",
+    "pais": "Japón",
+    "anio": 2019
+  },
+  {
+    "id": "toyota_yaris_xp210",
+    "nombre": "Toyota Yaris XP210 (4a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_chr_ngx10",
+    "nombre": "Toyota C-HR (NGX10)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_highlander_xu50",
+    "nombre": "Toyota Highlander / Kluger XU50",
+    "pais": "Japón",
+    "anio": 2019
+  },
+  {
+    "id": "toyota_4runner_n180",
+    "nombre": "Toyota 4Runner N180 (3a gen)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "toyota_4runner_n280",
+    "nombre": "Toyota 4Runner N280 (5a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_prado_j120",
+    "nombre": "Toyota Land Cruiser Prado J120",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "toyota_land_cruiser_fj55",
+    "nombre": "Toyota Land Cruiser FJ55 (Station Wagon)",
+    "pais": "Japón",
+    "anio": 1980
+  },
+  {
+    "id": "toyota_land_cruiser_fj60",
+    "nombre": "Toyota Land Cruiser FJ60",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "toyota_venza_agv15",
+    "nombre": "Toyota Venza (AGV15)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_rav4_gen3",
+    "nombre": "Toyota RAV4 Gen3 (XA30)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "toyota_rav4_gen4",
+    "nombre": "Toyota RAV4 Gen4 (XA40)",
+    "pais": "Japón",
+    "anio": 2018
+  },
+  {
+    "id": "toyota_sequoia_xk60",
+    "nombre": "Toyota Sequoia XK60 (3a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_hilux_n60",
+    "nombre": "Toyota Hilux N60 (4a gen)",
+    "pais": "Japón",
+    "anio": 1988
+  },
+  {
+    "id": "toyota_hilux_surf_n130",
+    "nombre": "Toyota Hilux Surf / 4Runner N130",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "toyota_tacoma_n100",
+    "nombre": "Toyota Tacoma N100 (1a gen)",
+    "pais": "Japón",
+    "anio": 2004
+  },
+  {
+    "id": "toyota_tundra_xk50",
+    "nombre": "Toyota Tundra XK50 (2a gen)",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "toyota_fortuner_an160",
+    "nombre": "Toyota Fortuner AN160 (2a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "toyota_alphard_h30",
+    "nombre": "Toyota Alphard H30 (3a gen)",
+    "pais": "Japón",
+    "anio": 2023
+  },
+  {
+    "id": "toyota_vellfire_h20",
+    "nombre": "Toyota Vellfire H20 (2a gen)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "toyota_sienna_xl30",
+    "nombre": "Toyota Sienna XL30 (3a gen)",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "toyota_wish_ze10",
+    "nombre": "Toyota Wish ZE10",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "toyota_ipsum_sxm10",
+    "nombre": "Toyota Ipsum / Picnic (SXM10)",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "toyota_hiace_h100",
+    "nombre": "Toyota HiAce H100 (3a gen)",
+    "pais": "Japón",
+    "anio": 1982
+  },
+  {
+    "id": "toyota_sera",
+    "nombre": "Toyota Sera (EXY10)",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "toyota_paseo_el54",
+    "nombre": "Toyota Paseo / Cynos (EL54)",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "nissan_skyline_r32",
+    "nombre": "Nissan Skyline GT-R R32",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "nissan_skyline_r33",
+    "nombre": "Nissan Skyline GT-R R33",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "nissan_skyline_r34",
+    "nombre": "Nissan Skyline GT-R R34",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "nissan_silvia_s13",
+    "nombre": "Nissan Silvia S13",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "nissan_silvia_s14",
+    "nombre": "Nissan Silvia S14",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "nissan_silvia_s15",
+    "nombre": "Nissan Silvia S15 Spec R",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "nissan_sentra_b13",
+    "nombre": "Nissan Sentra B13 \"V16\"",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "nissan_sentra_b14",
+    "nombre": "Nissan Sentra B14",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "nissan_180sx",
+    "nombre": "Nissan 180SX / 240SX",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "nissan_pulsar_gtir",
+    "nombre": "Nissan Pulsar GTi-R N14",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "nissan_primera_p11",
+    "nombre": "Nissan Primera P11",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "nissan_patrol_y60",
+    "nombre": "Nissan Patrol Y60",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "nissan_skyline_kpgc10",
+    "nombre": "Nissan Skyline GT-R KPGC10 \"Hakosuka\"",
+    "pais": "Japón",
+    "anio": 1972
+  },
+  {
+    "id": "nissan_skyline_kpgc110",
+    "nombre": "Nissan Skyline GT-R KPGC110 \"Kenmeri\"",
+    "pais": "Japón",
+    "anio": 1973
+  },
+  {
+    "id": "nissan_skyline_r30",
+    "nombre": "Nissan Skyline DR30 RS-Turbo",
+    "pais": "Japón",
+    "anio": 1985
+  },
+  {
+    "id": "nissan_skyline_r31",
+    "nombre": "Nissan Skyline GTS-R R31",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "nissan_skyline_v35",
+    "nombre": "Nissan Skyline V35 (Infiniti G35)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "nissan_gtr_r35",
+    "nombre": "Nissan GT-R R35",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_silvia_s12",
+    "nombre": "Nissan Silvia S12 (Gazelle)",
+    "pais": "Japón",
+    "anio": 1988
+  },
+  {
+    "id": "nissan_fairlady_z_z31",
+    "nombre": "Nissan Fairlady Z Z31 (300ZX)",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "nissan_fairlady_z_z32",
+    "nombre": "Nissan Fairlady Z Z32 (300ZX Twin Turbo)",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "nissan_fairlady_z_z33",
+    "nombre": "Nissan Fairlady Z Z33 (350Z)",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "nissan_fairlady_z_z34",
+    "nombre": "Nissan Fairlady Z Z34 (370Z)",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "nissan_z_rz34",
+    "nombre": "Nissan Z (RZ34)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_cefiro_a31",
+    "nombre": "Nissan Cefiro A31",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "nissan_laurel_c34",
+    "nombre": "Nissan Laurel C34",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "nissan_stagea_wc34",
+    "nombre": "Nissan Stagea WC34",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "nissan_stagea_m35",
+    "nombre": "Nissan Stagea M35",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "nissan_cedric_y31",
+    "nombre": "Nissan Cedric Y31",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "nissan_maxima_a32",
+    "nombre": "Nissan Maxima A32",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "nissan_teana_j31",
+    "nombre": "Nissan Teana J31",
+    "pais": "Japón",
+    "anio": 2008
+  },
+  {
+    "id": "nissan_bluebird_u13",
+    "nombre": "Nissan Bluebird U13",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "nissan_sentra_b15",
+    "nombre": "Nissan Sentra B15",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "nissan_tiida_c11",
+    "nombre": "Nissan Tiida C11",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "nissan_altima_l32",
+    "nombre": "Nissan Altima L32",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "nissan_march_k11",
+    "nombre": "Nissan March / Micra K11",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "nissan_micra_k13",
+    "nombre": "Nissan Micra K13",
+    "pais": "Japón",
+    "anio": 2016
+  },
+  {
+    "id": "nissan_note_e11",
+    "nombre": "Nissan Note E11",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "nissan_note_epower",
+    "nombre": "Nissan Note e-Power E12",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_cube_z12",
+    "nombre": "Nissan Cube Z12",
+    "pais": "Japón",
+    "anio": 2019
+  },
+  {
+    "id": "nissan_juke_f15",
+    "nombre": "Nissan Juke F15",
+    "pais": "Japón",
+    "anio": 2019
+  },
+  {
+    "id": "nissan_patrol_y61",
+    "nombre": "Nissan Patrol Y61 (GU)",
+    "pais": "Japón",
+    "anio": 2013
+  },
+  {
+    "id": "nissan_patrol_y62",
+    "nombre": "Nissan Patrol Y62 (Armada)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_terrano_r20",
+    "nombre": "Nissan Terrano R20 (Pathfinder)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "nissan_xtrail_t30",
+    "nombre": "Nissan X-Trail T30",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "nissan_xtrail_t32",
+    "nombre": "Nissan X-Trail T32",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_murano_z50",
+    "nombre": "Nissan Murano Z50",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "nissan_pathfinder_r50",
+    "nombre": "Nissan Pathfinder R50",
+    "pais": "Japón",
+    "anio": 2004
+  },
+  {
+    "id": "nissan_navara_d21",
+    "nombre": "Nissan Navara D21 Hardbody",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "nissan_navara_d40",
+    "nombre": "Nissan Navara D40",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "nissan_navara_d23",
+    "nombre": "Nissan Navara D23 NP300",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_leaf_ze0",
+    "nombre": "Nissan Leaf ZE0 (1a gen)",
+    "pais": "Japón",
+    "anio": 2017
+  },
+  {
+    "id": "nissan_leaf_ze1",
+    "nombre": "Nissan Leaf ZE1 (2a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_ariya",
+    "nombre": "Nissan Ariya (FJ37)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_elgrand_e50",
+    "nombre": "Nissan Elgrand E50",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "nissan_serena_c25",
+    "nombre": "Nissan Serena C25",
+    "pais": "Japón",
+    "anio": 2010
+  },
+  {
+    "id": "nissan_skyline_c10",
+    "nombre": "Nissan Skyline C10 (base)",
+    "pais": "Japón",
+    "anio": 1972
+  },
+  {
+    "id": "nissan_skyline_c110",
+    "nombre": "Nissan Skyline C110 \"Kenmeri\" (base)",
+    "pais": "Japón",
+    "anio": 1977
+  },
+  {
+    "id": "nissan_skyline_c210",
+    "nombre": "Nissan Skyline C210 \"Japan\"",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "nissan_silvia_s110",
+    "nombre": "Nissan Silvia S110 (3a gen)",
+    "pais": "Japón",
+    "anio": 1983
+  },
+  {
+    "id": "nissan_gloria_y32",
+    "nombre": "Nissan Gloria Y32",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "nissan_cima_f50",
+    "nombre": "Nissan Cima F50 (Infiniti Q45)",
+    "pais": "Japón",
+    "anio": 2010
+  },
+  {
+    "id": "nissan_fuga_y51",
+    "nombre": "Nissan Fuga Y51 (Infiniti M)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_primera_p10",
+    "nombre": "Nissan Primera P10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "nissan_almera_n15",
+    "nombre": "Nissan Almera N15",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "nissan_almera_n16",
+    "nombre": "Nissan Almera N16",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "nissan_almera_tino",
+    "nombre": "Nissan Almera Tino V10",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "nissan_sunny_b12",
+    "nombre": "Nissan Sunny B12",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "nissan_sylphy_b17",
+    "nombre": "Nissan Sylphy B17",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_versa_n17",
+    "nombre": "Nissan Versa N17 (Note)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_sentra_b17",
+    "nombre": "Nissan Sentra B17 (7a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_qashqai_j10",
+    "nombre": "Nissan Qashqai J10 (1a gen)",
+    "pais": "Japón",
+    "anio": 2013
+  },
+  {
+    "id": "nissan_qashqai_j11",
+    "nombre": "Nissan Qashqai J11 (2a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_kicks_p15",
+    "nombre": "Nissan Kicks P15",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_dualis_j10",
+    "nombre": "Nissan Dualis / Qashqai+2 (J10)",
+    "pais": "Japón",
+    "anio": 2013
+  },
+  {
+    "id": "nissan_rogue_t32",
+    "nombre": "Nissan Rogue / X-Trail T32",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_magnite_b0",
+    "nombre": "Nissan Magnite (B0)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_xterra_n50",
+    "nombre": "Nissan Xterra N50 (2a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "nissan_armada_a60",
+    "nombre": "Nissan Armada / Patrol A60 (2a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_terra_p61b",
+    "nombre": "Nissan Terra P61B",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_pathfinder_r51",
+    "nombre": "Nissan Pathfinder R51 (3a gen)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "nissan_murano_z51",
+    "nombre": "Nissan Murano Z51 (2a gen)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "nissan_skyline_crossover",
+    "nombre": "Nissan Skyline Crossover (J50)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "nissan_titan_a60",
+    "nombre": "Nissan Titan A60 (1a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "nissan_nv200_m20",
+    "nombre": "Nissan NV200 / e-NV200",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_urvan_e26",
+    "nombre": "Nissan Urvan / NV350 E26",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_sakura",
+    "nombre": "Nissan Sakura (B6AW)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_livina_c11",
+    "nombre": "Nissan Livina C11",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "nissan_prairie_m11",
+    "nombre": "Nissan Prairie M11",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "nissan_figaro",
+    "nombre": "Nissan Figaro",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "nissan_pao",
+    "nombre": "Nissan Pao",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "nissan_scargo",
+    "nombre": "Nissan S-Cargo",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "nissan_rasheen",
+    "nombre": "Nissan Rasheen",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "datsun_fairlady_sp311",
+    "nombre": "Datsun Fairlady SP311",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "datsun_sunny_b10",
+    "nombre": "Datsun Sunny B10 (1a gen)",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "datsun_1200_b110",
+    "nombre": "Datsun 1200 (B110)",
+    "pais": "Japón",
+    "anio": 1973
+  },
+  {
+    "id": "datsun_120y_b210",
+    "nombre": "Datsun 120Y / Honey Bee (B210)",
+    "pais": "Japón",
+    "anio": 1978
+  },
+  {
+    "id": "datsun_fairlady_z_s30",
+    "nombre": "Datsun 240Z / Fairlady Z S30",
+    "pais": "Japón",
+    "anio": 1978
+  },
+  {
+    "id": "datsun_260z",
+    "nombre": "Datsun 260Z / 280Z (S30 tardío)",
+    "pais": "Japón",
+    "anio": 1978
+  },
+  {
+    "id": "datsun_bluebird_510",
+    "nombre": "Datsun Bluebird 510",
+    "pais": "Japón",
+    "anio": 1973
+  },
+  {
+    "id": "datsun_go_f15",
+    "nombre": "Datsun GO (F15)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_civic_ef",
+    "nombre": "Honda Civic SiR EF (3a gen)",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "honda_civic_eg",
+    "nombre": "Honda Civic EG SiR",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "honda_civic_ek",
+    "nombre": "Honda Civic EK",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "honda_integra_dc2",
+    "nombre": "Honda Integra Type R DC2",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "honda_nsx_na1",
+    "nombre": "Honda NSX NA1",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "honda_s2000_ap1",
+    "nombre": "Honda S2000 AP1",
+    "pais": "Japón",
+    "anio": 2003
+  },
+  {
+    "id": "honda_beat",
+    "nombre": "Honda Beat PP1",
+    "pais": "Japón",
+    "anio": 1996
+  },
+  {
+    "id": "honda_crx_ef",
+    "nombre": "Honda CRX EF",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "honda_prelude_ba4",
+    "nombre": "Honda Prelude BA4",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "honda_n360",
+    "nombre": "Honda N360",
+    "pais": "Japón",
+    "anio": 1972
+  },
+  {
+    "id": "honda_s600",
+    "nombre": "Honda S600",
+    "pais": "Japón",
+    "anio": 1965
+  },
+  {
+    "id": "honda_s800",
+    "nombre": "Honda S800",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "honda_nsx_nc1",
+    "nombre": "Honda NSX NC1 (2a gen)",
+    "pais": "Japón",
+    "anio": 2022
+  },
+  {
+    "id": "honda_s660",
+    "nombre": "Honda S660 (JW5)",
+    "pais": "Japón",
+    "anio": 2022
+  },
+  {
+    "id": "honda_civic_1gen",
+    "nombre": "Honda Civic (1a gen)",
+    "pais": "Japón",
+    "anio": 1979
+  },
+  {
+    "id": "honda_civic_ee",
+    "nombre": "Honda Civic EE/EC (3a gen)",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "honda_civic_ep3",
+    "nombre": "Honda Civic Type R EP3",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "honda_civic_fd2",
+    "nombre": "Honda Civic Type R FD2 (JDM)",
+    "pais": "Japón",
+    "anio": 2010
+  },
+  {
+    "id": "honda_civic_fk8",
+    "nombre": "Honda Civic Type R FK8",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "honda_civic_fl5",
+    "nombre": "Honda Civic Type R FL5",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_accord_1gen",
+    "nombre": "Honda Accord (1a gen)",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "honda_accord_cb7",
+    "nombre": "Honda Accord CB7 (4a gen)",
+    "pais": "Japón",
+    "anio": 1993
+  },
+  {
+    "id": "honda_accord_cl7",
+    "nombre": "Honda Accord Euro R (CL7)",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "honda_accord_cv",
+    "nombre": "Honda Accord CV (10a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_integra_db",
+    "nombre": "Honda Integra DB (1a gen)",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "honda_integra_da",
+    "nombre": "Honda Integra DA (2a gen)",
+    "pais": "Japón",
+    "anio": 1993
+  },
+  {
+    "id": "honda_integra_dc5",
+    "nombre": "Honda Integra Type R DC5",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "honda_integra_2022",
+    "nombre": "Honda Integra (2022)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_prelude_bb6",
+    "nombre": "Honda Prelude BB6 (5a gen)",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "honda_prelude_2025",
+    "nombre": "Honda Prelude (2025 revival)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_crx_del_sol",
+    "nombre": "Honda CR-X del Sol (EG2)",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "honda_insight_ze1",
+    "nombre": "Honda Insight ZE1 (1a gen)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "honda_insight_ze2",
+    "nombre": "Honda Insight ZE2 (2a gen)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "honda_e",
+    "nombre": "Honda e (ZAA-ZC7)",
+    "pais": "Japón",
+    "anio": 2024
+  },
+  {
+    "id": "honda_fit_gd",
+    "nombre": "Honda Fit / Jazz GD (1a gen)",
+    "pais": "Japón",
+    "anio": 2008
+  },
+  {
+    "id": "honda_fit_gk",
+    "nombre": "Honda Fit / Jazz GK (3a gen)",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "honda_fit_gr",
+    "nombre": "Honda Fit / Jazz GR e:HEV (4a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_hrv_gh",
+    "nombre": "Honda HR-V (GH) (1a gen)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "honda_hrv_ru",
+    "nombre": "Honda HR-V / Vezel RU (2a gen)",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "honda_hrv_rs",
+    "nombre": "Honda HR-V / Vezel RS (3a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_crv_rd1",
+    "nombre": "Honda CR-V RD1 (1a gen)",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "honda_crv_rd4",
+    "nombre": "Honda CR-V RD4 (2a gen)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "honda_crv_re",
+    "nombre": "Honda CR-V RE (3a gen)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "honda_crv_rw",
+    "nombre": "Honda CR-V RW (5a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_legend_ka7",
+    "nombre": "Honda Legend KA7 (2a gen)",
+    "pais": "Japón",
+    "anio": 1995
+  },
+  {
+    "id": "honda_legend_kb1",
+    "nombre": "Honda Legend KB1 (4a gen)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "honda_odyssey_ra1",
+    "nombre": "Honda Odyssey RA1 (JDM 1a gen)",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "honda_odyssey_rl",
+    "nombre": "Honda Odyssey RL (EE.UU., 3a gen)",
+    "pais": "Japón",
+    "anio": 2010
+  },
+  {
+    "id": "honda_stepwgn_rp",
+    "nombre": "Honda Stepwgn RP (5a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_freed_gb",
+    "nombre": "Honda Freed GB (1a gen)",
+    "pais": "Japón",
+    "anio": 2016
+  },
+  {
+    "id": "honda_stream_rn",
+    "nombre": "Honda Stream RN (1a gen)",
+    "pais": "Japón",
+    "anio": 2006
+  },
+  {
+    "id": "honda_pilot_yf2",
+    "nombre": "Honda Pilot YF2 (2a gen)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "honda_ridgeline_rt",
+    "nombre": "Honda Ridgeline RT (1a gen)",
+    "pais": "Japón",
+    "anio": 2014
+  },
+  {
+    "id": "honda_element_yh2",
+    "nombre": "Honda Element YH2",
+    "pais": "Japón",
+    "anio": 2011
+  },
+  {
+    "id": "honda_zrv",
+    "nombre": "Honda ZR-V (2022)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_z360",
+    "nombre": "Honda Z360 (ZA)",
+    "pais": "Japón",
+    "anio": 1974
+  },
+  {
+    "id": "honda_life_jb",
+    "nombre": "Honda Life JB (3a gen)",
+    "pais": "Japón",
+    "anio": 2008
+  },
+  {
+    "id": "honda_today_ja4",
+    "nombre": "Honda Today JA4",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "honda_nbox_jf1",
+    "nombre": "Honda N-Box JF1",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_none_jg1",
+    "nombre": "Honda N-One JG1",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_1300_coupe",
+    "nombre": "Honda 1300 Coupé 9S",
+    "pais": "Japón",
+    "anio": 1973
+  },
+  {
+    "id": "honda_city_ma",
+    "nombre": "Honda City MA (1a gen)",
+    "pais": "Japón",
+    "anio": 1986
+  },
+  {
+    "id": "honda_t360",
+    "nombre": "Honda T360",
+    "pais": "Japón",
+    "anio": 1967
+  },
+  {
+    "id": "honda_s500",
+    "nombre": "Honda S500",
+    "pais": "Japón",
+    "anio": 1964
+  },
+  {
+    "id": "honda_n600",
+    "nombre": "Honda N600",
+    "pais": "Japón",
+    "anio": 1972
+  },
+  {
+    "id": "honda_civic_2gen",
+    "nombre": "Honda Civic (2a gen, SB/SC)",
+    "pais": "Japón",
+    "anio": 1983
+  },
+  {
+    "id": "honda_civic_9gen",
+    "nombre": "Honda Civic (9a gen, FB/FG)",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "honda_nsx_r",
+    "nombre": "Honda NSX-R (NA2)",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "honda_crz",
+    "nombre": "Honda CR-Z ZF1",
+    "pais": "Japón",
+    "anio": 2016
+  },
+  {
+    "id": "honda_accord_2gen",
+    "nombre": "Honda Accord (2a gen, AC/AD)",
+    "pais": "Japón",
+    "anio": 1985
+  },
+  {
+    "id": "honda_accord_3gen",
+    "nombre": "Honda Accord (3a gen, CA)",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "honda_accord_5gen",
+    "nombre": "Honda Accord (5a gen, CD)",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "honda_accord_6gen",
+    "nombre": "Honda Accord (6a gen, CF/CH)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "honda_accord_8gen",
+    "nombre": "Honda Accord (8a gen, CP)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "honda_prelude_1gen",
+    "nombre": "Honda Prelude (1a gen, SN)",
+    "pais": "Japón",
+    "anio": 1982
+  },
+  {
+    "id": "honda_prelude_2gen",
+    "nombre": "Honda Prelude (2a gen, AB)",
+    "pais": "Japón",
+    "anio": 1987
+  },
+  {
+    "id": "honda_prelude_4gen",
+    "nombre": "Honda Prelude (4a gen, BB1)",
+    "pais": "Japón",
+    "anio": 1996
+  },
+  {
+    "id": "honda_legend_1gen",
+    "nombre": "Honda Legend (1a gen, KA3)",
+    "pais": "Japón",
+    "anio": 1990
+  },
+  {
+    "id": "honda_legend_3gen",
+    "nombre": "Honda Legend (3a gen, KA9)",
+    "pais": "Japón",
+    "anio": 2004
+  },
+  {
+    "id": "honda_city_gd",
+    "nombre": "Honda City GD (3a gen)",
+    "pais": "Japón",
+    "anio": 2008
+  },
+  {
+    "id": "honda_city_gn",
+    "nombre": "Honda City GN e:HEV (6a gen)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_crv_rm",
+    "nombre": "Honda CR-V RM (4a gen)",
+    "pais": "Japón",
+    "anio": 2016
+  },
+  {
+    "id": "honda_pilot_3gen",
+    "nombre": "Honda Pilot YF5 (3a gen)",
+    "pais": "Japón",
+    "anio": 2022
+  },
+  {
+    "id": "honda_passport_2018",
+    "nombre": "Honda Passport (2a gen, 2018)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_acty",
+    "nombre": "Honda Acty (HA/HH)",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "honda_vamos",
+    "nombre": "Honda Vamos HM1",
+    "pais": "Japón",
+    "anio": 2018
+  },
+  {
+    "id": "honda_zest",
+    "nombre": "Honda Zest (JE1)",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "honda_nwgn",
+    "nombre": "Honda N-WGN (JH1)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_nvan",
+    "nombre": "Honda N-Van (JJ1)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_quint",
+    "nombre": "Honda Quint / Rover Quintet",
+    "pais": "Japón",
+    "anio": 1985
+  },
+  {
+    "id": "honda_ballade",
+    "nombre": "Honda Ballade (1a gen)",
+    "pais": "Japón",
+    "anio": 1986
+  },
+  {
+    "id": "honda_logo",
+    "nombre": "Honda Logo (GA3)",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "honda_concerto",
+    "nombre": "Honda Concerto / Rover 200 (MA)",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "honda_domani",
+    "nombre": "Honda Domani (MA4/MB3)",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "honda_avancier_ta",
+    "nombre": "Honda Avancier TA1 (JDM)",
+    "pais": "Japón",
+    "anio": 2003
+  },
+  {
+    "id": "honda_crossroad_jdm",
+    "nombre": "Honda Crossroad JDM (1a gen)",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "honda_smx",
+    "nombre": "Honda S-MX (RH1)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "honda_lagreat",
+    "nombre": "Honda LaGreat (RL1)",
+    "pais": "Japón",
+    "anio": 2004
+  },
+  {
+    "id": "honda_elysion",
+    "nombre": "Honda Elysion RR1",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_frv",
+    "nombre": "Honda FR-V / Edix (BE1)",
+    "pais": "Japón",
+    "anio": 2009
+  },
+  {
+    "id": "honda_orthia",
+    "nombre": "Honda Orthia (EL2)",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "honda_airwave",
+    "nombre": "Honda Airwave (GJ1)",
+    "pais": "Japón",
+    "anio": 2010
+  },
+  {
+    "id": "honda_shuttle",
+    "nombre": "Honda Shuttle GP7",
+    "pais": "Japón",
+    "anio": 2022
+  },
+  {
+    "id": "honda_jade",
+    "nombre": "Honda Jade FR5",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "honda_grace",
+    "nombre": "Honda Grace GM4",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "honda_crosstour",
+    "nombre": "Honda Accord Crosstour",
+    "pais": "Japón",
+    "anio": 2015
+  },
+  {
+    "id": "honda_brio",
+    "nombre": "Honda Brio (DD1)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_mobilio",
+    "nombre": "Honda Mobilio (GB3)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_brv",
+    "nombre": "Honda BR-V (GP5)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_wrv",
+    "nombre": "Honda WR-V (GX)",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "honda_clarity",
+    "nombre": "Honda Clarity FCEV/PHEV",
+    "pais": "Japón",
+    "anio": 2021
+  },
+  {
+    "id": "honda_prologue",
+    "nombre": "Honda Prologue EV",
+    "pais": "Japón",
+    "anio": null
+  },
+  {
+    "id": "mazda_rx7_sa",
+    "nombre": "Mazda RX-7 SA22C",
+    "pais": "Japón",
+    "anio": 1985
+  },
+  {
+    "id": "mazda_rx7_fc",
+    "nombre": "Mazda RX-7 FC",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "mazda_rx7_fd",
+    "nombre": "Mazda RX-7 FD",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "mazda_mx5_na",
+    "nombre": "Mazda MX-5 NA (Miata)",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "mazda_mx5_nb",
+    "nombre": "Mazda MX-5 NB",
+    "pais": "Japón",
+    "anio": 2005
+  },
+  {
+    "id": "mazda_cosmo_ap",
+    "nombre": "Mazda Cosmo AP",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "mazda_323_bg",
+    "nombre": "Mazda 323 BG",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "mazda_carol_360",
+    "nombre": "Mazda Carol 360",
+    "pais": "Japón",
+    "anio": 1970
+  },
+  {
+    "id": "subaru_impreza_wrx_gc8",
+    "nombre": "Subaru Impreza WRX GC8",
+    "pais": "Japón",
+    "anio": 2000
+  },
+  {
+    "id": "subaru_impreza_sti_gd",
+    "nombre": "Subaru Impreza WRX STi GD",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "subaru_brz_zc6",
+    "nombre": "Subaru BRZ ZC6",
+    "pais": "Japón",
+    "anio": 2020
+  },
+  {
+    "id": "subaru_forester_sf",
+    "nombre": "Subaru Forester SF",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "subaru_360",
+    "nombre": "Subaru 360",
+    "pais": "Japón",
+    "anio": 1971
+  },
+  {
+    "id": "mitsubishi_lancer_evo1",
+    "nombre": "Mitsubishi Lancer Evolution I",
+    "pais": "Japón",
+    "anio": 1993
+  },
+  {
+    "id": "mitsubishi_lancer_evo6",
+    "nombre": "Mitsubishi Lancer Evolution VI TME",
+    "pais": "Japón",
+    "anio": 2001
+  },
+  {
+    "id": "mitsubishi_lancer_evo9",
+    "nombre": "Mitsubishi Lancer Evolution IX",
+    "pais": "Japón",
+    "anio": 2007
+  },
+  {
+    "id": "mitsubishi_3000gt_vr4",
+    "nombre": "Mitsubishi 3000GT VR4",
+    "pais": "Japón",
+    "anio": 1999
+  },
+  {
+    "id": "mitsubishi_eclipse_1g",
+    "nombre": "Mitsubishi Eclipse 1G GSX",
+    "pais": "Japón",
+    "anio": 1994
+  },
+  {
+    "id": "mitsubishi_galant_vr4",
+    "nombre": "Mitsubishi Galant VR4 E39A",
+    "pais": "Japón",
+    "anio": 1992
+  },
+  {
+    "id": "mitsubishi_starion",
+    "nombre": "Mitsubishi Starion ESI-R",
+    "pais": "Japón",
+    "anio": 1989
+  },
+  {
+    "id": "mitsubishi_pajero_gen1",
+    "nombre": "Mitsubishi Pajero Gen1",
+    "pais": "Japón",
+    "anio": 1991
+  },
+  {
+    "id": "mitsubishi_lancer_glxi",
+    "nombre": "Mitsubishi Lancer 1.6 GLXi",
+    "pais": "Japón",
+    "anio": 1996
+  },
+  {
+    "id": "suzuki_fronte_coupe_gx",
+    "nombre": "Suzuki Fronte Coupe GX",
+    "pais": "Japón",
+    "anio": 1976
+  },
+  {
+    "id": "suzuki_cappuccino_ea11r",
+    "nombre": "Suzuki Cappuccino EA11R",
+    "pais": "Japón",
+    "anio": 1997
+  },
+  {
+    "id": "suzuki_swift_sport_zc31s",
+    "nombre": "Suzuki Swift Sport ZC31S",
+    "pais": "Japón",
+    "anio": 2011
+  },
+  {
+    "id": "suzuki_jimny_sj",
+    "nombre": "Suzuki Jimny SJ",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "suzuki_alto_works",
+    "nombre": "Suzuki Alto Works RS/R",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "suzuki_baleno",
+    "nombre": "Suzuki Baleno EG",
+    "pais": "Japón",
+    "anio": 2002
+  },
+  {
+    "id": "daihatsu_mira_trxx",
+    "nombre": "Daihatsu Mira TR-XX",
+    "pais": "Japón",
+    "anio": 1998
+  },
+  {
+    "id": "daihatsu_copen",
+    "nombre": "Daihatsu Copen L880K",
+    "pais": "Japón",
+    "anio": 2012
+  },
+  {
+    "id": "daihatsu_charade_g10",
+    "nombre": "Daihatsu Charade G10",
+    "pais": "Japón",
+    "anio": 1983
+  },
+  {
+    "id": "isuzu_117_coupe",
+    "nombre": "Isuzu 117 Coupé",
+    "pais": "Japón",
+    "anio": 1981
+  },
+  {
+    "id": "bmw_2002_turbo",
+    "nombre": "BMW 2002 Turbo",
+    "pais": "Alemania",
+    "anio": 1975
+  },
+  {
+    "id": "bmw_e30_318i",
+    "nombre": "BMW E30 318i",
+    "pais": "Alemania",
+    "anio": 1994
+  },
+  {
+    "id": "bmw_e30_m3",
+    "nombre": "BMW E30 M3",
+    "pais": "Alemania",
+    "anio": 1991
+  },
+  {
+    "id": "bmw_e36_m3",
+    "nombre": "BMW E36 M3",
+    "pais": "Alemania",
+    "anio": 1999
+  },
+  {
+    "id": "bmw_e46_m3",
+    "nombre": "BMW E46 M3",
+    "pais": "Alemania",
+    "anio": 2006
+  },
+  {
+    "id": "bmw_m1",
+    "nombre": "BMW M1",
+    "pais": "Alemania",
+    "anio": 1981
+  },
+  {
+    "id": "bmw_z3_m",
+    "nombre": "BMW Z3 M Roadster",
+    "pais": "Alemania",
+    "anio": 2002
+  },
+  {
+    "id": "mercedes_190e_23_16",
+    "nombre": "Mercedes-Benz 190E 2.3-16",
+    "pais": "Alemania",
+    "anio": 1988
+  },
+  {
+    "id": "mercedes_190e",
+    "nombre": "Mercedes-Benz 190E 2.3",
+    "pais": "Alemania",
+    "anio": 1993
+  },
+  {
+    "id": "mercedes_w123",
+    "nombre": "Mercedes-Benz W123",
+    "pais": "Alemania",
+    "anio": 1985
+  },
+  {
+    "id": "mercedes_300sl_r107",
+    "nombre": "Mercedes-Benz 300SL R107",
+    "pais": "Alemania",
+    "anio": 1989
+  },
+  {
+    "id": "mercedes_w198_gullwing",
+    "nombre": "Mercedes-Benz 300SL W198 Gullwing",
+    "pais": "Alemania",
+    "anio": 1957
+  },
+  {
+    "id": "vw_golf_gti_mk1",
+    "nombre": "Volkswagen Golf GTI Mk1",
+    "pais": "Alemania",
+    "anio": 1983
+  },
+  {
+    "id": "vw_golf_gti_mk2",
+    "nombre": "Volkswagen Golf GTI Mk2",
+    "pais": "Alemania",
+    "anio": 1992
+  },
+  {
+    "id": "vw_golf_gti_mk3",
+    "nombre": "Volkswagen Golf GTI Mk3 VR6",
+    "pais": "Alemania",
+    "anio": 1997
+  },
+  {
+    "id": "vw_corrado_g60",
+    "nombre": "Volkswagen Corrado G60",
+    "pais": "Alemania",
+    "anio": 1995
+  },
+  {
+    "id": "vw_scirocco_mk1",
+    "nombre": "Volkswagen Scirocco Mk1",
+    "pais": "Alemania",
+    "anio": 1981
+  },
+  {
+    "id": "vw_beetle_1967",
+    "nombre": "Volkswagen Escarabajo 1967",
+    "pais": "Alemania",
+    "anio": 2003
+  },
+  {
+    "id": "audi_quattro_ur",
+    "nombre": "Audi Quattro Ur-quattro",
+    "pais": "Alemania",
+    "anio": 1991
+  },
+  {
+    "id": "audi_rs2",
+    "nombre": "Audi RS2 Avant",
+    "pais": "Alemania",
+    "anio": 1995
+  },
+  {
+    "id": "audi_tt_8n",
+    "nombre": "Audi TT 8N",
+    "pais": "Alemania",
+    "anio": 2006
+  },
+  {
+    "id": "audi_80_b3",
+    "nombre": "Audi 80 B3",
+    "pais": "Alemania",
+    "anio": 1991
+  },
+  {
+    "id": "porsche_911_964",
+    "nombre": "Porsche 911 Carrera 964",
+    "pais": "Alemania",
+    "anio": 1994
+  },
+  {
+    "id": "porsche_911_993",
+    "nombre": "Porsche 911 993 Turbo",
+    "pais": "Alemania",
+    "anio": 1998
+  },
+  {
+    "id": "porsche_944_turbo",
+    "nombre": "Porsche 944 Turbo",
+    "pais": "Alemania",
+    "anio": 1991
+  },
+  {
+    "id": "porsche_914",
+    "nombre": "Porsche 914/6",
+    "pais": "Alemania",
+    "anio": 1976
+  },
+  {
+    "id": "porsche_boxster_986",
+    "nombre": "Porsche Boxster 986",
+    "pais": "Alemania",
+    "anio": 2004
+  },
+  {
+    "id": "opel_manta_a",
+    "nombre": "Opel Manta A",
+    "pais": "Alemania",
+    "anio": 1975
+  },
+  {
+    "id": "opel_kadett_gsi",
+    "nombre": "Opel Kadett GSi 16V",
+    "pais": "Alemania",
+    "anio": 1991
+  },
+  {
+    "id": "ford_mustang_1965",
+    "nombre": "Ford Mustang 1965",
+    "pais": "EE.UU.",
+    "anio": 1966
+  },
+  {
+    "id": "ford_mustang_boss_302",
+    "nombre": "Ford Mustang Boss 302 1969",
+    "pais": "EE.UU.",
+    "anio": 1970
+  },
+  {
+    "id": "ford_mustang_mach1_1969",
+    "nombre": "Ford Mustang Mach 1 1969",
+    "pais": "EE.UU.",
+    "anio": 1973
+  },
+  {
+    "id": "ford_mustang_svt_cobra",
+    "nombre": "Ford Mustang SVT Cobra 2003",
+    "pais": "EE.UU.",
+    "anio": 2004
+  },
+  {
+    "id": "ford_gt40_mk2",
+    "nombre": "Ford GT40 MkII",
+    "pais": "EE.UU.",
+    "anio": 1966
+  },
+  {
+    "id": "ford_thunderbird_1955",
+    "nombre": "Ford Thunderbird 1955",
+    "pais": "EE.UU.",
+    "anio": 1957
+  },
+  {
+    "id": "chevrolet_corvette_c1",
+    "nombre": "Chevrolet Corvette C1",
+    "pais": "EE.UU.",
+    "anio": 1962
+  },
+  {
+    "id": "chevrolet_corvette_c2",
+    "nombre": "Chevrolet Corvette C2 Stingray",
+    "pais": "EE.UU.",
+    "anio": 1967
+  },
+  {
+    "id": "chevrolet_corvette_c3",
+    "nombre": "Chevrolet Corvette C3",
+    "pais": "EE.UU.",
+    "anio": 1982
+  },
+  {
+    "id": "chevrolet_camaro_z28_1969",
+    "nombre": "Chevrolet Camaro Z/28 1969",
+    "pais": "EE.UU.",
+    "anio": 1969
+  },
+  {
+    "id": "chevrolet_camaro_ss_1970",
+    "nombre": "Chevrolet Camaro SS 1970",
+    "pais": "EE.UU.",
+    "anio": 1973
+  },
+  {
+    "id": "chevrolet_bel_air_1957",
+    "nombre": "Chevrolet Bel Air 1957",
+    "pais": "EE.UU.",
+    "anio": 1957
+  },
+  {
+    "id": "chevrolet_nova_ss",
+    "nombre": "Chevrolet Nova SS",
+    "pais": "EE.UU.",
+    "anio": 1972
+  },
+  {
+    "id": "dodge_charger_rt_1969",
+    "nombre": "Dodge Charger R/T 1969",
+    "pais": "EE.UU.",
+    "anio": 1969
+  },
+  {
+    "id": "dodge_viper_rt10",
+    "nombre": "Dodge Viper RT/10",
+    "pais": "EE.UU.",
+    "anio": 1996
+  },
+  {
+    "id": "dodge_challenger_1970",
+    "nombre": "Dodge Challenger R/T 1970",
+    "pais": "EE.UU.",
+    "anio": 1974
+  },
+  {
+    "id": "dodge_dart_gt",
+    "nombre": "Dodge Dart GT 1968",
+    "pais": "EE.UU.",
+    "anio": 1969
+  },
+  {
+    "id": "pontiac_gto_1964",
+    "nombre": "Pontiac GTO 1964",
+    "pais": "EE.UU.",
+    "anio": 1964
+  },
+  {
+    "id": "pontiac_firebird_1969",
+    "nombre": "Pontiac Firebird 1969",
+    "pais": "EE.UU.",
+    "anio": 1969
+  },
+  {
+    "id": "pontiac_trans_am_1977",
+    "nombre": "Pontiac Trans Am 1977",
+    "pais": "EE.UU.",
+    "anio": 1981
+  },
+  {
+    "id": "shelby_cobra_427",
+    "nombre": "Shelby Cobra 427",
+    "pais": "EE.UU.",
+    "anio": 1967
+  },
+  {
+    "id": "shelby_gt500_1967",
+    "nombre": "Shelby GT500 Mustang 1967",
+    "pais": "EE.UU.",
+    "anio": 1968
+  },
+  {
+    "id": "amc_javelin_sst",
+    "nombre": "AMC Javelin SST 1968",
+    "pais": "EE.UU.",
+    "anio": 1970
+  },
+  {
+    "id": "amc_amx_1969",
+    "nombre": "AMC AMX 1969",
+    "pais": "EE.UU.",
+    "anio": 1970
+  },
+  {
+    "id": "chrysler_300c_hemi",
+    "nombre": "Chrysler 300C Hemi 2005",
+    "pais": "EE.UU.",
+    "anio": 2010
+  },
+  {
+    "id": "alpine_a110_1973",
+    "nombre": "Alpine A110 1600S",
+    "pais": "Francia",
+    "anio": 1977
+  },
+  {
+    "id": "renault_5_gt_turbo",
+    "nombre": "Renault 5 GT Turbo",
+    "pais": "Francia",
+    "anio": 1991
+  },
+  {
+    "id": "renault_clio_williams",
+    "nombre": "Renault Clio Williams",
+    "pais": "Francia",
+    "anio": 1995
+  },
+  {
+    "id": "renault_megane_rs",
+    "nombre": "Renault Mégane RS 225",
+    "pais": "Francia",
+    "anio": 2009
+  },
+  {
+    "id": "renault_r8_gordini",
+    "nombre": "Renault R8 Gordini",
+    "pais": "Francia",
+    "anio": 1973
+  },
+  {
+    "id": "peugeot_205_gti",
+    "nombre": "Peugeot 205 GTI 1.9",
+    "pais": "Francia",
+    "anio": 1994
+  },
+  {
+    "id": "peugeot_106_rallye",
+    "nombre": "Peugeot 106 Rallye S2",
+    "pais": "Francia",
+    "anio": 1999
+  },
+  {
+    "id": "peugeot_405_mi16",
+    "nombre": "Peugeot 405 Mi16",
+    "pais": "Francia",
+    "anio": 1997
+  },
+  {
+    "id": "peugeot_504_cabriolet",
+    "nombre": "Peugeot 504 Cabriolet",
+    "pais": "Francia",
+    "anio": 1983
+  },
+  {
+    "id": "citroen_ds_21",
+    "nombre": "Citroën DS 21",
+    "pais": "Francia",
+    "anio": 1975
+  },
+  {
+    "id": "citroen_2cv",
+    "nombre": "Citroën 2CV",
+    "pais": "Francia",
+    "anio": 1990
+  },
+  {
+    "id": "citroen_sm",
+    "nombre": "Citroën SM",
+    "pais": "Francia",
+    "anio": 1975
+  },
+  {
+    "id": "citroen_bx_4tc",
+    "nombre": "Citroën BX 4TC",
+    "pais": "Francia",
+    "anio": 1986
+  },
+  {
+    "id": "alpine_a310_v6",
+    "nombre": "Alpine A310 V6",
+    "pais": "Francia",
+    "anio": 1985
+  },
+  {
+    "id": "ferrari_testarossa",
+    "nombre": "Ferrari Testarossa",
+    "pais": "Italia",
+    "anio": 1991
+  },
+  {
+    "id": "ferrari_308_gtb",
+    "nombre": "Ferrari 308 GTB",
+    "pais": "Italia",
+    "anio": 1985
+  },
+  {
+    "id": "ferrari_f355",
+    "nombre": "Ferrari F355 Berlinetta",
+    "pais": "Italia",
+    "anio": 1999
+  },
+  {
+    "id": "ferrari_365_daytona",
+    "nombre": "Ferrari 365 GTB/4 Daytona",
+    "pais": "Italia",
+    "anio": 1973
+  },
+  {
+    "id": "ferrari_512_bb",
+    "nombre": "Ferrari 512 BB",
+    "pais": "Italia",
+    "anio": 1981
+  },
+  {
+    "id": "lamborghini_countach",
+    "nombre": "Lamborghini Countach LP500S",
+    "pais": "Italia",
+    "anio": 1985
+  },
+  {
+    "id": "lamborghini_miura",
+    "nombre": "Lamborghini Miura P400",
+    "pais": "Italia",
+    "anio": 1973
+  },
+  {
+    "id": "lamborghini_diablo",
+    "nombre": "Lamborghini Diablo VT",
+    "pais": "Italia",
+    "anio": 2001
+  },
+  {
+    "id": "alfa_romeo_giulia_sprint",
+    "nombre": "Alfa Romeo Giulia Sprint GTA",
+    "pais": "Italia",
+    "anio": 1969
+  },
+  {
+    "id": "alfa_romeo_gtv6",
+    "nombre": "Alfa Romeo GTV6",
+    "pais": "Italia",
+    "anio": 1986
+  },
+  {
+    "id": "alfa_romeo_147_gta",
+    "nombre": "Alfa Romeo 147 GTA",
+    "pais": "Italia",
+    "anio": 2005
+  },
+  {
+    "id": "alfa_romeo_montreal",
+    "nombre": "Alfa Romeo Montreal",
+    "pais": "Italia",
+    "anio": 1977
+  },
+  {
+    "id": "lancia_delta_integrale",
+    "nombre": "Lancia Delta HF Integrale",
+    "pais": "Italia",
+    "anio": 1993
+  },
+  {
+    "id": "lancia_stratos",
+    "nombre": "Lancia Stratos HF",
+    "pais": "Italia",
+    "anio": 1978
+  },
+  {
+    "id": "fiat_124_spider",
+    "nombre": "Fiat 124 Spider",
+    "pais": "Italia",
+    "anio": 1985
+  },
+  {
+    "id": "fiat_500_nuova",
+    "nombre": "Fiat 500 Nuova",
+    "pais": "Italia",
+    "anio": 1975
+  },
+  {
+    "id": "fiat_131_abarth",
+    "nombre": "Fiat 131 Abarth",
+    "pais": "Italia",
+    "anio": 1981
+  },
+  {
+    "id": "maserati_merak",
+    "nombre": "Maserati Merak SS",
+    "pais": "Italia",
+    "anio": 1982
+  },
+  {
+    "id": "jaguar_e_type",
+    "nombre": "Jaguar E-Type Serie 1",
+    "pais": "Reino Unido",
+    "anio": 1968
+  },
+  {
+    "id": "jaguar_xj220",
+    "nombre": "Jaguar XJ220",
+    "pais": "Reino Unido",
+    "anio": 1994
+  },
+  {
+    "id": "jaguar_mark_2",
+    "nombre": "Jaguar Mark 2 3.8",
+    "pais": "Reino Unido",
+    "anio": 1967
+  },
+  {
+    "id": "lotus_elan_s2",
+    "nombre": "Lotus Elan S2",
+    "pais": "Reino Unido",
+    "anio": 1973
+  },
+  {
+    "id": "lotus_esprit_turbo",
+    "nombre": "Lotus Esprit Turbo",
+    "pais": "Reino Unido",
+    "anio": 1987
+  },
+  {
+    "id": "lotus_elise_s1",
+    "nombre": "Lotus Elise S1",
+    "pais": "Reino Unido",
+    "anio": 2000
+  },
+  {
+    "id": "aston_martin_db5",
+    "nombre": "Aston Martin DB5",
+    "pais": "Reino Unido",
+    "anio": 1965
+  },
+  {
+    "id": "aston_martin_v8_vantage",
+    "nombre": "Aston Martin V8 Vantage 1977",
+    "pais": "Reino Unido",
+    "anio": 1989
+  },
+  {
+    "id": "mg_mgb_roadster",
+    "nombre": "MG MGB Roadster",
+    "pais": "Reino Unido",
+    "anio": 1980
+  },
+  {
+    "id": "triumph_tr6",
+    "nombre": "Triumph TR6",
+    "pais": "Reino Unido",
+    "anio": 1976
+  },
+  {
+    "id": "mini_cooper_s_mk1",
+    "nombre": "Mini Cooper S Mk1",
+    "pais": "Reino Unido",
+    "anio": 1971
+  },
+  {
+    "id": "mini_cooper_r53",
+    "nombre": "MINI Cooper Works R53",
+    "pais": "Reino Unido",
+    "anio": 2006
+  },
+  {
+    "id": "land_rover_defender_90",
+    "nombre": "Land Rover Defender 90",
+    "pais": "Reino Unido",
+    "anio": 2016
+  },
+  {
+    "id": "mg_metro_6r4",
+    "nombre": "MG Metro 6R4",
+    "pais": "Reino Unido",
+    "anio": 1986
+  },
+  {
+    "id": "hyundai_pony_1975",
+    "nombre": "Hyundai Pony 1976",
+    "pais": "Corea del Sur",
+    "anio": 1990
+  },
+  {
+    "id": "hyundai_excel",
+    "nombre": "Hyundai Excel",
+    "pais": "Corea del Sur",
+    "anio": 1994
+  },
+  {
+    "id": "hyundai_sonata_y2",
+    "nombre": "Hyundai Sonata Y2",
+    "pais": "Corea del Sur",
+    "anio": 1993
+  },
+  {
+    "id": "hyundai_tiburon_tuscani",
+    "nombre": "Hyundai Tiburón Tuscani",
+    "pais": "Corea del Sur",
+    "anio": 2008
+  },
+  {
+    "id": "hyundai_genesis_coupe",
+    "nombre": "Hyundai Genesis Coupé 3.8",
+    "pais": "Corea del Sur",
+    "anio": 2016
+  },
+  {
+    "id": "hyundai_lantra_j2",
+    "nombre": "Hyundai Lantra J2",
+    "pais": "Corea del Sur",
+    "anio": 2000
+  },
+  {
+    "id": "kia_sephia",
+    "nombre": "Kia Sephia",
+    "pais": "Corea del Sur",
+    "anio": 2001
+  },
+  {
+    "id": "kia_sportage_gen1",
+    "nombre": "Kia Sportage Gen1",
+    "pais": "Corea del Sur",
+    "anio": 2002
+  },
+  {
+    "id": "daewoo_lanos",
+    "nombre": "Daewoo Lanos",
+    "pais": "Corea del Sur",
+    "anio": 2004
+  },
+  {
+    "id": "ssangyong_musso",
+    "nombre": "SsangYong Musso",
+    "pais": "Corea del Sur",
+    "anio": 2006
+  },
+  {
+    "id": "kia_pride",
+    "nombre": "Kia Pride / Ford Festiva",
+    "pais": "Corea del Sur",
+    "anio": 2000
+  },
+  {
+    "id": "volvo_amazon_p130",
+    "nombre": "Volvo Amazon P130",
+    "pais": "Suecia",
+    "anio": 1970
+  },
+  {
+    "id": "volvo_p1800",
+    "nombre": "Volvo P1800",
+    "pais": "Suecia",
+    "anio": 1973
+  },
+  {
+    "id": "volvo_240_gt",
+    "nombre": "Volvo 242 GT",
+    "pais": "Suecia",
+    "anio": 1984
+  },
+  {
+    "id": "volvo_850_t5r",
+    "nombre": "Volvo 850 T5-R",
+    "pais": "Suecia",
+    "anio": 1997
+  },
+  {
+    "id": "volvo_740_turbo",
+    "nombre": "Volvo 740 Turbo",
+    "pais": "Suecia",
+    "anio": 1992
+  },
+  {
+    "id": "saab_96_monte_carlo",
+    "nombre": "Saab 96 Monte Carlo",
+    "pais": "Suecia",
+    "anio": 1980
+  },
+  {
+    "id": "saab_900_turbo",
+    "nombre": "Saab 900 Turbo",
+    "pais": "Suecia",
+    "anio": 1994
+  },
+  {
+    "id": "saab_9_3_viggen",
+    "nombre": "Saab 9-3 Viggen",
+    "pais": "Suecia",
+    "anio": 2002
+  }
+]

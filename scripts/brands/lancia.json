@@ -1,0 +1,5693 @@
+[
+  {
+    "id": "lancia_main_page",
+    "nombre": "Lancia Main page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_contents",
+    "nombre": "Lancia Contents",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_current_events",
+    "nombre": "Lancia Current events",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_random_article",
+    "nombre": "Lancia Random article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_about_wikipedia",
+    "nombre": "Lancia About Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_contact_us",
+    "nombre": "Lancia Contact us",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_help",
+    "nombre": "Lancia Help",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_learn_to_edit",
+    "nombre": "Lancia Learn to edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_community_portal",
+    "nombre": "Lancia Community portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_recent_changes",
+    "nombre": "Lancia Recent changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_upload_file",
+    "nombre": "Lancia Upload file",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_special_pages",
+    "nombre": "Lancia Special pages",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_donate",
+    "nombre": "Lancia Donate",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_create_account",
+    "nombre": "Lancia Create account",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_log_in",
+    "nombre": "Lancia Log in",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_11_foundation_and_early_years",
+    "nombre": "Lancia 1.1 Foundation and early years",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_12_fiat_121_100th_anniversary_celebration",
+    "nombre": "Lancia 1.2 Fiat  1.2.1 100th Anniversary Celebration",
+    "anio_desde": 1969,
+    "anio_hasta": 2007,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_121_100th_anniversary_celebration",
+    "nombre": "Lancia 1.2.1 100th Anniversary Celebration",
+    "anio_desde": 2006,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_13_fiat_group_automobiles",
+    "nombre": "Lancia 1.3 Fiat Group Automobiles",
+    "anio_desde": 2007,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_14_fca_141_110th_anniversary_celebration",
+    "nombre": "Lancia 1.4 FCA  1.4.1 110th anniversary celebration",
+    "anio_desde": 2014,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_141_110th_anniversary_celebration",
+    "nombre": "Lancia 1.4.1 110th anniversary celebration",
+    "anio_desde": 2016,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_151_the_relaunch_of_the_brand",
+    "nombre": "Lancia 1.5.1 The relaunch of the brand",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_152_the_return_to_rally_championship",
+    "nombre": "Lancia 1.5.2 The return to Rally championship",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_153_120th_anniversary_celebration",
+    "nombre": "Lancia 1.5.3 120th anniversary celebration",
+    "anio_desde": 2026,
+    "anio_hasta": 2026,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2_leadership",
+    "nombre": "Lancia 2 Leadership",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_31_current_car_models_311_lancia_ypsilon_312_lancia_gamma",
+    "nombre": "Lancia 3.1 Current car models 3.1.1 Lancia Ypsilon 3.1.2 Lancia Gamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_311_lancia_ypsilon",
+    "nombre": "Lancia 3.1.1 Lancia Ypsilon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_312_lancia_gamma",
+    "nombre": "Lancia 3.1.2 Lancia Gamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_32_past_car_models_321_historical_models_322_chrysler_derived_models",
+    "nombre": "Lancia 3.2 Past car models 3.2.1 Historical models 3.2.2 Chrysler-derived models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_321_historical_models",
+    "nombre": "Lancia 3.2.1 Historical models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_322_chrysler_derived_models",
+    "nombre": "Lancia 3.2.2 Chrysler-derived models",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_33_concept_cars",
+    "nombre": "Lancia 3.3 Concept cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_34_special_cars",
+    "nombre": "Lancia 3.4 Special cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_4_export_markets_toggle_export_markets_subsection_41_france_42_united_states_43_united_kingdom_44_japan",
+    "nombre": "Lancia 4 Export markets Toggle Export markets subsection 4.1 France 4.2 United States 4.3 United Kingdom 4.4 Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_41_france",
+    "nombre": "Lancia 4.1 France",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_42_united_states",
+    "nombre": "Lancia 4.2 United States",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_43_united_kingdom",
+    "nombre": "Lancia 4.3 United Kingdom",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_44_japan",
+    "nombre": "Lancia 4.4 Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_51_formula_one",
+    "nombre": "Lancia 5.1 Formula One",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_52_rallying",
+    "nombre": "Lancia 5.2 Rallying",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_53_sports_car_racing_531_titles",
+    "nombre": "Lancia 5.3 Sports car racing 5.3.1 Titles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_531_titles",
+    "nombre": "Lancia 5.3.1 Titles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_61_light_commercial_vehicles",
+    "nombre": "Lancia 6.1 Light commercial vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_62_heavy_commercial_vehicles",
+    "nombre": "Lancia 6.2 Heavy commercial vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_63_buses_631_trolleybuses",
+    "nombre": "Lancia 6.3 Buses 6.3.1 Trolleybuses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_631_trolleybuses",
+    "nombre": "Lancia 6.3.1 Trolleybuses",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_64_military_vehicles",
+    "nombre": "Lancia 6.4 Military vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_65_tractor",
+    "nombre": "Lancia 6.5 Tractor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_66_other",
+    "nombre": "Lancia 6.6 Other",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_7_engines",
+    "nombre": "Lancia 7 Engines",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_8_logo",
+    "nombre": "Lancia 8 Logo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_9_media_and_sponsorship",
+    "nombre": "Lancia 9 Media and sponsorship",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_10_collectors_market",
+    "nombre": "Lancia 10 Collectors' market",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_11_see_also",
+    "nombre": "Lancia 11 See also",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_12_references",
+    "nombre": "Lancia 12 References",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_13_further_reading",
+    "nombre": "Lancia 13 Further reading",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_14_external_links",
+    "nombre": "Lancia 14 External links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_afrikaans",
+    "nombre": "Lancia Afrikaans",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia",
+    "nombre": "Lancia العربية",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_asturianu",
+    "nombre": "Lancia Asturianu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_azrbaycanca",
+    "nombre": "Lancia Azərbaycanca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bosanski",
+    "nombre": "Lancia Bosanski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_catala",
+    "nombre": "Lancia Català",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cestina",
+    "nombre": "Lancia Čeština",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dansk",
+    "nombre": "Lancia Dansk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_deutsch",
+    "nombre": "Lancia Deutsch",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_espanol",
+    "nombre": "Lancia Español",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_eesti",
+    "nombre": "Lancia Eesti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_euskara",
+    "nombre": "Lancia Euskara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_suomi",
+    "nombre": "Lancia Suomi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_francais",
+    "nombre": "Lancia Français",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_galego",
+    "nombre": "Lancia Galego",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hrvatski",
+    "nombre": "Lancia Hrvatski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_magyar",
+    "nombre": "Lancia Magyar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bahasa_indonesia",
+    "nombre": "Lancia Bahasa Indonesia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italiano",
+    "nombre": "Lancia Italiano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_latina",
+    "nombre": "Lancia Latina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lingala",
+    "nombre": "Lancia Lingála",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lietuviu",
+    "nombre": "Lancia Lietuvių",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bahasa_melayu",
+    "nombre": "Lancia Bahasa Melayu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_nederlands",
+    "nombre": "Lancia Nederlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_norsk_nynorsk",
+    "nombre": "Lancia Norsk nynorsk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_norsk_bokmal",
+    "nombre": "Lancia Norsk bokmål",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_polski",
+    "nombre": "Lancia Polski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_piemonteis",
+    "nombre": "Lancia Piemontèis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_portugues",
+    "nombre": "Lancia Português",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_romana",
+    "nombre": "Lancia Română",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scots",
+    "nombre": "Lancia Scots",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_srpskohrvatski",
+    "nombre": "Lancia Srpskohrvatski / српскохрватски",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_simple_english",
+    "nombre": "Lancia Simple English",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_slovencina",
+    "nombre": "Lancia Slovenčina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_slovenscina",
+    "nombre": "Lancia Slovenščina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_srpski",
+    "nombre": "Lancia Српски / srpski",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_svenska",
+    "nombre": "Lancia Svenska",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tolsi",
+    "nombre": "Lancia Tolışi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_turkce",
+    "nombre": "Lancia Türkçe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ozbekcha",
+    "nombre": "Lancia Oʻzbekcha / ўзбекча",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zeeuws",
+    "nombre": "Lancia Zeêuws",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_article",
+    "nombre": "Lancia Article",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_talk",
+    "nombre": "Lancia Talk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_read",
+    "nombre": "Lancia Read",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_edit",
+    "nombre": "Lancia Edit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_view_history",
+    "nombre": "Lancia View history",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_what_links_here",
+    "nombre": "Lancia What links here",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_related_changes",
+    "nombre": "Lancia Related changes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_permanent_link",
+    "nombre": "Lancia Permanent link",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_page_information",
+    "nombre": "Lancia Page information",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cite_this_page",
+    "nombre": "Lancia Cite this page",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_get_shortened_url",
+    "nombre": "Lancia Get shortened URL",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_switch_to_legacy_parser",
+    "nombre": "Lancia Switch to legacy parser",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_download_as_pdf",
+    "nombre": "Lancia Download as PDF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_printable_version",
+    "nombre": "Lancia Printable version",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_wikimedia_commons",
+    "nombre": "Lancia Wikimedia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_wikidata_item",
+    "nombre": "Lancia Wikidata item",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italy",
+    "nombre": "Lancia Italy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_belgium",
+    "nombre": "Lancia Belgium",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_netherlands",
+    "nombre": "Lancia Netherlands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_france",
+    "nombre": "Lancia France",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_spain",
+    "nombre": "Lancia Spain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_luxembourg",
+    "nombre": "Lancia Luxembourg",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_john_elkann",
+    "nombre": "Lancia John Elkann",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_roberta_zerbi",
+    "nombre": "Lancia Roberta Zerbi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vincenzo_lancia",
+    "nombre": "Lancia Vincenzo Lancia",
+    "anio_desde": 1906,
+    "anio_hasta": 1937,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_adele_miglietti_and_gianni_lancia",
+    "nombre": "Lancia Adele Miglietti and Gianni Lancia",
+    "anio_desde": 1937,
+    "anio_hasta": 1947,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gianni_lancia",
+    "nombre": "Lancia Gianni Lancia",
+    "anio_desde": 1947,
+    "anio_hasta": 1955,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carlo_pesenti",
+    "nombre": "Lancia Carlo Pesenti",
+    "anio_desde": 1956,
+    "anio_hasta": 1969,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_olivier_francois",
+    "nombre": "Lancia Olivier François",
+    "anio_desde": 2009,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_luca_napolitano",
+    "nombre": "Lancia Luca Napolitano",
+    "anio_desde": 2021,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2024_figure_is_sales_across_europe",
+    "nombre": "Lancia 2024 figure is sales across Europe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2000",
+    "nombre": "Lancia 2000",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_appia",
+    "nombre": "Lancia Appia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ardea",
+    "nombre": "Lancia Ardea",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_augusta",
+    "nombre": "Lancia Augusta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_beta",
+    "nombre": "Lancia Beta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dedra",
+    "nombre": "Lancia Dedra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta",
+    "nombre": "Lancia Delta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_flaminia",
+    "nombre": "Lancia Flaminia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_flavia",
+    "nombre": "Lancia Flavia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fulvia",
+    "nombre": "Lancia Fulvia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gamma",
+    "nombre": "Lancia Gamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kappa",
+    "nombre": "Lancia Kappa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lambda",
+    "nombre": "Lancia Lambda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lybra",
+    "nombre": "Lancia Lybra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_montecarlo",
+    "nombre": "Lancia Montecarlo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_prisma",
+    "nombre": "Lancia Prisma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_thema",
+    "nombre": "Lancia Thema",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_thesis",
+    "nombre": "Lancia Thesis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trevi",
+    "nombre": "Lancia Trevi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zeta_lancia_z",
+    "nombre": "Lancia Zeta / Lancia Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_voyager",
+    "nombre": "Lancia Voyager",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1979_world_championship_for_makes",
+    "nombre": "Lancia 1979 World Championship for Makes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1980_world_championship_for_makes",
+    "nombre": "Lancia 1980 World Championship for Makes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1981_world_endurance_championship_for_makes",
+    "nombre": "Lancia 1981 World Endurance Championship for Makes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1980_deutsche_rennsport_meisterschaft",
+    "nombre": "Lancia 1980 Deutsche Rennsport Meisterschaft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1958_lancia_ardea_furgoncino_cassone",
+    "nombre": "Lancia 1958 Lancia Ardea Furgoncino , Cassone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1950_lancia_beta",
+    "nombre": "Lancia 1950 Lancia Beta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1953_lancia_appia_furgoncino_camioncino",
+    "nombre": "Lancia 1953 Lancia Appia Furgoncino , Camioncino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1959_lancia_jolly",
+    "nombre": "Lancia 1959 Lancia Jolly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1963_lancia_superjolly",
+    "nombre": "Lancia 1963 Lancia Superjolly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1915_lancia_jota",
+    "nombre": "Lancia 1915 Lancia Jota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1915_lancia_djota",
+    "nombre": "Lancia 1915 Lancia Djota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1921_lancia_triota",
+    "nombre": "Lancia 1921 Lancia Triota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1921_lancia_tetrajota",
+    "nombre": "Lancia 1921 Lancia Tetrajota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1924_lancia_pentajota",
+    "nombre": "Lancia 1924 Lancia Pentajota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1926_lancia_esajota",
+    "nombre": "Lancia 1926 Lancia Esajota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1927_lancia_eptajota",
+    "nombre": "Lancia 1927 Lancia Eptajota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1932_lancia_ro",
+    "nombre": "Lancia 1932 Lancia Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1935_lancia_ro_ro",
+    "nombre": "Lancia 1935 Lancia Ro-Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1938_lancia_3ro",
+    "nombre": "Lancia 1938 Lancia 3Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1943_lancia_esaro",
+    "nombre": "Lancia 1943 Lancia Esaro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1941_lancia_e290_electric_truck_202_built",
+    "nombre": "Lancia 1941 Lancia E290 electric truck, 202 built",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1947_lancia_6ro",
+    "nombre": "Lancia 1947 Lancia 6Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1947_lancia_esatau",
+    "nombre": "Lancia 1947 Lancia Esatau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1957_lancia_esatau_b",
+    "nombre": "Lancia 1957 Lancia Esatau B",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1959_lancia_esadelta",
+    "nombre": "Lancia 1959 Lancia Esadelta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1963_lancia_esadelta_b",
+    "nombre": "Lancia 1963 Lancia Esadelta B",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1967_lancia_esadelta_c",
+    "nombre": "Lancia 1967 Lancia Esadelta C",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1969_lancia_esagamma",
+    "nombre": "Lancia 1969 Lancia Esagamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1919_lancia_eptaiota",
+    "nombre": "Lancia 1919 Lancia Eptaiota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1920_lancia_trijota",
+    "nombre": "Lancia 1920 Lancia Trijota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1922_lancia_tetraiota",
+    "nombre": "Lancia 1922 Lancia Tetraiota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1925_lancia_pentaiota",
+    "nombre": "Lancia 1925 Lancia Pentaiota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1927_lancia_omicron",
+    "nombre": "Lancia 1927 Lancia Omicron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1934_lancia_ro",
+    "nombre": "Lancia 1934 Lancia Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1949_lancia_esatau_v11",
+    "nombre": "Lancia 1949 Lancia Esatau  V11",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1953_lancia_esatau_v81",
+    "nombre": "Lancia 1953 Lancia Esatau  V81",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1957_lancia_esatau_703",
+    "nombre": "Lancia 1957 Lancia Esatau  703",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1964_lancia_esagamma_715718",
+    "nombre": "Lancia 1964 Lancia Esagamma  715/718",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1951_lancia_esatau_pistoiesi",
+    "nombre": "Lancia 1951 Lancia Esatau Pistoiesi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1956_lancia_esatau_piaggio_ansaldo",
+    "nombre": "Lancia 1956 Lancia Esatau Piaggio Ansaldo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1961_lancia_esatau_v11",
+    "nombre": "Lancia 1961 Lancia Esatau V.11",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1966_lancia_diafa_trolleybus",
+    "nombre": "Lancia 1966 Lancia Diafa trolleybus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1967_lancia_bimax",
+    "nombre": "Lancia 1967 Lancia Bimax",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1968_lancia_bimax_f600",
+    "nombre": "Lancia 1968 Lancia Bimax F600",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1968_lancia_pistoiesi",
+    "nombre": "Lancia 1968 Lancia Pistoiesi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1969_lancia_menarini_monocar",
+    "nombre": "Lancia 1969 Lancia Menarini Monocar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1969_lancia_esatau_p_casaro",
+    "nombre": "Lancia 1969 Lancia Esatau P Casaro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1912_lancia_1z",
+    "nombre": "Lancia 1912 Lancia 1Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1912_lancia_1zm",
+    "nombre": "Lancia 1912 Lancia 1ZM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1942_lancia_esaro",
+    "nombre": "Lancia 1942 Lancia Esaro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1942_lancia_lince",
+    "nombre": "Lancia 1942 Lancia Lince",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1948_lancia_esatau_6rom",
+    "nombre": "Lancia 1948 Lancia Esatau 6RoM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1951_lancia_cl51",
+    "nombre": "Lancia 1951 Lancia CL51",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1954_lancia_tl51",
+    "nombre": "Lancia 1954 Lancia TL51",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1960_lancia_506",
+    "nombre": "Lancia 1960 Lancia 506",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1975_lancia_acl_75",
+    "nombre": "Lancia 1975 Lancia ACL 75",
+    "anio_desde": 6611,
+    "anio_hasta": 6611,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1990_lancia_acl_90",
+    "nombre": "Lancia 1990 Lancia ACL 90",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1947_lancia_3ro",
+    "nombre": "Lancia 1947 Lancia 3Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2007_lancia_bike",
+    "nombre": "Lancia 2007 Lancia Bike",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2009_lancia_di_lancia_speedboat",
+    "nombre": "Lancia 2009 Lancia di Lancia speedboat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_flat_4_engine",
+    "nombre": "Lancia Flat-4 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_v4_engine",
+    "nombre": "Lancia V4 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_v6_engine",
+    "nombre": "Lancia V6 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_v8_engine",
+    "nombre": "Lancia V8 engine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tipo_4",
+    "nombre": "Lancia Tipo 4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italy_portal",
+    "nombre": "Lancia Italy portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_companies_portal",
+    "nombre": "Lancia Companies portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cars_portal",
+    "nombre": "Lancia Cars portal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_list_of_automobile_manufacturers",
+    "nombre": "Lancia List of automobile manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_list_of_formula_one_constructors",
+    "nombre": "Lancia List of Formula One constructors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_list_of_italian_companies",
+    "nombre": "Lancia List of Italian companies",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_list_of_world_rally_championship_constructors_champions",
+    "nombre": "Lancia List of World Rally Championship Constructors' Champions",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_martini_racing",
+    "nombre": "Lancia Martini Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1_2_le_auto_piu_vendute_in_italia_nel_2019_4_january_2020_retrieved_12_january_2020",
+    "nombre": "Lancia 1 2 \"Le auto più vendute in Italia nel 2019\" . 4 January 2020 . Retrieved 12 January 2020 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_michael_taylor_stellantis_pulls_legendary_italian_brand_lancia_back_from_the_brink_forbes",
+    "nombre": "Lancia ↑ Michael Taylor . \"Stellantis Pulls Legendary Italian Brand Lancia Back From The Brink\" . Forbes .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_angel_sergeev_lancia_to_sell_cars_outside_of_italy_starting_in_2024_motor1com",
+    "nombre": "Lancia ↑ Angel Sergeev . \"Lancia To Sell Cars Outside Of Italy Starting In 2024\" . Motor1.com .",
+    "anio_desde": 2021,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1_2_stellantis_aims_for_50_of_sales_online_at_relaunched_lancia_reuterscom_2022_05_20",
+    "nombre": "Lancia 1 2 \"Stellantis aims for 50% of sales online at relaunched Lancia\" . Reuters.com . 2022-05-20.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_innovation_the_first_models_lanciacom_archived_from_the_original_on_25_february_2007_retrieved_9_june_2012",
+    "nombre": "Lancia ↑ \"Innovation The First Models\" . lancia.com . Archived from the original on 25 February 2007 . Retrieved 9 June 2012 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1980_page_2_of_wwwritzsitenllancia02lanciacchtm_accessdate_14_june_2016",
+    "nombre": "Lancia ↑ 1980; page 2 of: www.ritzsite.nl/Lancia/02_LanciaCC.htm , accessdate: 14. June 2016",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_100_years_of_motoring_the_motor_52_25_may_1985_retrieved_20_march_2018",
+    "nombre": "Lancia ↑ \"100 Years of Motoring\" . The Motor : 52. 25 May 1985 . Retrieved 20 March 2018 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_loss_was_20m_the_times_30_april_1970_p_24",
+    "nombre": "Lancia ↑ \"Lancia loss was £20m\". The Times . 30 April 1970. p. 24.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_raffaelli_fabio_enciclopedia_dellautomobile_script_edizioni_isbn_978_8866147091",
+    "nombre": "Lancia ↑ Raffaelli, Fabio . Enciclopedia dell'Automobile . Script edizioni. ISBN 978-8866147091 .",
+    "anio_desde": 2012,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_harrison_tony_2006_lancia_london_to_brighton_to_turin_drive_september_flickrcom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ Harrison, Tony. \"2006 Lancia London To Brighton to Turin Drive September\" . flickr.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_harrison_tony_lancia_centenary_dales_drive_2006_flickrcom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ Harrison, Tony. \"Lancia Centenary Dales Drive 2006\" . flickr.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1_2_fiat_auto_cambia_nome_sara_automobiles_group_lastampait_24_january_2007_retrieved_12_february_2015",
+    "nombre": "Lancia 1 2 \"Fiat auto cambia nome - Sarà \"Automobiles group\" \" . lastampa.it . 24 January 2007 . Retrieved 12 February 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_glorioso_marchio_lancia_festeggia_110_anni_ansait_25_november_2016_retrieved_15_january_2026",
+    "nombre": "Lancia ↑ \"Glorioso marchio Lancia festeggia 110 anni\" . ansa.it . 25 November 2016 . Retrieved 15 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_milano_autoclassica_2016_fcaheritagecom_retrieved_15_january_2026",
+    "nombre": "Lancia ↑ \"Milano Autoclassica 2016\" . fcaheritage.com . Retrieved 15 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_angel_sergeev_lancia_becomes_premium_brand_in_stellantis_era_motor1com",
+    "nombre": "Lancia ↑ Angel Sergeev . \"Lancia Becomes Premium Brand In Stellantis Era\" . Motor1.com .",
+    "anio_desde": 2021,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jacob_oliva_alfa_romeo_lancia_will_have_greater_opportunities_under_stellantis_motor1com",
+    "nombre": "Lancia ↑ Jacob Oliva . \"Alfa Romeo, Lancia Will Have 'Greater Opportunities' Under Stellantis\" . Motor1.com .",
+    "anio_desde": 2021,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_appointment_of_the_top_executive_team_to_steer_stellantis_stellantiscom_2021_01_19",
+    "nombre": "Lancia ↑ \"Appointment of the Top Executive Team to steer Stellantis\" . Stellantis.com . 2021-01-19.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_luca_cifferi_opel_ds_flagship_electric_cars_will_be_built_in_italy_automotive_news_europe",
+    "nombre": "Lancia ↑ Luca Cifferi . \"Opel, DS flagship electric cars will be built in Italy\" . Automotive News Europe .",
+    "anio_desde": 2022,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_staff_and_wire_reports_lancia_bets_on_online_sales_in_european_expansion_auto_news_europe",
+    "nombre": "Lancia ↑ Staff and wire reports . \"Lancia bets on online sales in European expansion\" . Auto News Europe .",
+    "anio_desde": 2022,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pappas_thanos_lancias_upcoming_ev_flagship_will_be_called_the_gamma_carscoopscom",
+    "nombre": "Lancia ↑ Pappas, Thanos . \"Lancia's Upcoming EV Flagship Will Be Called The Gamma\" . CarScoops.com .",
+    "anio_desde": 2023,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1_2_luca_ciferri_lancia_unveils_new_logo_design_language_ahead_of_relaunch_automotive_news_europe",
+    "nombre": "Lancia 1 2 Luca Ciferri . \"Lancia unveils new logo, design language ahead of relaunch\" . Automotive News Europe .",
+    "anio_desde": 2022,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_la_nuova_era_e_cominciata_quattroruoteit_15_april_2023_retrieved_17_april_2023",
+    "nombre": "Lancia ↑ \"Lancia, la nuova era è cominciata\" . quattroruote.it . 15 April 2023 . Retrieved 17 April 2023 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_ypsilon_da_record_nel_primo_semestre_del_2024_mediastellantiscom_retrieved_27_july_2024",
+    "nombre": "Lancia ↑ \"Lancia Ypsilon da record nel primo semestre del 2024\" . media.stellantis.com  . Retrieved 27 July 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_oggi_viene_consegnata_la_prima_nuova_lancia_ypsilon_mediastellantiscom_retrieved_27_july_2024",
+    "nombre": "Lancia ↑ \"Oggi viene consegnata la prima Nuova Lancia Ypsilon\" . media.stellantis.com  . Retrieved 27 July 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_immatricolazioni_di_autovetture_per_marca_novembre_2024_unraeit_retrieved_3_december_2024",
+    "nombre": "Lancia ↑ \"Immatricolazioni di autovetture per marca – Novembre 2024\" . unrae.it  . Retrieved 3 December 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_immatricolazioni_di_autovetture_per_marca_agosto_2024_unraeit_retrieved_27_november_2024",
+    "nombre": "Lancia ↑ \"Immatricolazioni di autovetture per marca – Agosto 2024\" . unrae.it  . Retrieved 27 November 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_apre_il_primo_showroom_a_parigi_e_barcellona_stellantiscom_retrieved_27_november_2024",
+    "nombre": "Lancia ↑ \"Lancia apre il primo showroom a Parigi e Barcellona\" . stellantis.com  . Retrieved 27 November 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_club_il_calendario_2026_ruoteclassichequattroruoteit_retrieved_30_april_2026",
+    "nombre": "Lancia ↑ \"Lancia Club: il calendario 2026\" . ruoteclassiche.quattroruote.it  . Retrieved 30 April 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_festeggia_i_120_anni_di_lancia_con_la_campagna_lanciaisyours_lanciait_lanciait_retrieved_13_july_2026",
+    "nombre": "Lancia ↑ \"Festeggia i 120 anni di Lancia con la campagna #LanciaIsYours\" . lancia.it . lancia.it . Retrieved 13 July 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_primo_sguardo_alla_gamma_quattroruoteit_26_october_2024_retrieved_30_january_2026",
+    "nombre": "Lancia ↑ \"Primo sguardo alla Gamma\" . quattroruote.it . 26 October 2024 . Retrieved 30 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sotto_quel_telo_ce_la_nuova_gamma_quattroruoteit_15_may_2025_retrieved_30_january_2026",
+    "nombre": "Lancia ↑ \"Sotto quel telo c'è la nuova Gamma\" . quattroruote.it . 15 May 2025 . Retrieved 30 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_le_prime_foto_spia_della_gamma_quattroruoteit_20_october_2025_retrieved_30_january_2026",
+    "nombre": "Lancia ↑ \"Le prime foto spia della Gamma\" . quattroruote.it . 20 October 2025 . Retrieved 30 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_the_big_names_in_lancias_history_stellantisheritagecom",
+    "nombre": "Lancia ↑ \"The big names in Lancia's history\" . stellantisheritage.com .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_the_history_of_lancia_11_october_2017",
+    "nombre": "Lancia ↑ \"The history of Lancia\" . 11 October 2017.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_giuseppe_turani_padroni_senza_cuore_milan_rizzoli_1980_pp_76_113",
+    "nombre": "Lancia ↑ Giuseppe Turani , Padroni senza cuore , Milan: Rizzoli, 1980. pp 76-113.",
+    "anio_desde": 1980,
+    "anio_hasta": 1980,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_roberta_zerbi_e_il_nuovo_ceo_di_lancia_mediastellantiscom_retrieved_10_january_2026",
+    "nombre": "Lancia ↑ \"Roberta Zerbi è il nuovo CEO di Lancia\" . media.stellantis.com  . Retrieved 10 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_production_between_19902009_oicanet_retrieved_14_october_2010",
+    "nombre": "Lancia ↑ \"Lancia production between 1990–2009\" . oica.net . Retrieved 14 October 2010 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lauto_2018_sintesi_statistica_unrae_unraeit_retrieved_20_december_2019",
+    "nombre": "Lancia ↑ \"L'AUTO 2018 - Sintesi Statistica UNRAE\"  . unrae.it . Retrieved 20 December 2019 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_le_auto_piu_vendute_in_italia_nel_2020_alvolanteit_13_january_2021_retrieved_31_march_2023",
+    "nombre": "Lancia ↑ \"Le auto più vendute in Italia nel 2020\" . alvolante.it . 13 January 2021 . Retrieved 31 March 2023 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_ypsilon_da_record_nel_2023_stellantiscom_retrieved_15_january_2024",
+    "nombre": "Lancia ↑ \"Lancia Ypsilon da record nel 2023\" . stellantis.com  . Retrieved 15 January 2024 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler_delta_chryslercouk_archived_from_the_original_on_19_october_2011_retrieved_21_october_2011",
+    "nombre": "Lancia ↑ \"Chrysler Delta\" . Chrysler.co.uk . Archived from the original on 19 October 2011 . Retrieved 21 October 2011 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_filluzeau_alexandre_lancia_ypsilon_outstrips_audi_a1_sales_italpassion",
+    "nombre": "Lancia ↑ Filluzeau, Alexandre . \"Lancia Ypsilon outstrips Audi A1 sales \" . Italpassion .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_nea_car_and_driver_september_2000_retrieved_23_august_2013",
+    "nombre": "Lancia ↑ \"Lancia Nea\" . Car and Driver . September 2000 . Retrieved 23 August 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_fulvia_is_coming_autocar_retrieved_27_july_2012",
+    "nombre": "Lancia ↑ \"Lancia Fulvia is coming\" . Autocar . Retrieved 27 July 2012 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_marchionne_ecco_il_futuro_della_fiat_la_repubblica_9_january_2014_retrieved_27_april_2015",
+    "nombre": "Lancia ↑ \"Marchionne: \"Ecco il futuro della Fiat\" \" . La Repubblica . 9 January 2014 . Retrieved 27 April 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_le_premier_point_de_vente_lancia_a_ouvert_a_paris_13_august_2024_retrieved_4_may_2026",
+    "nombre": "Lancia ↑ \"Le premier point de vente Lancia a ouvert à Paris\" . 13 August 2024 . Retrieved 4 May 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_about_the_lmc_lancia_motor_club_retrieved_1_august_2026",
+    "nombre": "Lancia ↑ \"About the LMC\" . Lancia Motor Club . Retrieved 1 August 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hunston_hugh_lancia_buy_back_rust_hit_betas_the_glasgow_herald_retrieved_26_august_2013",
+    "nombre": "Lancia ↑ Hunston, Hugh . \"Lancia buy back rust-hit Betas\" . The Glasgow Herald . Retrieved 26 August 2013 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_tipped_for_return_to_uk_what_car_29_november_2005_retrieved_25_may_2015",
+    "nombre": "Lancia ↑ \"Lancia tipped for return to UK\" . What Car? . 29 November 2005 . Retrieved 25 May 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_foxall_james_lancia_postpones_uk_launch_carmagazinecouk_retrieved_25_may_2015",
+    "nombre": "Lancia ↑ Foxall, James . \"Lancia postpones UK launch\" . carmagazine.co.uk . Retrieved 25 May 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_uk_launch_very_unlikely_autocarcouk_29_june_2009_retrieved_19_april_2017",
+    "nombre": "Lancia ↑ \"Lancia UK launch 'very unlikely' \" . autocar.co.uk . 29 June 2009 . Retrieved 19 April 2017 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_cancels_lancias_uk_return_what_car_8_december_2008_retrieved_27_july_2012",
+    "nombre": "Lancia ↑ \"Fiat cancels Lancia's UK return\" . What Car? . 8 December 2008 . Retrieved 27 July 2012 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler_brand_to_be_axed_in_the_uk_in_2017_what_car_17_march_2015_retrieved_25_may_2015",
+    "nombre": "Lancia ↑ \"Chrysler brand to be axed in the UK in 2017\" . What Car? . 17 March 2015 . Retrieved 25 May 2015 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_formula_one_timeline_atlasf1autosportcom_retrieved_27_june_2007",
+    "nombre": "Lancia ↑ \"Formula One timeline\" . atlasf1.autosport.com . Retrieved 27 June 2007 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_formula_1_team_4mula1ro_retrieved_27_june_2007",
+    "nombre": "Lancia ↑ \"Lancia Formula 1 Team\" . 4mula1.ro . Retrieved 27 June 2007 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_d50_ddavidcom_archived_from_the_original_on_2_july_2007_retrieved_27_june_2007",
+    "nombre": "Lancia ↑ \"Lancia D50\" . ddavid.com . Archived from the original on 2 July 2007 . Retrieved 27 June 2007 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lancia_delta_martini_5_nuova_autoscout24it_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"Lancia Delta MARTINI 5 NUOVA\" . autoscout24.it . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1989_lancia_delta_hf_integrale_8v_group_a_rmsothebyscom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"1989 Lancia Delta HF Integrale 8V Group A\" . rmsothebys.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1985_lancia_thema_familiare_by_zagato_rmsothebyscom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"1985 Lancia Thema Familiare by Zagato\" . rmsothebys.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1974_fiat_130_familiare_rmsothebyscom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"1974 Fiat 130 Familiare\" . rmsothebys.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1986_fiat_panda_44_rmsothebyscom_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"1986 Fiat Panda 4×4\" . rmsothebys.com . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_la_lancia_delta_s4_di_gianni_agnelli_quattroruoteit_1_june_2025_retrieved_13_january_2026",
+    "nombre": "Lancia ↑ \"La Lancia Delta S4 di Gianni Agnelli\" . quattroruote.it . 1 June 2025 . Retrieved 13 January 2026 .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_official_website",
+    "nombre": "Lancia Official website",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_models_production",
+    "nombre": "Lancia models production",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ypsilon_iv",
+    "nombre": "Lancia Ypsilon IV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gamma_iii",
+    "nombre": "Lancia Gamma III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_thema_i",
+    "nombre": "Lancia Thema I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_y10",
+    "nombre": "Lancia Y10",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_ii",
+    "nombre": "Lancia Delta II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zeta",
+    "nombre": "Lancia Zeta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_phedra",
+    "nombre": "Lancia Phedra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ypsilon_i",
+    "nombre": "Lancia Ypsilon I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ypsilon_ii",
+    "nombre": "Lancia Ypsilon II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_musa",
+    "nombre": "Lancia Musa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_iii",
+    "nombre": "Lancia Delta III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_thema_ii",
+    "nombre": "Lancia Thema II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_flavia_ii",
+    "nombre": "Lancia Flavia II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ypsilon_iii",
+    "nombre": "Lancia Ypsilon III",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_aurelia",
+    "nombre": "Lancia Aurelia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_flavia_i",
+    "nombre": "Lancia Flavia I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stratos_hf",
+    "nombre": "Lancia Stratos HF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_i",
+    "nombre": "Lancia Delta I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dikappa",
+    "nombre": "Lancia Dikappa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trikappa",
+    "nombre": "Lancia Trikappa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dilambda",
+    "nombre": "Lancia Dilambda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_artena",
+    "nombre": "Lancia Artena",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_astura",
+    "nombre": "Lancia Astura",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_aprilia",
+    "nombre": "Lancia Aprilia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_12_hp_alfa",
+    "nombre": "Lancia 12 HP Alfa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_18_hp_dialfa",
+    "nombre": "Lancia 18 HP Dialfa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1520_hp_beta",
+    "nombre": "Lancia 15/20 HP Beta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_20_hp_gamma",
+    "nombre": "Lancia 20 HP Gamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2030_hp_delta",
+    "nombre": "Lancia 20/30 HP Delta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_2030_hp_epsilon",
+    "nombre": "Lancia 20/30 HP Epsilon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_3050_hp_eta",
+    "nombre": "Lancia 30/50 HP Eta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_25_35_hp_theta",
+    "nombre": "Lancia 25-35 HP Theta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_florida_i",
+    "nombre": "Lancia Florida I",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_florida_ii",
+    "nombre": "Lancia Florida II",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fulvia_berlinetta_competizione",
+    "nombre": "Lancia Fulvia Berlinetta Competizione",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stratos_hf_zero",
+    "nombre": "Lancia Stratos HF Zero",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dunja_16_hf",
+    "nombre": "Lancia Dunja 1.6 HF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_megagamma",
+    "nombre": "Lancia Megagamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sibilo",
+    "nombre": "Lancia Sibilo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_medusa",
+    "nombre": "Lancia Medusa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ecv",
+    "nombre": "Lancia ECV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_orca",
+    "nombre": "Lancia Orca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hit",
+    "nombre": "Lancia HIT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_magia",
+    "nombre": "Lancia Magia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kayak",
+    "nombre": "Lancia Kayak",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dialogos",
+    "nombre": "Lancia Dialogos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fulvia_coupe_concept",
+    "nombre": "Lancia Fulvia Coupé Concept",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pura_hpe",
+    "nombre": "Lancia Pu+Ra HPE",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_iv",
+    "nombre": "Lancia Delta IV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trijota",
+    "nombre": "Lancia Trijota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_omicron",
+    "nombre": "Lancia Omicron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ro",
+    "nombre": "Lancia Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jota",
+    "nombre": "Lancia Jota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_3ro",
+    "nombre": "Lancia 3Ro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_esatau",
+    "nombre": "Lancia Esatau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_esadelta",
+    "nombre": "Lancia Esadelta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_esagamma",
+    "nombre": "Lancia Esagamma",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_e290",
+    "nombre": "Lancia E290",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jolly",
+    "nombre": "Lancia Jolly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_superjolly",
+    "nombre": "Lancia Superjolly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1z",
+    "nombre": "Lancia 1Z",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_1zm",
+    "nombre": "Lancia 1ZM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lince",
+    "nombre": "Lancia Lince",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scuderia_lancia",
+    "nombre": "Lancia Scuderia Lancia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jolly_club",
+    "nombre": "Lancia Jolly Club",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_d24",
+    "nombre": "Lancia D24",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_d25",
+    "nombre": "Lancia D25",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_d50",
+    "nombre": "Lancia D50",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lc1",
+    "nombre": "Lancia LC1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lc2",
+    "nombre": "Lancia LC2",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_rally_037",
+    "nombre": "Lancia Rally 037",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_s4",
+    "nombre": "Lancia Delta S4",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_delta_hf",
+    "nombre": "Lancia Delta HF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ypsilon_rally4_hf",
+    "nombre": "Lancia Ypsilon Rally4 HF",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_rally2_hf_integrale",
+    "nombre": "Lancia Rally2 HF Integrale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_andrea_aghini",
+    "nombre": "Lancia Andrea Aghini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_markku_alen",
+    "nombre": "Lancia Markku Alén",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alberto_ascari",
+    "nombre": "Lancia Alberto Ascari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_didier_auriol",
+    "nombre": "Lancia Didier Auriol",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_miki_biasion",
+    "nombre": "Lancia Miki Biasion",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_louis_chiron",
+    "nombre": "Lancia Louis Chiron",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_juha_kankkunen",
+    "nombre": "Lancia Juha Kankkunen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sandro_munari",
+    "nombre": "Lancia Sandro Munari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_walter_rohrl",
+    "nombre": "Lancia Walter Röhrl",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_luigi_villoresi",
+    "nombre": "Lancia Luigi Villoresi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vittorio_jano",
+    "nombre": "Lancia Vittorio Jano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pier_ugo_gobbato",
+    "nombre": "Lancia Pier Ugo Gobbato",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_claudio_lombardi",
+    "nombre": "Lancia Claudio Lombardi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sergio_limone",
+    "nombre": "Lancia Sergio Limone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_francesco_de_virgilio",
+    "nombre": "Lancia Francesco De Virgilio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_blueme",
+    "nombre": "Lancia Blue&Me",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_museum",
+    "nombre": "Lancia Museum",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_museo_vincenzo_lancia",
+    "nombre": "Lancia Museo Vincenzo Lancia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_palazzo_lancia",
+    "nombre": "Lancia Palazzo Lancia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_borgo_san_paolo_plant",
+    "nombre": "Lancia Borgo San Paolo Plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chivasso_plant",
+    "nombre": "Lancia Chivasso plant",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_urban_bike",
+    "nombre": "Lancia Urban Bike",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_di_lancia",
+    "nombre": "Lancia di Lancia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_category",
+    "nombre": "Lancia Category",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_manufactured_by_chrysler_in_north_america",
+    "nombre": "Lancia Manufactured by Chrysler in North America",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_website",
+    "nombre": "Lancia website",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_a_marque_of_the_stellantis",
+    "nombre": "Lancia A marque of the Stellantis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis_vehicles",
+    "nombre": "Lancia Stellantis vehicles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis_platforms",
+    "nombre": "Lancia Stellantis platforms",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_chrysler_automobiles_chrysler_group_llc_fiat_spa",
+    "nombre": "Lancia Fiat Chrysler Automobiles Chrysler Group LLC Fiat S.p.A.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler_group_llc",
+    "nombre": "Lancia Chrysler Group LLC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_spa",
+    "nombre": "Lancia Fiat S.p.A.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_psa_group_chrysler_europe_citroen_gm_europe_peugeot",
+    "nombre": "Lancia PSA Group Chrysler Europe Citroën GM Europe Peugeot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler_europe",
+    "nombre": "Lancia Chrysler Europe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_citroen",
+    "nombre": "Lancia Citroën",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gm_europe",
+    "nombre": "Lancia GM Europe",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_peugeot",
+    "nombre": "Lancia Peugeot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alfa_romeo",
+    "nombre": "Lancia Alfa Romeo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler",
+    "nombre": "Lancia Chrysler",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dodge",
+    "nombre": "Lancia Dodge",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ds",
+    "nombre": "Lancia DS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_abarth_professional",
+    "nombre": "Lancia Fiat Abarth Professional",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_abarth",
+    "nombre": "Lancia Abarth",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_professional",
+    "nombre": "Lancia Professional",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jeep",
+    "nombre": "Lancia Jeep",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_maserati",
+    "nombre": "Lancia Maserati",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_opel_vauxhall",
+    "nombre": "Lancia Opel Vauxhall",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vauxhall",
+    "nombre": "Lancia Vauxhall",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ram",
+    "nombre": "Lancia Ram",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_comau",
+    "nombre": "Lancia Comau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dongfeng_peugeot_citroen",
+    "nombre": "Lancia Dongfeng Peugeot-Citroën",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_leasys",
+    "nombre": "Lancia Leasys",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_india_automobiles",
+    "nombre": "Lancia Fiat India Automobiles",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ikap",
+    "nombre": "Lancia IKAP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_leapmotor",
+    "nombre": "Lancia Leapmotor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mopar",
+    "nombre": "Lancia Mopar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pcma",
+    "nombre": "Lancia PCMA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sevel",
+    "nombre": "Lancia Sevel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_free2move_share_now",
+    "nombre": "Lancia Free2Move Share Now",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_share_now",
+    "nombre": "Lancia Share Now",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_teksid",
+    "nombre": "Lancia Teksid",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tofas",
+    "nombre": "Lancia Tofaş",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_argentina",
+    "nombre": "Lancia Argentina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_australia",
+    "nombre": "Lancia Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_china",
+    "nombre": "Lancia China",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_india",
+    "nombre": "Lancia India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ireland",
+    "nombre": "Lancia Ireland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_japan",
+    "nombre": "Lancia Japan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_north_america_canada",
+    "nombre": "Lancia North America Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_canada",
+    "nombre": "Lancia Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_poland",
+    "nombre": "Lancia Poland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_serbia",
+    "nombre": "Lancia Serbia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_aspern",
+    "nombre": "Lancia Aspern",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_atessa",
+    "nombre": "Lancia Atessa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_belvidere",
+    "nombre": "Lancia Belvidere",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brampton",
+    "nombre": "Lancia Brampton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_buenos_aires",
+    "nombre": "Lancia Buenos Aires",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cassino",
+    "nombre": "Lancia Cassino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_detroit_jefferson_mack",
+    "nombre": "Lancia Detroit Jefferson Mack",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jefferson",
+    "nombre": "Lancia Jefferson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mack",
+    "nombre": "Lancia Mack",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dundee",
+    "nombre": "Lancia Dundee",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_eisenach",
+    "nombre": "Lancia Eisenach",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ellesmere_port",
+    "nombre": "Lancia Ellesmere Port",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_figueruelas",
+    "nombre": "Lancia Figueruelas",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gliwice",
+    "nombre": "Lancia Gliwice",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hordain",
+    "nombre": "Lancia Hordain",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_indiana",
+    "nombre": "Lancia Indiana",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kenitra",
+    "nombre": "Lancia Kenitra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kokomo_casting_transmission",
+    "nombre": "Lancia Kokomo Casting Transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_casting",
+    "nombre": "Lancia Casting",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_transmission",
+    "nombre": "Lancia Transmission",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kragujevac",
+    "nombre": "Lancia Kragujevac",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_madrid",
+    "nombre": "Lancia Madrid",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mangualde",
+    "nombre": "Lancia Mangualde",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mulhouse",
+    "nombre": "Lancia Mulhouse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_poissy",
+    "nombre": "Lancia Poissy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pomigliano_darco",
+    "nombre": "Lancia Pomigliano d'Arco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_porto_real",
+    "nombre": "Lancia Porto Real",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ranjangaon",
+    "nombre": "Lancia Ranjangaon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_russelsheim",
+    "nombre": "Lancia Rüsselsheim",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_rennes",
+    "nombre": "Lancia Rennes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_saltillo",
+    "nombre": "Lancia Saltillo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sochaux",
+    "nombre": "Lancia Sochaux",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sterling_heights",
+    "nombre": "Lancia Sterling Heights",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_szentgotthard",
+    "nombre": "Lancia Szentgotthárd",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tafraoui",
+    "nombre": "Lancia Tafraoui",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toledo_complex",
+    "nombre": "Lancia Toledo Complex",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toledo_machining",
+    "nombre": "Lancia Toledo Machining",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toluca",
+    "nombre": "Lancia Toluca",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trenton",
+    "nombre": "Lancia Trenton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trnava",
+    "nombre": "Lancia Trnava",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_turin",
+    "nombre": "Lancia Turin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tychy",
+    "nombre": "Lancia Tychy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vigo",
+    "nombre": "Lancia Vigo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_warren_stamping_truck_assembly",
+    "nombre": "Lancia Warren Stamping Truck Assembly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stamping",
+    "nombre": "Lancia Stamping",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_truck_assembly",
+    "nombre": "Lancia Truck Assembly",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_windsor",
+    "nombre": "Lancia Windsor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_antonio_filosa",
+    "nombre": "Lancia Antonio Filosa",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carlos_tavares",
+    "nombre": "Lancia Carlos Tavares",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chrysler_world_headquarters_and_technology_center",
+    "nombre": "Lancia Chrysler World Headquarters and Technology Center",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_musee_de_laventure_peugeot",
+    "nombre": "Lancia Musée de l'Aventure Peugeot",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis_heritage",
+    "nombre": "Lancia Stellantis Heritage",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis",
+    "nombre": "Lancia Stellantis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_chrysler_australia",
+    "nombre": "Lancia Fiat Chrysler Australia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fca_canada",
+    "nombre": "Lancia FCA Canada",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fca_heritage",
+    "nombre": "Lancia FCA Heritage",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fca_india",
+    "nombre": "Lancia FCA India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fca_ireland",
+    "nombre": "Lancia FCA Ireland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fca_poland",
+    "nombre": "Lancia FCA Poland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_serbia",
+    "nombre": "Lancia Fiat Serbia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_sollers",
+    "nombre": "Lancia Fiat-Sollers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gac_fca",
+    "nombre": "Lancia GAC FCA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_nanjing_fiat_automobile",
+    "nombre": "Lancia Nanjing Fiat Automobile",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_list_of_assembly_sites",
+    "nombre": "Lancia List of assembly sites",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lingotto",
+    "nombre": "Lancia Lingotto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_nardo_ring",
+    "nombre": "Lancia Nardò Ring",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_andrea_agnelli",
+    "nombre": "Lancia Andrea Agnelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_michael_manley",
+    "nombre": "Lancia Michael Manley",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sergio_marchionne",
+    "nombre": "Lancia Sergio Marchionne",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alpine",
+    "nombre": "Lancia Alpine",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_aston_martin",
+    "nombre": "Lancia Aston Martin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_audi",
+    "nombre": "Lancia Audi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cadillac",
+    "nombre": "Lancia Cadillac",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ferrari",
+    "nombre": "Lancia Ferrari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_haas",
+    "nombre": "Lancia Haas",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mclaren",
+    "nombre": "Lancia McLaren",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mercedes",
+    "nombre": "Lancia Mercedes",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_racing_bulls",
+    "nombre": "Lancia Racing Bulls",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_red_bull",
+    "nombre": "Lancia Red Bull",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_williams",
+    "nombre": "Lancia Williams",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_afm",
+    "nombre": "Lancia AFM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ags",
+    "nombre": "Lancia AGS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alphatauri",
+    "nombre": "Lancia AlphaTauri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alta",
+    "nombre": "Lancia Alta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_amon",
+    "nombre": "Lancia Amon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_andrea_moda",
+    "nombre": "Lancia Andrea Moda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_apollon",
+    "nombre": "Lancia Apollon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_arrows",
+    "nombre": "Lancia Arrows",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_arzani_volpini",
+    "nombre": "Lancia Arzani-Volpini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_aston_butterworth",
+    "nombre": "Lancia Aston-Butterworth",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ats",
+    "nombre": "Lancia ATS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bar",
+    "nombre": "Lancia BAR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_behra_porsche",
+    "nombre": "Lancia Behra-Porsche",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bellasi",
+    "nombre": "Lancia Bellasi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_benetton",
+    "nombre": "Lancia Benetton",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bmw",
+    "nombre": "Lancia BMW",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_boro",
+    "nombre": "Lancia Boro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brabham",
+    "nombre": "Lancia Brabham",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brawn",
+    "nombre": "Lancia Brawn",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brm",
+    "nombre": "Lancia BRM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brp",
+    "nombre": "Lancia BRP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bugatti",
+    "nombre": "Lancia Bugatti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_caterham",
+    "nombre": "Lancia Caterham",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cisitalia",
+    "nombre": "Lancia Cisitalia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_coloni",
+    "nombre": "Lancia Coloni",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_connaught",
+    "nombre": "Lancia Connaught",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_connew",
+    "nombre": "Lancia Connew",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cooper",
+    "nombre": "Lancia Cooper",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dallara",
+    "nombre": "Lancia Dallara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_de_tomaso",
+    "nombre": "Lancia De Tomaso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_derrington_francis",
+    "nombre": "Lancia Derrington-Francis",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_eagle",
+    "nombre": "Lancia Eagle",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_eifelland",
+    "nombre": "Lancia Eifelland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_emeryson",
+    "nombre": "Lancia Emeryson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_emw",
+    "nombre": "Lancia EMW",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_enb",
+    "nombre": "Lancia ENB",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ensign",
+    "nombre": "Lancia Ensign",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_era",
+    "nombre": "Lancia ERA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_eurobrun",
+    "nombre": "Lancia EuroBrun",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ferguson",
+    "nombre": "Lancia Ferguson",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fittipaldi",
+    "nombre": "Lancia Fittipaldi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fondmetal",
+    "nombre": "Lancia Fondmetal",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_footwork",
+    "nombre": "Lancia Footwork",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_force_india",
+    "nombre": "Lancia Force India",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_forti",
+    "nombre": "Lancia Forti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_frazer_nash",
+    "nombre": "Lancia Frazer Nash",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fry",
+    "nombre": "Lancia Fry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gilby",
+    "nombre": "Lancia Gilby",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gordini",
+    "nombre": "Lancia Gordini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_greifzu",
+    "nombre": "Lancia Greifzu",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hesketh",
+    "nombre": "Lancia Hesketh",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hill",
+    "nombre": "Lancia Hill",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_honda",
+    "nombre": "Lancia Honda",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hrt",
+    "nombre": "Lancia HRT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hwm",
+    "nombre": "Lancia HWM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jaguar",
+    "nombre": "Lancia Jaguar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jbw",
+    "nombre": "Lancia JBW",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_jordan",
+    "nombre": "Lancia Jordan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kauhsen",
+    "nombre": "Lancia Kauhsen",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_klenk",
+    "nombre": "Lancia Klenk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kojima",
+    "nombre": "Lancia Kojima",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_kurtis_kraft",
+    "nombre": "Lancia Kurtis Kraft",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_larrousse",
+    "nombre": "Lancia Larrousse",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lds",
+    "nombre": "Lancia LDS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lec",
+    "nombre": "Lancia LEC",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_leyton_house",
+    "nombre": "Lancia Leyton House",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_life",
+    "nombre": "Lancia Life",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ligier",
+    "nombre": "Lancia Ligier",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lola",
+    "nombre": "Lancia Lola",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lotus",
+    "nombre": "Lancia Lotus",
+    "anio_desde": 1958,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lyncar",
+    "nombre": "Lancia Lyncar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_maki",
+    "nombre": "Lancia Maki",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_march",
+    "nombre": "Lancia March",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_martini",
+    "nombre": "Lancia Martini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_marussia",
+    "nombre": "Lancia Marussia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_matra",
+    "nombre": "Lancia Matra",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mbm",
+    "nombre": "Lancia MBM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mcguire",
+    "nombre": "Lancia McGuire",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_merzario",
+    "nombre": "Lancia Merzario",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_midland",
+    "nombre": "Lancia Midland",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_milano",
+    "nombre": "Lancia Milano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_minardi",
+    "nombre": "Lancia Minardi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_modena",
+    "nombre": "Lancia Modena",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mrt",
+    "nombre": "Lancia MRT",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_onyx",
+    "nombre": "Lancia Onyx",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_osca",
+    "nombre": "Lancia OSCA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_osella",
+    "nombre": "Lancia Osella",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pacific",
+    "nombre": "Lancia Pacific",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_parnelli",
+    "nombre": "Lancia Parnelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_penske",
+    "nombre": "Lancia Penske",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_porsche",
+    "nombre": "Lancia Porsche",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_prost",
+    "nombre": "Lancia Prost",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_protos",
+    "nombre": "Lancia Protos",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_racing_point",
+    "nombre": "Lancia Racing Point",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_realpha",
+    "nombre": "Lancia Realpha",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_rebaque",
+    "nombre": "Lancia Rebaque",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_renault",
+    "nombre": "Lancia Renault",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_reynard",
+    "nombre": "Lancia Reynard",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_rial",
+    "nombre": "Lancia Rial",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sauber",
+    "nombre": "Lancia Sauber",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scarab",
+    "nombre": "Lancia Scarab",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scirocco",
+    "nombre": "Lancia Scirocco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_shadow",
+    "nombre": "Lancia Shadow",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_shannon",
+    "nombre": "Lancia Shannon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_simtek",
+    "nombre": "Lancia Simtek",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_spirit",
+    "nombre": "Lancia Spirit",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_spyker",
+    "nombre": "Lancia Spyker",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stebro",
+    "nombre": "Lancia Stebro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stewart",
+    "nombre": "Lancia Stewart",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_super_aguri",
+    "nombre": "Lancia Super Aguri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_surtees",
+    "nombre": "Lancia Surtees",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sva",
+    "nombre": "Lancia SVA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_talbot_lago",
+    "nombre": "Lancia Talbot-Lago",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tec_mec",
+    "nombre": "Lancia Tec-Mec",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tecno",
+    "nombre": "Lancia Tecno",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_theodore",
+    "nombre": "Lancia Theodore",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toro_rosso",
+    "nombre": "Lancia Toro Rosso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_token",
+    "nombre": "Lancia Token",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toleman",
+    "nombre": "Lancia Toleman",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_toyota",
+    "nombre": "Lancia Toyota",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trojan",
+    "nombre": "Lancia Trojan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tyrrell",
+    "nombre": "Lancia Tyrrell",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vanwall",
+    "nombre": "Lancia Vanwall",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_veritas",
+    "nombre": "Lancia Veritas",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_virgin",
+    "nombre": "Lancia Virgin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_wolf",
+    "nombre": "Lancia Wolf",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zakspeed",
+    "nombre": "Lancia Zakspeed",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bravo_f1",
+    "nombre": "Lancia Bravo F1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carlin",
+    "nombre": "Lancia Carlin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dams",
+    "nombre": "Lancia DAMS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_direxiv",
+    "nombre": "Lancia Direxiv",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dome",
+    "nombre": "Lancia Dome",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_first",
+    "nombre": "Lancia FIRST",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_hitech_gp",
+    "nombre": "Lancia Hitech GP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_phoenix",
+    "nombre": "Lancia Phoenix",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_prodrive",
+    "nombre": "Lancia Prodrive",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stefan",
+    "nombre": "Lancia Stefan",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_us_f1",
+    "nombre": "Lancia US F1",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_automotive_industry",
+    "nombre": "Lancia Automotive industry",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_transport_in_italy",
+    "nombre": "Lancia Transport in Italy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_economy_of_italy",
+    "nombre": "Lancia Economy of Italy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alke",
+    "nombre": "Lancia Alkè",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_automobili_estrema",
+    "nombre": "Lancia Automobili Estrema",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cirelli",
+    "nombre": "Lancia Cirelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dr",
+    "nombre": "Lancia DR",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ducati",
+    "nombre": "Lancia Ducati",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_industria_italiana_autobus",
+    "nombre": "Lancia Industria Italiana Autobus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_martin",
+    "nombre": "Lancia Martin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mazzanti_automobili",
+    "nombre": "Lancia Mazzanti Automobili",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_menarinibus",
+    "nombre": "Lancia Menarinibus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fornasari",
+    "nombre": "Lancia Fornasari",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lamborghini",
+    "nombre": "Lancia Lamborghini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_oto_melara",
+    "nombre": "Lancia OTO Melara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pagani",
+    "nombre": "Lancia Pagani",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_piaggio",
+    "nombre": "Lancia Piaggio",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_puritalia",
+    "nombre": "Lancia Puritalia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_silk",
+    "nombre": "Lancia Silk",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis_abarth_giannini_automobili_alfa_romeo_fiat_fiat_professional_lancia_maserati_sevel",
+    "nombre": "Lancia Stellantis Abarth Giannini Automobili Alfa Romeo Fiat Fiat Professional Lancia Maserati Sevel",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_giannini_automobili",
+    "nombre": "Lancia Giannini Automobili",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat",
+    "nombre": "Lancia Fiat",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_professional",
+    "nombre": "Lancia Fiat Professional",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_astra_sivi",
+    "nombre": "Lancia Astra SIVI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sivi",
+    "nombre": "Lancia SIVI",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_iveco_group_iveco_iveco_bus",
+    "nombre": "Lancia Iveco Group Iveco Iveco Bus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_iveco",
+    "nombre": "Lancia Iveco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_iveco_bus",
+    "nombre": "Lancia Iveco Bus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scv",
+    "nombre": "Lancia SCV",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_casalini",
+    "nombre": "Lancia Casalini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_giotti_victoria",
+    "nombre": "Lancia Giotti Victoria",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italcar",
+    "nombre": "Lancia Italcar",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gisa",
+    "nombre": "Lancia GISA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lucchini_engineering",
+    "nombre": "Lancia Lucchini Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mat",
+    "nombre": "Lancia M.A.T.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_picchio_racing_cars",
+    "nombre": "Lancia Picchio Racing Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_tatuus",
+    "nombre": "Lancia Tatuus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_wolf_racing_cars",
+    "nombre": "Lancia Wolf Racing Cars",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ares_design",
+    "nombre": "Lancia Ares Design",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_b_engineering",
+    "nombre": "Lancia B Engineering",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cecomp",
+    "nombre": "Lancia Cecomp",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_boneschi",
+    "nombre": "Lancia Carrozzeria Boneschi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_castagna",
+    "nombre": "Lancia Carrozzeria Castagna",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_ghia",
+    "nombre": "Lancia Carrozzeria Ghia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_touring_superleggera",
+    "nombre": "Lancia Carrozzeria Touring Superleggera",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ermini",
+    "nombre": "Lancia Ermini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fioravanti",
+    "nombre": "Lancia Fioravanti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italdesign_giugiaro",
+    "nombre": "Lancia Italdesign Giugiaro",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_morelli",
+    "nombre": "Lancia Morelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pininfarina",
+    "nombre": "Lancia Pininfarina",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stola",
+    "nombre": "Lancia Stola",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_studiotorino",
+    "nombre": "Lancia Studiotorino",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zagato",
+    "nombre": "Lancia Zagato",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_apis",
+    "nombre": "Lancia APIS",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bianchi",
+    "nombre": "Lancia Bianchi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bizzarrini",
+    "nombre": "Lancia Bizzarrini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bredamenarinibus",
+    "nombre": "Lancia BredaMenarinibus",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ceirano",
+    "nombre": "Lancia Ceirano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_chiribiri",
+    "nombre": "Lancia Chiribiri",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cizeta",
+    "nombre": "Lancia Cizeta",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_diatto",
+    "nombre": "Lancia Diatto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fiat_spa_autobianchi_innocenti",
+    "nombre": "Lancia Fiat S.p.A. Autobianchi Innocenti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_autobianchi",
+    "nombre": "Lancia Autobianchi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_innocenti",
+    "nombre": "Lancia Innocenti",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_isotta_fraschini",
+    "nombre": "Lancia Isotta Fraschini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_itala",
+    "nombre": "Lancia Itala",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_qvale",
+    "nombre": "Lancia Qvale",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_iso",
+    "nombre": "Lancia Iso",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scat",
+    "nombre": "Lancia S.C.A.T.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_siata",
+    "nombre": "Lancia Siata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_zust",
+    "nombre": "Lancia Zust",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bremach",
+    "nombre": "Lancia Bremach",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_de_simon",
+    "nombre": "Lancia De Simon",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_om",
+    "nombre": "Lancia OM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_spa",
+    "nombre": "Lancia S.P.A.",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_grecav",
+    "nombre": "Lancia Grecav",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_autodromo",
+    "nombre": "Lancia Autodromo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stanguellini",
+    "nombre": "Lancia Stanguellini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bandini",
+    "nombre": "Lancia Bandini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_barbi",
+    "nombre": "Lancia Carrozzeria Barbi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_garavini",
+    "nombre": "Lancia Carrozzeria Garavini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carrozzeria_maggiora",
+    "nombre": "Lancia Carrozzeria Maggiora",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_gruppo_bertone",
+    "nombre": "Lancia Gruppo Bertone",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_idea_institute",
+    "nombre": "Lancia I.DE.A Institute",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_accossato",
+    "nombre": "Lancia Accossato",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_alcantara",
+    "nombre": "Lancia Alcantara",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_arrow",
+    "nombre": "Lancia Arrow",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_borrani",
+    "nombre": "Lancia Borrani",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_brembo",
+    "nombre": "Lancia Brembo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ceriani",
+    "nombre": "Lancia Ceriani",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_colotti_trasmissioni",
+    "nombre": "Lancia Colotti Trasmissioni",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_dellorto",
+    "nombre": "Lancia Dell'Orto",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_fpt_industrial",
+    "nombre": "Lancia FPT Industrial",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vm_motori",
+    "nombre": "Lancia VM Motori",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_graziano",
+    "nombre": "Lancia Graziano",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_icp",
+    "nombre": "Lancia ICP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_landi_renzo",
+    "nombre": "Lancia Landi Renzo",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_lombardini",
+    "nombre": "Lancia Lombardini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_marelli_europe_carello_lighting_weber_carburetor",
+    "nombre": "Lancia Marelli Europe Carello Lighting Weber carburetor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_carello_lighting",
+    "nombre": "Lancia Carello Lighting",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_weber_carburetor",
+    "nombre": "Lancia Weber carburetor",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_malossi",
+    "nombre": "Lancia Malossi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_marzocchi",
+    "nombre": "Lancia Marzocchi",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_momo",
+    "nombre": "Lancia MOMO",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_omp_racing",
+    "nombre": "Lancia OMP Racing",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_oz_group",
+    "nombre": "Lancia OZ Group",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pirelli",
+    "nombre": "Lancia Pirelli",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_polini",
+    "nombre": "Lancia Polini",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_poltrona_frau",
+    "nombre": "Lancia Poltrona Frau",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_raicam_industrie",
+    "nombre": "Lancia Raicam Industrie",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sabelt",
+    "nombre": "Lancia Sabelt",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_scam",
+    "nombre": "Lancia SCAM",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sparco",
+    "nombre": "Lancia Sparco",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_spica",
+    "nombre": "Lancia SPICA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_ford",
+    "nombre": "Lancia Ford",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_bologna_motor_show",
+    "nombre": "Lancia Bologna Motor Show",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_turin_auto_show",
+    "nombre": "Lancia Turin Auto Show",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_autopromotec",
+    "nombre": "Lancia Autopromotec",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_euro_ncap",
+    "nombre": "Lancia Euro NCAP",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_autostrade",
+    "nombre": "Lancia Autostrade",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_commons",
+    "nombre": "Lancia Commons",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_stellantis_brands",
+    "nombre": "Lancia Stellantis brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_car_brands",
+    "nombre": "Lancia Car brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_motor_vehicle_manufacturers_based_in_turin",
+    "nombre": "Lancia Motor vehicle manufacturers based in Turin",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_defunct_bus_manufacturers",
+    "nombre": "Lancia Defunct bus manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_defunct_truck_manufacturers",
+    "nombre": "Lancia Defunct truck manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_trolleybus_manufacturers",
+    "nombre": "Lancia Trolleybus manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_vehicle_manufacturing_companies_established_in_1906",
+    "nombre": "Lancia Vehicle manufacturing companies established in 1906",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italian_companies_established_in_1906",
+    "nombre": "Lancia Italian companies established in 1906",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italian_brands",
+    "nombre": "Lancia Italian brands",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italian_auto_racing_teams",
+    "nombre": "Lancia Italian auto racing teams",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_italian_racecar_constructors",
+    "nombre": "Lancia Italian racecar constructors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_world_sportscar_championship_teams",
+    "nombre": "Lancia World Sportscar Championship teams",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_formula_one_constructors",
+    "nombre": "Lancia Formula One constructors",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_formula_one_entrants",
+    "nombre": "Lancia Formula One entrants",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_car_manufacturers_of_italy",
+    "nombre": "Lancia Car manufacturers of Italy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_luxury_motor_vehicle_manufacturers",
+    "nombre": "Lancia Luxury motor vehicle manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_sports_car_manufacturers",
+    "nombre": "Lancia Sports car manufacturers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_articles_with_short_description",
+    "nombre": "Lancia Articles with short description",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_short_description_is_different_from_wikidata",
+    "nombre": "Lancia Short description is different from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_pages_with_italian_ipa",
+    "nombre": "Lancia Pages with Italian IPA",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cs1_italian_language_sources",
+    "nombre": "Lancia CS1 Italian-language sources",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_all_articles_with_unsourced_statements",
+    "nombre": "Lancia All articles with unsourced statements",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_articles_with_unsourced_statements_from_february_2013",
+    "nombre": "Lancia Articles with unsourced statements from February 2013",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cs1_maint_numeric_names_authors_list",
+    "nombre": "Lancia CS1 maint: numeric names: authors list",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_all_articles_with_dead_external_links",
+    "nombre": "Lancia All articles with dead external links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_articles_with_dead_external_links_from_december_2017",
+    "nombre": "Lancia Articles with dead external links from December 2017",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_articles_with_permanently_dead_external_links",
+    "nombre": "Lancia Articles with permanently dead external links",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cs1_french_language_sources",
+    "nombre": "Lancia CS1 French-language sources",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_commons_category_link_from_wikidata",
+    "nombre": "Lancia Commons category link from Wikidata",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_this_page_was_last_edited_on_10_august_2026_at_0347",
+    "nombre": "Lancia This page was last edited on 10 August 2026, at 03:47  .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_page_was_rendered_with_parsoid",
+    "nombre": "Lancia Page was rendered with Parsoid .",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_privacy_policy",
+    "nombre": "Lancia Privacy policy",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_disclaimers",
+    "nombre": "Lancia Disclaimers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_contact_wikipedia",
+    "nombre": "Lancia Contact Wikipedia",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_legal_safety_contacts",
+    "nombre": "Lancia Legal & safety contacts",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_code_of_conduct",
+    "nombre": "Lancia Code of Conduct",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_developers",
+    "nombre": "Lancia Developers",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_statistics",
+    "nombre": "Lancia Statistics",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_cookie_statement",
+    "nombre": "Lancia Cookie statement",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  },
+  {
+    "id": "lancia_mobile_view",
+    "nombre": "Lancia Mobile view",
+    "anio_desde": 1970,
+    "anio_hasta": 2025,
+    "segmentos": []
+  }
+]

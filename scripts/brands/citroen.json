@@ -1,0 +1,503 @@
+[
+  {
+    "id": "citroen_7u",
+    "nombre": "Citroen 7U",
+    "anio_desde": 1935,
+    "anio_hasta": 1938,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_2cv",
+    "nombre": "Citroen 2CV",
+    "anio_desde": 1948,
+    "anio_hasta": 1990,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ami",
+    "nombre": "Citroen Ami",
+    "anio_desde": 1961,
+    "anio_hasta": 1978,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_axel",
+    "nombre": "Citroen Axel",
+    "anio_desde": 1984,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ax",
+    "nombre": "Citroen AX",
+    "anio_desde": 1986,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_bijou",
+    "nombre": "Citroen Bijou",
+    "anio_desde": 1959,
+    "anio_hasta": 1964,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_bx",
+    "nombre": "Citroen BX",
+    "anio_desde": 1982,
+    "anio_hasta": 1994,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_cx",
+    "nombre": "Citroen CX",
+    "anio_desde": 1974,
+    "anio_hasta": 1991,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c_crosser",
+    "nombre": "Citroen C-Crosser",
+    "anio_desde": 2007,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c1",
+    "nombre": "Citroen C1",
+    "anio_desde": 2005,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c2",
+    "nombre": "Citroen C2",
+    "anio_desde": 2003,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c3_picasso",
+    "nombre": "Citroen C3 Picasso",
+    "anio_desde": 2009,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c3l",
+    "nombre": "Citroen C3L",
+    "anio_desde": 2020,
+    "anio_hasta": 2021,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c3_xr",
+    "nombre": "Citroen C3-XR",
+    "anio_desde": 2014,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_c6",
+    "nombre": "Citroen C4 & C6",
+    "anio_desde": 1928,
+    "anio_hasta": 1934,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_coupe",
+    "nombre": "Citroen C4 Coupe",
+    "anio_desde": 2004,
+    "anio_hasta": 2010,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_picasso",
+    "nombre": "Citroen C4 Picasso",
+    "anio_desde": 2007,
+    "anio_hasta": 2020,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_aircross",
+    "nombre": "Citroen C4 Aircross",
+    "anio_desde": 2012,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_cactus",
+    "nombre": "Citroen C4 Cactus",
+    "anio_desde": 2014,
+    "anio_hasta": 2024,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c_triomphe",
+    "nombre": "Citroen C-Triomphe",
+    "anio_desde": 2006,
+    "anio_hasta": 2016,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c_elysee",
+    "nombre": "Citroen C-Elysée",
+    "anio_desde": 2012,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4",
+    "nombre": "Citroen C4",
+    "anio_desde": 2004,
+    "anio_hasta": 2018,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c4_sedan",
+    "nombre": "Citroen C4 Sedan",
+    "anio_desde": 2007,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c5_tourer",
+    "nombre": "Citroen C5 Tourer",
+    "anio_desde": 2008,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c5",
+    "nombre": "Citroen C5",
+    "anio_desde": 2000,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c6",
+    "nombre": "Citroen C6",
+    "anio_desde": 2005,
+    "anio_hasta": 2012,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c6_ii",
+    "nombre": "Citroen C6 II",
+    "anio_desde": 2016,
+    "anio_hasta": 2023,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_c8",
+    "nombre": "Citroen C8",
+    "anio_desde": 2002,
+    "anio_hasta": 2014,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_dyane",
+    "nombre": "Citroen Dyane",
+    "anio_desde": 1967,
+    "anio_hasta": 1983,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ds",
+    "nombre": "Citroen DS",
+    "anio_desde": 1955,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ds_3",
+    "nombre": "Citroen DS 3",
+    "anio_desde": 2009,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ds_4",
+    "nombre": "Citroen DS 4",
+    "anio_desde": 2010,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ds_5",
+    "nombre": "Citroen DS 5",
+    "anio_desde": 2011,
+    "anio_hasta": 2015,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_e_mehari",
+    "nombre": "Citroen E-Méhari",
+    "anio_desde": 2016,
+    "anio_hasta": 2019,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_evasion",
+    "nombre": "Citroen Evasion",
+    "anio_desde": 1994,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_faf",
+    "nombre": "Citroen FAF",
+    "anio_desde": 1977,
+    "anio_hasta": 1981,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_fukang",
+    "nombre": "Citroen Fukang",
+    "anio_desde": 1994,
+    "anio_hasta": 2009,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_grand_c4_spacetourer",
+    "nombre": "Citroen Grand C4 SpaceTourer",
+    "anio_desde": 2006,
+    "anio_hasta": 2022,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_gs_gsa",
+    "nombre": "Citroen GS / GSA",
+    "anio_desde": 1970,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_id",
+    "nombre": "Citroen ID",
+    "anio_desde": 1957,
+    "anio_hasta": 1970,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_ln_lna",
+    "nombre": "Citroen LN / LNA",
+    "anio_desde": 1976,
+    "anio_hasta": 1986,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_m35",
+    "nombre": "Citroen M35",
+    "anio_desde": 1969,
+    "anio_hasta": 1971,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_mehari",
+    "nombre": "Citroen Méhari",
+    "anio_desde": 1968,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_nemo_multispace",
+    "nombre": "Citroen Nemo Multispace",
+    "anio_desde": 2008,
+    "anio_hasta": 2017,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_rosalie",
+    "nombre": "Citroen Rosalie",
+    "anio_desde": 1932,
+    "anio_hasta": 1938,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_saxo",
+    "nombre": "Citroen Saxo",
+    "anio_desde": 1996,
+    "anio_hasta": 2004,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_sm",
+    "nombre": "Citroen SM",
+    "anio_desde": 1970,
+    "anio_hasta": 1975,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_synergie",
+    "nombre": "Citroen Synergie",
+    "anio_desde": 1994,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_traction_avant",
+    "nombre": "Citroen Traction Avant",
+    "anio_desde": 1934,
+    "anio_hasta": 1957,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_type_a",
+    "nombre": "Citroen Type A",
+    "anio_desde": 1919,
+    "anio_hasta": 1921,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_type_b2",
+    "nombre": "Citroen Type B2",
+    "anio_desde": 1921,
+    "anio_hasta": 1926,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_type_b10",
+    "nombre": "Citroen Type B10",
+    "anio_desde": 1924,
+    "anio_hasta": 1925,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_type_b12",
+    "nombre": "Citroen Type B12",
+    "anio_desde": 1925,
+    "anio_hasta": 1927,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_type_c",
+    "nombre": "Citroen Type C",
+    "anio_desde": 1922,
+    "anio_hasta": 1926,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_visa",
+    "nombre": "Citroen Visa",
+    "anio_desde": 1978,
+    "anio_hasta": 1988,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_xm",
+    "nombre": "Citroen XM",
+    "anio_desde": 1989,
+    "anio_hasta": 2000,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_xantia",
+    "nombre": "Citroen Xantia",
+    "anio_desde": 1992,
+    "anio_hasta": 2002,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_xsara",
+    "nombre": "Citroen Xsara",
+    "anio_desde": 1997,
+    "anio_hasta": 2006,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_xsara_picasso",
+    "nombre": "Citroen Xsara Picasso",
+    "anio_desde": 1999,
+    "anio_hasta": 2013,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_zx",
+    "nombre": "Citroen ZX",
+    "anio_desde": 1990,
+    "anio_hasta": 1998,
+    "segmentos": []
+  },
+  {
+    "id": "citroen_acadiane",
+    "nombre": "Citroen Acadiane",
+    "anio_desde": 1977,
+    "anio_hasta": 1987,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_belphegor",
+    "nombre": "Citroen Belphégor",
+    "anio_desde": 1964,
+    "anio_hasta": 1972,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_c15",
+    "nombre": "Citroen C15",
+    "anio_desde": 1984,
+    "anio_hasta": 2005,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_c25",
+    "nombre": "Citroen C25",
+    "anio_desde": 1981,
+    "anio_hasta": 1993,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_c35",
+    "nombre": "Citroen C35",
+    "anio_desde": 1974,
+    "anio_hasta": 1992,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_h_van",
+    "nombre": "Citroen H Van",
+    "anio_desde": 1947,
+    "anio_hasta": 1981,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_nemo",
+    "nombre": "Citroen Nemo",
+    "anio_desde": 2008,
+    "anio_hasta": 2017,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_tub_tuc",
+    "nombre": "Citroen TUB / TUC",
+    "anio_desde": 1939,
+    "anio_hasta": 1941,
+    "segmentos": [
+      "Commercial"
+    ]
+  },
+  {
+    "id": "citroen_u23",
+    "nombre": "Citroen U23",
+    "anio_desde": 1936,
+    "anio_hasta": 1963,
+    "segmentos": [
+      "Commercial"
+    ]
+  }
+]
