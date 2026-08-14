@@ -26,9 +26,18 @@ jobs:
       - name: Expo prebuild
         run: npx expo prebuild --platform android --clean
 
-      - name: Build APK debug (con bundle JS incluido)
+      - name: Bundle JS con expo export:embed
+        run: |
+          mkdir -p android/app/src/main/assets
+          npx expo export:embed \
+            --platform android \
+            --entry-file index.ts \
+            --bundle-output android/app/src/main/assets/index.android.bundle \
+            --assets-dest android/app/src/main/res
+
+      - name: Build APK debug
         working-directory: android
-        run: ./gradlew assembleDebug -PbundleInDebug=true
+        run: ./gradlew assembleDebug
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
