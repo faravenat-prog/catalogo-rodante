@@ -33,7 +33,8 @@ jobs:
             --platform android \
             --entry-file index.ts \
             --bundle-output android/app/src/main/assets/index.android.bundle \
-            --assets-dest android/app/src/main/res
+            --assets-dest android/app/src/main/res \
+            --dev false
 
       - name: Build APK debug
         working-directory: android
