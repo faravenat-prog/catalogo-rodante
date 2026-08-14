@@ -36,13 +36,18 @@ jobs:
             --assets-dest android/app/src/main/res \
             --dev false
 
-      - name: Build APK debug
+      - name: Firmar release con debug key
         working-directory: android
-        run: ./gradlew assembleDebug
+        run: |
+          sed -i '/buildTypes {/a\        release { signingConfig signingConfigs.debug }' app/build.gradle
+
+      - name: Build APK release
+        working-directory: android
+        run: ./gradlew assembleRelease
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: catalogo-rodante-apk
-          path: android/app/build/outputs/apk/debug/app-debug.apk
+          path: android/app/build/outputs/apk/release/app-release.apk
           retention-days: 30
