@@ -26,7 +26,7 @@ jobs:
       - name: Expo prebuild
         run: npx expo prebuild --platform android --clean
 
-      - name: Bundle JS con expo export:embed
+      - name: Bundle JS
         run: |
           mkdir -p android/app/src/main/assets
           npx expo export:embed \
@@ -37,13 +37,18 @@ jobs:
             --dev false
 
       - name: Firmar release con debug key
-        working-directory: android
         run: |
-          sed -i '/buildTypes {/a\        release { signingConfig signingConfigs.debug }' app/build.gradle
+          python3 - <<'EOF'
+          path = 'android/app/build.gradle'
+          c = open(path).read()
+          # Inserta signingConfig DENTRO del bloque release { existente
+          c = c.replace('release {', 'release {\n            signingConfig signingConfigs.debug', 1)
+          open(path, 'w').write(c)
+          EOF
 
       - name: Build APK release
         working-directory: android
-        run: ./gradlew assembleRelease
+        run: ./gradlew assembleRelease -PbundleInRelease=false
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4

@@ -20,8 +20,6 @@ const PHOTO_KEYS: (keyof CarPhotos)[] = [
 ];
 
 const { width, height } = Dimensions.get('window');
-
-// Persistent folder: {documentDirectory}/cr_photos/
 const PHOTOS_DIR = new Directory(Paths.document, 'cr_photos');
 
 function urlToFilename(url: string): string {
@@ -48,18 +46,16 @@ async function downloadPhoto(url: string): Promise<string> {
   }
 }
 
+type SlotState =
+  | { status: 'loading' }
+  | { status: 'ready'; uri: string }
+  | { status: 'error'; url: string };
+
 export default function CarCardScreen({ navigation, route }: Props) {
   const { carId, carIds, currentIndex, jugadorIndex } = route.params;
   const [car, setCar] = useState<Car | null>(null);
   const [photoIndex, setPhotoIndex] = useState(0);
-  // URI por slot: file:// si está descargada, URL remota si no
-  const [sources, setSources] = useState<string[]>([]);
-  // slots con error al cargar desde URL remota
-  const [errors, setErrors] = useState<Record<number, boolean>>({});
-  // cambia key para forzar remount del Image en retry
-  const [retryKeys, setRetryKeys] = useState<Record<number, number>>({});
-  const [downloading, setDownloading] = useState(false);
-  const [downloadProgress, setDownloadProgress] = useState(0);
+  const [slots, setSlots] = useState<SlotState[]>([]);
   const [fullscreenIndex, setFullscreenIndex] = useState<number | null>(null);
   const flatRef = useRef<FlatList>(null);
 
@@ -68,47 +64,53 @@ export default function CarCardScreen({ navigation, route }: Props) {
   useEffect(() => {
     if (!car) return;
     const urls = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
-    // Check locally which are already downloaded (synchronous)
-    setSources(urls.map(url => getLocalUri(url) ?? url));
-    setErrors({});
-    setRetryKeys({});
-    setDownloadProgress(0);
+    if (urls.length === 0) return;
+
+    // Inicializar: ya descargadas → ready, resto → loading
+    const initial: SlotState[] = urls.map(url => {
+      const local = getLocalUri(url);
+      return local ? { status: 'ready', uri: local } : { status: 'loading' };
+    });
+    setSlots(initial);
+    setPhotoIndex(0);
+
+    // Descargar las que faltan
+    urls.forEach((url, i) => {
+      if (initial[i].status === 'ready') return;
+      downloadPhoto(url)
+        .then(uri => setSlots(prev => {
+          const next = [...prev];
+          next[i] = { status: 'ready', uri };
+          return next;
+        }))
+        .catch(() => setSlots(prev => {
+          const next = [...prev];
+          next[i] = { status: 'error', url };
+          return next;
+        }));
+    });
   }, [car]);
 
+  function handleRetry(index: number, url: string) {
+    setSlots(prev => {
+      const next = [...prev];
+      next[index] = { status: 'loading' };
+      return next;
+    });
+    downloadPhoto(url)
+      .then(uri => setSlots(prev => {
+        const next = [...prev];
+        next[index] = { status: 'ready', uri };
+        return next;
+      }))
+      .catch(() => setSlots(prev => {
+        const next = [...prev];
+        next[index] = { status: 'error', url };
+        return next;
+      }));
+  }
+
   if (!car) return <View style={styles.center}><ActivityIndicator color={colors.red} /></View>;
-
-  const photoUrls = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
-  const localCount = sources.filter(s => s.startsWith('file://')).length;
-  const allLocal = localCount === sources.length && sources.length > 0;
-
-  async function handleDownload() {
-    setDownloading(true);
-    let done = 0;
-    const next = [...sources];
-    for (let i = 0; i < photoUrls.length; i++) {
-      if (next[i]?.startsWith('file://')) {
-        done++;
-        setDownloadProgress(done);
-        continue;
-      }
-      try {
-        const localUri = await downloadPhoto(photoUrls[i]);
-        next[i] = localUri;
-        setSources([...next]);
-        setErrors(prev => ({ ...prev, [i]: false }));
-      } catch {
-        // Leave as remote URL; user can retry later
-      }
-      done++;
-      setDownloadProgress(done);
-    }
-    setDownloading(false);
-  }
-
-  function handleRetry(index: number) {
-    setErrors(prev => ({ ...prev, [index]: false }));
-    setRetryKeys(prev => ({ ...prev, [index]: (prev[index] || 0) + 1 }));
-  }
 
   function handleNext() {
     const nextIndex = currentIndex + 1;
@@ -119,75 +121,62 @@ export default function CarCardScreen({ navigation, route }: Props) {
     }
   }
 
-  function downloadButtonLabel() {
-    if (downloading) return `DESCARGANDO ${downloadProgress}/${photoUrls.length}...`;
-    if (allLocal) return '✓  FOTOS GUARDADAS';
-    return `⬇  DESCARGAR FOTOS${localCount > 0 ? ` (${localCount}/${photoUrls.length})` : ''}`;
-  }
-
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       {/* Carrusel */}
       <View style={styles.carouselWrapper}>
         <FlatList
           ref={flatRef}
-          data={sources}
+          data={slots}
           keyExtractor={(_, i) => String(i)}
           horizontal
           pagingEnabled
           showsHorizontalScrollIndicator={false}
           onMomentumScrollEnd={e => setPhotoIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
-          renderItem={({ item: uri, index: i }) =>
-            errors[i] ? (
-              <View style={[styles.photo, styles.photoCenter]}>
-                <Text style={styles.errorText}>No se cargó la foto</Text>
-                <TouchableOpacity onPress={() => handleRetry(i)} style={styles.retryBtn}>
-                  <Text style={styles.retryText}>↺  REINTENTAR</Text>
-                </TouchableOpacity>
-              </View>
-            ) : (
+          renderItem={({ item: slot, index: i }) => {
+            if (slot.status === 'loading') {
+              return (
+                <View style={[styles.photo, styles.photoCenter]}>
+                  <ActivityIndicator color={colors.red} size="large" />
+                  <Text style={styles.loadingText}>descargando...</Text>
+                </View>
+              );
+            }
+            if (slot.status === 'error') {
+              return (
+                <View style={[styles.photo, styles.photoCenter]}>
+                  <Text style={styles.errorText}>No se pudo descargar</Text>
+                  <TouchableOpacity onPress={() => handleRetry(i, slot.url)} style={styles.retryBtn}>
+                    <Text style={styles.retryText}>↺  REINTENTAR</Text>
+                  </TouchableOpacity>
+                </View>
+              );
+            }
+            return (
               <TouchableOpacity activeOpacity={0.9} onPress={() => setFullscreenIndex(i)}>
                 <Image
-                  key={`${i}-${retryKeys[i] || 0}`}
-                  source={{ uri }}
+                  source={{ uri: slot.uri }}
                   style={styles.photo}
                   contentFit="cover"
                   transition={200}
-                  placeholder={{ blurhash: 'L6PZfSi_.AyE_3t7t7R**0o#DgR4' }}
-                  onError={() => !uri.startsWith('file://') && setErrors(prev => ({ ...prev, [i]: true }))}
                 />
               </TouchableOpacity>
-            )
-          }
+            );
+          }}
         />
         {/* Dots */}
         <View style={styles.dots}>
-          {sources.map((_, i) => (
+          {slots.map((_, i) => (
             <View key={i} style={[styles.dot, i === photoIndex && styles.dotActive]} />
           ))}
         </View>
         {/* Hint fullscreen */}
-        {sources[photoIndex] && !errors[photoIndex] && (
+        {slots[photoIndex]?.status === 'ready' && (
           <View style={styles.fullscreenHint}>
             <Text style={styles.fullscreenHintText}>⛶ toca para ampliar</Text>
           </View>
         )}
       </View>
-
-      {/* Botón descarga */}
-      <TouchableOpacity
-        style={[styles.downloadBtn, allLocal && styles.downloadBtnDone, downloading && styles.downloadBtnBusy]}
-        onPress={handleDownload}
-        disabled={downloading || allLocal}
-      >
-        {downloading
-          ? <ActivityIndicator color={colors.ink} size="small" style={{ marginRight: spacing.xs }} />
-          : null
-        }
-        <Text style={[styles.downloadText, allLocal && styles.downloadTextDone]}>
-          {downloadButtonLabel()}
-        </Text>
-      </TouchableOpacity>
 
       {/* Tags */}
       <View style={styles.tags}>
@@ -225,9 +214,9 @@ export default function CarCardScreen({ navigation, route }: Props) {
       {/* Modal pantalla completa */}
       <Modal visible={fullscreenIndex !== null} transparent animationType="fade" statusBarTranslucent>
         <TouchableOpacity style={styles.fullscreenOverlay} activeOpacity={1} onPress={() => setFullscreenIndex(null)}>
-          {fullscreenIndex !== null && sources[fullscreenIndex] && (
+          {fullscreenIndex !== null && slots[fullscreenIndex]?.status === 'ready' && (
             <Image
-              source={{ uri: sources[fullscreenIndex] }}
+              source={{ uri: (slots[fullscreenIndex] as { status: 'ready'; uri: string }).uri }}
               style={styles.fullscreenPhoto}
               contentFit="contain"
             />
@@ -257,6 +246,7 @@ const styles = StyleSheet.create({
   carouselWrapper: { position: 'relative' },
   photo: { width, height: width * 0.65, backgroundColor: colors.paper2 },
   photoCenter: { justifyContent: 'center', alignItems: 'center', gap: spacing.sm },
+  loadingText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink, opacity: 0.5 },
   errorText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink, opacity: 0.6 },
   retryBtn: {
     backgroundColor: colors.red, borderWidth: borders.width, borderColor: colors.ink,
@@ -272,18 +262,6 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(0,0,0,0.45)', paddingHorizontal: spacing.xs, paddingVertical: 2,
   },
   fullscreenHintText: { fontFamily: fonts.mono, fontSize: 10, color: colors.white },
-
-  downloadBtn: {
-    flexDirection: 'row', alignItems: 'center', justifyContent: 'center',
-    marginHorizontal: spacing.md, marginTop: spacing.sm,
-    paddingVertical: spacing.sm, paddingHorizontal: spacing.md,
-    borderWidth: borders.width, borderColor: colors.ink,
-    backgroundColor: colors.yellow,
-  },
-  downloadBtnDone: { backgroundColor: colors.paper2 },
-  downloadBtnBusy: { backgroundColor: colors.paper2 },
-  downloadText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink, letterSpacing: 0.5 },
-  downloadTextDone: { opacity: 0.5 },
 
   tags: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.xs, padding: spacing.md },
   tag: { paddingHorizontal: spacing.sm, paddingVertical: 2, borderWidth: borders.width, borderColor: colors.ink },
