@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Dimensions, FlatList, ActivityIndicator, Modal } from 'react-native';
 import { Image } from 'expo-image';
-import { File, Directory, Paths } from 'expo-file-system';
+import { downloadAsync, getInfoAsync, makeDirectoryAsync, documentDirectory } from 'expo-file-system/legacy';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../navigation';
@@ -20,7 +20,6 @@ const PHOTO_KEYS: (keyof CarPhotos)[] = [
 ];
 
 const { width, height } = Dimensions.get('window');
-const PHOTOS_DIR = new Directory(Paths.document, 'cr_photos');
 
 function urlToFilename(url: string): string {
   let h = 5381;
@@ -28,22 +27,29 @@ function urlToFilename(url: string): string {
   return (h >>> 0).toString(36) + '.jpg';
 }
 
-function getLocalUri(url: string): string | null {
-  const file = new File(PHOTOS_DIR, urlToFilename(url));
-  return file.exists ? file.uri : null;
+function getPhotosDir(): string {
+  return (documentDirectory ?? '') + 'cr_photos/';
 }
 
-async function downloadPhoto(url: string): Promise<string> {
-  if (!PHOTOS_DIR.exists) PHOTOS_DIR.create();
-  const dest = new File(PHOTOS_DIR, urlToFilename(url));
-  if (dest.exists) return dest.uri;
-  try {
-    const saved = await File.downloadFileAsync(url, dest);
-    return saved.uri;
-  } catch (e) {
-    if (dest.exists) dest.delete();
-    throw e;
+async function getLocalPath(url: string): Promise<string | null> {
+  const path = getPhotosDir() + urlToFilename(url);
+  const info = await getInfoAsync(path);
+  return info.exists ? path : null;
+}
+
+async function fetchLocalPath(url: string): Promise<string> {
+  const dir = getPhotosDir();
+  const path = dir + urlToFilename(url);
+
+  const info = await getInfoAsync(path);
+  if (info.exists) return path;
+
+  await makeDirectoryAsync(dir, { intermediates: true });
+  const result = await downloadAsync(url, path);
+  if (result.status < 200 || result.status >= 300) {
+    throw new Error(`HTTP ${result.status}`);
   }
+  return path;
 }
 
 type SlotState =
@@ -64,50 +70,39 @@ export default function CarCardScreen({ navigation, route }: Props) {
   useEffect(() => {
     if (!car) return;
     const urls = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
-    if (urls.length === 0) return;
+    if (urls.length === 0) { setSlots([]); return; }
 
-    // Inicializar: ya descargadas → ready, resto → loading
-    const initial: SlotState[] = urls.map(url => {
-      const local = getLocalUri(url);
-      return local ? { status: 'ready', uri: local } : { status: 'loading' };
-    });
-    setSlots(initial);
+    setSlots(urls.map(() => ({ status: 'loading' })));
     setPhotoIndex(0);
 
-    // Descargar las que faltan
-    urls.forEach((url, i) => {
-      if (initial[i].status === 'ready') return;
-      downloadPhoto(url)
-        .then(uri => setSlots(prev => {
-          const next = [...prev];
-          next[i] = { status: 'ready', uri };
-          return next;
-        }))
-        .catch(() => setSlots(prev => {
-          const next = [...prev];
-          next[i] = { status: 'error', url };
-          return next;
-        }));
-    });
+    urls.forEach((url, i) => loadSlot(url, i));
   }, [car]);
 
+  async function loadSlot(url: string, index: number) {
+    try {
+      // Intenta local primero (sin bajar nada)
+      const local = await getLocalPath(url);
+      if (local) {
+        setSlots(prev => update(prev, index, { status: 'ready', uri: local }));
+        return;
+      }
+      // Descarga y guarda
+      const path = await fetchLocalPath(url);
+      setSlots(prev => update(prev, index, { status: 'ready', uri: path }));
+    } catch {
+      setSlots(prev => update(prev, index, { status: 'error', url }));
+    }
+  }
+
+  function update(prev: SlotState[], i: number, val: SlotState): SlotState[] {
+    const next = [...prev];
+    next[i] = val;
+    return next;
+  }
+
   function handleRetry(index: number, url: string) {
-    setSlots(prev => {
-      const next = [...prev];
-      next[index] = { status: 'loading' };
-      return next;
-    });
-    downloadPhoto(url)
-      .then(uri => setSlots(prev => {
-        const next = [...prev];
-        next[index] = { status: 'ready', uri };
-        return next;
-      }))
-      .catch(() => setSlots(prev => {
-        const next = [...prev];
-        next[index] = { status: 'error', url };
-        return next;
-      }));
+    setSlots(prev => update(prev, index, { status: 'loading' }));
+    loadSlot(url, index);
   }
 
   if (!car) return <View style={styles.center}><ActivityIndicator color={colors.red} /></View>;
@@ -145,7 +140,7 @@ export default function CarCardScreen({ navigation, route }: Props) {
             if (slot.status === 'error') {
               return (
                 <View style={[styles.photo, styles.photoCenter]}>
-                  <Text style={styles.errorText}>No se pudo descargar</Text>
+                  <Text style={styles.errorText}>No se pudo cargar</Text>
                   <TouchableOpacity onPress={() => handleRetry(i, slot.url)} style={styles.retryBtn}>
                     <Text style={styles.retryText}>↺  REINTENTAR</Text>
                   </TouchableOpacity>

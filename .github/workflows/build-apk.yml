@@ -37,18 +37,13 @@ jobs:
             --dev false
 
       - name: Firmar release con debug key
+        working-directory: android
         run: |
-          python3 - <<'EOF'
-          path = 'android/app/build.gradle'
-          c = open(path).read()
-          # Inserta signingConfig DENTRO del bloque release { existente
-          c = c.replace('release {', 'release {\n            signingConfig signingConfigs.debug', 1)
-          open(path, 'w').write(c)
-          EOF
+          sed -i '/buildTypes {/a\        release { signingConfig signingConfigs.debug }' app/build.gradle
 
       - name: Build APK release
         working-directory: android
-        run: ./gradlew assembleRelease -PbundleInRelease=false
+        run: ./gradlew assembleRelease
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
