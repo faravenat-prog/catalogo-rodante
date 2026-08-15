@@ -1,7 +1,8 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Dimensions, FlatList, ActivityIndicator, Modal } from 'react-native';
 import { Image } from 'expo-image';
-import { downloadAsync, getInfoAsync, makeDirectoryAsync, documentDirectory } from 'expo-file-system/legacy';
+import { Paths } from 'expo-file-system';
+import { downloadAsync, getInfoAsync, makeDirectoryAsync } from 'expo-file-system/legacy';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../navigation';
@@ -28,7 +29,9 @@ function urlToFilename(url: string): string {
 }
 
 function getPhotosDir(): string {
-  return (documentDirectory ?? '') + 'cr_photos/';
+  // Paths.document.uri usa el módulo JSI nuevo (siempre disponible en SDK 57)
+  // en vez de documentDirectory del legacy que puede ser undefined
+  return Paths.document.uri + 'cr_photos/';
 }
 
 async function getLocalPath(url: string): Promise<string | null> {
