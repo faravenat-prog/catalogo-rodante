@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Dimensions, FlatList, ActivityIndicator, Modal } from 'react-native';
 import { Image } from 'expo-image';
+import { File, Directory, Paths } from 'expo-file-system';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '../navigation';
@@ -20,25 +21,92 @@ const PHOTO_KEYS: (keyof CarPhotos)[] = [
 
 const { width, height } = Dimensions.get('window');
 
+// Persistent folder: {documentDirectory}/cr_photos/
+const PHOTOS_DIR = new Directory(Paths.document, 'cr_photos');
+
+function urlToFilename(url: string): string {
+  let h = 5381;
+  for (let i = 0; i < url.length; i++) h = (Math.imul(h, 31) + url.charCodeAt(i)) | 0;
+  return (h >>> 0).toString(36) + '.jpg';
+}
+
+function getLocalUri(url: string): string | null {
+  const file = new File(PHOTOS_DIR, urlToFilename(url));
+  return file.exists ? file.uri : null;
+}
+
+async function downloadPhoto(url: string): Promise<string> {
+  if (!PHOTOS_DIR.exists) PHOTOS_DIR.create();
+  const dest = new File(PHOTOS_DIR, urlToFilename(url));
+  if (dest.exists) return dest.uri;
+  try {
+    const saved = await File.downloadFileAsync(url, dest);
+    return saved.uri;
+  } catch (e) {
+    if (dest.exists) dest.delete();
+    throw e;
+  }
+}
+
 export default function CarCardScreen({ navigation, route }: Props) {
   const { carId, carIds, currentIndex, jugadorIndex } = route.params;
   const [car, setCar] = useState<Car | null>(null);
   const [photoIndex, setPhotoIndex] = useState(0);
-  const [photoErrors, setPhotoErrors] = useState<Record<number, boolean>>({});
+  // URI por slot: file:// si está descargada, URL remota si no
+  const [sources, setSources] = useState<string[]>([]);
+  // slots con error al cargar desde URL remota
+  const [errors, setErrors] = useState<Record<number, boolean>>({});
+  // cambia key para forzar remount del Image en retry
   const [retryKeys, setRetryKeys] = useState<Record<number, number>>({});
+  const [downloading, setDownloading] = useState(false);
+  const [downloadProgress, setDownloadProgress] = useState(0);
   const [fullscreenIndex, setFullscreenIndex] = useState<number | null>(null);
   const flatRef = useRef<FlatList>(null);
 
   useEffect(() => { loadCar(carId).then(setCar); }, [carId]);
 
+  useEffect(() => {
+    if (!car) return;
+    const urls = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
+    // Check locally which are already downloaded (synchronous)
+    setSources(urls.map(url => getLocalUri(url) ?? url));
+    setErrors({});
+    setRetryKeys({});
+    setDownloadProgress(0);
+  }, [car]);
+
   if (!car) return <View style={styles.center}><ActivityIndicator color={colors.red} /></View>;
 
-  const photos = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
+  const photoUrls = PHOTO_KEYS.map(k => car.fotos[k]).filter(Boolean);
+  const localCount = sources.filter(s => s.startsWith('file://')).length;
+  const allLocal = localCount === sources.length && sources.length > 0;
 
-  async function handleRetry(index: number) {
-    await Image.clearDiskCache();
-    await Image.clearMemoryCache();
-    setPhotoErrors(prev => ({ ...prev, [index]: false }));
+  async function handleDownload() {
+    setDownloading(true);
+    let done = 0;
+    const next = [...sources];
+    for (let i = 0; i < photoUrls.length; i++) {
+      if (next[i]?.startsWith('file://')) {
+        done++;
+        setDownloadProgress(done);
+        continue;
+      }
+      try {
+        const localUri = await downloadPhoto(photoUrls[i]);
+        next[i] = localUri;
+        setSources([...next]);
+        setErrors(prev => ({ ...prev, [i]: false }));
+      } catch {
+        // Leave as remote URL; user can retry later
+      }
+      done++;
+      setDownloadProgress(done);
+    }
+    setDownloading(false);
+  }
+
+  function handleRetry(index: number) {
+    setErrors(prev => ({ ...prev, [index]: false }));
     setRetryKeys(prev => ({ ...prev, [index]: (prev[index] || 0) + 1 }));
   }
 
@@ -51,56 +119,75 @@ export default function CarCardScreen({ navigation, route }: Props) {
     }
   }
 
+  function downloadButtonLabel() {
+    if (downloading) return `DESCARGANDO ${downloadProgress}/${photoUrls.length}...`;
+    if (allLocal) return '✓  FOTOS GUARDADAS';
+    return `⬇  DESCARGAR FOTOS${localCount > 0 ? ` (${localCount}/${photoUrls.length})` : ''}`;
+  }
+
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       {/* Carrusel */}
       <View style={styles.carouselWrapper}>
         <FlatList
           ref={flatRef}
-          data={photos}
-          keyExtractor={(item, i) => `${item}-${i}`}
+          data={sources}
+          keyExtractor={(_, i) => String(i)}
           horizontal
           pagingEnabled
           showsHorizontalScrollIndicator={false}
           onMomentumScrollEnd={e => setPhotoIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
-          renderItem={({ item, index: i }) => (
-            <View style={styles.photoSlot}>
-              {photoErrors[i] ? (
-                <View style={[styles.photo, styles.photoError]}>
-                  <Text style={styles.errorText}>No se cargó la foto</Text>
-                  <TouchableOpacity onPress={() => handleRetry(i)} style={styles.retryBtn}>
-                    <Text style={styles.retryText}>↺  REINTENTAR</Text>
-                  </TouchableOpacity>
-                </View>
-              ) : (
-                <TouchableOpacity activeOpacity={0.9} onPress={() => setFullscreenIndex(i)}>
-                  <Image
-                    key={`${item}-${retryKeys[i] || 0}`}
-                    source={{ uri: item }}
-                    style={styles.photo}
-                    contentFit="cover"
-                    transition={300}
-                    placeholder={{ blurhash: 'L6PZfSi_.AyE_3t7t7R**0o#DgR4' }}
-                    onError={() => setPhotoErrors(prev => ({ ...prev, [i]: true }))}
-                  />
+          renderItem={({ item: uri, index: i }) =>
+            errors[i] ? (
+              <View style={[styles.photo, styles.photoCenter]}>
+                <Text style={styles.errorText}>No se cargó la foto</Text>
+                <TouchableOpacity onPress={() => handleRetry(i)} style={styles.retryBtn}>
+                  <Text style={styles.retryText}>↺  REINTENTAR</Text>
                 </TouchableOpacity>
-              )}
-            </View>
-          )}
+              </View>
+            ) : (
+              <TouchableOpacity activeOpacity={0.9} onPress={() => setFullscreenIndex(i)}>
+                <Image
+                  key={`${i}-${retryKeys[i] || 0}`}
+                  source={{ uri }}
+                  style={styles.photo}
+                  contentFit="cover"
+                  transition={200}
+                  placeholder={{ blurhash: 'L6PZfSi_.AyE_3t7t7R**0o#DgR4' }}
+                  onError={() => !uri.startsWith('file://') && setErrors(prev => ({ ...prev, [i]: true }))}
+                />
+              </TouchableOpacity>
+            )
+          }
         />
         {/* Dots */}
         <View style={styles.dots}>
-          {photos.map((_, i) => (
+          {sources.map((_, i) => (
             <View key={i} style={[styles.dot, i === photoIndex && styles.dotActive]} />
           ))}
         </View>
-        {/* Hint pantalla completa */}
-        {photos.length > 0 && !photoErrors[photoIndex] && (
-          <View style={styles.fullscreenHintBadge}>
+        {/* Hint fullscreen */}
+        {sources[photoIndex] && !errors[photoIndex] && (
+          <View style={styles.fullscreenHint}>
             <Text style={styles.fullscreenHintText}>⛶ toca para ampliar</Text>
           </View>
         )}
       </View>
+
+      {/* Botón descarga */}
+      <TouchableOpacity
+        style={[styles.downloadBtn, allLocal && styles.downloadBtnDone, downloading && styles.downloadBtnBusy]}
+        onPress={handleDownload}
+        disabled={downloading || allLocal}
+      >
+        {downloading
+          ? <ActivityIndicator color={colors.ink} size="small" style={{ marginRight: spacing.xs }} />
+          : null
+        }
+        <Text style={[styles.downloadText, allLocal && styles.downloadTextDone]}>
+          {downloadButtonLabel()}
+        </Text>
+      </TouchableOpacity>
 
       {/* Tags */}
       <View style={styles.tags}>
@@ -138,9 +225,9 @@ export default function CarCardScreen({ navigation, route }: Props) {
       {/* Modal pantalla completa */}
       <Modal visible={fullscreenIndex !== null} transparent animationType="fade" statusBarTranslucent>
         <TouchableOpacity style={styles.fullscreenOverlay} activeOpacity={1} onPress={() => setFullscreenIndex(null)}>
-          {fullscreenIndex !== null && (
+          {fullscreenIndex !== null && sources[fullscreenIndex] && (
             <Image
-              source={{ uri: photos[fullscreenIndex] }}
+              source={{ uri: sources[fullscreenIndex] }}
               style={styles.fullscreenPhoto}
               contentFit="contain"
             />
@@ -168,12 +255,8 @@ const styles = StyleSheet.create({
   center: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.paper },
 
   carouselWrapper: { position: 'relative' },
-  photoSlot: { width, height: width * 0.65 },
   photo: { width, height: width * 0.65, backgroundColor: colors.paper2 },
-  photoError: {
-    justifyContent: 'center', alignItems: 'center',
-    backgroundColor: colors.paper2, gap: spacing.sm,
-  },
+  photoCenter: { justifyContent: 'center', alignItems: 'center', gap: spacing.sm },
   errorText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink, opacity: 0.6 },
   retryBtn: {
     backgroundColor: colors.red, borderWidth: borders.width, borderColor: colors.ink,
@@ -184,17 +267,27 @@ const styles = StyleSheet.create({
   dots: { position: 'absolute', bottom: spacing.sm, alignSelf: 'center', flexDirection: 'row', gap: spacing.xs },
   dot: { width: 8, height: 8, borderRadius: 4, backgroundColor: colors.paper2, borderWidth: 1, borderColor: colors.ink },
   dotActive: { backgroundColor: colors.red },
-
-  fullscreenHintBadge: {
+  fullscreenHint: {
     position: 'absolute', bottom: spacing.sm, right: spacing.sm,
     backgroundColor: 'rgba(0,0,0,0.45)', paddingHorizontal: spacing.xs, paddingVertical: 2,
   },
   fullscreenHintText: { fontFamily: fonts.mono, fontSize: 10, color: colors.white },
 
+  downloadBtn: {
+    flexDirection: 'row', alignItems: 'center', justifyContent: 'center',
+    marginHorizontal: spacing.md, marginTop: spacing.sm,
+    paddingVertical: spacing.sm, paddingHorizontal: spacing.md,
+    borderWidth: borders.width, borderColor: colors.ink,
+    backgroundColor: colors.yellow,
+  },
+  downloadBtnDone: { backgroundColor: colors.paper2 },
+  downloadBtnBusy: { backgroundColor: colors.paper2 },
+  downloadText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink, letterSpacing: 0.5 },
+  downloadTextDone: { opacity: 0.5 },
+
   tags: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.xs, padding: spacing.md },
   tag: { paddingHorizontal: spacing.sm, paddingVertical: 2, borderWidth: borders.width, borderColor: colors.ink },
   tagText: { fontFamily: fonts.mono, fontSize: fontSizes.xs, color: colors.ink },
-
   nombre: { fontFamily: fonts.display, fontSize: fontSizes.xl, color: colors.ink, paddingHorizontal: spacing.md, lineHeight: fontSizes.xl * 1.1 },
   specsBlock: { margin: spacing.md, borderWidth: borders.width, borderColor: colors.ink, backgroundColor: colors.paper2 },
   specRow: { flexDirection: 'row', justifyContent: 'space-between', padding: spacing.sm, borderBottomWidth: 1, borderColor: colors.ink },
